@@ -25,3 +25,12 @@ jobs:
 
       - name: Check commits
         uses: wagoid/commitlint-github-action@v4
+
+  lint-yaml:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Lint yaml files
+        uses: ibiqlik/action-yamllint@v3.1.0
