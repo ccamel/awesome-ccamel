@@ -16,7 +16,7 @@ jobs:
       - name: Generate awesome README.md file
         uses: luob/create-my-awesome@v1
         with:
-          username: luooooob
+          username: ccamel
           description: |-
             > A collection of awesome things for me, myself and I.
 
