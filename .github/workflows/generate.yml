@@ -1,0 +1,30 @@
+name: "build"
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 16 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Generate awesome README.md file
+        uses: luob/create-my-awesome@v1
+        with:
+          username: luooooob
+          description: |-
+            > A collection of awesome things for me, myself and I.
+
+            Automatically generated with ❤️ by [Create My Awesome](https://github.com/marketplace/actions/create-my-awesome).
+
+      - name: Add & Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "docs: update README.md (after generation)"
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
