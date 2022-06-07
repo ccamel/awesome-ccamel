@@ -302,6 +302,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [christian-korneck/docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - "Docker Push Readme" - a Docker CLI plugin to update container repo docs
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [cirello-io/oversight](https://github.com/cirello-io/oversight) - [Mirror] Erlang-like supervisor trees
+- [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line. 
 - [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) - Client-customizable JSON formats for dynamic APIs
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [codersrank-org/repo_info_extractor](https://github.com/codersrank-org/repo_info_extractor) - Use this script to extract data from your private repo. This data is used to calculate your score. https://codersrank.io
@@ -962,6 +963,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
+- [eco-stake/cosmos-directory](https://github.com/eco-stake/cosmos-directory) - ⚛️ · 📖
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [elwin013/parcel-plugin-static-files-copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - ParcelJS plugin to copy static files
 - [epsylon/ufonet](https://github.com/epsylon/ufonet) - UFONet - Denial of Service Toolkit
@@ -975,6 +977,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [frintjs/frint](https://github.com/frintjs/frint) - Modular JavaScript framework for building scalable and reactive applications
 - [gatewayapps/react-adaptivecards](https://github.com/gatewayapps/react-adaptivecards) - A react wrapper for microsoft/adaptivecards
+- [gocli/go-cli](https://github.com/gocli/go-cli) - Create and use boilerplates with ease
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
@@ -1476,7 +1479,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [argoproj/argo-ui](https://github.com/argoproj/argo-ui) - Argoproj shared React components
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [build-canaries/nevergreen](https://github.com/build-canaries/nevergreen) - :baby_chick: A build monitor with attitude
-- [ccamel/github-profilinator](https://github.com/ccamel/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella: 
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
@@ -1543,7 +1545,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [poapxyz/poap](https://github.com/poapxyz/poap) - ⛔️ DEPRECATED - Proof Of Attendance Protocol
 - [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (Preview)
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
@@ -1632,6 +1634,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [bryanhunter/cqrs-with-erlang](https://github.com/bryanhunter/cqrs-with-erlang) - Resources for the CQRS with Erlang talk
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
+- [ccamel/awesome-ccamel](https://github.com/ccamel/awesome-ccamel) - A collection of awesome things for me, myself and I.
+- [ccamel/ccamel](https://github.com/ccamel/ccamel) - My :octocat: profile 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [cosmos/awesome](https://github.com/cosmos/awesome) - Collection of Cosmos related resources
