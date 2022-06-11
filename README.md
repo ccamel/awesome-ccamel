@@ -63,7 +63,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM
-- [babelouest/glewlwyd](https://github.com/babelouest/glewlwyd) - Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins
+- [babelouest/glewlwyd](https://github.com/babelouest/glewlwyd) - Experimental Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [confluentinc/bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
@@ -102,6 +102,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Measure and observe end-user applications availability - Define and track SLA/SLO targets through Prometheus-alike metrics and built-in reports - Kubernetes®, Zabbix®, Nagios®. 
 - [sosolimited/Entity-Component-Samples](https://github.com/sosolimited/Entity-Component-Samples) - Cinder block for EntityX and a brief ECS tutorial.
 - [strickyak/jsonnet_cgo](https://github.com/strickyak/jsonnet_cgo) - Golang CGo Wrapper around JSonnet VM
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [xaos-project/XaoS](https://github.com/xaos-project/XaoS) - Real-time interactive fractal zoomer
 
@@ -183,6 +184,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 - [stil4m/elm-analyse](https://github.com/stil4m/elm-analyse) - A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 - [timjs/elm-collage](https://github.com/timjs/elm-collage) - Create interactive vector graphics and position them relative to each other
+- [trustbit/Contexture](https://github.com/trustbit/Contexture) - Wizard for the Bounded-Context-Canvas
 - [wsowens/term](https://github.com/wsowens/term) - An Elm package for making web-based terminals
 - [yujota/elm-collision-detection](https://github.com/yujota/elm-collision-detection) - Collision detection library for elm.
 
@@ -939,6 +941,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [atmoner/cosmos-faucet](https://github.com/atmoner/cosmos-faucet) - Cosmos-faucet is a simple alternative to the tendermint/faucet script
 - [axept/open-parse](https://github.com/axept/open-parse) - Get RESTful API to your data store, schemas, users and security management and bring up your own BaaS in a few minutes
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [bitsongofficial/go-bitsong](https://github.com/bitsongofficial/go-bitsong) - :rocket: Official BitSong Blockchain Implementation in Go
 - [bjankord/stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - ⚙ A stylelint config inspired by https://sass-guidelin.es/
 - [blackcater/blackcater](https://github.com/blackcater/blackcater) - Using Node.js to generate my Github profile readme automatically.
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
@@ -994,6 +997,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [jlouis/graphql-erlang-tutorial](https://github.com/jlouis/graphql-erlang-tutorial) - A tutorial for the graphql-erlang system
 - [jluccisano/webpack-es6-boilerplate](https://github.com/jluccisano/webpack-es6-boilerplate) - A Minimal Webpack ES6 boilerplate web application
+- [jonschlinkert/gh-stars](https://github.com/jonschlinkert/gh-stars) - API and CLI for getting the stars for one or more GitHub users or organizations.
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB, FormatJS, Raneto, hapijs/code, webpack-flow, docusaurus, release-it, ts-loader, json-server, reactfire, bunyan, husky, react-easy-state, react-snap, chakra-ui, carbon, alfresco, repolinter, Assemble, Verb, and thousands of other projects.
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box.
 - [jsreport/jsreport-core](https://github.com/jsreport/jsreport-core) - The minimalist jsreport rendering core 
@@ -1017,6 +1021,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [orbitdb/orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-Only Log database for orbit-db
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
+- [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [ping-pub/explorer](https://github.com/ping-pub/explorer) - A light explorer for Cosmos-based Blockchains.
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
@@ -1025,6 +1030,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [pyvandenbussche/lov](https://github.com/pyvandenbussche/lov) - Linked Open Vocabularies (LOV) - FrontEnd
+- [rahuldkjain/minimal-portfolio](https://github.com/rahuldkjain/minimal-portfolio) - 💪 A clean, minimal, responsive, and customizable portfolio template to showcase skills, experience, achievements, and favorites (movies & TVs).
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-theming/create-mui-theme](https://github.com/react-theming/create-mui-theme) - online tool for creating material-ui themes
@@ -1673,13 +1679,16 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jamiebuilds/documentation-handbook](https://github.com/jamiebuilds/documentation-handbook) - How to write high-quality friendly documentation that people want to read.
 - [jasongitmail/svelte-vs-next](https://github.com/jasongitmail/svelte-vs-next) - 
 - [jeremylgn/jeremylgn](https://github.com/jeremylgn/jeremylgn) - My profile
+- [jfmengels/awesome-elm-sponsorship](https://github.com/jfmengels/awesome-elm-sponsorship) - Elm profiles to sponsor
 - [jfrazee/awesome-nifi](https://github.com/jfrazee/awesome-nifi) - A list of useful Apache NiFi resources, processor bundles and tools
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [joelparkerhenderson/git-commit-message](https://github.com/joelparkerhenderson/git-commit-message) - Git commit message: how to write a great git commit message and commit template for version control
 - [jsonsystems/json-schema](https://github.com/jsonsystems/json-schema) - JSONSchema.Net Public Repository
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments Knowledge for Cloud Platforms
 - [koding/awesome-fuse-fs](https://github.com/koding/awesome-fuse-fs) - Resources related to FUSE (filesystem in user space).
+- [kowainik/awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship) - 💝 Haskell profiles to sponsor
 - [lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) - A collection of awesome resources about @storybookjs ecosystem 🎨
 - [llaisdy/beam_languages](https://github.com/llaisdy/beam_languages) - Languages, and about languages, on the BEAM
 - [lolottetheclash/lolottetheclash](https://github.com/lolottetheclash/lolottetheclash) - About me 
