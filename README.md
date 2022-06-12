@@ -1315,6 +1315,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
+- [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) - A lightweight, opinionated CQRS and event sourcing framework targeting serverless architectures.
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
@@ -1621,6 +1622,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [SonnevilleDamien/SonnevilleDamien](https://github.com/SonnevilleDamien/SonnevilleDamien) - My profile. 
 - [Symbitic/awesome-babylonjs](https://github.com/Symbitic/awesome-babylonjs) - A curated list of awesome things related to Babylon.js
 - [TurpinT/TurpinT](https://github.com/TurpinT/TurpinT) - 
