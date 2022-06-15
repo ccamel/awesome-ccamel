@@ -1645,6 +1645,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [badouralix/coding-best-practices](https://github.com/badouralix/coding-best-practices) - Collection of tips and tricks to make computers beep boop beep beep boop
 - [bdeneux/bdeneux](https://github.com/bdeneux/bdeneux) - 
 - [bipinvaylu/awesome-kotlin-multiplatform](https://github.com/bipinvaylu/awesome-kotlin-multiplatform) - A curated list of Kotlin Multiplatform libraries & resources.
+- [bot-anik/bot-anik](https://github.com/bot-anik/bot-anik) - :octocat: About me
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [bryanhunter/cqrs-with-erlang](https://github.com/bryanhunter/cqrs-with-erlang) - Resources for the CQRS with Erlang talk
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
