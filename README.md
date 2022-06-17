@@ -532,6 +532,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [memnix/memnix-rest](https://github.com/memnix/memnix-rest) - Memnix Rest API
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [mikespook/gorbac](https://github.com/mikespook/gorbac) - goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.
+- [mingderwang/did](https://github.com/mingderwang/did) - x/did module for the Cosmos SDK framework with a “self-sovereign" digital identity (DID) support
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage 
 - [mishudark/eventhus](https://github.com/mishudark/eventhus) - Go - CQRS / Event Sourcing made easy - Go
 - [mitchellh/ioprogress](https://github.com/mitchellh/ioprogress) - Go (golang) package for progress bars around io.Reader/Writers.
@@ -1147,6 +1148,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Markdown
 
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 
 ## Mustache
@@ -1319,6 +1321,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
+- [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) - 𝕊 The Secret Network
 - [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) - A lightweight, opinionated CQRS and event sourcing framework targeting serverless architectures.
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -1626,7 +1629,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [SonnevilleDamien/SonnevilleDamien](https://github.com/SonnevilleDamien/SonnevilleDamien) - My profile. 
 - [Symbitic/awesome-babylonjs](https://github.com/Symbitic/awesome-babylonjs) - A curated list of awesome things related to Babylon.js
 - [TurpinT/TurpinT](https://github.com/TurpinT/TurpinT) - 
