@@ -310,6 +310,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [codersrank-org/repo_info_extractor](https://github.com/codersrank-org/repo_info_extractor) - Use this script to extract data from your private repo. This data is used to calculate your score. https://codersrank.io
 - [codr7/g-fu](https://github.com/codr7/g-fu) - Lisp 2 Go
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
+- [confio/tgrade](https://github.com/confio/tgrade) - The Tgrade Blockchain Binary, based on the Cosmos SDK and wasmd
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
 - [contribsys/faktory_worker_go](https://github.com/contribsys/faktory_worker_go) - Faktory workers for Go
@@ -942,6 +943,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [atmoner/cosmos-faucet](https://github.com/atmoner/cosmos-faucet) - Cosmos-faucet is a simple alternative to the tendermint/faucet script
 - [axept/open-parse](https://github.com/axept/open-parse) - Get RESTful API to your data store, schemas, users and security management and bring up your own BaaS in a few minutes
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [battila7/get-version-action](https://github.com/battila7/get-version-action) - A GitHub Action which extracts the version from github.ref
 - [bitsongofficial/go-bitsong](https://github.com/bitsongofficial/go-bitsong) - :rocket: Official BitSong Blockchain Implementation in Go
 - [bjankord/stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - ⚙ A stylelint config inspired by https://sass-guidelin.es/
 - [blackcater/blackcater](https://github.com/blackcater/blackcater) - Using Node.js to generate my Github profile readme automatically.
@@ -954,6 +956,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜 
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [cburgmer/rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - Renders HTML into the browser's canvas
+- [cetic/helm-nifi](https://github.com/cetic/helm-nifi) - Helm Chart for Apache Nifi
 - [chriskinsman/github-action-dashboard](https://github.com/chriskinsman/github-action-dashboard) - A dashboard to keep track of the status of your GitHub Actions
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
@@ -1153,7 +1156,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Mustache
 
-- [cetic/helm-nifi](https://github.com/cetic/helm-nifi) - Helm Chart for Apache Nifi
 - [mmz-srf/passbolt-helm](https://github.com/mmz-srf/passbolt-helm) - Passbolt Kubernetes Helm Charts
 - [nextcloud/helm](https://github.com/nextcloud/helm) - 
 - [timescale/timescaledb-kubernetes](https://github.com/timescale/timescaledb-kubernetes) - Configuration and Documentation to run TimescaleDB in your Kubernetes cluster
@@ -1472,6 +1474,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
+- [CosmWasm/CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS) - Source of the cosmwasm npm package
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
 - [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
