@@ -1099,7 +1099,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin
 - [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - A ktlint gradle plugin
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. 
-- [Kodein-Framework/Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI) - Painless Kotlin Dependency Injection
 - [Kotlin/kotlinx.html](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML
 - [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization 
 - [andrewinci/Insulator](https://github.com/andrewinci/Insulator) - A client UI to inspect Kafka topics, consume, produce and much more
@@ -1123,6 +1122,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [korlibs/klock](https://github.com/korlibs/klock) - Multiplatform Date and time library for Kotlin
 - [korlibs/korte](https://github.com/korlibs/korte) - Kotlin cORoutines Template Engine for Multiplatform Kotlin
 - [korlibs/luak](https://github.com/korlibs/luak) - Multiplatform Kotlin LuaJ port (LUA interpreter)
+- [kosi-libs/Kodein](https://github.com/kosi-libs/Kodein) - Painless Kotlin Dependency Injection
 - [lukasniemeier-zalando/log4j2-json-layout](https://github.com/lukasniemeier-zalando/log4j2-json-layout) - Log4J 2 JSON Layout Plugin
 - [madhead/doktor](https://github.com/madhead/doktor) - Jenkins plugin for automated documentation uploading to Confluence [Mirror]
 - [michaelbull/kotlin-retry](https://github.com/michaelbull/kotlin-retry) - A higher-order function for retrying operations that may fail.
@@ -1223,6 +1223,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 
+- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [jluccisano/raspberry-scripts](https://github.com/jluccisano/raspberry-scripts) - Some python scripts to play with Raspberry PI
