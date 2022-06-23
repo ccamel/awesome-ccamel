@@ -453,8 +453,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hukkin/cosmosvanity](https://github.com/hukkin/cosmosvanity) - CLI tool for generating Cosmos vanity addresses
 - [hyperboloide/lk](https://github.com/hyperboloide/lk) - Simple licensing library for golang.
 - [ichiban/prolog](https://github.com/ichiban/prolog) - The only reasonable scripting engine for Go.
-- [ignite-hq/cli](https://github.com/ignite-hq/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
 - [ignite-hq/installer](https://github.com/ignite-hq/installer) - One-liner for installing binaries from Github releases
+- [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
 - [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013.
 - [inconshreveable/mousetrap](https://github.com/inconshreveable/mousetrap) - Detect starting from Windows explorer
@@ -1482,7 +1482,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [IvanGoncharov/graphql-lodash](https://github.com/IvanGoncharov/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ DEPRECATED - Ledger's JavaScript libraries
+- [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
 - [PureStake/moonbeam](https://github.com/PureStake/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [SINTEF-9012/PruneCluster](https://github.com/SINTEF-9012/PruneCluster) - Fast and realtime marker clustering for Leaflet
