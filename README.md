@@ -1317,7 +1317,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
-- [nperon/practising_rust](https://github.com/nperon/practising_rust) - 
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc) - user-friendly rust bindings for the bpf compiler collection
 - [rust-github/template](https://github.com/rust-github/template) - Template for a generic rust project hosted on GitHub
