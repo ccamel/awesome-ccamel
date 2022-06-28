@@ -138,7 +138,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~200KB) to run any static website
 - [mhart/alpine-node](https://github.com/mhart/alpine-node) - Minimal Node.js Docker Images built on Alpine Linux
 - [okp4/docker-images](https://github.com/okp4/docker-images) - 🐳 Repository for Docker configurations and images we use @okp4.com
-- [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
 - [okp4/template-python-project](https://github.com/okp4/template-python-project) - 🖨 Template for Python Projects @okp4.
 - [openfaas/templates](https://github.com/openfaas/templates) - OpenFaaS Classic templates
 
@@ -357,6 +356,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
+- [evmos/evmos](https://github.com/evmos/evmos) - Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
 - [ezzarghili/recaptcha-go](https://github.com/ezzarghili/recaptcha-go) - Validate Google reCAPTCHA v2 & v3 form submission package in golang
 - [faiface/generics](https://github.com/faiface/generics) - A proof-of-concept implementation of my generics proposal for Go
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
@@ -1132,6 +1132,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 - [prestongarno/kotlinq](https://github.com/prestongarno/kotlinq) - Kotlin DSL for GraphQL 
 - [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.
+- [terra-money/terra.kt](https://github.com/terra-money/terra.kt) - Kotlin, Java SDK for Terra
 - [thomasnield/kotlin-statistics](https://github.com/thomasnield/kotlin-statistics) - Idiomatic statistical operators for Kotlin
 - [topicusoverheid/kamel](https://github.com/topicusoverheid/kamel) - Kotlin DSL for Apache Camel
 - [xmlking/microservices-observability](https://github.com/xmlking/microservices-observability) - 🎉 Microservices Observability - Log Aggregation, Distributed Tracking,  Metrics
@@ -1557,6 +1558,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [mobxjs/mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - Lightweight React bindings for MobX based on React 16.8 and Hooks
+- [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
