@@ -1114,7 +1114,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [florent37/Multiplatform-LiveData](https://github.com/florent37/Multiplatform-LiveData) - Multiplatorm implementation of LiveDatas / MVVM in kotlin android & native ios
 - [gildor/kotlin-coroutines-okhttp](https://github.com/gildor/kotlin-coroutines-okhttp) - Kotlin Coroutines await() extension for OkHttp Call
-- [gouline/kapsule](https://github.com/gouline/kapsule) - Minimalist dependency injection library for Kotlin.
+- [gouline/kapsule](https://github.com/gouline/kapsule) - Minimalist dependency injection library for Kotlin
 - [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS
 - [ianmorgan/graph-store](https://github.com/ianmorgan/graph-store) - Provides a simple document style persistence API with event sourcing & GraphQL support
 - [icerockdev/moko-widgets](https://github.com/icerockdev/moko-widgets) - Multiplatform UI DSL with screen management in common code for mobile (android & ios) Kotlin Multiplatform development
