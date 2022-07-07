@@ -463,8 +463,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
-- [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [ipfs/go-metrics-prometheus](https://github.com/ipfs/go-metrics-prometheus) - Prometheus bindings for go-metrics-interface
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [istreamdata/orientgo](https://github.com/istreamdata/orientgo) - Go (golang) client for OrientDB
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -532,6 +532,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [matoous/godox](https://github.com/matoous/godox) - GoDoX extract speficic comments from Go code based on keywords
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
 - [maxatome/go-testdeep](https://github.com/maxatome/go-testdeep) - Extremely flexible golang deep comparison, extends the go testing package, tests HTTP APIs and provides tests suite
+- [medibloc/panacea-core](https://github.com/medibloc/panacea-core) - MediBloc Blockchain Core
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [memnix/memnix-rest](https://github.com/memnix/memnix-rest) - Memnix Rest API
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -1514,7 +1515,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apicollective/graphql-rest-proxy](https://github.com/apicollective/graphql-rest-proxy) - 
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Tooling for development and production Apollo workflows
 - [argoproj/argo-ui](https://github.com/argoproj/argo-ui) - Argoproj shared React components
-- [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
+- [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [build-canaries/nevergreen](https://github.com/build-canaries/nevergreen) - :baby_chick: A build monitor with attitude
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella: 
@@ -1741,6 +1742,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/actions](https://github.com/okp4/actions) - 🏭 Repository for sharing our Github CI/CD workflows 
 - [okp4/publications](https://github.com/okp4/publications) - 📚 Official publications (slides, papers, ...) from OKP4
 - [omniti-labs/jsend](https://github.com/omniti-labs/jsend) - JSend is a specification for a simple, no-frills, JSON based format for application-level communication.
+- [ontology-tech/DID-method-specs](https://github.com/ontology-tech/DID-method-specs) - 
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects! 
