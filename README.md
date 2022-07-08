@@ -566,6 +566,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [okp4/cosmos-faucet](https://github.com/okp4/cosmos-faucet) - 🚰 CØSMOS Faucet backend implementation
+- [okp4/okp4d](https://github.com/okp4/okp4d) - ⛓️ Open Knowledge Protocol For...
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
 - [oliamb/cutter](https://github.com/oliamb/cutter) - Crop images in Golang
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -1127,9 +1128,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jdiazcano/cfg4k](https://github.com/jdiazcano/cfg4k) - Flexible and easy to use config library written in kotlin
 - [jeremymailen/kotlinter-gradle](https://github.com/jeremymailen/kotlinter-gradle) - Painless, fast ktlint plugin for Gradle
 - [kohesive/klutter](https://github.com/kohesive/klutter) - A mix of random small libraries for Kotlin, the smallest reside here until big enough for their own repository.
-- [korlibs/klock](https://github.com/korlibs/klock) - Multiplatform Date and time library for Kotlin
-- [korlibs/korte](https://github.com/korlibs/korte) - Kotlin cORoutines Template Engine for Multiplatform Kotlin
-- [korlibs/luak](https://github.com/korlibs/luak) - Multiplatform Kotlin LuaJ port (LUA interpreter)
+- [korlibs-archive/klock](https://github.com/korlibs-archive/klock) - Multiplatform Date and time library for Kotlin
+- [korlibs-archive/korte](https://github.com/korlibs-archive/korte) - Kotlin cORoutines Template Engine for Multiplatform Kotlin
+- [korlibs-archive/luak](https://github.com/korlibs-archive/luak) - Multiplatform Kotlin LuaJ port (LUA interpreter)
 - [kosi-libs/Kodein](https://github.com/kosi-libs/Kodein) - Painless Kotlin Dependency Injection
 - [lukasniemeier-zalando/log4j2-json-layout](https://github.com/lukasniemeier-zalando/log4j2-json-layout) - Log4J 2 JSON Layout Plugin
 - [madhead/doktor](https://github.com/madhead/doktor) - Jenkins plugin for automated documentation uploading to Confluence [Mirror]
@@ -1327,6 +1328,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust
+- [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
