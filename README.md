@@ -483,6 +483,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus.
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
+- [k3rn31/gremlins](https://github.com/k3rn31/gremlins) - A mutation testing tool for Go.
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [kak-tus/nan](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers
 - [kamilsk/retry](https://github.com/kamilsk/retry) - ♻️ The most advanced interruptible mechanism to perform actions repetitively until successful.
@@ -610,7 +611,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rchakode/hugo-mx-gateway](https://github.com/rchakode/hugo-mx-gateway) - :mailbox_with_no_mail: :scroll: Contact/demo forms handler for static websites. Deploy in minutes on Google App Engine, Kubernetes, or Docker. Tested with Hugo static site generator.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [rcrowley/go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
-- [red-gold/ts-serverless](https://github.com/red-gold/ts-serverless) - Telar Social Network using OpenFaaS and Kubernetes. Run your own server-less social network. One command from OpenFaaS Cloud to build Social Network.
+- [red-gold/telar-social-go](https://github.com/red-gold/telar-social-go) - Telar Social Network using OpenFaaS and Kubernetes. Run your own server-less social network. One command from OpenFaaS Cloud to build Social Network.
 - [redpanda-data/kminion](https://github.com/redpanda-data/kminion) - KMinion is a feature-rich Prometheus exporter for Apache Kafka written in Go. It is lightweight and highly configurable so that it will meet your requirements.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
@@ -1315,6 +1316,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts) - Examples and helpers to build NFT contracts on CosmWasm
 - [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
 - [CosmWasm/cw-tokens](https://github.com/CosmWasm/cw-tokens) - Examples of cw20 usage, extracted from cw-plus, maintained by the community
+- [InterWasm/cw-template](https://github.com/InterWasm/cw-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
 - [RedStoneCoin/redstone-rs](https://github.com/RedStoneCoin/redstone-rs) - Redstone Project is a p2p custom blockchain implementation, comprised of a network of interconnected sub-chains for better speed and scalability.
