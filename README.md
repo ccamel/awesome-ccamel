@@ -1140,6 +1140,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [madhead/doktor](https://github.com/madhead/doktor) - Jenkins plugin for automated documentation uploading to Confluence [Mirror]
 - [michaelbull/kotlin-retry](https://github.com/michaelbull/kotlin-retry) - A higher-order function for retrying operations that may fail.
 - [mirego/trikot.streams](https://github.com/mirego/trikot.streams) - Reactive Streams for Kotlin Multiplatform with mutability checks
+- [okp4/okp4-cosmos-proto](https://github.com/okp4/okp4-cosmos-proto) - OKP4 CØSMOS gRPC client libraries based on Protobuf definitions.
 - [perwendel/spark-kotlin](https://github.com/perwendel/spark-kotlin) - A Spark DSL in idiomatic kotlin // dependency: com.sparkjava:spark-kotlin:1.0.0-alpha
 - [pgutkowski/KGraphQL](https://github.com/pgutkowski/KGraphQL) - Pure Kotlin GraphQL implementation
 - [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
@@ -1161,6 +1162,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- [okp4/ontology](https://github.com/okp4/ontology) - 📙 The OKP4 Ontology system
 - [stevemcquaid/python-flask-docker-hello-world](https://github.com/stevemcquaid/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
 
 ## Markdown
