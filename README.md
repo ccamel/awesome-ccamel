@@ -232,6 +232,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
+- [ODIN-PROTOCOL/odin-core](https://github.com/ODIN-PROTOCOL/odin-core) - Odin blockchain reference implementation
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [Orange-OpenSource/nifikop](https://github.com/Orange-OpenSource/nifikop) - The NiFiKop NiFi Kubernetes operator makes it easy to run Apache NiFi on Kubernetes. Apache NiFI is a free, open-source solution that support powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
@@ -1582,6 +1583,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [mobxjs/mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - Lightweight React bindings for MobX based on React 16.8 and Hooks
 - [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
