@@ -628,7 +628,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rylans/getlang](https://github.com/rylans/getlang) - Natural language detection package in pure Go
 - [satori/go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [seborama/fuego](https://github.com/seborama/fuego) - Functional Experiment in Golang
-- [securitybunker/databunker](https://github.com/securitybunker/databunker) - A secure user directory built for developers to comply with the GDPR
+- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure SDK/vault for personal records/PII built to comply with GDPR
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [segmentio/topicctl](https://github.com/segmentio/topicctl) - Tool for declarative management of Kafka topics
