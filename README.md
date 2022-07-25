@@ -229,6 +229,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Iwark/spreadsheet](https://github.com/Iwark/spreadsheet) - Google Go (golang) library for reading and writing spreadsheet files on Google Docs.
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+- [KiFoundation/ki-tools](https://github.com/KiFoundation/ki-tools) - Tools for the Kichain
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
@@ -387,6 +388,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [go-chat-bot/bot](https://github.com/go-chat-bot/bot) - IRC, Slack, Telegram and RocketChat bot written in go
 - [go-easygen/easygen](https://github.com/go-easygen/easygen) - Easy to use universal code/text generator
 - [go-ffmt/ffmt](https://github.com/go-ffmt/ffmt) - Golang beautify data display for Humans
+- [go-gremlins/gremlins](https://github.com/go-gremlins/gremlins) - A mutation testing tool for Go.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [go-music-theory/music-theory](https://github.com/go-music-theory/music-theory) - Go models of Note, Scale, Chord and Key
 - [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2) - OAuth 2.0 server library for the Go programming language.
@@ -485,7 +487,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus.
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-- [k3rn31/gremlins](https://github.com/k3rn31/gremlins) - A mutation testing tool for Go.
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [kak-tus/nan](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers
 - [kamilsk/retry](https://github.com/kamilsk/retry) - ♻️ The most advanced interruptible mechanism to perform actions repetitively until successful.
@@ -1556,6 +1557,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fathyb/parcel-plugin-typescript](https://github.com/fathyb/parcel-plugin-typescript) - 🚨 Enhanced TypeScript support for Parcel
 - [fathyb/tolosa](https://github.com/fathyb/tolosa) - 🚀✍️ An ambitious, ultra-fast, functional and declarative web framework (WIP)
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [foo-software/lighthouse-check-action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running @GoogleChromeLabs Lighthouse audits with all the bells and whistles 🔔 Multiple audits, Slack notifications, and more!
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [gcanti/monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle
