@@ -120,6 +120,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Clojure
 
+- [Quantisan/docker-clojure](https://github.com/Quantisan/docker-clojure) - Official Docker image for Clojure
 - [francoisroyer/clj-cqrs](https://github.com/francoisroyer/clj-cqrs) - A reference implementation of CQRS and Event Sourcing in Clojure.
 - [francoisroyer/clj-xai](https://github.com/francoisroyer/clj-xai) - A repository of AI/ML algorithms in Clojure, with a focus on interpretability and explainability.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -131,7 +132,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Dockerfile
 
-- [Quantisan/docker-clojure](https://github.com/Quantisan/docker-clojure) - Official Docker image for Clojure
 - [bitnami/bitnami-docker-python](https://github.com/bitnami/bitnami-docker-python) - Bitnami Docker Image for Python
 - [groovy/docker-groovy](https://github.com/groovy/docker-groovy) - Docker images with Groovy
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -588,6 +588,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [oxyno-zeta/golang-graphql-example](https://github.com/oxyno-zeta/golang-graphql-example) - 
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
+- [palomachain/paloma](https://github.com/palomachain/paloma) - The scrappy blockchain messenger chain!
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike
 - [phayes/freeport](https://github.com/phayes/freeport) - Get a free and open tcp port that is ready to use
 - [phcollignon/Go-Template](https://github.com/phcollignon/Go-Template) - Go Template examples and code generator
