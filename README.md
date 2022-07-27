@@ -120,7 +120,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Clojure
 
-- [Quantisan/docker-clojure](https://github.com/Quantisan/docker-clojure) - Official Docker image for Clojure
 - [francoisroyer/clj-cqrs](https://github.com/francoisroyer/clj-cqrs) - A reference implementation of CQRS and Event Sourcing in Clojure.
 - [francoisroyer/clj-xai](https://github.com/francoisroyer/clj-xai) - A repository of AI/ML algorithms in Clojure, with a focus on interpretability and explainability.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
@@ -132,6 +131,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Dockerfile
 
+- [Quantisan/docker-clojure](https://github.com/Quantisan/docker-clojure) - Official Docker image for Clojure
 - [bitnami/bitnami-docker-python](https://github.com/bitnami/bitnami-docker-python) - Bitnami Docker Image for Python
 - [groovy/docker-groovy](https://github.com/groovy/docker-groovy) - Docker images with Groovy
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -925,7 +925,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Agoric/dapp-oracle](https://github.com/Agoric/dapp-oracle) - A generic blockchain oracle implementation
 - [AlbertHernandez/branch-name-action](https://github.com/AlbertHernandez/branch-name-action) - Check if the branch name is following a convention name
 - [AshKyd/ui95](https://github.com/AshKyd/ui95) - 🖥 WIP: A preact implementation of Windows 95/98/ME style components and apps. See it in action on my personal site at https://ash.ms
-- [AudiusProject/hedgehog](https://github.com/AudiusProject/hedgehog) - 🦔 Build DApps like Apps -- A Metamask alternative that empowers you to build good UX
 - [BitCannaCommunity/cosmos-faucet](https://github.com/BitCannaCommunity/cosmos-faucet) - Cosmos-faucet is a simple alternative to the tendermint/faucet GoLang script. This is an idea adapted for  Bitcanna and can be used for any project using cosmos.
 - [ChristophP/elm-esm](https://github.com/ChristophP/elm-esm) - Turn Elm compiler output into modern ES Modules
 - [DemocracyEarth/self](https://github.com/DemocracyEarth/self) - 🦉 Cryptgraphic peer authentication.
@@ -1326,6 +1325,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts) - Examples and helpers to build NFT contracts on CosmWasm
 - [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
 - [CosmWasm/cw-tokens](https://github.com/CosmWasm/cw-tokens) - Examples of cw20 usage, extracted from cw-plus, maintained by the community
+- [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
 - [InterWasm/cw-template](https://github.com/InterWasm/cw-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
@@ -1507,6 +1507,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [2-alchemists/krossboard-ui](https://github.com/2-alchemists/krossboard-ui) - User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
+- [AudiusProject/hedgehog](https://github.com/AudiusProject/hedgehog) - 🦔 Build DApps like Apps -- A Metamask alternative that empowers you to build good UX
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
 - [CosmWasm/CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS) - Source of the cosmwasm npm package
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
