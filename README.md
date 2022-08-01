@@ -603,6 +603,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
+- [promhippie/github_exporter](https://github.com/promhippie/github_exporter) - Prometheus exporter for GitHub
 - [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates.
 - [psampaz/gothanks](https://github.com/psampaz/gothanks) - GoThanks automatically stars Go's official repository and your go.mod github dependencies, providing a simple way  to say thanks to the maintainers of the modules you use and the contributors of Go itself.
 - [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
@@ -886,6 +887,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [neoremind/fluent-validator](https://github.com/neoremind/fluent-validator) - A Java validation framework leveraging fluent interface style and JSR 303 specification
 - [networknt/light-4j](https://github.com/networknt/light-4j) - A fast, lightweight and more productive microservices framework
 - [nibi79/worxlandroid](https://github.com/nibi79/worxlandroid) - openHAB Binding for Worx Landroid 
+- [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics...
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 - [okayrunner/piper](https://github.com/okayrunner/piper) - piper - a distributed workflow engine
 - [ooxi/jdatauri](https://github.com/ooxi/jdatauri) - Simple and well tested one file Java data URI parser
