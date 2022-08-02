@@ -135,7 +135,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bitnami/bitnami-docker-python](https://github.com/bitnami/bitnami-docker-python) - Bitnami Docker Image for Python
 - [groovy/docker-groovy](https://github.com/groovy/docker-groovy) - Docker images with Groovy
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~200KB) to run any static website
+- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~154KB) to run any static website
 - [mhart/alpine-node](https://github.com/mhart/alpine-node) - Minimal Node.js Docker Images built on Alpine Linux
 - [okp4/docker-images](https://github.com/okp4/docker-images) - 🐳 Repository for Docker configurations and images we use @okp4.com
 - [okp4/template-python](https://github.com/okp4/template-python) - 🖨 Template for Python Projects @okp4.
@@ -1184,7 +1184,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [mmz-srf/passbolt-helm](https://github.com/mmz-srf/passbolt-helm) - Passbolt Kubernetes Helm Charts
 - [nextcloud/helm](https://github.com/nextcloud/helm) - 
-- [timescale/timescaledb-kubernetes](https://github.com/timescale/timescaledb-kubernetes) - Configuration and Documentation to run TimescaleDB in your Kubernetes cluster
+- [timescale/helm-charts](https://github.com/timescale/helm-charts) - Configuration and Documentation to run TimescaleDB in your Kubernetes cluster
 
 ## OCaml
 
@@ -1351,6 +1351,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [grantshandy/fdg](https://github.com/grantshandy/fdg) - A Force Directed Graph Framework for Rust.
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
+- [kangalioo/poise](https://github.com/kangalioo/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
