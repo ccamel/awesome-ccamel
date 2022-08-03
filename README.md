@@ -1689,6 +1689,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
 - [SonnevilleDamien/SonnevilleDamien](https://github.com/SonnevilleDamien/SonnevilleDamien) - My profile. 
 - [Symbitic/awesome-babylonjs](https://github.com/Symbitic/awesome-babylonjs) - A curated list of awesome things related to Babylon.js
+- [Thyb0rg/Cosmos-Validators-League](https://github.com/Thyb0rg/Cosmos-Validators-League) - 
 - [TurpinT/TurpinT](https://github.com/TurpinT/TurpinT) - 
 - [Voronenko/awesome-plantuml](https://github.com/Voronenko/awesome-plantuml) - 
 - [abagames/various-actions-in-a-one-button-game](https://github.com/abagames/various-actions-in-a-one-button-game) - 
@@ -1713,7 +1714,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ccamel/ccamel](https://github.com/ccamel/ccamel) - My :octocat: profile 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [cosmos/awesome](https://github.com/cosmos/awesome) - Collection of Cosmos related resources
+- [cosmos/awesome-cosmos](https://github.com/cosmos/awesome-cosmos) - Collection of Cosmos related resources
 - [cosmos/chain-registry](https://github.com/cosmos/chain-registry) - 
 - [coteries/cedille-ai](https://github.com/coteries/cedille-ai) - ✒️ Cedille is a large French language model (6B), released under an open-source license
 - [danger/awesome-danger](https://github.com/danger/awesome-danger) - An awesome list of all things Danger
