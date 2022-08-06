@@ -214,6 +214,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BrianWill/pigeon](https://github.com/BrianWill/pigeon) - Compiler of Pigeon (my educational programming language) to Golang.
 - [Chainflow/cosmos-validator-mission-control](https://github.com/Chainflow/cosmos-validator-mission-control) - Cosmos validator mission control monitoring and alerting tool.
 - [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
+- [CosmWasm/cosmwasm-go](https://github.com/CosmWasm/cosmwasm-go) - Enabling CosmWasm smart contracts in Go using TinyGo
 - [CosmWasm/wasmd](https://github.com/CosmWasm/wasmd) - Basic cosmos-sdk app with web assembly smart contracts
 - [CosmWasm/wasmvm](https://github.com/CosmWasm/wasmvm) - Go bindings to the running cosmwasm contracts with wasmer 
 - [CosmosContracts/juno](https://github.com/CosmosContracts/juno) - Open Source Platform for Interoperable Smart Contracts
@@ -320,6 +321,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/gaia](https://github.com/cosmos/gaia) - Cosmos Hub
 - [cosmos/gex](https://github.com/cosmos/gex) - In-terminal explorer for Cosmos SDK blockchains.
 - [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Interblockchain Communication Protocol (IBC) implementation in Golang.
+- [cosmos/interchain-accounts-demo](https://github.com/cosmos/interchain-accounts-demo) - ICA 
 - [cosmos/interchain-security](https://github.com/cosmos/interchain-security) - 
 - [cosmos/ledger-cosmos-go](https://github.com/cosmos/ledger-cosmos-go) - 
 - [cosmos/modules](https://github.com/cosmos/modules) - 
@@ -589,6 +591,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oxyno-zeta/golang-graphql-example](https://github.com/oxyno-zeta/golang-graphql-example) - 
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - [palomachain/paloma](https://github.com/palomachain/paloma) - The scrappy blockchain messenger chain!
+- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike
 - [phayes/freeport](https://github.com/phayes/freeport) - Get a free and open tcp port that is ready to use
 - [phcollignon/Go-Template](https://github.com/phcollignon/Go-Template) - Go Template examples and code generator
@@ -1527,6 +1530,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AudiusProject/hedgehog](https://github.com/AudiusProject/hedgehog) - 🦔 Build DApps like Apps -- A Metamask alternative that empowers you to build good UX
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
 - [CosmWasm/CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS) - Source of the cosmwasm npm package
+- [CosmWasm/ts-codegen](https://github.com/CosmWasm/ts-codegen) - @cosmwasm/ts-codegen converts your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
 - [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
@@ -1722,6 +1726,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [cosmos/awesome-cosmos](https://github.com/cosmos/awesome-cosmos) - Collection of Cosmos related resources
 - [cosmos/chain-registry](https://github.com/cosmos/chain-registry) - 
+- [cosmos/did-cosmos](https://github.com/cosmos/did-cosmos) - 
 - [coteries/cedille-ai](https://github.com/coteries/cedille-ai) - ✒️ Cedille is a large French language model (6B), released under an open-source license
 - [danger/awesome-danger](https://github.com/danger/awesome-danger) - An awesome list of all things Danger
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
@@ -1760,6 +1765,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [joelparkerhenderson/git-commit-message](https://github.com/joelparkerhenderson/git-commit-message) - Git commit message: how to write a great git commit message and commit template for version control
+- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 - [jsonsystems/json-schema](https://github.com/jsonsystems/json-schema) - JSONSchema.Net Public Repository
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments Knowledge for Cloud Platforms
