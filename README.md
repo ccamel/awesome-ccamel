@@ -612,7 +612,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [psampaz/gothanks](https://github.com/psampaz/gothanks) - GoThanks automatically stars Go's official repository and your go.mod github dependencies, providing a simple way  to say thanks to the maintainers of the modules you use and the contributors of Go itself.
 - [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [public-awesome/stargaze](https://github.com/public-awesome/stargaze) - Stargaze Cosmos proof-of-stake node
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Excel (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [qntfy/kazaam](https://github.com/qntfy/kazaam) - Arbitrary transformations of JSON in Golang
 - [quay/dba-operator](https://github.com/quay/dba-operator) - Kubernetes Operator that orchestrates relational database schema migrations
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
@@ -739,7 +739,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BreizhBeans/InTheMood4Life](https://github.com/BreizhBeans/InTheMood4Life) - Geek against mood disorders
 - [ascrus/getl](https://github.com/ascrus/getl) - A tool for developing and testing ETL and ELT processes for automating the capture, delivery and processing of information in data warehouses on the MicroFocus Vertica platform.
 - [cTwospoons/camel-spock-test](https://github.com/cTwospoons/camel-spock-test) - A simple project to show how to use Spock to unit test Camel routes.
-- [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) - a Gradle based AsciiDoc Toolchain for Software Architecture Documentation
+- [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) - a AsciiDoc Toolchain for Software Architecture Documentation
 - [grooviter/gql](https://github.com/grooviter/gql) - Groovy GraphQL library
 - [int128/gradle-swagger-generator-plugin](https://github.com/int128/gradle-swagger-generator-plugin) - Gradle plugin for OpenAPI YAML validation, code generation and API document publishing
 - [johnrengelman/shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
