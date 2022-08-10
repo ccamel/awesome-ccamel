@@ -208,9 +208,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AlekSi/gocov-xml](https://github.com/AlekSi/gocov-xml) - 
 - [AntoineAugusti/feature-flags](https://github.com/AntoineAugusti/feature-flags) - Feature flags API written in Go
 - [AppsFlyer/go-sundheit](https://github.com/AppsFlyer/go-sundheit) - A library built to provide support for defining service health for golang services. It allows you to register async health checks for your dependencies and the service itself, provides a health endpoint that exposes their status, and health metrics.
+- [Arafatk/DataViz](https://github.com/Arafatk/DataViz) - Build and Visualize data structures in Golang
 - [AsaiYusuke/jsonpath](https://github.com/AsaiYusuke/jsonpath) - A query library for retrieving part of JSON based on JSONPath syntax.
 - [B23admin/nifi-stateless-operator](https://github.com/B23admin/nifi-stateless-operator) - An Operator for scheduling and executing NiFi Flows as Jobs on Kubernetes
 - [BoltApp/sleet](https://github.com/BoltApp/sleet) - Payment abstraction library - one interface for multiple payment processors ( inspired by Ruby's ActiveMerchant )
+- [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library that offers functional programming in Go using generics
 - [BrianWill/pigeon](https://github.com/BrianWill/pigeon) - Compiler of Pigeon (my educational programming language) to Golang.
 - [Chainflow/cosmos-validator-mission-control](https://github.com/Chainflow/cosmos-validator-mission-control) - Cosmos validator mission control monitoring and alerting tool.
 - [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
@@ -255,6 +257,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter) - DEPRECATED: Use https://github.com/golangci/golangci-lint
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
 - [alpeb/go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
+- [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
 - [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language for Go
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [antsankov/go-live](https://github.com/antsankov/go-live) - 🗂️ go-live is an ultra-light server utility that serves files, HTML or anything else, over HTTP.
@@ -379,6 +382,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [functionalfoundry/graphqlws](https://github.com/functionalfoundry/graphqlws) - Implementation of the GraphQL over WebSocket protocol in Go.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
+- [g3n/engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
 - [gamegos/jsend](https://github.com/gamegos/jsend) - Go JSend library to wrap json responses
 - [genjidb/genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
@@ -422,6 +426,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [golangci/awesome-go-linters](https://github.com/golangci/awesome-go-linters) - A curated list of awesome Go linters. More than 60 linters and tools!
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [gomodules/notify](https://github.com/gomodules/notify) - Send notification via Email, SMS, Chat etc.
+- [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
@@ -565,6 +570,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nautilus/gateway](https://github.com/nautilus/gateway) - A federated api gateway for graphql services. https://gateway.nautilus.dev/
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [nikolaydubina/go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) - 🔥 Fast, simple sklearn-like feature processing for Go
+- [nikolaydubina/go-graph-layout](https://github.com/nikolaydubina/go-graph-layout) - 🔮 Graph Layout Algorithms in Go
 - [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) - 🏝 JSONL Graph Tools
 - [novalagung/gubrak](https://github.com/novalagung/gubrak) - ⚙️ Golang functional utility library with syntactic sugar. It's like lodash, but for Go
 - [nsqio/go-nsq](https://github.com/nsqio/go-nsq) - The official Go package for NSQ
@@ -612,7 +618,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [psampaz/gothanks](https://github.com/psampaz/gothanks) - GoThanks automatically stars Go's official repository and your go.mod github dependencies, providing a simple way  to say thanks to the maintainers of the modules you use and the contributors of Go itself.
 - [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
 - [public-awesome/stargaze](https://github.com/public-awesome/stargaze) - Stargaze Cosmos proof-of-stake node
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Excel (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [qntfy/kazaam](https://github.com/qntfy/kazaam) - Arbitrary transformations of JSON in Golang
 - [quay/dba-operator](https://github.com/quay/dba-operator) - Kubernetes Operator that orchestrates relational database schema migrations
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
@@ -730,6 +736,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xorcare/golden](https://github.com/xorcare/golden) - Package golden testing with golden files in Go. A golden file is the expected output of test, stored as a separate file rather than as a string literal inside the test code.
 - [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
 - [yohamta/dagu](https://github.com/yohamta/dagu) - A just another Cron alternative with a Web UI, but with much more capabilities
+- [yohamta/donburi](https://github.com/yohamta/donburi) - Just another ECS library for Ebitengine
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [yuval-k/oci-registry-p2p](https://github.com/yuval-k/oci-registry-p2p) - A IPFS backed storage implementation for docker/OCI registry. This Project brings together cloud-native and peer-to-peer by enabling you pull images directly from IPFS in way that's supported by existing container tooling.
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
@@ -1371,6 +1378,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
+- [rxRust/rxRust](https://github.com/rxRust/rxRust) - Rust implementation of Reactive Extensions. 
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) - 𝕊 The Secret Network
@@ -1679,6 +1687,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [as2d/as2d](https://github.com/as2d/as2d) - Bring the power of the CanvasRenderingContext2D prototype to AssemblyScript
+- [torch2424/as-bind](https://github.com/torch2424/as-bind) - Isomorphic library to handle passing high-level data structures between AssemblyScript and JavaScript 🤝🚀
 
 ## YAML
 
@@ -1694,6 +1703,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [InterWasm/cw-awesome](https://github.com/InterWasm/cw-awesome) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
 - [International-Data-Spaces-Association/idsa](https://github.com/International-Data-Spaces-Association/idsa) - This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and useful information on IDS Landscape.
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+- [LinaMahrouch/vitepress-template](https://github.com/LinaMahrouch/vitepress-template) - A software documentation Template made with Vitepress
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
@@ -1804,6 +1814,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengine) - A curated list of awesome Ebitengine frameworks, libraries and software 
 - [semantalytics/awesome-kafka](https://github.com/semantalytics/awesome-kafka) - 
 - [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
@@ -1815,6 +1826,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stereobooster/type-o-rama](https://github.com/stereobooster/type-o-rama) - 👾 JS type systems interportability
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
+- [sw-yx/devtools-angels](https://github.com/sw-yx/devtools-angels) - active angel investors in developer tools!
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [teambit/reusable-components-styleguide](https://github.com/teambit/reusable-components-styleguide) - Tips and tricks for making components shareable across different projects (framework agnostic)
 - [tendermint/awesome](https://github.com/tendermint/awesome) - Collection of resources for all things Tendermint
