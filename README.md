@@ -301,6 +301,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ccamel/kynaptik](https://github.com/ccamel/kynaptik) - λ Fission Function which evaluates incoming stimulus (event/message) and determines an appropriate (configured) action (http, graphQL, ...)
 - [ccamel/playground-protoactor.go](https://github.com/ccamel/playground-protoactor.go) -  :balloon: My playground for playing with protoactor (the next gen Actor Model framework) in go, following DDD, Event Sourcing & CQRS paradigms.
 - [ccbrown/api-fu](https://github.com/ccbrown/api-fu) - A collection of Go packages for creating robust GraphQL APIs
+- [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes
 - [census-instrumentation/opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
@@ -1058,6 +1059,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [observablehq/runtime](https://github.com/observablehq/runtime) - The Observable dataflow runtime.
 - [octoherd/script-star-or-unstar](https://github.com/octoherd/script-star-or-unstar) - An octoherd script to add or remove star
 - [okp4/eslint-config-okp4](https://github.com/okp4/eslint-config-okp4) - 📜 ESLint shareable config used @okp4
+- [okp4/follow-contributor-action](https://github.com/okp4/follow-contributor-action) - Github action to follow a contributor.
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [orbitdb/orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-Only Log database for orbit-db
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
@@ -1358,6 +1360,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Example IBC enabled contracts along with full stack integration tests
 - [confio/poe-contracts](https://github.com/confio/poe-contracts) - Tgrade PoE smart contracts
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
@@ -1367,9 +1370,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [kangalioo/poise](https://github.com/kangalioo/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
+- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
+- [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust
@@ -1815,6 +1820,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
+- [scrtlabs/Grants](https://github.com/scrtlabs/Grants) - Repository for grant proposal submissions
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengine) - A curated list of awesome Ebitengine frameworks, libraries and software 
 - [semantalytics/awesome-kafka](https://github.com/semantalytics/awesome-kafka) - 
