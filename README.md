@@ -178,8 +178,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lucamug/elm-parcel-example](https://github.com/lucamug/elm-parcel-example) - 
 - [mdgriffith/elm-ui](https://github.com/mdgriffith/elm-ui) - What if you never had to write CSS again?
 - [oakesja/elm-news](https://github.com/oakesja/elm-news) - All elm news in one place
+- [rlopzc/elm-webpack-starter](https://github.com/rlopzc/elm-webpack-starter) - Elm 0.19 webpack 4 starter template to build SPA
 - [rogeriochaves/spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
-- [romariolopezc/elm-webpack-starter](https://github.com/romariolopezc/elm-webpack-starter) - Elm 0.19 webpack 4 starter template to build SPA
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 - [stil4m/elm-analyse](https://github.com/stil4m/elm-analyse) - A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 - [timjs/elm-collage](https://github.com/timjs/elm-collage) - Create interactive vector graphics and position them relative to each other
@@ -985,6 +985,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜 
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [cburgmer/rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - Renders HTML into the browser's canvas
+- [ceramicstudio/identitylink-services](https://github.com/ceramicstudio/identitylink-services) - Services for issuing verifiable credentials that link a DID to social accounts including Twitter, Github, and Discord
 - [cetic/helm-nifi](https://github.com/cetic/helm-nifi) - Helm Chart for Apache Nifi
 - [chriskinsman/github-action-dashboard](https://github.com/chriskinsman/github-action-dashboard) - A dashboard to keep track of the status of your GitHub Actions
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -1616,6 +1617,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [iroiro/iroiro](https://github.com/iroiro/iroiro) - 
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [joonhocho/graphql-scalar](https://github.com/joonhocho/graphql-scalar) - Configurable custom GraphQL Scalars (string, number, date, etc) with sanitization / validation / transformation in TypeScript.
+- [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [kamilkisiela/graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [kitze/mobx-router](https://github.com/kitze/mobx-router) - A simple router for MobX + React apps
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
