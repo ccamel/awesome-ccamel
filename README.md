@@ -413,7 +413,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [gocraft/work](https://github.com/gocraft/work) - Process background jobs in Go
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets
+- [gogo/protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
 - [gojp/goreportcard](https://github.com/gojp/goreportcard) - A report card for your Go application
 - [golang/crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
