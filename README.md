@@ -45,7 +45,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [YAML](#yaml)
@@ -1684,7 +1684,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
-## Vim script
+## Vim Script
 
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [codeindulgence/vim-tig](https://github.com/codeindulgence/vim-tig) - Do a tig in your vim
