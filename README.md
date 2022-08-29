@@ -945,6 +945,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AshKyd/ui95](https://github.com/AshKyd/ui95) - 🖥 WIP: A preact implementation of Windows 95/98/ME style components and apps. See it in action on my personal site at https://ash.ms
 - [BitCannaCommunity/cosmos-faucet](https://github.com/BitCannaCommunity/cosmos-faucet) - Cosmos-faucet is a simple alternative to the tendermint/faucet GoLang script. This is an idea adapted for  Bitcanna and can be used for any project using cosmos.
 - [ChristophP/elm-esm](https://github.com/ChristophP/elm-esm) - Turn Elm compiler output into modern ES Modules
+- [David-Kunz/derive-type](https://github.com/David-Kunz/derive-type) - Derive types dynamically by running tests to capture value combinations
 - [DemocracyEarth/self](https://github.com/DemocracyEarth/self) - 🦉 Cryptgraphic peer authentication.
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware) - ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes
 - [Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) - Automatic polyfill service.
