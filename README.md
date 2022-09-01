@@ -737,6 +737,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xitonix/trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka
 - [xo/dburl](https://github.com/xo/dburl) - Package dburl provides a standard, URL style mechanism for parsing and opening SQL database connection strings
 - [xorcare/golden](https://github.com/xorcare/golden) - Package golden testing with golden files in Go. A golden file is the expected output of test, stored as a separate file rather than as a string literal inside the test code.
+- [xrstf/github_exporter](https://github.com/xrstf/github_exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
 - [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
 - [yohamta/dagu](https://github.com/yohamta/dagu) - A just another Cron alternative with a Web UI, but with much more capabilities
 - [yohamta/donburi](https://github.com/yohamta/donburi) - Just another ECS library for Ebitengine
@@ -1544,6 +1545,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [2-alchemists/krossboard-ui](https://github.com/2-alchemists/krossboard-ui) - User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
+- [3mcd/javelin](https://github.com/3mcd/javelin) - TypeScript ECS and multiplayer game development toolkit
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [AudiusProject/hedgehog](https://github.com/AudiusProject/hedgehog) - 🦔 Build DApps like Apps -- A Metamask alternative that empowers you to build good UX
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
