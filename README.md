@@ -508,6 +508,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go
 - [knative/eventing](https://github.com/knative/eventing) - Open source specification and implementation of Knative event binding and delivery
+- [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
 - [kragniz/tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
 - [ksync/ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
@@ -1778,6 +1779,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [google/deepdream](https://github.com/google/deepdream) - 
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [gqlgo/awesome-gqlgen](https://github.com/gqlgo/awesome-gqlgen) - A curated list of awesome frameworks, libraries and software  using gqlgen library.
 - [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects
