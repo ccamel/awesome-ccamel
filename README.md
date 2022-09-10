@@ -553,6 +553,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
 - [maxatome/go-testdeep](https://github.com/maxatome/go-testdeep) - Extremely flexible golang deep comparison, extends the go testing package, tests HTTP APIs and provides tests suite
 - [medibloc/panacea-core](https://github.com/medibloc/panacea-core) - MediBloc Blockchain Core
+- [medibloc/panacea-doracle](https://github.com/medibloc/panacea-doracle) - 
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [memnix/memnix-rest](https://github.com/memnix/memnix-rest) - Memnix Rest API
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -655,7 +656,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [segmentio/topicctl](https://github.com/segmentio/topicctl) - Tool for declarative management of Kafka topics
-- [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine
+- [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - vector search engine
 - [seznam/slo-exporter](https://github.com/seznam/slo-exporter) - Slo-exporter computes standardized SLI and SLO metrics based on events coming from various data sources.
 - [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) - An example for building event-driven distributed systems and microservices in Go with NATS JetStream, gRPC and CockroachDB 
 - [shurcooL/graphql](https://github.com/shurcooL/graphql) - Package graphql provides a GraphQL client implementation.
@@ -745,7 +746,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xorcare/golden](https://github.com/xorcare/golden) - Package golden testing with golden files in Go. A golden file is the expected output of test, stored as a separate file rather than as a string literal inside the test code.
 - [xrstf/github_exporter](https://github.com/xrstf/github_exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
 - [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
-- [yohamta/dagu](https://github.com/yohamta/dagu) - A just another Cron alternative with a Web UI, but with much more capabilities
+- [yohamta/dagu](https://github.com/yohamta/dagu) - A just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [yohamta/donburi](https://github.com/yohamta/donburi) - Just another ECS library for Ebitengine
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [yuval-k/oci-registry-p2p](https://github.com/yuval-k/oci-registry-p2p) - A IPFS backed storage implementation for docker/OCI registry. This Project brings together cloud-native and peer-to-peer by enabling you pull images directly from IPFS in way that's supported by existing container tooling.
@@ -1000,6 +1001,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cetic/helm-nifi](https://github.com/cetic/helm-nifi) - Helm Chart for Apache Nifi
 - [chriskinsman/github-action-dashboard](https://github.com/chriskinsman/github-action-dashboard) - A dashboard to keep track of the status of your GitHub Actions
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [cosmos/sdk-tutorials](https://github.com/cosmos/sdk-tutorials) - Tutorials for building modules for the Cosmos SDK
 - [cosmostation/cosmosjs](https://github.com/cosmostation/cosmosjs) - :star: CosmosJS - Cosmos JavaScript Library
@@ -1268,7 +1270,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
 - [diego-vicente/som-tsp](https://github.com/diego-vicente/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
