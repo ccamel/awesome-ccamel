@@ -178,6 +178,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kevgathuku/parcel-elm](https://github.com/kevgathuku/parcel-elm) - Boilerplate for a new Elm app using Parcel
 - [kraklin/elm-readiness](https://github.com/kraklin/elm-readiness) - Keep track of transition state of your dependencies in your own Elm app to Elm 0.19
 - [lucamug/elm-parcel-example](https://github.com/lucamug/elm-parcel-example) - 
+- [mdgriffith/elm-codegen](https://github.com/mdgriffith/elm-codegen) - 
 - [mdgriffith/elm-ui](https://github.com/mdgriffith/elm-ui) - What if you never had to write CSS again?
 - [oakesja/elm-news](https://github.com/oakesja/elm-news) - All elm news in one place
 - [rlopzc/elm-webpack-starter](https://github.com/rlopzc/elm-webpack-starter) - Elm 0.19 webpack 4 starter template to build SPA
@@ -244,6 +245,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) - Visualize your Cue DAG
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
+- [ShentuChain/shentu](https://github.com/ShentuChain/shentu) - A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains
 - [Shyp/generate-tls-cert](https://github.com/Shyp/generate-tls-cert) - Generating self signed certificates
 - [SimonSchneider/traefik-jwt-decode](https://github.com/SimonSchneider/traefik-jwt-decode) - Traefik forward auth implementation for JWT tokens
 - [TIBCOSoftware/flogo-contrib](https://github.com/TIBCOSoftware/flogo-contrib) - Flogo Contribution repo. Contains activities, triggers, models and actions.
@@ -1752,6 +1754,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Voronenko/awesome-plantuml](https://github.com/Voronenko/awesome-plantuml) - 
 - [abagames/various-actions-in-a-one-button-game](https://github.com/abagames/various-actions-in-a-one-button-game) - 
 - [abinoda/awesome-baas](https://github.com/abinoda/awesome-baas) - Awesome list of Backend as a Service ("BaaS") services
+- [ajvb/awesome-tor](https://github.com/ajvb/awesome-tor) - A list of awesome Tor related projects, articles, papers, etc
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [amimart/amimart](https://github.com/amimart/amimart) - :octocat: About me
