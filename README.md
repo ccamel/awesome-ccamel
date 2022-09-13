@@ -1393,6 +1393,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [okp4/contracts](https://github.com/okp4/contracts) - 🔑 CosmWasm contracts for OKP4 network.
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust
 - [osmosis-labs/osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Rust libraries for osmosis
@@ -1470,7 +1471,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [scalikejdbc/scalikejdbc](https://github.com/scalikejdbc/scalikejdbc) - A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs.
 - [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter) - Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
 - [slick/slick](https://github.com/slick/slick) - Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala
-- [snowplow/iglu](https://github.com/snowplow/iglu) - A schema registry system
 - [snowplow/snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
 - [spaced/scala-js-d3](https://github.com/spaced/scala-js-d3) - d3 facade types for Scala.js
 - [spartanz/schemaz](https://github.com/spartanz/schemaz) - A purely-functional library for defining type-safe schemas for algebraic data types, providing free generators, SQL queries, JSON codecs, binary codecs, and migration from this schema definition
@@ -1523,6 +1523,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [please-openit/oidc-bash-client](https://github.com/please-openit/oidc-bash-client) - a bash openid connect client
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [singram/mongo-docker-compose](https://github.com/singram/mongo-docker-compose) - Fully sharded mongo environment using docker-compose
+- [snowplow/iglu](https://github.com/snowplow/iglu) - Iglu is a machine-readable, open-source schema repository for JSON Schema from the team at Snowplow
 - [snowplow/iglu-central](https://github.com/snowplow/iglu-central) - Contains all JSON Schemas, Avros and Thrifts for Iglu Central
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
@@ -1735,12 +1736,12 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [AAkira/Kotlin-Multiplatform-Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) - Kotlin Multiplatform Libraries. Welcome PR if you find or create new Kotlin Multiplatform Library.
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
+- [CosmWasm/cw-awesome](https://github.com/CosmWasm/cw-awesome) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
 - [Cour-de-cassation/moteurNER](https://github.com/Cour-de-cassation/moteurNER) - communication sur le moteur de pseudonymisation de la Cour de Cassation
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [FabienTregan/DDDTranslation](https://github.com/FabienTregan/DDDTranslation) - 
 - [GetTech-io/awesome-actor](https://github.com/GetTech-io/awesome-actor) - :punch: Awesome lists of actor model resources
-- [InterWasm/cw-awesome](https://github.com/InterWasm/cw-awesome) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
 - [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) - IDS-G
 - [International-Data-Spaces-Association/idsa](https://github.com/International-Data-Spaces-Association/idsa) - This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and useful information on IDS Landscape.
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
@@ -1859,6 +1860,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
+- [s-tikhomirov/smart-contract-languages](https://github.com/s-tikhomirov/smart-contract-languages) - A curated collection of resources on smart contract programming languages
 - [scrtlabs/Grants](https://github.com/scrtlabs/Grants) - Repository for grant proposal submissions
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengine) - A curated list of awesome Ebitengine frameworks, libraries and software 
