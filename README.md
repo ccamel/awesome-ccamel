@@ -1665,6 +1665,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [optimistex/xlsx-template-ex](https://github.com/optimistex/xlsx-template-ex) - The template engine for generate xlsx documents
+- [osmosis-labs/telescope](https://github.com/osmosis-labs/telescope) - A TypeScript Transpiler for Cosmos Protobufs ⚛️
 - [paambaati/codeclimate-action](https://github.com/paambaati/codeclimate-action) - GitHub Action to send your code coverage to CodeClimate
 - [patrickmichalina/typescript-monads](https://github.com/patrickmichalina/typescript-monads) - 📚Write safer TypeScript using Maybe, List, Result, and Either monads.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
