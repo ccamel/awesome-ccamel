@@ -296,6 +296,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [bsm/sarama-cluster](https://github.com/bsm/sarama-cluster) - Cluster extensions for Sarama, the Go client library for Apache Kafka 0.9 [DEPRECATED]
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
+- [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.
 - [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter) - Database agnostic SQL exporter for Prometheus
 - [bykof/gostradamus](https://github.com/bykof/gostradamus) - Gostradamus: Better DateTimes for Go 🕰️
@@ -460,6 +461,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
+- [harmony-development/protocol](https://github.com/harmony-development/protocol) - The schemas for the Harmony protocol
 - [hashgraph/hedera-sdk-go](https://github.com/hashgraph/hedera-sdk-go) - Hedera™ Hashgraph SDK for Go
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1363,9 +1365,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK
 - [CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts) - Examples and helpers to build NFT contracts on CosmWasm
 - [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
+- [CosmWasm/cw-template](https://github.com/CosmWasm/cw-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [CosmWasm/cw-tokens](https://github.com/CosmWasm/cw-tokens) - Examples of cw20 usage, extracted from cw-plus, maintained by the community
 - [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
-- [InterWasm/cw-template](https://github.com/InterWasm/cw-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
 - [RedStoneCoin/redstone-rs](https://github.com/RedStoneCoin/redstone-rs) - Redstone Project is a p2p custom blockchain implementation, comprised of a network of interconnected sub-chains for better speed and scalability.
@@ -1401,6 +1403,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [osmosis-labs/osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Rust libraries for osmosis
 - [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc) - user-friendly rust bindings for the bpf compiler collection
 - [rust-github/template](https://github.com/rust-github/template) - Template for a generic rust project hosted on GitHub
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -1526,7 +1529,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [singram/mongo-docker-compose](https://github.com/singram/mongo-docker-compose) - Fully sharded mongo environment using docker-compose
 - [snowplow/iglu](https://github.com/snowplow/iglu) - Iglu is a machine-readable, open-source schema repository for JSON Schema from the team at Snowplow
 - [snowplow/iglu-central](https://github.com/snowplow/iglu-central) - Contains all JSON Schemas, Avros and Thrifts for Iglu Central
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [timescale/helm-charts](https://github.com/timescale/helm-charts) - Configuration and Documentation to run TimescaleDB in your Kubernetes cluster
@@ -1578,6 +1581,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [PureStake/moonbeam](https://github.com/PureStake/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot
+- [RaphaelEscrig/no-brain-extension](https://github.com/RaphaelEscrig/no-brain-extension) - Chrome extension used to translate normal langage to "no-brain" langage.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [SINTEF-9012/PruneCluster](https://github.com/SINTEF-9012/PruneCluster) - Fast and realtime marker clustering for Leaflet
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
@@ -1660,6 +1664,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [mobxjs/mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - Lightweight React bindings for MobX based on React 16.8 and Hooks
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
@@ -1693,6 +1698,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stolenng/react-hooks-mobx](https://github.com/stolenng/react-hooks-mobx) - React Hooks + MobX guide
 - [storybookjs/native](https://github.com/storybookjs/native) - 📱 Storybook for Native: iOS, Android, Flutter
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/test-runner](https://github.com/storybookjs/test-runner) - 🚕 Turn stories into executable tests
 - [stubailo/schema-stitching-demo](https://github.com/stubailo/schema-stitching-demo) - Example of schema stitching with graphql-tools
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
