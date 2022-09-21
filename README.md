@@ -235,6 +235,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Iwark/spreadsheet](https://github.com/Iwark/spreadsheet) - Google Go (golang) library for reading and writing spreadsheet files on Google Docs.
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+- [KYVENetwork/chain](https://github.com/KYVENetwork/chain) - ⛓ The security layer for the KYVE protocol.
 - [KiFoundation/ki-tools](https://github.com/KiFoundation/ki-tools) - Tools for the Kichain
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
@@ -315,6 +316,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cheqd/cheqd-node](https://github.com/cheqd/cheqd-node) - Ledger/node software for cheqd's decentralised identity network. Built using the Cosmos SDK blockchain framework.
 - [chop-dbhi/prometheus-sql](https://github.com/chop-dbhi/prometheus-sql) - Service that exposes Prometheus metrics for a SQL result set.
 - [christian-korneck/docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - "Docker Push Readme" - a Docker CLI plugin to update container repo docs
+- [chuhlomin/render-template](https://github.com/chuhlomin/render-template) - GitHub Action to render file based on template and passed variables
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [cirello-io/oversight](https://github.com/cirello-io/oversight) - [Mirror] Erlang-like supervisor trees
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line. 
@@ -788,6 +790,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [scala/make-release-notes](https://github.com/scala/make-release-notes) - The project that generates Scala release notes.
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy code home
 - [starbelly/erlang-companies](https://github.com/starbelly/erlang-companies) - A list of companies currently using Erlang in production.
+- [vasturiano/3d-force-graph-vr](https://github.com/vasturiano/3d-force-graph-vr) - 3D force-directed graph component in VR
 - [w3c/wot](https://github.com/w3c/wot) - Web of Things
 - [w3c/wot-architecture](https://github.com/w3c/wot-architecture) - Web of Things (WoT) Architecture
 - [w3c/wot-thing-description](https://github.com/w3c/wot-thing-description) - Web of Things (WoT) Thing Description
@@ -949,6 +952,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [thomasdarimont/keycloak-extension-playground](https://github.com/thomasdarimont/keycloak-extension-playground) - Simple project environment for creating custom Keycloak extensions
 - [thomasdarimont/keycloak-user-storage-provider-demo](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo) - Simple custom User Storage Provider extension for Keycloak. Deployed as .ear with dependencies & jboss-cli based setup.
 - [tibor-kocsis/vertx-graphql-utils](https://github.com/tibor-kocsis/vertx-graphql-utils) - Vert.x GraphQL utils
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [vdurmont/emoji-java](https://github.com/vdurmont/emoji-java) - The missing emoji library for Java :heart:
 - [ververica/flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) - CDC Connectors for Apache Flink®
 - [vladmihalcea/hibernate-types](https://github.com/vladmihalcea/hibernate-types) - The Hibernate Types library gives you extra types that are not supported by the Hibernate ORM core.
@@ -1349,7 +1353,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ansoni/fluent-plugin-json-schema-filter](https://github.com/ansoni/fluent-plugin-json-schema-filter) - Fluentd plugin to ensure that an inbound record validates to a well-defined schema
 - [betagouv/demarches-simplifiees.fr](https://github.com/betagouv/demarches-simplifiees.fr) - Dématérialiser et simplifier les démarches administratives 
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/community/community/discussions/categories/code-security
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/orgs/community/discussions/categories/code-security
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [fabric8io/fluent-plugin-kubernetes_metadata_filter](https://github.com/fabric8io/fluent-plugin-kubernetes_metadata_filter) - Enrich your fluentd events with Kubernetes metadata
