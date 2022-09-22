@@ -274,7 +274,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [argoproj-labs/argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
 - [argoproj-labs/argocd-operator](https://github.com/argoproj-labs/argocd-operator) - A Kubernetes operator for managing Argo CD clusters.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
-- [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
+- [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven automation framework
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [asaskevich/EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
@@ -333,6 +333,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/ethermint](https://github.com/cosmos/ethermint) - Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
 - [cosmos/gaia](https://github.com/cosmos/gaia) - Cosmos Hub
 - [cosmos/gex](https://github.com/cosmos/gex) - In-terminal explorer for Cosmos SDK blockchains.
+- [cosmos/gogoproto](https://github.com/cosmos/gogoproto) - Protocol Buffers for Go with Gadgets
 - [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Interblockchain Communication Protocol (IBC) implementation in Golang.
 - [cosmos/interchain-accounts-demo](https://github.com/cosmos/interchain-accounts-demo) - ICA 
 - [cosmos/interchain-security](https://github.com/cosmos/interchain-security) - 
