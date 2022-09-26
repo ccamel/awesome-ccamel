@@ -1279,6 +1279,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cbirajdar/properties-to-yaml-converter](https://github.com/cbirajdar/properties-to-yaml-converter) - Python utility to convert key=value based properties/ini config files into YAML format
 - [chris104957/maildown](https://github.com/chris104957/maildown) - A super simple CLI for sending emails
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
+- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
@@ -1515,7 +1516,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts directly from Git repositories
 - [changyuheng/git-fast-forward-all-branches](https://github.com/changyuheng/git-fast-forward-all-branches) - 
-- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template suitable for new Rust 2021 edition projects with cargo-make/rustfmt/rust-clippy.
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
