@@ -1079,6 +1079,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ltearno/pom-explorer](https://github.com/ltearno/pom-explorer) - A tool to aid managing lots of maven projects
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
 - [m0t0k1ch1/ERC721-token-sample](https://github.com/m0t0k1ch1/ERC721-token-sample) - a sample implementation of ERC721 (CryptoKitties ver.)
+- [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - 
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
