@@ -9,6 +9,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [C#](#c-1)
 - [C++](#c-2)
 - [CSS](#css)
+- [CUE](#cue)
 - [Clojure](#clojure)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -120,6 +121,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui) - Cyberpunk-inspired web UI made easy. Get augmented.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [stripe-samples/checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
+
+## CUE
+
+- [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) - Visualize your Cue DAG
 
 ## Clojure
 
@@ -244,7 +249,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ODIN-PROTOCOL/odin-core](https://github.com/ODIN-PROTOCOL/odin-core) - Odin blockchain reference implementation
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [Orange-OpenSource/nifikop](https://github.com/Orange-OpenSource/nifikop) - The NiFiKop NiFi Kubernetes operator makes it easy to run Apache NiFi on Kubernetes. Apache NiFI is a free, open-source solution that support powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
-- [PoCInnovation/DagViz](https://github.com/PoCInnovation/DagViz) - Visualize your Cue DAG
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [ShentuChain/shentu](https://github.com/ShentuChain/shentu) - A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains
@@ -1118,6 +1122,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ryankurte/jfsm](https://github.com/ryankurte/jfsm) - JSON Finite State Machine (JFSM) Representation, Validation and Generation
 - [sammarks/cloudformation-zenhub-github-label](https://github.com/sammarks/cloudformation-zenhub-github-label) - Automatically updates Github issues represented in ZenHub with their pipeline as a label.
 - [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
+- [scrtlabs/dNetflix](https://github.com/scrtlabs/dNetflix) - 
 - [segment-integrations/analytics.js-integration-piwik](https://github.com/segment-integrations/analytics.js-integration-piwik) - The Piwik analytics.js integration.
 - [segmentio/analytics.js](https://github.com/segmentio/analytics.js) - The hassle-free way to integrate analytics into any web application.
 - [semantic-release/git](https://github.com/semantic-release/git) - :twisted_rightwards_arrows: semantic-release plugin to commit release assets to the project's git repository
