@@ -62,6 +62,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+- [adsr/mle](https://github.com/adsr/mle) - Flexible terminal-based text editor (C)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM
 - [babelouest/glewlwyd](https://github.com/babelouest/glewlwyd) - Experimental Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins
@@ -1134,7 +1135,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sheerun/graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL Server schema visualizer
 - [siddharthkp/use-timeout](https://github.com/siddharthkp/use-timeout) - Declarative React hook for setTimeout
 - [silverwind/uppie](https://github.com/silverwind/uppie) - Cross-browser directory and multi-file upload library
-- [simonh1000/elm-webpack-starter](https://github.com/simonh1000/elm-webpack-starter) - Elm 0.19.1 + Webpack 4 with hot-reloading! (Includes Babel for port code; CI script)
+- [simonh1000/elm-webpack-starter](https://github.com/simonh1000/elm-webpack-starter) - Elm 0.19.1, Webpack 5 & Tailwind
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action!
 - [smakosh/gatsby-portfolio-dev](https://github.com/smakosh/gatsby-portfolio-dev) - A portfolio for developers
 - [spekt8/spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
