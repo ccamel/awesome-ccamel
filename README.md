@@ -221,6 +221,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Arafatk/DataViz](https://github.com/Arafatk/DataViz) - Build and Visualize data structures in Golang
 - [AsaiYusuke/jsonpath](https://github.com/AsaiYusuke/jsonpath) - A query library for retrieving part of JSON based on JSONPath syntax.
 - [B23admin/nifi-stateless-operator](https://github.com/B23admin/nifi-stateless-operator) - An Operator for scheduling and executing NiFi Flows as Jobs on Kubernetes
+- [BitCannaGlobal/bcna](https://github.com/BitCannaGlobal/bcna) - BitCanna Blockchain based on Cosmos SDK
 - [BoltApp/sleet](https://github.com/BoltApp/sleet) - Payment abstraction library - one interface for multiple payment processors ( inspired by Ruby's ActiveMerchant )
 - [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library that offers functional programming in Go using generics
 - [BrianWill/pigeon](https://github.com/BrianWill/pigeon) - Compiler of Pigeon (my educational programming language) to Golang.
@@ -256,6 +257,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Shyp/generate-tls-cert](https://github.com/Shyp/generate-tls-cert) - Generating self signed certificates
 - [SimonSchneider/traefik-jwt-decode](https://github.com/SimonSchneider/traefik-jwt-decode) - Traefik forward auth implementation for JWT tokens
 - [TIBCOSoftware/flogo-contrib](https://github.com/TIBCOSoftware/flogo-contrib) - Flogo Contribution repo. Contains activities, triggers, models and actions.
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [Xe/olin](https://github.com/Xe/olin) - Webassembly + Event Sourcing
 - [Yamashou/gqlgenc](https://github.com/Yamashou/gqlgenc) - This is Go library for building GraphQL client with gqlgen
@@ -388,6 +390,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [fcambus/rrda](https://github.com/fcambus/rrda) - REST API allowing to perform DNS queries over HTTP
 - [feliixx/mgodatagen](https://github.com/feliixx/mgodatagen) - Generate random data for MongoDB
+- [fetchai/cosmos-sdk](https://github.com/fetchai/cosmos-sdk) - Fetch.ai fork of the Cosmos SDK
 - [fetchai/fetchd](https://github.com/fetchai/fetchd) - Source code for Fetch.ai blockchain nodes
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
@@ -888,6 +891,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dvoraka/av-service](https://github.com/dvoraka/av-service) - Network file service with replication and anti-virus checking
 - [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector) - DataspaceConnector project
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [eventuate-examples/eventuate-examples-java-customers-and-orders](https://github.com/eventuate-examples/eventuate-examples-java-customers-and-orders) - Java version of the Customers and Orders event sourcing example from my presentations
 - [evertrue/monotone](https://github.com/evertrue/monotone) - A 64 bit monotonically increasing Id generator for distributed databases
 - [feaster83/quarkus-axonframework-extension](https://github.com/feaster83/quarkus-axonframework-extension) - Quarkus Axon Framework extension
@@ -1369,7 +1373,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/orgs/community/discussions/categories/code-security
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [fabric8io/fluent-plugin-kubernetes_metadata_filter](https://github.com/fabric8io/fluent-plugin-kubernetes_metadata_filter) - Enrich your fluentd events with Kubernetes metadata
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [gjtorikian/graphql-docs](https://github.com/gjtorikian/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
@@ -1388,6 +1391,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
 - [CosmWasm/cw-template](https://github.com/CosmWasm/cw-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [CosmWasm/cw-tokens](https://github.com/CosmWasm/cw-tokens) - Examples of cw20 usage, extracted from cw-plus, maintained by the community
+- [CosmWasm/mesh-security](https://github.com/CosmWasm/mesh-security) - Implementation of Sunny's Mesh Security talk (Hackathon / Prototype status)
 - [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
@@ -1700,6 +1704,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
+- [okp4/portal-web](https://github.com/okp4/portal-web) - 🔭 Portal Web App for the ØKP4 network.
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
