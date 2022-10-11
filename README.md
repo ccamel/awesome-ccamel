@@ -684,6 +684,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sideshow/apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [sj14/dbbench](https://github.com/sj14/dbbench) - 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts
+- [skx/go.vm](https://github.com/skx/go.vm) - A simple virtual machine - compiler & interpreter - written in golang
 - [smartystreets/assertions](https://github.com/smartystreets/assertions) - Fluent assertion-style functions used by goconvey and gunit. Can also be used in any test or application.
 - [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 - [snikch/go-download](https://github.com/snikch/go-download) - Chunked HTTP Downloader
@@ -891,7 +892,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dvoraka/av-service](https://github.com/dvoraka/av-service) - Network file service with replication and anti-virus checking
 - [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector) - DataspaceConnector project
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [eventuate-examples/eventuate-examples-java-customers-and-orders](https://github.com/eventuate-examples/eventuate-examples-java-customers-and-orders) - Java version of the Customers and Orders event sourcing example from my presentations
 - [evertrue/monotone](https://github.com/evertrue/monotone) - A 64 bit monotonically increasing Id generator for distributed databases
 - [feaster83/quarkus-axonframework-extension](https://github.com/feaster83/quarkus-axonframework-extension) - Quarkus Axon Framework extension
@@ -1036,6 +1036,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [danilowoz/react-atomic-design](https://github.com/danilowoz/react-atomic-design) - 🔬 How the Atomic Design methodology can create a great design system from scratch and make better developers.
 - [danyshaanan/cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - :package: View the Mandelbrot set from your terminal
+- [davidbau/seedrandom](https://github.com/davidbau/seedrandom) - seeded random number generator for Javascript
 - [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [digitalbazaar/did-cli](https://github.com/digitalbazaar/did-cli) - A client for managing Decentralized Identifiers
@@ -1091,7 +1092,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
 - [m0t0k1ch1/ERC721-token-sample](https://github.com/m0t0k1ch1/ERC721-token-sample) - a sample implementation of ERC721 (CryptoKitties ver.)
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - 
@@ -1230,6 +1231,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
 - [okp4/ontology](https://github.com/okp4/ontology) - 📙 The OKP4 Ontology system
 - [stevemcquaid/python-flask-docker-hello-world](https://github.com/stevemcquaid/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
 
@@ -1373,6 +1375,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/orgs/community/discussions/categories/code-security
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [fabric8io/fluent-plugin-kubernetes_metadata_filter](https://github.com/fabric8io/fluent-plugin-kubernetes_metadata_filter) - Enrich your fluentd events with Kubernetes metadata
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [gjtorikian/graphql-docs](https://github.com/gjtorikian/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
@@ -1426,6 +1429,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust
 - [osmosis-labs/osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Rust libraries for osmosis
+- [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc) - user-friendly rust bindings for the bpf compiler collection
 - [rust-github/template](https://github.com/rust-github/template) - Template for a generic rust project hosted on GitHub
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -1535,7 +1539,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
-- [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
