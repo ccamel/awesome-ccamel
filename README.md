@@ -636,6 +636,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [portto/solana-go-sdk](https://github.com/portto/solana-go-sdk) - Solana Golang SDK
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
+- [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
 - [project-flogo/contrib](https://github.com/project-flogo/contrib) - Core Flogo activities, triggers and functions that are useful across the various event-driven action types.
 - [project-flogo/core](https://github.com/project-flogo/core) - Flogo Core is the core flogo library used create and extend Flogo applications.
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
@@ -1014,6 +1015,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axept/open-parse](https://github.com/axept/open-parse) - Get RESTful API to your data store, schemas, users and security management and bring up your own BaaS in a few minutes
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [battila7/get-version-action](https://github.com/battila7/get-version-action) - A GitHub Action which extracts the version from github.ref
+- [bgoonz/Markdown-Templates](https://github.com/bgoonz/Markdown-Templates) - 
 - [bjankord/stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - ⚙ A stylelint config inspired by https://sass-guidelin.es/
 - [blackcater/blackcater](https://github.com/blackcater/blackcater) - Using Node.js to generate my Github profile readme automatically.
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
@@ -1487,7 +1489,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ccamel/poc-piper-worker-flink](https://github.com/ccamel/poc-piper-worker-flink) - :alembic:  An experiment to make flink a worker for the workflow engine piper
 - [conduktor/kafka-security-manager](https://github.com/conduktor/kafka-security-manager) - Manage your Kafka ACL at scale
 - [cornerman/sloth](https://github.com/cornerman/sloth) - Type safe RPC in scala
-- [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading Excel files via Apache POI
+- [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files
 - [criteo/cuttle](https://github.com/criteo/cuttle) - An embedded job scheduler.
 - [davenverse/fuuid](https://github.com/davenverse/fuuid) - Functional UUID's for Scala
 - [endpoints4s/endpoints4s](https://github.com/endpoints4s/endpoints4s) - Describe HTTP endpoints in Scala and derive clients, servers, and documentation
