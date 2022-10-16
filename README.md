@@ -186,6 +186,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kraklin/elm-readiness](https://github.com/kraklin/elm-readiness) - Keep track of transition state of your dependencies in your own Elm app to Elm 0.19
 - [lucamug/elm-parcel-example](https://github.com/lucamug/elm-parcel-example) - 
 - [mdgriffith/elm-codegen](https://github.com/mdgriffith/elm-codegen) - 
+- [mdgriffith/elm-gql-github-example](https://github.com/mdgriffith/elm-gql-github-example) - An example repo for elm-gql that uses the Github GraphQL API
 - [mdgriffith/elm-ui](https://github.com/mdgriffith/elm-ui) - What if you never had to write CSS again?
 - [oakesja/elm-news](https://github.com/oakesja/elm-news) - All elm news in one place
 - [rlopzc/elm-webpack-starter](https://github.com/rlopzc/elm-webpack-starter) - Elm 0.19 webpack 4 starter template to build SPA
@@ -1891,7 +1892,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
-- [mdgriffith/elm-gql-github-example](https://github.com/mdgriffith/elm-gql-github-example) - An example repo for elm-gql that uses the Github GraphQL API
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [michelcaradec/Graph-OLAP](https://github.com/michelcaradec/Graph-OLAP) - An attempt to model an OLAP cube with Neo4j.
