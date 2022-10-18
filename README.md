@@ -62,7 +62,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
-- [adsr/mle](https://github.com/adsr/mle) - Flexible terminal-based text editor (C)
+- [adsr/mle](https://github.com/adsr/mle) - flexible terminal-based text editor (C)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM
 - [babelouest/glewlwyd](https://github.com/babelouest/glewlwyd) - Experimental Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins
@@ -100,6 +100,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [j-jorge/codesignal](https://github.com/j-jorge/codesignal) - My solutions to CodeSignal's puzzles
+- [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Measure and observe end-user applications availability - Define and track SLA/SLO targets through Prometheus-alike metrics and built-in reports - Kubernetes®, Zabbix®, Nagios®. 
@@ -131,7 +132,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [francoisroyer/clj-cqrs](https://github.com/francoisroyer/clj-cqrs) - A reference implementation of CQRS and Event Sourcing in Clojure.
 - [francoisroyer/clj-xai](https://github.com/francoisroyer/clj-xai) - A repository of AI/ML algorithms in Clojure, with a focus on interpretability and explainability.
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
 ## Dart
@@ -1826,6 +1827,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [badouralix/coding-best-practices](https://github.com/badouralix/coding-best-practices) - Collection of tips and tricks to make computers beep boop beep beep boop
 - [bdeneux/bdeneux](https://github.com/bdeneux/bdeneux) - 
+- [berkcaNode/okp4-nemeton-testnet](https://github.com/berkcaNode/okp4-nemeton-testnet) - 
 - [bipinvaylu/awesome-kotlin-multiplatform](https://github.com/bipinvaylu/awesome-kotlin-multiplatform) - A curated list of Kotlin Multiplatform libraries & resources.
 - [bot-anik/bot-anik](https://github.com/bot-anik/bot-anik) - :octocat: About me
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
