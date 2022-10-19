@@ -250,6 +250,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
+- [Nodeist/Kurulumlar](https://github.com/Nodeist/Kurulumlar) - Includes setup tutorials for active testnets.
 - [ODIN-PROTOCOL/odin-core](https://github.com/ODIN-PROTOCOL/odin-core) - Odin blockchain reference implementation
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [Orange-OpenSource/nifikop](https://github.com/Orange-OpenSource/nifikop) - The NiFiKop NiFi Kubernetes operator makes it easy to run Apache NiFi on Kubernetes. Apache NiFI is a free, open-source solution that support powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
@@ -1536,6 +1537,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DP-3T/documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
 - [International-Data-Spaces-Association/InformationModel](https://github.com/International-Data-Spaces-Association/InformationModel) - The Information Model of the International Data Spaces implements the IDS reference architecture as an extensible, machine readable and technology independent data model.
+- [Megavolv/okp4d-auto-rewards](https://github.com/Megavolv/okp4d-auto-rewards) - OKP4 script for reinvest rewards automatically
 - [PotatoLabs/git-redate](https://github.com/PotatoLabs/git-redate) - Change the dates of several git commits with a single command
 - [RubieV/plugin-fuck](https://github.com/RubieV/plugin-fuck) - Execute last command as root in fish
 - [ScaCap/action-ktlint](https://github.com/ScaCap/action-ktlint) - Run Ktlint with reviewdog
@@ -1571,6 +1573,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
+- [thisislexar/OKP4-Protocol-Testnet](https://github.com/thisislexar/OKP4-Protocol-Testnet) - OKP4 Testneti için Kurulum Rehberi
 - [timescale/helm-charts](https://github.com/timescale/helm-charts) - Configuration and Documentation to run TimescaleDB in your Kubernetes cluster
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -1821,6 +1824,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [amimart/amimart](https://github.com/amimart/amimart) - :octocat: About me
 - [amirrezaask/Goify](https://github.com/amirrezaask/Goify) - Goify is My Vision of clean code in golang
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
+- [antoninab4/OKP4](https://github.com/antoninab4/OKP4) - Пошаговая установка ноды OKP4
 - [apiaryio/mson](https://github.com/apiaryio/mson) - Markdown Syntax for Object Notation
 - [apollographql/apollo-feature-requests](https://github.com/apollographql/apollo-feature-requests) - 🧑‍🚀 Apollo Core Platform Feature Requests | (no 🐛 please).
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
@@ -1892,6 +1896,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [llaisdy/beam_languages](https://github.com/llaisdy/beam_languages) - Languages, and about languages, on the BEAM
 - [lolottetheclash/lolottetheclash](https://github.com/lolottetheclash/lolottetheclash) - About me 
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
+- [madnoder/okp4](https://github.com/madnoder/okp4) - 
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
