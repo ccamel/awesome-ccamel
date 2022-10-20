@@ -501,7 +501,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [ipfs/go-metrics-prometheus](https://github.com/ipfs/go-metrics-prometheus) - Prometheus bindings for go-metrics-interface
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [iqlusioninc/liquidity-staking-module](https://github.com/iqlusioninc/liquidity-staking-module) - 
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [istreamdata/orientgo](https://github.com/istreamdata/orientgo) - Go (golang) client for OrientDB
@@ -1159,6 +1159,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [supermodel/supermodel](https://github.com/supermodel/supermodel) - Supermodel browser library and CLI tool for working with JSON Schema data models
 - [sveltejs/gl](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
 - [tau-prolog/notebook](https://github.com/tau-prolog/notebook) - A web-based notebook environment for Tau Prolog
 - [tau-prolog/tau-prolog](https://github.com/tau-prolog/tau-prolog) - An open source Prolog interpreter in JavaScript
@@ -1416,6 +1417,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Example IBC enabled contracts along with full stack integration tests
 - [confio/poe-contracts](https://github.com/confio/poe-contracts) - Tgrade PoE smart contracts
+- [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template suitable for new Rust 2021 edition projects with cargo-make/rustfmt/rust-clippy.
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
@@ -1545,7 +1547,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts directly from Git repositories
 - [changyuheng/git-fast-forward-all-branches](https://github.com/changyuheng/git-fast-forward-all-branches) - 
-- [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template suitable for new Rust 2021 edition projects with cargo-make/rustfmt/rust-clippy.
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
