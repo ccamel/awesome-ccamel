@@ -957,7 +957,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [processing/processing4](https://github.com/processing/processing4) - Processing 4.x releases (currently in “beta”) that use Java 17
 - [puniverse/quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java. 
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [redis/jedis](https://github.com/redis/jedis) - Redis Java client designed for performance and ease of use.
 - [remkop/picocli](https://github.com/remkop/picocli) - Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc. 
 - [rholder/guava-retrying](https://github.com/rholder/guava-retrying) - This is a small extension to Google's Guava library to allow for the creation of configurable retrying strategies for an arbitrary function call, such as something that talks to a remote service with flaky uptime.
@@ -1623,6 +1623,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
+- [NodesGuru/casper-world](https://github.com/NodesGuru/casper-world) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
+- [NodesGuru/casper-world-backend](https://github.com/NodesGuru/casper-world-backend) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [PureStake/moonbeam](https://github.com/PureStake/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot
 - [RaphaelEscrig/no-brain-extension](https://github.com/RaphaelEscrig/no-brain-extension) - Chrome extension used to translate normal langage to "no-brain" langage.
@@ -1806,6 +1808,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [GetTech-io/awesome-actor](https://github.com/GetTech-io/awesome-actor) - :punch: Awesome lists of actor model resources
 - [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) - IDS-G
 - [International-Data-Spaces-Association/idsa](https://github.com/International-Data-Spaces-Association/idsa) - This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and useful information on IDS Landscape.
+- [Kolot86/Snapshots-SateSync](https://github.com/Kolot86/Snapshots-SateSync) - 
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [LinaMahrouch/vitepress-template](https://github.com/LinaMahrouch/vitepress-template) - A software documentation Template made with Vitepress
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
