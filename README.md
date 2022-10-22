@@ -1712,6 +1712,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+- [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
