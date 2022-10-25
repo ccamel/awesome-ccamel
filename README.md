@@ -1558,6 +1558,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [karancode/kustomize-github-action](https://github.com/karancode/kustomize-github-action) - :european_castle: Github action for kustomize
+- [kj89/testnet_manuals](https://github.com/kj89/testnet_manuals) - 
 - [lensesio/lenses-docker](https://github.com/lensesio/lenses-docker) - ❤for real-time DataOps - where the application and data fabric blends - Lenses
 - [linagora/linshare](https://github.com/linagora/linshare) - LinShare
 - [lindt/docker_plantuml](https://github.com/lindt/docker_plantuml) - docker container for plantuml
@@ -1803,6 +1804,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [CosmWasm/cw-awesome](https://github.com/CosmWasm/cw-awesome) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
 - [Cour-de-cassation/moteurNER](https://github.com/Cour-de-cassation/moteurNER) - communication sur le moteur de pseudonymisation de la Cour de Cassation
+- [Dimokus88/OkP4](https://github.com/Dimokus88/OkP4) - Node OkP4 on Akash Network | Нода OkP4 на Akash Network
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [FabienTregan/DDDTranslation](https://github.com/FabienTregan/DDDTranslation) - 
