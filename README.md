@@ -954,7 +954,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pac4j/pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT...
 - [petitparser/java-petitparser](https://github.com/petitparser/java-petitparser) - Dynamic parser combinators in Java.
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
-- [processing/processing4](https://github.com/processing/processing4) - Processing 4.x releases (currently in “beta”) that use Java 17
+- [processing/processing4](https://github.com/processing/processing4) - Processing 4.x releases for Java 17
 - [puniverse/quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java. 
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
@@ -1073,6 +1073,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [guigrpa/storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
+- [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [hhru/react-d3-chart-graphs](https://github.com/hhru/react-d3-chart-graphs) - 
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [inblocks/precedence](https://github.com/inblocks/precedence) - precedence brings secure blockchain-powered traceability features to your already existing legacy information system
@@ -1381,9 +1382,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms) - REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals. 
 - [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
 - [ansoni/fluent-plugin-json-schema-filter](https://github.com/ansoni/fluent-plugin-json-schema-filter) - Fluentd plugin to ensure that an inbound record validates to a well-defined schema
-- [betagouv/demarches-simplifiees.fr](https://github.com/betagouv/demarches-simplifiees.fr) - Dématérialiser et simplifier les démarches administratives 
 - [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
+- [demarches-simplifiees/demarches-simplifiees.fr](https://github.com/demarches-simplifiees/demarches-simplifiees.fr) - Dématérialiser et simplifier les démarches administratives 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's update PR creation logic. Feedback: https://github.com/orgs/community/discussions/categories/code-security
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [fabric8io/fluent-plugin-kubernetes_metadata_filter](https://github.com/fabric8io/fluent-plugin-kubernetes_metadata_filter) - Enrich your fluentd events with Kubernetes metadata
@@ -1546,6 +1547,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ScaCap/action-ktlint](https://github.com/ScaCap/action-ktlint) - Run Ktlint with reviewdog
 - [StreakyCobra/gws](https://github.com/StreakyCobra/gws) - Colorful KISS helper for git workspaces
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
+- [appieasahbie/okp4](https://github.com/appieasahbie/okp4) - 
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts directly from Git repositories
 - [changyuheng/git-fast-forward-all-branches](https://github.com/changyuheng/git-fast-forward-all-branches) - 
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
