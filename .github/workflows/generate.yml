@@ -1,4 +1,4 @@
-name: "build"
+name: "Generate"
 on:
   push:
     branches:
