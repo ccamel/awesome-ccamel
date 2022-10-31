@@ -412,6 +412,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [genjidb/genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [github/go-fault](https://github.com/github/go-fault) - Fault injection library in Go using standard http middleware
 - [gjongenelen/eh-mongodb](https://github.com/gjongenelen/eh-mongodb) - Improved MongoDB driver for Event Horizon
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
@@ -1180,6 +1181,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wikimedia/eventgate](https://github.com/wikimedia/eventgate) - Library and HTTP Service for validating JSONSchema events and producing them (to Kafka or elsewhere)
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
 - [yelouafi/petit-dom](https://github.com/yelouafi/petit-dom) - minimalist virtual dom library
+- [yisar/asta](https://github.com/yisar/asta) - :octopus: Resumable SSR framework.
 
 ## Jupyter Notebook
 
@@ -1649,6 +1651,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). Unopinionated and heavily updated fork of react-signature-pad
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
+- [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [apicollective/graphql-rest-proxy](https://github.com/apicollective/graphql-rest-proxy) - 
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Tooling for development and production Apollo workflows
