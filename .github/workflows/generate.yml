@@ -9,7 +9,7 @@ env:
   username: ccamel
 
 jobs:
-  build:
+  generate-readme:
     runs-on: ubuntu-22.04
     steps:
       - name: Check out repository
