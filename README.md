@@ -229,6 +229,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library that offers functional programming in Go using generics
 - [BrianWill/pigeon](https://github.com/BrianWill/pigeon) - Compiler of Pigeon (my educational programming language) to Golang.
 - [Chainflow/cosmos-validator-mission-control](https://github.com/Chainflow/cosmos-validator-mission-control) - Cosmos validator mission control monitoring and alerting tool.
+- [ChihuahuaChain/chihuahua](https://github.com/ChihuahuaChain/chihuahua) - chihuahuad binary repository
 - [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 - [CosmWasm/cosmwasm-go](https://github.com/CosmWasm/cosmwasm-go) - Enabling CosmWasm smart contracts in Go using TinyGo
 - [CosmWasm/wasmd](https://github.com/CosmWasm/wasmd) - Basic cosmos-sdk app with web assembly smart contracts
@@ -1199,6 +1200,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [andrewinci/Insulator](https://github.com/andrewinci/Insulator) - A client UI to inspect Kafka topics, consume, produce and much more
 - [apollographql/apollo-kotlin](https://github.com/apollographql/apollo-kotlin) - :robot:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
 - [arrow-kt/arrow](https://github.com/arrow-kt/arrow) - Λrrow - Functional companion to Kotlin's Standard Library
+- [arrow-kt/arrow-meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler
 - [atlassian-labs/nadel](https://github.com/atlassian-labs/nadel) - A GraphQL execution engine for distributed schemas
 - [cbeust/klaxon](https://github.com/cbeust/klaxon) - A JSON parser for Kotlin
 - [cbeust/konfig](https://github.com/cbeust/konfig) - A statically typed configuration library for Kotlin
@@ -1441,6 +1443,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [okp4/contracts](https://github.com/okp4/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
+- [okp4/discord-bot](https://github.com/okp4/discord-bot) - 🤖 Discord bot used @okp4 to bridge the Dataverse!
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust
 - [osmosis-labs/cw-minimal-template](https://github.com/osmosis-labs/cw-minimal-template) - A minimal CosmWasm template
