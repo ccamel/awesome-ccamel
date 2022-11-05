@@ -612,7 +612,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [okp4/cosmos-faucet](https://github.com/okp4/cosmos-faucet) - 🚰 CØSMOS Faucet backend implementation
-- [okp4/okp4d](https://github.com/okp4/okp4d) - ⛓️ Open Knowledge Protocol For...
+- [okp4/okp4d](https://github.com/okp4/okp4d) - ⛓️ OKP4 blockchain 💫
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
 - [oliamb/cutter](https://github.com/oliamb/cutter) - Crop images in Golang
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -1119,6 +1119,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/follow-contributor-action](https://github.com/okp4/follow-contributor-action) - Github action to follow a contributor.
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [orbitdb/orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-Only Log database for orbit-db
+- [outerbounds/nbdoc-docusaurus](https://github.com/outerbounds/nbdoc-docusaurus) - Create testable, reproduceable documentation with Jupyter notebooks
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
@@ -1427,7 +1428,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Example IBC enabled contracts along with full stack integration tests
 - [confio/poe-contracts](https://github.com/confio/poe-contracts) - Tgrade PoE smart contracts
-- [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template suitable for new Rust 2021 edition projects with cargo-make/rustfmt/rust-clippy.
+- [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template suitable for new Rust 2021 Edition projects with cargo-make/rustfmt/rust-clippy.
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
@@ -1483,7 +1484,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BraveUX/for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties. 
-- [okp4/docs](https://github.com/okp4/docs) - 📚 ØKP4 documentation portal (built with Docusaurus).
+- [okp4/docs](https://github.com/okp4/docs) - 📜 OKP4 documentation portal (built with Docusaurus).
 - [oschrenk/scrumoji](https://github.com/oschrenk/scrumoji) - An emoji guide for your scrum ceremonies
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
@@ -1580,6 +1581,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [oh-my-fish/theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
 - [ovrclk/awesome-akash](https://github.com/ovrclk/awesome-akash) - Awesome List of Akash Deployment Examples
+- [ovrclk/cosmos-omnibus](https://github.com/ovrclk/cosmos-omnibus) - 
 - [pgexperts/pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
 - [plantuml-stdlib/plantuml-kubernetes-sprites](https://github.com/plantuml-stdlib/plantuml-kubernetes-sprites) - PlantUML sprites generated from the kubernetes-icons
 - [please-openit/oidc-bash-client](https://github.com/please-openit/oidc-bash-client) - a bash openid connect client
@@ -1631,7 +1633,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
 - [CosmWasm/CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS) - Source of the cosmwasm npm package
 - [CosmWasm/mesh-security-ui](https://github.com/CosmWasm/mesh-security-ui) - Basic UI to try out mesh security
-- [CosmWasm/ts-codegen](https://github.com/CosmWasm/ts-codegen) - @cosmwasm/ts-codegen converts your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.
+- [CosmWasm/ts-codegen](https://github.com/CosmWasm/ts-codegen) - Convert your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
 - [DomParfitt/graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
@@ -1743,7 +1745,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
-- [okp4/nemeton-web](https://github.com/okp4/nemeton-web) - 🧙‍♂️ The landing page repository for the Nemeton Program
+- [okp4/nemeton-web](https://github.com/okp4/nemeton-web) - 🧙‍♂️ The landing page repository for the Nemeton Program! 🔥
 - [okp4/portal-web](https://github.com/okp4/portal-web) - 🔭 Portal Web App for the ØKP4 network.
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
