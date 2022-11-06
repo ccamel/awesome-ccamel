@@ -283,9 +283,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apache/camel-k](https://github.com/apache/camel-k) - Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers
 - [araddon/qlbridge](https://github.com/araddon/qlbridge) - A golang expression evaluator & Library to build SQL query engine based functionality. 
 - [archway-network/cosmologger](https://github.com/archway-network/cosmologger) - Cosmologger listens to the NewBlock and TX events of a cosmos based network and logs the acquire information in a database for further usage.
-- [argoproj-labs/argo-dataflow](https://github.com/argoproj-labs/argo-dataflow) - Dataflow is a Kubernetes-native platform for executing large parallel data-processing pipelines.
 - [argoproj-labs/argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
 - [argoproj-labs/argocd-operator](https://github.com/argoproj-labs/argocd-operator) - A Kubernetes operator for managing Argo CD clusters.
+- [argoproj-labs/old-argo-dataflow](https://github.com/argoproj-labs/old-argo-dataflow) - Dataflow is a Kubernetes-native platform for executing large parallel data-processing pipelines.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven automation framework
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
@@ -1390,6 +1390,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms) - REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals. 
 - [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
 - [ansoni/fluent-plugin-json-schema-filter](https://github.com/ansoni/fluent-plugin-json-schema-filter) - Fluentd plugin to ensure that an inbound record validates to a well-defined schema
+- [benjamin-thomas/hot_elm](https://github.com/benjamin-thomas/hot_elm) - Rails integration with Elm + Hotwire + Stimulus demo
 - [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [demarches-simplifiees/demarches-simplifiees.fr](https://github.com/demarches-simplifiees/demarches-simplifiees.fr) - Dématérialiser et simplifier les démarches administratives 
@@ -1841,6 +1842,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
+- [SmartStake/relayers](https://github.com/SmartStake/relayers) - A repository of all interchain relayers (IBC). Data stored in this repository is used to build https://relayers.smartstake.io
 - [SonnevilleDamien/SonnevilleDamien](https://github.com/SonnevilleDamien/SonnevilleDamien) - My profile. 
 - [Symbitic/awesome-babylonjs](https://github.com/Symbitic/awesome-babylonjs) - A curated list of awesome things related to Babylon.js
 - [Thyb0rg/Cosmos-Validators-League](https://github.com/Thyb0rg/Cosmos-Validators-League) - 
