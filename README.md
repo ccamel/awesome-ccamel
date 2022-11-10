@@ -671,6 +671,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rogerwelin/cassowary](https://github.com/rogerwelin/cassowary) - :rocket: Modern cross-platform HTTP load-testing tool written in Go
 - [rs/jaggr](https://github.com/rs/jaggr) - JSON Aggregation CLI
 - [rs/jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
+- [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [rumlang/rum](https://github.com/rumlang/rum) - Functional language, easily extensible and possible (Lua features with LISP dialect and functional) to be embarked on software Go!
 - [ryboe/q](https://github.com/ryboe/q) - Quick and dirty debugging output for tired Go programmers
@@ -1086,7 +1087,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
-- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [jlouis/graphql-erlang-tutorial](https://github.com/jlouis/graphql-erlang-tutorial) - A tutorial for the graphql-erlang system
 - [jluccisano/webpack-es6-boilerplate](https://github.com/jluccisano/webpack-es6-boilerplate) - A Minimal Webpack ES6 boilerplate web application
 - [jonschlinkert/gh-stars](https://github.com/jonschlinkert/gh-stars) - API and CLI for getting the stars for one or more GitHub users or organizations.
@@ -1439,7 +1439,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [kangalioo/poise](https://github.com/kangalioo/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
-- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
+- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
@@ -1476,6 +1476,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [zwilias/elm-json](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
@@ -1697,6 +1698,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [empowerchain/empowerchain](https://github.com/empowerchain/empowerchain) - 
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
 - [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [fathyb/parcel-plugin-angular](https://github.com/fathyb/parcel-plugin-angular) - Complete Angular support for Parcel
@@ -1728,6 +1730,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ingvaar/beauf-net-front](https://github.com/ingvaar/beauf-net-front) - A simple quote website frontend built using React
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [iroiro/iroiro](https://github.com/iroiro/iroiro) - 
+- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [joonhocho/graphql-scalar](https://github.com/joonhocho/graphql-scalar) - Configurable custom GraphQL Scalars (string, number, date, etc) with sanitization / validation / transformation in TypeScript.
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
