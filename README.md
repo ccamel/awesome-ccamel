@@ -250,6 +250,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [KYVENetwork/chain](https://github.com/KYVENetwork/chain) - ⛓ The security layer for the KYVE protocol.
 - [KiFoundation/ki-tools](https://github.com/KiFoundation/ki-tools) - Tools for the Kichain
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
+- [LambdaIM/lambdavm](https://github.com/LambdaIM/lambdavm) - docs: https://docs.lambda.im/
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [Nodeist/Kurulumlar](https://github.com/Nodeist/Kurulumlar) - Includes setup tutorials for active testnets.
@@ -261,6 +262,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ShentuChain/shentu](https://github.com/ShentuChain/shentu) - A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains
 - [Shyp/generate-tls-cert](https://github.com/Shyp/generate-tls-cert) - Generating self signed certificates
 - [SimonSchneider/traefik-jwt-decode](https://github.com/SimonSchneider/traefik-jwt-decode) - Traefik forward auth implementation for JWT tokens
+- [TERITORI/teritori-chain](https://github.com/TERITORI/teritori-chain) - Teritori chain repository based on Cosmos SDK
 - [TIBCOSoftware/flogo-contrib](https://github.com/TIBCOSoftware/flogo-contrib) - Flogo Contribution repo. Contains activities, triggers, models and actions.
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
@@ -1070,7 +1072,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [frender-rs/frender](https://github.com/frender-rs/frender) - react in rust with fully typed functional components
 - [frintjs/frint](https://github.com/frintjs/frint) - Modular JavaScript framework for building scalable and reactive applications
 - [gatewayapps/react-adaptivecards](https://github.com/gatewayapps/react-adaptivecards) - A react wrapper for microsoft/adaptivecards
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [gocli/go-cli](https://github.com/gocli/go-cli) - Create and use boilerplates with ease
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
@@ -1565,6 +1567,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [appieasahbie/okp4](https://github.com/appieasahbie/okp4) - 
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts directly from Git repositories
 - [changyuheng/git-fast-forward-all-branches](https://github.com/changyuheng/git-fast-forward-all-branches) - 
+- [cyberomanov/status](https://github.com/cyberomanov/status) - status & alarm log with bash and telegram bot.
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
@@ -1830,6 +1833,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [AAkira/Kotlin-Multiplatform-Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) - Kotlin Multiplatform Libraries. Welcome PR if you find or create new Kotlin Multiplatform Library.
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
+- [BccNodes/BccNodes](https://github.com/BccNodes/BccNodes) - 
 - [BccNodes/okp4-nemeton-testnet](https://github.com/BccNodes/okp4-nemeton-testnet) - 
 - [CosmWasm/cw-awesome](https://github.com/CosmWasm/cw-awesome) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
 - [Cour-de-cassation/moteurNER](https://github.com/Cour-de-cassation/moteurNER) - communication sur le moteur de pseudonymisation de la Cour de Cassation
