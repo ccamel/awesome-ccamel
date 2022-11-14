@@ -771,7 +771,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner) - A toolkit helps upload files to IPFS pinning services.
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
-- [wercker/stern](https://github.com/wercker/stern) - ⎈ Multi pod and container log tailing for Kubernetes
 - [whyrusleeping/ipfs-key](https://github.com/whyrusleeping/ipfs-key) - A program to generate ipfs private keys
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
 - [xitonix/trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka
@@ -1798,6 +1797,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [tonai/storybook-addon-themes](https://github.com/tonai/storybook-addon-themes) - 
+- [trackawesomelist/trackawesomelist-source](https://github.com/trackawesomelist/trackawesomelist-source) - Track Awesome List Source Code, build with Deno.
 - [typeguard/awesome-typed-datasets](https://github.com/typeguard/awesome-typed-datasets) - Awesome types in many languages for popular, open data sets.
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 - [uport-project/ethr-did](https://github.com/uport-project/ethr-did) - Create ethr DIDs
