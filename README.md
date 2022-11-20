@@ -778,7 +778,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xorcare/golden](https://github.com/xorcare/golden) - Package golden testing with golden files in Go. A golden file is the expected output of test, stored as a separate file rather than as a string literal inside the test code.
 - [xrstf/github_exporter](https://github.com/xrstf/github_exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
 - [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
-- [yohamta/dagu](https://github.com/yohamta/dagu) - A just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [yohamta/dagu](https://github.com/yohamta/dagu) - Just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [yohamta/donburi](https://github.com/yohamta/donburi) - Just another ECS library for Ebitengine
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
@@ -830,6 +830,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+- [minoki/purescript-tsd-gen](https://github.com/minoki/purescript-tsd-gen) - TypeScript Declaration File (.d.ts) generator for PureScript
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [tfausak/rampart](https://github.com/tfausak/rampart) - :european_castle: Determine how intervals relate to each other.
 - [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
@@ -1102,7 +1103,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lambdamusic/Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models aka ontologies.
 - [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 - [lensesio/kafka-topics-ui](https://github.com/lensesio/kafka-topics-ui) - Web Tool for Kafka Topics  | 
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ltearno/pom-explorer](https://github.com/ltearno/pom-explorer) - A tool to aid managing lots of maven projects
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
 - [m0t0k1ch1/ERC721-token-sample](https://github.com/m0t0k1ch1/ERC721-token-sample) - a sample implementation of ERC721 (CryptoKitties ver.)
