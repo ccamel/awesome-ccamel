@@ -641,7 +641,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - [palomachain/paloma](https://github.com/palomachain/paloma) - The fast blockchain messenger protocol
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - The most accurate natural language detection library for Go, suitable for long and short text alike
 - [persistenceOne/persistenceCore](https://github.com/persistenceOne/persistenceCore) - Project implementing an application for the Persistence Core chain that all the other chains in the ecosystem connect to as a raised and open moderator for interoperability, shared security, and as a gateway to other ecosystems and chains.
 - [phayes/freeport](https://github.com/phayes/freeport) - Get a free and open tcp port that is ready to use
 - [phcollignon/Go-Template](https://github.com/phcollignon/Go-Template) - Go Template examples and code generator
@@ -839,7 +839,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [minoki/purescript-tsd-gen](https://github.com/minoki/purescript-tsd-gen) - TypeScript Declaration File (.d.ts) generator for PureScript
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [tfausak/rampart](https://github.com/tfausak/rampart) - :european_castle: Determine how intervals relate to each other.
-- [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
+- [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
 
 ## Java
 
@@ -873,7 +873,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak
 - [agliznetsov/cache-demo](https://github.com/agliznetsov/cache-demo) - 
 - [agliznetsov/crud](https://github.com/agliznetsov/crud) - A framework to create REST APIs in Java
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration pipelines from APIs, databases & files to warehouses & lakes.
 - [aiven/prometheus-exporter-plugin-for-opensearch](https://github.com/aiven/prometheus-exporter-plugin-for-opensearch) - Prometheus exporter plugin for OpenSearch
 - [ananas-analytics/ananas-desktop](https://github.com/ananas-analytics/ananas-desktop) - A hackable data integration & analysis tool to enable non technical users to edit data processing jobs and visualise data on demand.
 - [andreschaffer/event-sourcing-cqrs-examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - Event Sourcing and CQRS in practice.
