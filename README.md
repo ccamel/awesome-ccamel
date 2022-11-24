@@ -255,7 +255,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [LambdaIM/lambdavm](https://github.com/LambdaIM/lambdavm) - docs: https://docs.lambda.im/
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
-- [Nodeist/Kurulumlar](https://github.com/Nodeist/Kurulumlar) - Includes setup tutorials for active testnets.
 - [ODIN-PROTOCOL/odin-core](https://github.com/ODIN-PROTOCOL/odin-core) - Odin blockchain reference implementation
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [Orange-OpenSource/nifikop](https://github.com/Orange-OpenSource/nifikop) - The NiFiKop NiFi Kubernetes operator makes it easy to run Apache NiFi on Kubernetes. Apache NiFI is a free, open-source solution that support powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
@@ -617,7 +616,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [okp4/cosmos-faucet](https://github.com/okp4/cosmos-faucet) - 🚰 CØSMOS Faucet backend implementation
+- [okp4/github-exporter](https://github.com/okp4/github-exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
+- [okp4/go-bitsong](https://github.com/okp4/go-bitsong) - :rocket: Official BitSong Blockchain Implementation in Go
 - [okp4/okp4d](https://github.com/okp4/okp4d) - ⛓️ OKP4 blockchain 💫
+- [okp4/template-go](https://github.com/okp4/template-go) - 🖨 Template for Golang projects @okp4.
+- [okp4/tendermint](https://github.com/okp4/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
 - [oliamb/cutter](https://github.com/oliamb/cutter) - Crop images in Golang
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -952,6 +955,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics...
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 - [okayrunner/piper](https://github.com/okayrunner/piper) - piper - a distributed workflow engine
+- [okp4/Widoco](https://github.com/okp4/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.
 - [ooxi/jdatauri](https://github.com/ooxi/jdatauri) - Simple and well tested one file Java data URI parser
 - [opendatalab-de/geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) - GeoJson POJOs for Jackson - serialize and deserialize objects with ease
 - [openhab/openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB
@@ -1122,6 +1126,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [octoherd/script-star-or-unstar](https://github.com/octoherd/script-star-or-unstar) - An octoherd script to add or remove star
 - [okp4/eslint-config-okp4](https://github.com/okp4/eslint-config-okp4) - 📜 ESLint shareable config used @okp4
 - [okp4/follow-contributor-action](https://github.com/okp4/follow-contributor-action) - Github action to follow a contributor.
+- [okp4/ping-pub-explorer](https://github.com/okp4/ping-pub-explorer) - A light explorer for Cosmos-based Blockchains.
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [orbitdb/orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-Only Log database for orbit-db
 - [outerbounds/nbdoc-docusaurus](https://github.com/outerbounds/nbdoc-docusaurus) - Create testable, reproduceable documentation with Jupyter notebooks
@@ -1231,7 +1236,12 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [madhead/doktor](https://github.com/madhead/doktor) - Jenkins plugin for automated documentation uploading to Confluence [Mirror]
 - [michaelbull/kotlin-retry](https://github.com/michaelbull/kotlin-retry) - A higher-order function for retrying operations that may fail.
 - [mirego/trikot.streams](https://github.com/mirego/trikot.streams) - Reactive Streams for Kotlin Multiplatform with mutability checks
+- [okp4/kafka-connector-cosmos](https://github.com/okp4/kafka-connector-cosmos) - Kafka Connect connector for CØSMOS based blockchains.
+- [okp4/kafka-processor-cosmos-block](https://github.com/okp4/kafka-processor-cosmos-block) - Kafka Streams Processor to unwrap CØSMOS blocks into CØSMOS transactions
+- [okp4/kafka-processor-cosmos-tx-dispatch](https://github.com/okp4/kafka-processor-cosmos-tx-dispatch) - Kafka Streams Processor to dispatch protobuf encoded CØSMOS transactions in topics depending on routing rules
+- [okp4/kafka-processor-cosmos-tx-proto2json](https://github.com/okp4/kafka-processor-cosmos-tx-proto2json) - Kafka Streams Processor to decode protobuf encoded CØSMOS transactions into a JSON representation
 - [okp4/okp4-cosmos-proto](https://github.com/okp4/okp4-cosmos-proto) - OKP4 CØSMOS gRPC client libraries based on Protobuf definitions.
+- [okp4/template-kafka-processor](https://github.com/okp4/template-kafka-processor) - 🖨  Template for Kafka processor projects @okp4.
 - [perwendel/spark-kotlin](https://github.com/perwendel/spark-kotlin) - A Spark DSL in idiomatic kotlin // dependency: com.sparkjava:spark-kotlin:1.0.0-alpha
 - [pgutkowski/KGraphQL](https://github.com/pgutkowski/KGraphQL) - Pure Kotlin GraphQL implementation
 - [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
@@ -1454,6 +1464,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [okp4/contracts](https://github.com/okp4/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
+- [okp4/cosmos-rust](https://github.com/okp4/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [okp4/discord-bot](https://github.com/okp4/discord-bot) - 🤖 Discord bot used @okp4 to bridge the Dataverse!
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust
@@ -1567,6 +1578,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [International-Data-Spaces-Association/InformationModel](https://github.com/International-Data-Spaces-Association/InformationModel) - The Information Model of the International Data Spaces implements the IDS reference architecture as an extensible, machine readable and technology independent data model.
 - [L0vd/OKP4](https://github.com/L0vd/OKP4) - 
 - [Megavolv/okp4d-auto-rewards](https://github.com/Megavolv/okp4d-auto-rewards) - OKP4 script for reinvest rewards automatically
+- [Nodeist/Kurulumlar](https://github.com/Nodeist/Kurulumlar) - Includes setup tutorials for active testnets.
 - [PotatoLabs/git-redate](https://github.com/PotatoLabs/git-redate) - Change the dates of several git commits with a single command
 - [RubieV/plugin-fuck](https://github.com/RubieV/plugin-fuck) - Execute last command as root in fish
 - [ScaCap/action-ktlint](https://github.com/ScaCap/action-ktlint) - Run Ktlint with reviewdog
@@ -1762,6 +1774,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
 - [okp4/nemeton-web](https://github.com/okp4/nemeton-web) - 🧙‍♂️ The landing page repository for the Nemeton Program! 🔥
+- [okp4/nodejumper](https://github.com/okp4/nodejumper) - Nodejumper web app is a multi tool for cosmos based networks.
 - [okp4/portal-web](https://github.com/okp4/portal-web) - 🔭 Portal Web App for the ØKP4 network.
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
@@ -1962,7 +1975,12 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nikolay-martynov/eip-for-plantuml](https://github.com/nikolay-martynov/eip-for-plantuml) - Library of EIP sprites for PlantUML
 - [okp4/.github](https://github.com/okp4/.github) - OKP4 GitHub Organization-wide files
 - [okp4/actions](https://github.com/okp4/actions) - 🏭 Repository for sharing our Github CI/CD workflows 
+- [okp4/awesome](https://github.com/okp4/awesome) - 🕶 List of public resources, documents, and tools for OKP4. 
+- [okp4/awesome-design-systems](https://github.com/okp4/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
+- [okp4/cosmos-awesome](https://github.com/okp4/cosmos-awesome) - Collection of Cosmos related resources
 - [okp4/publications](https://github.com/okp4/publications) - 📚 Official publications (slides, papers, ...) from OKP4
+- [okp4/template-oss](https://github.com/okp4/template-oss) - 🖨 Template for opensource projects @okp4
+- [okp4/wiki](https://github.com/okp4/wiki) - 📚 Wiki for technical documentation
 - [omniti-labs/jsend](https://github.com/omniti-labs/jsend) - JSend is a specification for a simple, no-frills, JSON based format for application-level communication.
 - [ontology-tech/DID-method-specs](https://github.com/ontology-tech/DID-method-specs) - 
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
