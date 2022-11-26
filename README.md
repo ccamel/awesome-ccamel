@@ -555,6 +555,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
 - [kylelemons/godebug](https://github.com/kylelemons/godebug) - Debugging helper utilities for Go
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [lacion/iothub](https://github.com/lacion/iothub) - IoT Hub for things
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
 - [letiantech/hotplugin](https://github.com/letiantech/hotplugin) - golang plugin framework for hot update
@@ -775,10 +776,12 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner) - A toolkit helps upload files to IPFS pinning services.
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [whyrusleeping/ipfs-key](https://github.com/whyrusleeping/ipfs-key) - A program to generate ipfs private keys
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
+- [wrouesnel/badgeserv](https://github.com/wrouesnel/badgeserv) - No-Nonsense badge generator service. Ideal for on-premises hosting!
 - [xitonix/trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka
 - [xo/dburl](https://github.com/xo/dburl) - Package dburl provides a standard, URL style mechanism for parsing and opening SQL database connection strings
 - [xorcare/golden](https://github.com/xorcare/golden) - Package golden testing with golden files in Go. A golden file is the expected output of test, stored as a separate file rather than as a string literal inside the test code.
@@ -908,7 +911,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 - [dvoraka/av-service](https://github.com/dvoraka/av-service) - Network file service with replication and anti-virus checking
-- [eclipse-dataspaceconnector/DataSpaceConnector](https://github.com/eclipse-dataspaceconnector/DataSpaceConnector) - DataspaceConnector project
+- [eclipse-dataspacecomponents/DataSpaceConnector](https://github.com/eclipse-dataspacecomponents/DataSpaceConnector) - DataspaceConnector project
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [eventuate-examples/eventuate-examples-java-customers-and-orders](https://github.com/eventuate-examples/eventuate-examples-java-customers-and-orders) - Java version of the Customers and Orders event sourcing example from my presentations
@@ -1031,6 +1034,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [assemblee-virtuelle/Semantic-Bus](https://github.com/assemblee-virtuelle/Semantic-Bus) - object flow treatment,  data transformation
 - [atmoner/cosmos-faucet](https://github.com/atmoner/cosmos-faucet) - Cosmos-faucet is a simple alternative to the tendermint/faucet script
 - [axept/open-parse](https://github.com/axept/open-parse) - Get RESTful API to your data store, schemas, users and security management and bring up your own BaaS in a few minutes
+- [badgen/badgen](https://github.com/badgen/badgen) - Fast handcraft svg badge generator.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [battila7/get-version-action](https://github.com/battila7/get-version-action) - A GitHub Action which extracts the version from github.ref
 - [bgoonz/Markdown-Templates](https://github.com/bgoonz/Markdown-Templates) - 
@@ -1426,6 +1430,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Rust
 
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
+- [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [Callum-A/whoami-paths](https://github.com/Callum-A/whoami-paths) - 
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK
 - [CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts) - Examples and helpers to build NFT contracts on CosmWasm
@@ -1678,6 +1683,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [SINTEF-9012/PruneCluster](https://github.com/SINTEF-9012/PruneCluster) - Fast and realtime marker clustering for Leaflet
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
+- [Terran-One/cosmwasm-as](https://github.com/Terran-One/cosmwasm-as) - CosmWasm contracts in AssemblyScript (experiment) 
 - [Urigo/graphql-mesh](https://github.com/Urigo/graphql-mesh) - GraphQL Mesh — Query anything, run anywhere
 - [Urigo/graphql-scalars](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
 - [VisionsOfficial/Human-Centric-Rulebook](https://github.com/VisionsOfficial/Human-Centric-Rulebook) - Service Registry project description (TBD)
@@ -1975,6 +1981,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mundimark/awesome-markdown-alternatives](https://github.com/mundimark/awesome-markdown-alternatives) - A collection of awesome light-weight markup markdown alternatives 
 - [near/borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing
 - [nikolay-martynov/eip-for-plantuml](https://github.com/nikolay-martynov/eip-for-plantuml) - Library of EIP sprites for PlantUML
+- [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) - A curated list of awesome Web Components tools, articles and resources.
 - [okp4/.github](https://github.com/okp4/.github) - OKP4 GitHub Organization-wide files
 - [okp4/actions](https://github.com/okp4/actions) - 🏭 Repository for sharing our Github CI/CD workflows 
 - [okp4/awesome](https://github.com/okp4/awesome) - 🕶 List of public resources, documents, and tools for OKP4. 
