@@ -278,6 +278,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go
 - [achiku/planter](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
 - [aevea/commitsar](https://github.com/aevea/commitsar) - Tool to check that commits comply with conventional commit standard
+- [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs+parallel)
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter) - DEPRECATED: Use https://github.com/golangci/golangci-lint
@@ -624,6 +625,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/cosmos-sdk](https://github.com/okp4/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [okp4/github-exporter](https://github.com/okp4/github-exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
 - [okp4/go-bitsong](https://github.com/okp4/go-bitsong) - :rocket: Official BitSong Blockchain Implementation in Go
+- [okp4/nemeton-leaderboard](https://github.com/okp4/nemeton-leaderboard) - 🧙‍♂️ The Nemeton program leaderboard service 🏆
 - [okp4/okp4d](https://github.com/okp4/okp4d) - ⛓️ OKP4 blockchain 💫
 - [okp4/template-go](https://github.com/okp4/template-go) - 🖨 Template for Golang projects @okp4.
 - [okp4/tendermint](https://github.com/okp4/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
@@ -672,11 +674,13 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [qntfy/kazaam](https://github.com/qntfy/kazaam) - Arbitrary transformations of JSON in Golang
 - [quay/dba-operator](https://github.com/quay/dba-operator) - Kubernetes Operator that orchestrates relational database schema migrations
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+- [raviqqe/gherkin2markdown](https://github.com/raviqqe/gherkin2markdown) - Gherkin to Markdown converter
 - [rchakode/hugo-mx-gateway](https://github.com/rchakode/hugo-mx-gateway) - :mailbox_with_no_mail: :scroll: Contact/demo forms handler for static websites. Deploy in minutes on Google App Engine, Kubernetes, or Docker. Tested with Hugo static site generator.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [rcrowley/go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [red-gold/telar-social-go](https://github.com/red-gold/telar-social-go) - Telar Social Engine is a scalable cloud native social network. Whatever your creative idea or unique bussiness model, you can build it by Telar running on any public or private cloud.
 - [redpanda-data/kminion](https://github.com/redpanda-data/kminion) - KMinion is a feature-rich Prometheus exporter for Apache Kafka written in Go. It is lightweight and highly configurable so that it will meet your requirements.
+- [regen-network/regen-ledger](https://github.com/regen-network/regen-ledger) - :seedling: Blockchain for planetary regeneration
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [robinjoseph08/redisqueue](https://github.com/robinjoseph08/redisqueue) - redisqueue provides a producer and consumer of a queue that uses Redis streams
@@ -1437,6 +1441,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Rust
 
+- [AleoHQ/leo](https://github.com/AleoHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [Callum-A/whoami-paths](https://github.com/Callum-A/whoami-paths) - 
