@@ -623,6 +623,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [okp4/cosmos-faucet](https://github.com/okp4/cosmos-faucet) - 🚰 CØSMOS Faucet backend implementation
 - [okp4/cosmos-sdk](https://github.com/okp4/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
+- [okp4/github-actions-exporter](https://github.com/okp4/github-actions-exporter) - github-actions-exporter for prometheus
 - [okp4/github-exporter](https://github.com/okp4/github-exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
 - [okp4/go-bitsong](https://github.com/okp4/go-bitsong) - :rocket: Official BitSong Blockchain Implementation in Go
 - [okp4/nemeton-leaderboard](https://github.com/okp4/nemeton-leaderboard) - 🧙‍♂️ The Nemeton program leaderboard service 🏆
@@ -738,6 +739,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [textileio/go-did-resolver](https://github.com/textileio/go-did-resolver) - Universal did-resolver for Go environments
 - [tgres/tgres](https://github.com/tgres/tgres) - Time Series in Go and PostgreSQL
+- [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [thani-sh/go-graphiql](https://github.com/thani-sh/go-graphiql) - Go http handler to serve the graphiql in-browser IDE
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
@@ -1591,7 +1593,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Shell
 
-- [2-alchemists/krossboard](https://github.com/2-alchemists/krossboard) - 📊 Krossboard is a Mult-cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
+- [2-alchemists/krossboard](https://github.com/2-alchemists/krossboard) - 📊 Krossboard is a Multi-cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
 - [AlexsJones/kubernetes-nifi-cluster](https://github.com/AlexsJones/kubernetes-nifi-cluster) - Apache Nifi cluster running in kubernetes
 - [CosmWasm/testnets](https://github.com/CosmWasm/testnets) - Information on all public CosmWasm testnets
 - [DP-3T/documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
