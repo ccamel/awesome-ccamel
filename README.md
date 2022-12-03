@@ -849,6 +849,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+- [madnight/asciichart](https://github.com/madnight/asciichart) - ASCII line charts in terminal ╭┈╯ Haskell port of kroitor/asciichart
 - [minoki/purescript-tsd-gen](https://github.com/minoki/purescript-tsd-gen) - TypeScript Declaration File (.d.ts) generator for PureScript
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [tfausak/rampart](https://github.com/tfausak/rampart) - :european_castle: Determine how intervals relate to each other.
@@ -1601,7 +1602,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [International-Data-Spaces-Association/InformationModel](https://github.com/International-Data-Spaces-Association/InformationModel) - The Information Model of the International Data Spaces implements the IDS reference architecture as an extensible, machine readable and technology independent data model.
 - [L0vd/OKP4](https://github.com/L0vd/OKP4) - 
 - [Megavolv/okp4d-auto-rewards](https://github.com/Megavolv/okp4d-auto-rewards) - OKP4 script for reinvest rewards automatically
-- [Nodeist/Kurulumlar](https://github.com/Nodeist/Kurulumlar) - Includes setup tutorials for active testnets.
 - [PotatoLabs/git-redate](https://github.com/PotatoLabs/git-redate) - Change the dates of several git commits with a single command
 - [RubieV/plugin-fuck](https://github.com/RubieV/plugin-fuck) - Execute last command as root in fish
 - [ScaCap/action-ktlint](https://github.com/ScaCap/action-ktlint) - Run Ktlint with reviewdog
@@ -1885,6 +1885,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BccNodes/okp4-nemeton-testnet](https://github.com/BccNodes/okp4-nemeton-testnet) - 
 - [CosmWasm/awesome-cosmwasm](https://github.com/CosmWasm/awesome-cosmwasm) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
 - [Cour-de-cassation/moteurNER](https://github.com/Cour-de-cassation/moteurNER) - communication sur le moteur de pseudonymisation de la Cour de Cassation
+- [DGKSK8LIFE/go-copilot](https://github.com/DGKSK8LIFE/go-copilot) - Github Copilot examples with Go
 - [Dimokus88/OkP4](https://github.com/Dimokus88/OkP4) - Node OkP4 on Akash Network | Нода OkP4 на Akash Network
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
