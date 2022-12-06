@@ -302,6 +302,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [asaskevich/EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
+- [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) - Go linter for forbidding identifiers
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -890,7 +891,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [agliznetsov/cache-demo](https://github.com/agliznetsov/cache-demo) - 
 - [agliznetsov/crud](https://github.com/agliznetsov/crud) - A framework to create REST APIs in Java
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
-- [aiven/prometheus-exporter-plugin-for-opensearch](https://github.com/aiven/prometheus-exporter-plugin-for-opensearch) - Prometheus exporter plugin for OpenSearch
+- [aiven/prometheus-exporter-plugin-for-opensearch](https://github.com/aiven/prometheus-exporter-plugin-for-opensearch) - Prometheus exporter plugin for OpenSearch & OpenSearch Mixin
 - [ananas-analytics/ananas-desktop](https://github.com/ananas-analytics/ananas-desktop) - A hackable data integration & analysis tool to enable non technical users to edit data processing jobs and visualise data on demand.
 - [andreschaffer/event-sourcing-cqrs-examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - Event Sourcing and CQRS in practice.
 - [anthonynsimon/jurl](https://github.com/anthonynsimon/jurl) - Fast and simple URL parsing for Java, with UTF-8 and path resolving support
@@ -1461,6 +1462,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
+- [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
 - [RedStoneCoin/redstone-rs](https://github.com/RedStoneCoin/redstone-rs) - Redstone Project is a p2p custom blockchain implementation, comprised of a network of interconnected sub-chains for better speed and scalability.
 - [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
@@ -1618,7 +1620,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [ibiqlik/action-yamllint](https://github.com/ibiqlik/action-yamllint) - GitHub Action - Yaml Lint
@@ -1768,6 +1769,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments. 
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub action for golangci-lint from its authors
 - [google/semantic-release-replace-plugin](https://github.com/google/semantic-release-replace-plugin) - Update version strings with semantic-release.
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [graphql-compose/graphql-compose-elasticsearch](https://github.com/graphql-compose/graphql-compose-elasticsearch) - Hide Elastic Search REST API behind GraphQL.
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
