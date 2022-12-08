@@ -708,6 +708,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [segmentio/topicctl](https://github.com/segmentio/topicctl) - Tool for declarative management of Kafka topics
 - [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - vector search engine
 - [seznam/slo-exporter](https://github.com/seznam/slo-exporter) - Slo-exporter computes standardized SLI and SLO metrics based on events coming from various data sources.
+- [sge-network/sge](https://github.com/sge-network/sge) - 
 - [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) - An example for building event-driven distributed systems and microservices in Go with NATS JetStream, gRPC and CockroachDB 
 - [shurcooL/graphql](https://github.com/shurcooL/graphql) - Package graphql provides a GraphQL client implementation.
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
@@ -1164,7 +1165,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [pyvandenbussche/lov](https://github.com/pyvandenbussche/lov) - Linked Open Vocabularies (LOV) - FrontEnd
-- [rahuldkjain/minimal-portfolio](https://github.com/rahuldkjain/minimal-portfolio) - 💪 A clean, minimal, responsive, and customizable portfolio template to showcase skills, experience, achievements, and favorites (movies & TVs).
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-theming/create-mui-theme](https://github.com/react-theming/create-mui-theme) - online tool for creating material-ui themes
@@ -1692,6 +1692,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
 - [DomParfitt/graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
+- [EmpowerPlastic/empowerchain](https://github.com/EmpowerPlastic/empowerchain) - 
 - [IvanGoncharov/graphql-lodash](https://github.com/IvanGoncharov/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
@@ -1716,6 +1717,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). Unopinionated and heavily updated fork of react-signature-pad
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
+- [angusjf/astro-integration-elm](https://github.com/angusjf/astro-integration-elm) - Server side rendering with hydration for Elm
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [apicollective/graphql-rest-proxy](https://github.com/apicollective/graphql-rest-proxy) - 
@@ -1751,7 +1753,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-- [empowerchain/empowerchain](https://github.com/empowerchain/empowerchain) - 
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
 - [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [fathyb/parcel-plugin-angular](https://github.com/fathyb/parcel-plugin-angular) - Complete Angular support for Parcel
@@ -1995,6 +1996,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lolottetheclash/lolottetheclash](https://github.com/lolottetheclash/lolottetheclash) - About me 
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 - [madnoder/okp4](https://github.com/madnoder/okp4) - 
+- [magnetikonline/action-golang-cache](https://github.com/magnetikonline/action-golang-cache) - GitHub Action bringing together actions/setup-go and actions/cache.
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
