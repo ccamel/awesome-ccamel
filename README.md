@@ -274,7 +274,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TERITORI/teritori-chain](https://github.com/TERITORI/teritori-chain) - Teritori chain repository based on Cosmos SDK
 - [TIBCOSoftware/flogo-contrib](https://github.com/TIBCOSoftware/flogo-contrib) - Flogo Contribution repo. Contains activities, triggers, models and actions.
 - [Team-Kujira/core](https://github.com/Team-Kujira/core) - 
-- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [Xe/olin](https://github.com/Xe/olin) - Webassembly + Event Sourcing
 - [Yamashou/gqlgenc](https://github.com/Yamashou/gqlgenc) - This is Go library for building GraphQL client with gqlgen
@@ -837,6 +837,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [VectorLogoZone/vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
 - [bfirsh/docker-redoc](https://github.com/bfirsh/docker-redoc) - A Docker image which serves ReDoc documentation
 - [ctco/spring-boot-graphql-template](https://github.com/ctco/spring-boot-graphql-template) - Spring Boot and GraphQL template project
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [james-fry/home-assistant-mdi](https://github.com/james-fry/home-assistant-mdi) - Index of Material Design Icons for Home Assistant
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -1977,7 +1978,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [erichard/awesome-gdpr](https://github.com/erichard/awesome-gdpr) - A curated list of GDPR-compliant tools for websites creators
 - [ethanfrey/ethanfrey](https://github.com/ethanfrey/ethanfrey) - 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
