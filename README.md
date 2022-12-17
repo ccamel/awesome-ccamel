@@ -257,6 +257,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [KYVENetwork/chain](https://github.com/KYVENetwork/chain) - ⛓ The security layer for the KYVE protocol.
+- [Kava-Labs/kava](https://github.com/Kava-Labs/kava) - DeFi for Crypto.
 - [KiFoundation/ki-tools](https://github.com/KiFoundation/ki-tools) - Tools for the Kichain
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
 - [LambdaIM/lambdavm](https://github.com/LambdaIM/lambdavm) - docs: https://docs.lambda.im/
