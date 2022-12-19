@@ -2085,6 +2085,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tuchk4/awesome-css-in-js](https://github.com/tuchk4/awesome-css-in-js) -  Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
+- [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps 
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [ykdojo/open-source-hiring](https://github.com/ykdojo/open-source-hiring) - A GitHub repo (and later a website) that lists job postings that are open at open source companies!
