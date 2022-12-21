@@ -210,6 +210,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Erlang
 
 - [adoptingerlang/service_discovery](https://github.com/adoptingerlang/service_discovery) - Adopting Erlang service discovery project
+- [aeternity/mnesia_rocksdb](https://github.com/aeternity/mnesia_rocksdb) - A RocksDB backend plugin for mnesia, based on mnesia_eleveldb
 - [basho/riak_cs](https://github.com/basho/riak_cs) - Riak CS is simple, available cloud storage built on Riak.
 - [boardwalk/erltest](https://github.com/boardwalk/erltest) - Erlang example application
 - [erlang-lager/lager](https://github.com/erlang-lager/lager) - A logging framework for Erlang/OTP
