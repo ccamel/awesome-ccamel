@@ -16,6 +16,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Erlang](#erlang)
+- [FreeMarker](#freemarker)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -220,6 +221,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [joxa/joxa](https://github.com/joxa/joxa) - A Modern Lisp for the Erlang VM
 - [rabbitmq/aten](https://github.com/rabbitmq/aten) - An adaptive accrual node failure detection library for Elixir and Erlang
 - [sile/jsone](https://github.com/sile/jsone) - Erlang JSON library
+
+## FreeMarker
+
+- [okp4/okp4-keycloak-theme](https://github.com/okp4/okp4-keycloak-theme) - OKP4 keylcoak theme using keycloakify and okp4/ui react components
 
 ## Go
 
@@ -929,7 +934,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [confluentinc/kafka-connect-storage-cloud](https://github.com/confluentinc/kafka-connect-storage-cloud) - Kafka Connect suite of connectors for Cloud storage (Amazon S3)
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of data in real-time. Built on top of Lucene.
 - [crate/crate-sample-apps](https://github.com/crate/crate-sample-apps) - A JavaScript guestbook app with a number of different backend implementations, each using a different client library to communicate with CrateDB.
 - [ctongfei/progressbar](https://github.com/ctongfei/progressbar) - Terminal-based progress bar for Java / JVM
 - [davidmoten/subethasmtp](https://github.com/davidmoten/subethasmtp) - SubEtha SMTP is a Java library for receiving SMTP mail
@@ -1825,7 +1830,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
 - [okp4/nemeton-web](https://github.com/okp4/nemeton-web) - 🧙‍♂️ The landing page repository for the Nemeton Program! 🔥
 - [okp4/nodejumper](https://github.com/okp4/nodejumper) - Nodejumper web app is a multi tool for cosmos based networks.
-- [okp4/okp4-keycloak-theme](https://github.com/okp4/okp4-keycloak-theme) - OKP4 keylcoak theme using keycloakify and okp4/ui react components
 - [okp4/portal-web](https://github.com/okp4/portal-web) - 🔭 Portal Web App for the ØKP4 network.
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
