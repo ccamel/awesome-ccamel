@@ -311,9 +311,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [asaskevich/EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
+- [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) - Go linter for forbidding identifiers
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
-- [atom-computing/forbidigo](https://github.com/atom-computing/forbidigo) - Go linter for forbidding identifiers
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [aybabtme/logzalgo](https://github.com/aybabtme/logzalgo) - Logrus formatter invoking the P͉̫o̳̼̊w̖͈̰͎e̬͔̭͂r͚̼̹̲ ̫͓͉̳͈ō̠͕͖̚f̝͍̠ ͕̲̞͖͑Z̖̫̤̫ͪa͉̬͈̗l͖͎g̳̥o̰̥̅!̣͔̲̻͊̄ ̙̘̦̹̦
 - [baarde/cert-manager-webhook-ovh](https://github.com/baarde/cert-manager-webhook-ovh) - OVH Webhook for Cert Manager
