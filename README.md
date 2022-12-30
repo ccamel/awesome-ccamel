@@ -16,7 +16,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Erlang](#erlang)
-- [FreeMarker](#freemarker)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -32,6 +31,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [OCaml](#ocaml)
 - [PHP](#php)
 - [Perl](#perl)
+- [Prolog](#prolog)
 - [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
@@ -83,6 +83,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [seanpringle/reforth](https://github.com/seanpringle/reforth) - Rethinking Forth
 - [timescale/pg_prometheus](https://github.com/timescale/pg_prometheus) - PostgreSQL extension for Prometheus data
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [trealla-prolog/trealla](https://github.com/trealla-prolog/trealla) - A compact, efficient Prolog interpreter written in plain-old C.
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
 
 ## C#
@@ -223,10 +224,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [joxa/joxa](https://github.com/joxa/joxa) - A Modern Lisp for the Erlang VM
 - [rabbitmq/aten](https://github.com/rabbitmq/aten) - An adaptive accrual node failure detection library for Elixir and Erlang
 - [sile/jsone](https://github.com/sile/jsone) - Erlang JSON library
-
-## FreeMarker
-
-- [okp4/okp4-keycloak-theme](https://github.com/okp4/okp4-keycloak-theme) - OKP4 keylcoak theme using keycloakify and okp4/ui react components
 
 ## Go
 
@@ -854,6 +851,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [scala/make-release-notes](https://github.com/scala/make-release-notes) - The project that generates Scala release notes.
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy code home
 - [starbelly/erlang-companies](https://github.com/starbelly/erlang-companies) - A list of companies currently using Erlang in production.
+- [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - Introduction to modern Prolog
 - [vasturiano/3d-force-graph-vr](https://github.com/vasturiano/3d-force-graph-vr) - 3D force-directed graph component in VR
 - [w3c/dxwg](https://github.com/w3c/dxwg) - Data Catalog Vocabulary (DCAT)
 - [w3c/wot](https://github.com/w3c/wot) - Web of Things
@@ -1341,6 +1339,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [OpenCageData/address-formatting](https://github.com/OpenCageData/address-formatting) - templates to format geographic addresses
 - [mludvig/smtp-cli](https://github.com/mludvig/smtp-cli) - The ultimate command line SMTP client
 - [zonemaster/zonemaster](https://github.com/zonemaster/zonemaster) - The Zonemaster Project
+
+## Prolog
+
+- [Anniepoo/prolog-examples](https://github.com/Anniepoo/prolog-examples) - Some simple examples for new Prolog programmers
 
 ## PureScript
 
@@ -1836,6 +1838,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
 - [okp4/nemeton-web](https://github.com/okp4/nemeton-web) - 🧙‍♂️ The landing page repository for the Nemeton Program! 🔥
 - [okp4/nodejumper](https://github.com/okp4/nodejumper) - Nodejumper web app is a multi tool for cosmos based networks.
+- [okp4/okp4-keycloak-theme](https://github.com/okp4/okp4-keycloak-theme) - OKP4 keylcoak theme using keycloakify and okp4/ui react components
 - [okp4/portal-web](https://github.com/okp4/portal-web) - 🔭 Portal Web App for the ØKP4 network.
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
