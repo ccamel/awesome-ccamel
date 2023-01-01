@@ -1477,6 +1477,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AleoHQ/leo](https://github.com/AleoHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
+- [Callum-A/cosmwasm-zero-to-hero](https://github.com/Callum-A/cosmwasm-zero-to-hero) - 
 - [Callum-A/whoami-paths](https://github.com/Callum-A/whoami-paths) - 
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK
 - [CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts) - Examples and helpers to build NFT contracts on CosmWasm
@@ -1980,6 +1981,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/chain-registry](https://github.com/cosmos/chain-registry) - 
 - [cosmos/did-cosmos](https://github.com/cosmos/did-cosmos) - 
 - [coteries/cedille-ai](https://github.com/coteries/cedille-ai) - ✒️ Cedille is a large French language model (6B), released under an open-source license
+- [cryptobtcbuyer/Testnet_guides](https://github.com/cryptobtcbuyer/Testnet_guides) - 
 - [danger/awesome-danger](https://github.com/danger/awesome-danger) - An awesome list of all things Danger
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [dcasati/kubernetes-PlantUML](https://github.com/dcasati/kubernetes-PlantUML) - Kubernetes diagrams using VS Code
