@@ -994,6 +994,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 - [okayrunner/piper](https://github.com/okayrunner/piper) - piper - a distributed workflow engine
 - [okp4/Widoco](https://github.com/okp4/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.
+- [okp4/owl-cli](https://github.com/okp4/owl-cli) - Command line tool for ontology engineering
 - [ooxi/jdatauri](https://github.com/ooxi/jdatauri) - Simple and well tested one file Java data URI parser
 - [opendatalab-de/geojson-jackson](https://github.com/opendatalab-de/geojson-jackson) - GeoJson POJOs for Jackson - serialize and deserialize objects with ease
 - [openhab/openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB
@@ -1513,8 +1514,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [grantshandy/fdg](https://github.com/grantshandy/fdg) - A Force Directed Graph Framework for Rust.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Tendermint in Rust!
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
+- [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
@@ -1926,9 +1929,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [AAkira/Kotlin-Multiplatform-Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) - Kotlin Multiplatform Libraries. Welcome PR if you find or create new Kotlin Multiplatform Library.
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
+- [AnatolianTeam/OKP4-Nemeton-Program](https://github.com/AnatolianTeam/OKP4-Nemeton-Program) - Everything is about OKP4 Nemeton Program
 - [BccNodes/BccNodes](https://github.com/BccNodes/BccNodes) - 
 - [BccNodes/okp4-nemeton-testnet](https://github.com/BccNodes/okp4-nemeton-testnet) - 
 - [CosmWasm/awesome-cosmwasm](https://github.com/CosmWasm/awesome-cosmwasm) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
+- [CosmWasm/book](https://github.com/CosmWasm/book) - CosmWasm book
 - [Cour-de-cassation/moteurNER](https://github.com/Cour-de-cassation/moteurNER) - communication sur le moteur de pseudonymisation de la Cour de Cassation
 - [Cumulo-pro/OKP4](https://github.com/Cumulo-pro/OKP4) - 
 - [DGKSK8LIFE/go-copilot](https://github.com/DGKSK8LIFE/go-copilot) - Github Copilot examples with Go
@@ -2073,6 +2078,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
+- [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [s-tikhomirov/smart-contract-languages](https://github.com/s-tikhomirov/smart-contract-languages) - A curated collection of resources on smart contract programming languages
 - [scrtlabs/Grants](https://github.com/scrtlabs/Grants) - Repository for grant proposal submissions
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
