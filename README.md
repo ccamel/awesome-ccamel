@@ -110,7 +110,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Measure and observe end-user applications availability - Define and track SLA/SLO targets through Prometheus-alike metrics and built-in reports - Kubernetes®, Zabbix®, Nagios®. 
+- [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Monitor and observe the availability of end-user applications atop of Kubernetes, Zabbix and Nagios. Define and track SLA/SLO targets through Prometheus metrics and built-in dashboards.
 - [sosolimited/Entity-Component-Samples](https://github.com/sosolimited/Entity-Component-Samples) - Cinder block for EntityX and a brief ECS tutorial.
 - [strickyak/jsonnet_cgo](https://github.com/strickyak/jsonnet_cgo) - Golang CGo Wrapper around JSonnet VM
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -227,7 +227,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Go
 
 - [2-alchemists/krossboard-data-processor](https://github.com/2-alchemists/krossboard-data-processor) - Data Collector & Processing for Krossboard - A Leading Multi-Cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
-- [2-alchemists/krossboard-kubernetes-operator](https://github.com/2-alchemists/krossboard-kubernetes-operator) - Kubernetes Operator to handle cross-site, cross-distribution & multi-Kubernetes usage tracking, analytics and accounting (vanilla Kubernetes, OpenShift, EKS, AKS, GKE, and more).
+- [2-alchemists/krossboard-kubernetes-operator](https://github.com/2-alchemists/krossboard-kubernetes-operator) - Kubernetes Operator to handle cross-site, cross-distribution & multi-Kubernetes usage tracking, analytics and accounting (vanilla Kubernetes, OpenShift, EKS, AKS, GKE and other distros).
 - [99designs/go-keychain](https://github.com/99designs/go-keychain) - 
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
 - [AlekSi/gocov-xml](https://github.com/AlekSi/gocov-xml) - 
@@ -1046,7 +1046,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [David-Kunz/derive-type](https://github.com/David-Kunz/derive-type) - Derive types dynamically by running tests to capture value combinations
 - [DemocracyEarth/self](https://github.com/DemocracyEarth/self) - 🦉 Cryptgraphic peer authentication.
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware) - ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes
-- [Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) - Automatic polyfill service.
 - [GoldinGuy/Ideastorm](https://github.com/GoldinGuy/Ideastorm) - 💡 Ideas for days
 - [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI) - User interface for the Dataspace Connector.
 - [IvanGoncharov/react-apollo-lodash-demo](https://github.com/IvanGoncharov/react-apollo-lodash-demo) - Example usage of react-apollo with graphql-lodash
@@ -1372,6 +1371,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [actions-automation/pull-request-responsibility](https://github.com/actions-automation/pull-request-responsibility) - Keep pull requests moving -- from opening to merge.
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [amcat/progressmonitor](https://github.com/amcat/progressmonitor) - Python classes for tracking (sub)task progress (inspired by Eclipse ProgressMonitor, but more pythonic)
+- [argoproj-labs/hera-workflows](https://github.com/argoproj-labs/hera-workflows) - Hera is an Argo Workflows Python SDK. Hera aims to make workflow construction and submission easy and accessible to everyone! Hera abstracts away workflow setup details while still maintaining a consistent vocabulary with Argo Workflows.
 - [assetnote/batchql](https://github.com/assetnote/batchql) - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations
 - [atchopba/scraping-jobs](https://github.com/atchopba/scraping-jobs) - Scraping-jobs helps scrape jobs from major job boards (apec.fr, indeed.fr, monster.fr...) to provide a simple and unified job search engine.
 - [aziz/SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3
@@ -1948,6 +1948,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [FabienTregan/DDDTranslation](https://github.com/FabienTregan/DDDTranslation) - 
+- [Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) - Automatic polyfill service.
 - [GetTech-io/awesome-actor](https://github.com/GetTech-io/awesome-actor) - :punch: Awesome lists of actor model resources
 - [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) - IDS-G
 - [International-Data-Spaces-Association/idsa](https://github.com/International-Data-Spaces-Association/idsa) - This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and useful information on IDS Landscape.
