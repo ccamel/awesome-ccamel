@@ -129,7 +129,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kevin-powell/How-to-build-a-responsive-website-from-scratch](https://github.com/kevin-powell/How-to-build-a-responsive-website-from-scratch) - The site I built for this tutorial series on YouTube: https://www.youtube.com/playlist?list=PL4-IK0AVhVjOH5r4GAtlk1-tLUlEdiqXG
 - [marccampbell/hugo-linkcheck-action](https://github.com/marccampbell/hugo-linkcheck-action) - 
 - [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui) - Cyberpunk-inspired web UI made easy. Get augmented.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [stripe-samples/checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
 
 ## CUE
@@ -1682,6 +1681,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [please-openit/oidc-bash-client](https://github.com/please-openit/oidc-bash-client) - a bash openid connect client
 - [romanv1812/OKP4](https://github.com/romanv1812/OKP4) - 
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [singram/mongo-docker-compose](https://github.com/singram/mongo-docker-compose) - Fully sharded mongo environment using docker-compose
 - [snowplow/iglu](https://github.com/snowplow/iglu) - Iglu is a machine-readable, open-source schema repository for JSON Schema from the team at Snowplow
 - [snowplow/iglu-central](https://github.com/snowplow/iglu-central) - Contains all JSON Schemas, Avros and Thrifts for Iglu Central
