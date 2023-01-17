@@ -124,6 +124,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [2-alchemists/krossboard-docs](https://github.com/2-alchemists/krossboard-docs) - 📚 Documentation site for Krossboard - Krossboard provides a centralized resource usage analytics for multiple Kubernetes clusters; it works with multi cloud and across several distributions.
 - [GBKS/crypto-ux-handbook](https://github.com/GBKS/crypto-ux-handbook) - This repository is the place to collaborate on the content of The Crypto UX Handbook.
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
+- [blockpane/tenderduty](https://github.com/blockpane/tenderduty) - Notification tool for Cosmos/Tendermint validators, sends alerts when missing pre-commits
 - [jeblister/kube](https://github.com/jeblister/kube) - Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog.
 - [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
 - [kevin-powell/How-to-build-a-responsive-website-from-scratch](https://github.com/kevin-powell/How-to-build-a-responsive-website-from-scratch) - The site I built for this tutorial series on YouTube: https://www.youtube.com/playlist?list=PL4-IK0AVhVjOH5r4GAtlk1-tLUlEdiqXG
@@ -425,6 +426,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [flimzy/donewriter](https://github.com/flimzy/donewriter) - DoneWriter provides an http.ResponseWriter which can report if a response has been sent or not.
 - [forbole/bdjuno](https://github.com/forbole/bdjuno) - BDJuno is the official Juno implementation for BigDipper, the open-source block explorer for Cosmos
 - [francesconi/go-rampart](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
+- [freak12techno/cosmos-validators-exporter](https://github.com/freak12techno/cosmos-validators-exporter) - 
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -539,6 +541,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jeremyhuiskamp/golang-docker-scratch](https://github.com/jeremyhuiskamp/golang-docker-scratch) - Recipe for go binary in scratch docker container with up-to-date tls certs and timezone data
 - [jexia/semaphore](https://github.com/jexia/semaphore) - Take control of your data, connect with anything, and expose it anywhere through protocols such as HTTP, GraphQL, and gRPC.
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
+- [jiuyunyue/valsta](https://github.com/jiuyunyue/valsta) - For cosmos blockchain validator to collect validator information
 - [jluccisano/syno-cli](https://github.com/jluccisano/syno-cli) - Command-line interface for Synology DiskStations. Allows batch-unlocking encrypted volumes.
 - [jordan-wright/email](https://github.com/jordan-wright/email) - Robust and flexible email library for Go
 - [jpillora/installer](https://github.com/jpillora/installer) - One-liner for installing binaries from Github releases
@@ -731,6 +734,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 - [snikch/go-download](https://github.com/snikch/go-download) - Chunked HTTP Downloader
 - [solarlabsteam/cosmos-exporter](https://github.com/solarlabsteam/cosmos-exporter) - Scrape the data about the validators set, specific validators or wallets in the Cosmos network. 
+- [solarlabsteam/missed-blocks-checker](https://github.com/solarlabsteam/missed-blocks-checker) - Tool to monitor missed blocks for Cosmos-chain validators
+- [solarlabsteam/tendermint-exporter](https://github.com/solarlabsteam/tendermint-exporter) - Scrape some fancy stuff from a Tendermint node
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [soypat/gitaligned](https://github.com/soypat/gitaligned) - Find out where you fall on the Open-Source Character Alignment Chart
@@ -793,6 +798,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vektah/gqlparser](https://github.com/vektah/gqlparser) - A port of the parser from graphql-js into golang
 - [viant/toolbox](https://github.com/viant/toolbox) - Toolbox - go utility library
 - [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation.
+- [vitwit/validator-alertbot](https://github.com/vitwit/validator-alertbot) - Validator alertbot for cosmos ecosystem
 - [vladimirvivien/automi](https://github.com/vladimirvivien/automi) - A stream processing API for Go (alpha)
 - [vladimirvivien/go-plugin-example](https://github.com/vladimirvivien/go-plugin-example) - Playing around with Go 1.8 plugin system
 - [vladimirvivien/gosh](https://github.com/vladimirvivien/gosh) - Gosh -  a pluggable framework for building command shell programs
@@ -1109,6 +1115,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [eco-stake/cosmos-directory](https://github.com/eco-stake/cosmos-directory) - ⚛️ · 📖
+- [eddy-guo/validator-monitor](https://github.com/eddy-guo/validator-monitor) - Discord bot to monitor Jackal validator uptime status (and other Cosmos blockchains).
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [editor-js/embed](https://github.com/editor-js/embed) - Embed Tool for Editor.js
 - [elwin013/parcel-plugin-static-files-copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - ParcelJS plugin to copy static files
@@ -1142,6 +1149,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
+- [jim380/Botelicious](https://github.com/jim380/Botelicious) - Botelicious. Make sure you spell it with only one "o" 
 - [jlouis/graphql-erlang-tutorial](https://github.com/jlouis/graphql-erlang-tutorial) - A tutorial for the graphql-erlang system
 - [jluccisano/webpack-es6-boilerplate](https://github.com/jluccisano/webpack-es6-boilerplate) - A Minimal Webpack ES6 boilerplate web application
 - [jonschlinkert/gh-stars](https://github.com/jonschlinkert/gh-stars) - API and CLI for getting the stars for one or more GitHub users or organizations.
@@ -1365,6 +1373,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
 - [RDFLib/rdflib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+- [SimplyVC/panic](https://github.com/SimplyVC/panic) - PANIC Monitoring and Alerting For Blockchains
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Wenzel/oswatcher](https://github.com/Wenzel/oswatcher) - A framework to track the evolution of Operating Systems over time
 - [actions-automation/pull-request-responsibility](https://github.com/actions-automation/pull-request-responsibility) - Keep pull requests moving -- from opening to merge.
@@ -1553,6 +1562,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [scrtlabs/secret-toolkit](https://github.com/scrtlabs/secret-toolkit) - A collection of Rust packages that contain common tools used in development of Secret Contracts
 - [serenity-rs/poise](https://github.com/serenity-rs/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
 - [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) - A lightweight, opinionated CQRS and event sourcing framework targeting serverless architectures.
+- [setten-io/ecg](https://github.com/setten-io/ecg) -  Cosmos validators dead man's switch
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
 - [steak-enjoyers/badges](https://github.com/steak-enjoyers/badges) - Badges is an NFT project inspired by POAP, intended to be deployed on Stargaze
@@ -1679,6 +1689,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pgexperts/pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
 - [plantuml-stdlib/plantuml-kubernetes-sprites](https://github.com/plantuml-stdlib/plantuml-kubernetes-sprites) - PlantUML sprites generated from the kubernetes-icons
 - [please-openit/oidc-bash-client](https://github.com/please-openit/oidc-bash-client) - a bash openid connect client
+- [rewseRE/cosmos-validator-monitoring](https://github.com/rewseRE/cosmos-validator-monitoring) - Simple shell script for monitoring Cosmos-SDK based networks validators.
 - [romanv1812/OKP4](https://github.com/romanv1812/OKP4) - 
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
