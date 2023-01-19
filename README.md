@@ -273,7 +273,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Orange-OpenSource/nifikop](https://github.com/Orange-OpenSource/nifikop) - The NiFiKop NiFi Kubernetes operator makes it easy to run Apache NiFi on Kubernetes. Apache NiFI is a free, open-source solution that support powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
-- [Schrodinger-Hat/kannon](https://github.com/Schrodinger-Hat/kannon) - ✉️  Cloud-Native massive mail sender for Kubernetes!
 - [Shyp/generate-tls-cert](https://github.com/Shyp/generate-tls-cert) - Generating self signed certificates
 - [SimonSchneider/traefik-jwt-decode](https://github.com/SimonSchneider/traefik-jwt-decode) - Traefik forward auth implementation for JWT tokens
 - [TERITORI/teritori-chain](https://github.com/TERITORI/teritori-chain) - Teritori chain repository based on Cosmos SDK
@@ -554,6 +553,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [kak-tus/nan](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers
 - [kamilsk/retry](https://github.com/kamilsk/retry) - ♻️ The most advanced interruptible mechanism to perform actions repetitively until successful.
+- [kannon-email/kannon](https://github.com/kannon-email/kannon) - ✉️  Cloud-Native massive mail sender for Kubernetes!
 - [kataras/sheets](https://github.com/kataras/sheets) - :bar_chart: (Unofficial) A Lightweight Google Spreadsheets Client written in Go
 - [kelindar/binary](https://github.com/kelindar/binary) - Generic and fast binary serializer for Go
 - [kelindar/bitmap](https://github.com/kelindar/bitmap) - Simple dense bitmap index in Go with binary operators
