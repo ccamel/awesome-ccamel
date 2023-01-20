@@ -426,7 +426,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [flimzy/donewriter](https://github.com/flimzy/donewriter) - DoneWriter provides an http.ResponseWriter which can report if a response has been sent or not.
 - [forbole/bdjuno](https://github.com/forbole/bdjuno) - BDJuno is the official Juno implementation for BigDipper, the open-source block explorer for Cosmos
 - [francesconi/go-rampart](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
-- [freak12techno/cosmos-validators-exporter](https://github.com/freak12techno/cosmos-validators-exporter) - 
+- [freak12techno/cosmos-validators-exporter](https://github.com/freak12techno/cosmos-validators-exporter) - A Prometheus scraper to fetch data about your validators in Cosmos-based blockchains.
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -1410,11 +1410,13 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [grafana/github-traffic](https://github.com/grafana/github-traffic) - Github Traffic Insights as Prometheus metrics.
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [jluccisano/raspberry-scripts](https://github.com/jluccisano/raspberry-scripts) - Some python scripts to play with Raspberry PI
 - [jluccisano/rpi-sprinkler-control](https://github.com/jluccisano/rpi-sprinkler-control) - 
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [jpigree/k8s-101-presentation](https://github.com/jpigree/k8s-101-presentation) - My Kubernetes presentation for Tahiti DevOps 
+- [jupyter-naas/naas](https://github.com/jupyter-naas/naas) - ⚙️ Schedule notebooks, run them like APIs, expose securely your assets: Jupyter as a viable ⚡️ Production environment
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries.
@@ -1663,6 +1665,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [RubieV/plugin-fuck](https://github.com/RubieV/plugin-fuck) - Execute last command as root in fish
 - [ScaCap/action-ktlint](https://github.com/ScaCap/action-ktlint) - Run Ktlint with reviewdog
 - [StreakyCobra/gws](https://github.com/StreakyCobra/gws) - Colorful KISS helper for git workspaces
+- [akash-network/cosmos-omnibus](https://github.com/akash-network/cosmos-omnibus) - 
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
 - [appieasahbie/okp4](https://github.com/appieasahbie/okp4) - 
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories
@@ -1686,7 +1689,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [oh-my-fish/theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
 - [ovrclk/awesome-akash](https://github.com/ovrclk/awesome-akash) - Awesome List of Akash Deployment Examples
-- [ovrclk/cosmos-omnibus](https://github.com/ovrclk/cosmos-omnibus) - 
 - [pgexperts/pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
 - [plantuml-stdlib/plantuml-kubernetes-sprites](https://github.com/plantuml-stdlib/plantuml-kubernetes-sprites) - PlantUML sprites generated from the kubernetes-icons
 - [please-openit/oidc-bash-client](https://github.com/please-openit/oidc-bash-client) - a bash openid connect client
@@ -1853,6 +1855,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [mobxjs/mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - Lightweight React bindings for MobX based on React 16.8 and Hooks
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
