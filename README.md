@@ -845,6 +845,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## HTML
 
 - [8values/8values.github.io](https://github.com/8values/8values.github.io) - The 8values political quiz
+- [Cumulo-pro/OKP4](https://github.com/Cumulo-pro/OKP4) - 
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [Funny-OpenSource-Projects/image-to-xls](https://github.com/Funny-OpenSource-Projects/image-to-xls) - A simple tool to make ascii art from an image using excel colored cells.
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
@@ -1132,6 +1133,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [frender-rs/frender](https://github.com/frender-rs/frender) - react in rust with fully typed functional components
 - [frintjs/frint](https://github.com/frintjs/frint) - Modular JavaScript framework for building scalable and reactive applications
+- [garygrossgarten/github-action-scp](https://github.com/garygrossgarten/github-action-scp) - ⬆️ Copy a folder to a remote server using SSH
 - [gatewayapps/react-adaptivecards](https://github.com/gatewayapps/react-adaptivecards) - A react wrapper for microsoft/adaptivecards
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [gocli/go-cli](https://github.com/gocli/go-cli) - Create and use boilerplates with ease
@@ -1361,6 +1363,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## PureScript
 
 - [purescript-contrib/purescript-react](https://github.com/purescript-contrib/purescript-react) - React Bindings for PureScript
+- [purescript-halogen/purescript-halogen](https://github.com/purescript-halogen/purescript-halogen) - A declarative, type-safe UI library for PureScript.
 
 ## Python
 
@@ -1665,6 +1668,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [RubieV/plugin-fuck](https://github.com/RubieV/plugin-fuck) - Execute last command as root in fish
 - [ScaCap/action-ktlint](https://github.com/ScaCap/action-ktlint) - Run Ktlint with reviewdog
 - [StreakyCobra/gws](https://github.com/StreakyCobra/gws) - Colorful KISS helper for git workspaces
+- [akash-network/awesome-akash](https://github.com/akash-network/awesome-akash) - Awesome List of Akash Deployment Examples
 - [akash-network/cosmos-omnibus](https://github.com/akash-network/cosmos-omnibus) - 
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
 - [appieasahbie/okp4](https://github.com/appieasahbie/okp4) - 
@@ -1688,7 +1692,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nodejumper-org/cosmos-scripts](https://github.com/nodejumper-org/cosmos-scripts) - Useful utils for cosmos chains
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [oh-my-fish/theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
-- [ovrclk/awesome-akash](https://github.com/ovrclk/awesome-akash) - Awesome List of Akash Deployment Examples
 - [pgexperts/pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
 - [plantuml-stdlib/plantuml-kubernetes-sprites](https://github.com/plantuml-stdlib/plantuml-kubernetes-sprites) - PlantUML sprites generated from the kubernetes-icons
 - [please-openit/oidc-bash-client](https://github.com/please-openit/oidc-bash-client) - a bash openid connect client
@@ -1852,6 +1855,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿 
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [mars-protocol/networks](https://github.com/mars-protocol/networks) - Genesis data for Mars Hub mainnet and testnet(s)
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
@@ -1880,6 +1884,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [react-component/select](https://github.com/react-component/select) - React Select
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
@@ -1956,7 +1961,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/awesome-cosmwasm](https://github.com/CosmWasm/awesome-cosmwasm) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
 - [CosmWasm/book](https://github.com/CosmWasm/book) - CosmWasm book
 - [Cour-de-cassation/moteurNER](https://github.com/Cour-de-cassation/moteurNER) - communication sur le moteur de pseudonymisation de la Cour de Cassation
-- [Cumulo-pro/OKP4](https://github.com/Cumulo-pro/OKP4) - 
 - [DGKSK8LIFE/go-copilot](https://github.com/DGKSK8LIFE/go-copilot) - Github Copilot examples with Go
 - [Dimokus88/OkP4](https://github.com/Dimokus88/OkP4) - Node OkP4 on Akash Network | Нода OkP4 на Akash Network
 - [Distributed-Validators-Synctems/Self-Identity](https://github.com/Distributed-Validators-Synctems/Self-Identity) - Why "Synctems" not "Systems"?
@@ -2097,6 +2101,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [parcel-bundler/awesome-parcel](https://github.com/parcel-bundler/awesome-parcel) - 🔗 A curated list of awesome Parcel resources, libraries, tools and boilerplates
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
+- [persistenceOne/persistence-docs](https://github.com/persistenceOne/persistence-docs) - Persistence Documentation
 - [pfalcon/awesome-smarthome](https://github.com/pfalcon/awesome-smarthome) - Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
