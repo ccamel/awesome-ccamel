@@ -11,6 +11,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CSS](#css)
 - [CUE](#cue)
 - [Clojure](#clojure)
+- [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -143,6 +144,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [francoisroyer/clj-xai](https://github.com/francoisroyer/clj-xai) - A repository of AI/ML algorithms in Clojure, with a focus on interpretability and explainability.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## Common Lisp
+
+- [40ants/openrpc](https://github.com/40ants/openrpc) - OpenRPC implementation for Common Lisp
 
 ## Dart
 
@@ -452,7 +457,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [go-oauth2/redis](https://github.com/go-oauth2/redis) - Redis storage for OAuth 2.0
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-validator/validator](https://github.com/go-validator/validator) - Package validator implements struct field validations
@@ -697,6 +701,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [rcrowley/go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [red-gold/telar-social-go](https://github.com/red-gold/telar-social-go) - Telar Social Engine is a scalable cloud native social network. Whatever your creative idea or unique bussiness model, you can build it by Telar running on any public or private cloud.
+- [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
 - [redpanda-data/kminion](https://github.com/redpanda-data/kminion) - KMinion is a feature-rich Prometheus exporter for Apache Kafka written in Go. It is lightweight and highly configurable so that it will meet your requirements.
 - [regen-network/regen-ledger](https://github.com/regen-network/regen-ledger) - :seedling: Blockchain for planetary regeneration
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
