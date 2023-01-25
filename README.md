@@ -979,7 +979,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [graphql-java/graphql-java-subscription-example](https://github.com/graphql-java/graphql-java-subscription-example) - An example of graphql-java and subscriptions
 - [graphql-java/java-dataloader](https://github.com/graphql-java/java-dataloader) - A Java 8 port of Facebook DataLoader
-- [hpgrahsl/kafka-connect-mongodb](https://github.com/hpgrahsl/kafka-connect-mongodb) - **Unofficial / Community** Kafka Connect MongoDB Sink Connector - Find the official MongoDB Kafka Connector here: https://www.mongodb.com/kafka-connector
+- [hpgrahsl/kafka-connect-mongodb](https://github.com/hpgrahsl/kafka-connect-mongodb) - **Unofficial / Community** Kafka Connect MongoDB Sink Connector -&gt; integrated 2019 into the official MongoDB Kafka Connector here: https://www.mongodb.com/kafka-connector
 - [hypergraphql/hypergraphql](https://github.com/hypergraphql/hypergraphql) - GraphQL interface for querying and serving linked data on the Web.
 - [igr/nomen-est-omen](https://github.com/igr/nomen-est-omen) - Random names generator, with a style.
 - [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects. JSON, Jackson, Gson, JAX-RS integrations included
@@ -1760,6 +1760,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
+- [MyDidCom/mydid-auth](https://github.com/MyDidCom/mydid-auth) - 
 - [NodesGuru/casper-world](https://github.com/NodesGuru/casper-world) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [NodesGuru/casper-world-backend](https://github.com/NodesGuru/casper-world-backend) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
