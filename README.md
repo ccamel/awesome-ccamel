@@ -753,6 +753,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
 - [strangelove-ventures/half-life](https://github.com/strangelove-ventures/half-life) - Cosmos validator monitoring and alerting utility
+- [strangelove-ventures/ibctest](https://github.com/strangelove-ventures/ibctest) - e2e testing framework for IBC capable chains
 - [strangelove-ventures/lens](https://github.com/strangelove-ventures/lens) - ⚛️❤️👁 Brought to you by the LensCrafters
 - [stretchr/objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
@@ -1535,6 +1536,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [forbole/cosmos-rust-wallet](https://github.com/forbole/cosmos-rust-wallet) - A cosmos network key-signer buildable in WASM
 - [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -2108,6 +2110,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects! 
 - [ozekik/awesome-ontology](https://github.com/ozekik/awesome-ontology) - A curated list of ontology things
 - [parcel-bundler/awesome-parcel](https://github.com/parcel-bundler/awesome-parcel) - 🔗 A curated list of awesome Parcel resources, libraries, tools and boilerplates
+- [passy/awesome-purescript](https://github.com/passy/awesome-purescript) - A curation of awesome PureScript libraries, resources and shiny things.
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [persistenceOne/persistence-docs](https://github.com/persistenceOne/persistence-docs) - Persistence Documentation
