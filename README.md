@@ -700,7 +700,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [quay/dba-operator](https://github.com/quay/dba-operator) - Kubernetes Operator that orchestrates relational database schema migrations
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [raviqqe/gherkin2markdown](https://github.com/raviqqe/gherkin2markdown) - Gherkin to Markdown converter
-- [rchakode/hugo-mx-gateway](https://github.com/rchakode/hugo-mx-gateway) - :mailbox_with_no_mail: :scroll: Contact/demo forms handler for static websites. Deploy in minutes on Google App Engine, Kubernetes, or Docker. Tested with Hugo static site generator.
+- [rchakode/hugo-mx-gateway](https://github.com/rchakode/hugo-mx-gateway) - :mailbox_with_no_mail: :scroll: Contact/demo form handler for static websites. Deploy in minutes on Google App Engine, Kubernetes, or Docker. Tested with Hugo static site generator.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [rcrowley/go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [red-gold/telar-social-go](https://github.com/red-gold/telar-social-go) - Telar Social Engine is a scalable cloud native social network. Whatever your creative idea or unique bussiness model, you can build it by Telar running on any public or private cloud.
@@ -708,6 +708,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [redpanda-data/kminion](https://github.com/redpanda-data/kminion) - KMinion is a feature-rich Prometheus exporter for Apache Kafka written in Go. It is lightweight and highly configurable so that it will meet your requirements.
 - [regen-network/regen-ledger](https://github.com/regen-network/regen-ledger) - :seedling: Blockchain for planetary regeneration
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [robinjoseph08/redisqueue](https://github.com/robinjoseph08/redisqueue) - redisqueue provides a producer and consumer of a queue that uses Redis streams
 - [rocketlaunchr/dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration
@@ -1712,7 +1713,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [snowplow/iglu](https://github.com/snowplow/iglu) - Iglu is a machine-readable, open-source schema repository for JSON Schema from the team at Snowplow
 - [snowplow/iglu-central](https://github.com/snowplow/iglu-central) - Contains all JSON Schemas, Avros and Thrifts for Iglu Central
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit changed files back to GitHub with this GitHub Action for the 80% use case.
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [thisislexar/OKP4-Protocol-Testnet](https://github.com/thisislexar/OKP4-Protocol-Testnet) - OKP4 Testneti için Kurulum Rehberi
 - [timescale/helm-charts](https://github.com/timescale/helm-charts) - Configuration and Documentation to run TimescaleDB in your Kubernetes cluster
