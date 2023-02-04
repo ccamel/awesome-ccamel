@@ -182,6 +182,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bigardone/elm-dynamic-base-path](https://github.com/bigardone/elm-dynamic-base-path) - Example Elm SPA with dynamic base path
 - [billstclair/elm-websocket-client](https://github.com/billstclair/elm-websocket-client) - Websockets for Elm 0.19, using ports
 - [ccamel/playground-elm](https://github.com/ccamel/playground-elm) -  :balloon: My playground for playing with elm-lang
+- [dillonkearns/elm-ts-json](https://github.com/dillonkearns/elm-ts-json) - 
 - [ellie-app/ellie](https://github.com/ellie-app/ellie) - The Elm Live Editor
 - [elm-athlete/athlete](https://github.com/elm-athlete/athlete) - 💪 type safe elm-html-css-builder aka athlete
 - [elm-community/typed-svg](https://github.com/elm-community/typed-svg) - Typed SVG library written for Elm
@@ -406,6 +407,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [dymensionxyz/dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
+- [dymensionxyz/dymint](https://github.com/dymensionxyz/dymint) - ABCI-client for Dymension RollApps forked from Optimint
 - [eBay/akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
@@ -1760,6 +1762,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
 - [DomParfitt/graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A Fully-fledged functional effect system for typescript with a rich standard library
 - [EmpowerPlastic/empowerchain](https://github.com/EmpowerPlastic/empowerchain) - 
 - [IvanGoncharov/graphql-lodash](https://github.com/IvanGoncharov/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
@@ -1796,6 +1799,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [branchup/docusaurus-plugin-simple-analytics](https://github.com/branchup/docusaurus-plugin-simple-analytics) - Simple Analytics plugin for Docusaurus
 - [build-canaries/nevergreen](https://github.com/build-canaries/nevergreen) - :baby_chick: A build monitor with attitude
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜 
+- [cerebral/overmind](https://github.com/cerebral/overmind) - Overmind - Frictionless state management
 - [chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet) - The most powerful wallet for the Cosmos ecosystem and the Interchain
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [cheqd/validator-status](https://github.com/cheqd/validator-status) - Network-wide validator status alerting API for cheqd mainnet. Designed to work for any Cosmos SDK network
