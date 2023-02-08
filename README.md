@@ -474,6 +474,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [golang/crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [golang/go](https://github.com/golang/go) - The Go programming language
+- [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [golang/mod](https://github.com/golang/mod) - [mirror] Go module mechanics libraries
 - [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2
@@ -778,7 +779,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
 - [timescale/prometheus-postgresql-adapter](https://github.com/timescale/prometheus-postgresql-adapter) - Use PostgreSQL as a remote storage database for Prometheus
-- [timescale/promscale](https://github.com/timescale/promscale) - Promscale is a unified metric and trace observability backend for Prometheus, Jaeger and OpenTelemetry built on PostgreSQL and TimescaleDB.
+- [timescale/promscale](https://github.com/timescale/promscale) - [DEPRECATED] Promscale is a unified metric and trace observability backend for Prometheus, Jaeger and OpenTelemetry built on PostgreSQL and TimescaleDB.
 - [timshannon/badgerhold](https://github.com/timshannon/badgerhold) - BadgerHold is an embeddable NoSQL store for querying Go types built on Badger
 - [timshannon/bolthold](https://github.com/timshannon/bolthold) - BoltHold is an embeddable NoSQL store for Go types built on BoltDB
 - [timtadh/data-structures](https://github.com/timtadh/data-structures) - Go datastructures.
@@ -1376,6 +1377,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [purescript-contrib/purescript-react](https://github.com/purescript-contrib/purescript-react) - React Bindings for PureScript
 - [purescript-halogen/purescript-halogen](https://github.com/purescript-halogen/purescript-halogen) - A declarative, type-safe UI library for PureScript.
+- [thomashoneyman/purescript-halogen-store](https://github.com/thomashoneyman/purescript-halogen-store) - Global state management for Halogen
 
 ## Python
 
