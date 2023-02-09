@@ -307,6 +307,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apache/camel-k](https://github.com/apache/camel-k) - Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers
 - [application-research/estuary](https://github.com/application-research/estuary) - A custom IPFS/Filecoin node that makes it easy to pin IPFS content and make Filecoin deals.
 - [araddon/qlbridge](https://github.com/araddon/qlbridge) - A golang expression evaluator & Library to build SQL query engine based functionality. 
+- [archway-network/archway](https://github.com/archway-network/archway) - Archway Network
 - [archway-network/cosmologger](https://github.com/archway-network/cosmologger) - Cosmologger listens to the NewBlock and TX events of a cosmos based network and logs the acquire information in a database for further usage.
 - [argoproj-labs/argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
 - [argoproj-labs/argocd-operator](https://github.com/argoproj-labs/argocd-operator) - A Kubernetes operator for managing Argo CD clusters.
