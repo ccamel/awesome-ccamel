@@ -1769,7 +1769,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DomParfitt/graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A Fully-fledged functional effect system for typescript with a rich standard library
-- [EmpowerPlastic/empowerchain](https://github.com/EmpowerPlastic/empowerchain) - 
+- [EmpowerPlastic/empowerchain](https://github.com/EmpowerPlastic/empowerchain) - Empowerchain is a global platform to revolutionize waste management and recycling, creating a transparent and efficient circular economy.
 - [IvanGoncharov/graphql-lodash](https://github.com/IvanGoncharov/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
