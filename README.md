@@ -200,6 +200,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jfmengels/elm-review](https://github.com/jfmengels/elm-review) - Analyzes Elm projects, to help find mistakes before your users find them.
 - [kevgathuku/parcel-elm](https://github.com/kevgathuku/parcel-elm) - Boilerplate for a new Elm app using Parcel
 - [kraklin/elm-readiness](https://github.com/kraklin/elm-readiness) - Keep track of transition state of your dependencies in your own Elm app to Elm 0.19
+- [lindsaykwardell/vite-elm-spa](https://github.com/lindsaykwardell/vite-elm-spa) - A default template for building Elm SPA applications using Vite.
+- [lindsaykwardell/vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications using Vite.
 - [lucamug/elm-parcel-example](https://github.com/lucamug/elm-parcel-example) - 
 - [mdgriffith/elm-codegen](https://github.com/mdgriffith/elm-codegen) - 
 - [mdgriffith/elm-gql-github-example](https://github.com/mdgriffith/elm-gql-github-example) - An example repo for elm-gql that uses the Github GraphQL API
@@ -409,6 +411,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [dymensionxyz/dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
+- [dymensionxyz/dymension-rdk](https://github.com/dymensionxyz/dymension-rdk) - Framework for building highly scalable RollApps
 - [dymensionxyz/dymint](https://github.com/dymensionxyz/dymint) - ABCI-client for Dymension RollApps forked from Optimint
 - [eBay/akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
@@ -1085,6 +1088,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SchumacherFM/blog-cs](https://github.com/SchumacherFM/blog-cs) - My blog at https://cyrillschumacher.com - You may submit pull requests :-)
 - [Schweigi/assembler-simulator](https://github.com/Schweigi/assembler-simulator) - Simple 8-bit Assembler Simulator with Angular.js
 - [Ubleam/eslint-config-ubleam](https://github.com/Ubleam/eslint-config-ubleam) - 📜 ESLint shareable config used @Ubleam
+- [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and compress) GLSL shader files :electric_plug:
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
 - [Yomguithereal/baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
@@ -1264,6 +1268,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [victorandree/apollo-federation-relay](https://github.com/victorandree/apollo-federation-relay) - A demo of Apollo Federation and global Node resolution
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [vitaly-t/excellent](https://github.com/vitaly-t/excellent) - Basic DOM Component Framework
+- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [wearerequired/lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and auto-fixing lint errors
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
@@ -1608,6 +1613,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BraveUX/for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties. 
+- [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Datavserve Portal for the OKP4 network. 
 - [okp4/docs](https://github.com/okp4/docs) - 📜 OKP4 documentation portal (built with Docusaurus).
 - [oschrenk/scrumoji](https://github.com/oschrenk/scrumoji) - An emoji guide for your scrum ceremonies
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -1887,7 +1893,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mobxjs/mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - Lightweight React bindings for MobX based on React 16.8 and Hooks
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
-- [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Datavserve Portal for the OKP4 network. 
 - [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
 - [okp4/nemeton-web](https://github.com/okp4/nemeton-web) - 🧙‍♂️ The landing page repository for the Nemeton Program! 🔥
 - [okp4/nodejumper](https://github.com/okp4/nodejumper) - Nodejumper web app is a multi tool for cosmos based networks.
@@ -2093,7 +2098,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [llaisdy/beam_languages](https://github.com/llaisdy/beam_languages) - Languages, and about languages, on the BEAM
 - [lolottetheclash/lolottetheclash](https://github.com/lolottetheclash/lolottetheclash) - About me 
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
-- [madnoder/okp4](https://github.com/madnoder/okp4) - 
 - [magnetikonline/action-golang-cache](https://github.com/magnetikonline/action-golang-cache) - GitHub Action bringing together actions/setup-go and actions/cache.
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
