@@ -23,6 +23,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -937,7 +938,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) - Adds a Metrics Endpoint to Keycloak
 - [agliznetsov/cache-demo](https://github.com/agliznetsov/cache-demo) - 
 - [agliznetsov/crud](https://github.com/agliznetsov/crud) - A framework to create REST APIs in Java
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [aiven/prometheus-exporter-plugin-for-opensearch](https://github.com/aiven/prometheus-exporter-plugin-for-opensearch) - Prometheus exporter plugin for OpenSearch & OpenSearch Mixin
 - [ananas-analytics/ananas-desktop](https://github.com/ananas-analytics/ananas-desktop) - A hackable data integration & analysis tool to enable non technical users to edit data processing jobs and visualise data on demand.
 - [andreschaffer/event-sourcing-cqrs-examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - Event Sourcing and CQRS in practice.
@@ -1277,6 +1277,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [yelouafi/petit-dom](https://github.com/yelouafi/petit-dom) - minimalist virtual dom library
 - [yisar/asta](https://github.com/yisar/asta) - :octopus: Resumable SSR framework.
 
+## Jinja
+
+- [polkachu/cosmos-validators](https://github.com/polkachu/cosmos-validators) - Ansible Script for Cosmos-based blockchain validators
+
 ## Jupyter Notebook
 
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
@@ -1404,6 +1408,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Wenzel/oswatcher](https://github.com/Wenzel/oswatcher) - A framework to track the evolution of Operating Systems over time
 - [actions-automation/pull-request-responsibility](https://github.com/actions-automation/pull-request-responsibility) - Keep pull requests moving -- from opening to merge.
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [amcat/progressmonitor](https://github.com/amcat/progressmonitor) - Python classes for tracking (sub)task progress (inspired by Eclipse ProgressMonitor, but more pythonic)
 - [argoproj-labs/hera-workflows](https://github.com/argoproj-labs/hera-workflows) - Hera is an Argo Workflows Python SDK. Hera aims to make workflow construction and submission easy and accessible to everyone! Hera abstracts away workflow setup details while still maintaining a consistent vocabulary with Argo Workflows.
 - [assetnote/batchql](https://github.com/assetnote/batchql) - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations
@@ -1602,6 +1607,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
