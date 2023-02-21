@@ -1806,6 +1806,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). Unopinionated and heavily updated fork of react-signature-pad
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
+- [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
