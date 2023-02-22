@@ -1561,6 +1561,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [forbole/cosmos-rust-wallet](https://github.com/forbole/cosmos-rust-wallet) - A cosmos network key-signer buildable in WASM
 - [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [grantshandy/fdg](https://github.com/grantshandy/fdg) - A Force Directed Graph Framework for Rust.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
@@ -1805,6 +1806,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [adhrinae/ts-react-parcel](https://github.com/adhrinae/ts-react-parcel) - Typescript with React, using parcel bundler
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). Unopinionated and heavily updated fork of react-signature-pad
+- [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
