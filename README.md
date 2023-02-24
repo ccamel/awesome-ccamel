@@ -17,6 +17,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Erlang](#erlang)
+- [Gleam](#gleam)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -233,6 +234,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [joxa/joxa](https://github.com/joxa/joxa) - A Modern Lisp for the Erlang VM
 - [rabbitmq/aten](https://github.com/rabbitmq/aten) - An adaptive accrual node failure detection library for Elixir and Erlang
 - [sile/jsone](https://github.com/sile/jsone) - Erlang JSON library
+
+## Gleam
+
+- [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - 💯 A collection of Gleam libraries, projects, and resources
+- [gleam-lang/erlang](https://github.com/gleam-lang/erlang) - 🐙 Extra code for when running on Erlang
 
 ## Go
 
@@ -1586,6 +1592,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [osmosis-labs/osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Rust libraries for osmosis
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc) - user-friendly rust bindings for the bpf compiler collection
+- [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable.
 - [rust-github/template](https://github.com/rust-github/template) - Template for a generic rust project hosted on GitHub
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
