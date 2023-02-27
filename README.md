@@ -2139,6 +2139,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/publications](https://github.com/okp4/publications) - 📚 Official publications (slides, papers, ...) from OKP4
 - [okp4/template-oss](https://github.com/okp4/template-oss) - 🖨 Template for opensource projects @okp4
 - [okp4/wiki](https://github.com/okp4/wiki) - 📚 Wiki for technical documentation
+- [olegrjumin/awesome-react-state-management](https://github.com/olegrjumin/awesome-react-state-management) - ⚛️  ・React state management tools and libraries
 - [omniti-labs/jsend](https://github.com/omniti-labs/jsend) - JSend is a specification for a simple, no-frills, JSON based format for application-level communication.
 - [ontology-tech/DID-method-specs](https://github.com/ontology-tech/DID-method-specs) - 
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
