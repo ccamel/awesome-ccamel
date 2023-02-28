@@ -459,7 +459,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [github/go-fault](https://github.com/github/go-fault) - Fault injection library in Go using standard http middleware
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments. 
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
 - [gjongenelen/eh-mongodb](https://github.com/gjongenelen/eh-mongodb) - Improved MongoDB driver for Event Horizon
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [go-chat-bot/bot](https://github.com/go-chat-bot/bot) - IRC, Slack, Telegram and RocketChat bot written in go
