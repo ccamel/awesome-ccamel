@@ -1099,6 +1099,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and compress) GLSL shader files :electric_plug:
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
 - [Yomguithereal/baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
+- [adobe/jsonschema2md](https://github.com/adobe/jsonschema2md) - Convert Complex JSON Schemas into Markdown Documentation
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [alecglassford/commit-msg-must-use-emoji](https://github.com/alecglassford/commit-msg-must-use-emoji) - 💌 Easy-to-add Git hook that forces you to start every commit message with an emoji
@@ -1148,6 +1149,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eddy-guo/validator-monitor](https://github.com/eddy-guo/validator-monitor) - Discord bot to monitor Jackal validator uptime status (and other Cosmos blockchains).
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [editor-js/embed](https://github.com/editor-js/embed) - Embed Tool for Editor.js
+- [editor-js/raw](https://github.com/editor-js/raw) - Raw HTML tool for Editor.js
 - [elwin013/parcel-plugin-static-files-copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - ParcelJS plugin to copy static files
 - [epsylon/ufonet](https://github.com/epsylon/ufonet) - UFONet - Denial of Service Toolkit
 - [ept/avrodoc](https://github.com/ept/avrodoc) - Documentation tool for Avro schemas
@@ -2013,6 +2015,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BccNodes/okp4-nemeton-testnet](https://github.com/BccNodes/okp4-nemeton-testnet) - 
 - [CosmWasm/awesome-cosmwasm](https://github.com/CosmWasm/awesome-cosmwasm) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
 - [CosmWasm/book](https://github.com/CosmWasm/book) - CosmWasm book
+- [CosmosContracts/docs](https://github.com/CosmosContracts/docs) - Documentation - Juno 
 - [Cour-de-cassation/moteurNER](https://github.com/Cour-de-cassation/moteurNER) - communication sur le moteur de pseudonymisation de la Cour de Cassation
 - [DGKSK8LIFE/go-copilot](https://github.com/DGKSK8LIFE/go-copilot) - Github Copilot examples with Go
 - [Dimokus88/OkP4](https://github.com/Dimokus88/OkP4) - Node OkP4 on Akash Network | Нода OkP4 на Akash Network
