@@ -1668,6 +1668,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fthomas/fs2-cron](https://github.com/fthomas/fs2-cron) - FS2 streams based on cron expressions
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [indix/schemer](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
+- [japgolly/scalajs-react](https://github.com/japgolly/scalajs-react) - Facebook's React on Scala.JS
 - [julienrf/scalm](https://github.com/julienrf/scalm) - Elm-inspired Scala library for writing web user interfaces
 - [kahliburke/html-binding-example](https://github.com/kahliburke/html-binding-example) - Demonstrates various usage scenarios for @html binding macro.
 - [kailuowang/henkan](https://github.com/kailuowang/henkan) - A small library for converting between case classes.
@@ -1676,6 +1677,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pepegar/hammock](https://github.com/pepegar/hammock) - Purely functional HTTP client
 - [pme123/scala-adapters](https://github.com/pme123/scala-adapters) - A simple framework to implement your server jobs - providing a standard UI-client to monitor and test them.
 - [profunktor/redis4cats](https://github.com/profunktor/redis4cats) - :bookmark: Redis client built on top of Cats Effect, Fs2 and Lettuce
+- [raquo/Airstream](https://github.com/raquo/Airstream) - State propagation and event streams with mandatory ownership and no glitches
 - [sbt/sbt-release](https://github.com/sbt/sbt-release) - A release plugin for sbt
 - [scala-exercises/exercises-cats](https://github.com/scala-exercises/exercises-cats) - Scala Exercises' lessons for the Cats library
 - [scala-js/scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
@@ -2034,6 +2036,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
+- [ScalablyTyped/Distribution](https://github.com/ScalablyTyped/Distribution) - The Javascript ecosystem for Scala.js!
 - [SmartStake/relayers](https://github.com/SmartStake/relayers) - A repository of all interchain relayers (IBC). Data stored in this repository is used to build https://relayers.smartstake.io
 - [SonnevilleDamien/SonnevilleDamien](https://github.com/SonnevilleDamien/SonnevilleDamien) - My profile. 
 - [Symbitic/awesome-babylonjs](https://github.com/Symbitic/awesome-babylonjs) - A curated list of awesome things related to Babylon.js
