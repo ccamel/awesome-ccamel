@@ -1645,6 +1645,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [GlasslabGames/html.scala](https://github.com/GlasslabGames/html.scala) - 
 - [LEGO/woof](https://github.com/LEGO/woof) - A pure Scala 3 logging library with no reflection
 - [Log4s/log4s](https://github.com/Log4s/log4s) - High-performance SLF4J wrapper for Scala.
+- [PurpleKingdomGames/tyrian](https://github.com/PurpleKingdomGames/tyrian) - Elm-inspired Scala UI library.
 - [ScalateKids/Actorbase](https://github.com/ScalateKids/Actorbase) - A key-value NoSql database based on actor model
 - [ThoughtWorksInc/Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - Reactive data-binding for Scala
 - [ThoughtWorksInc/Dsl.scala](https://github.com/ThoughtWorksInc/Dsl.scala) - A framework to create embedded Domain-Specific Languages in Scala
@@ -1654,6 +1655,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [VledicFranco/purity](https://github.com/VledicFranco/purity) - A set of FP goodies to help you create pure, type-safe code easily in Scala
 - [akka-js/akka.js](https://github.com/akka-js/akka.js) - Akka, for Scala.js
 - [akka/akka-quickstart-scala.g8](https://github.com/akka/akka-quickstart-scala.g8) - A minimal seed template for an Akka with Scala build 
+- [alwins0n/pmsm](https://github.com/alwins0n/pmsm) - Poor Man's State Management - Scala.js
 - [camunda/feel-scala](https://github.com/camunda/feel-scala) - FEEL parser and interpreter written in Scala
 - [cb372/scala-typed-holes](https://github.com/cb372/scala-typed-holes) - 
 - [ccamel/playground-binding.scala](https://github.com/ccamel/playground-binding.scala) -  :balloon: My playground for playing with scala, scalajs and binding.scala
