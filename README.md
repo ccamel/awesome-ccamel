@@ -446,6 +446,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems — without the downtime risk.
 - [flimzy/donewriter](https://github.com/flimzy/donewriter) - DoneWriter provides an http.ResponseWriter which can report if a response has been sent or not.
 - [forbole/bdjuno](https://github.com/forbole/bdjuno) - BDJuno is the official Juno implementation for BigDipper, the open-source block explorer for Cosmos
+- [forbole/juno](https://github.com/forbole/juno) - A Cosmos Hub data aggregator and exporter.
 - [francesconi/go-rampart](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
@@ -878,6 +879,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NLP2RDF/ontologies](https://github.com/NLP2RDF/ontologies) - All ontologies used in NIF 2.0 (NIF-Core + vocabulary modules + helper modules)
 - [SWI-Prolog/swipl-wasm](https://github.com/SWI-Prolog/swipl-wasm) - Run SWI-Prolog in your browser using WebAssemply
 - [VectorLogoZone/vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
+- [ad2ien/ad2ien.github.io](https://github.com/ad2ien/ad2ien.github.io) - Just my résumé
 - [bfirsh/docker-redoc](https://github.com/bfirsh/docker-redoc) - A Docker image which serves ReDoc documentation
 - [ctco/spring-boot-graphql-template](https://github.com/ctco/spring-boot-graphql-template) - Spring Boot and GraphQL template project
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -1688,6 +1690,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [scalaz/scalaz](https://github.com/scalaz/scalaz) - Principled Functional Programming in Scala
 - [scalikejdbc/scalikejdbc](https://github.com/scalikejdbc/scalikejdbc) - A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs.
 - [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter) - Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
+- [sjrd/scalajs-sbt-vite-laminar-chartjs-example](https://github.com/sjrd/scalajs-sbt-vite-laminar-chartjs-example) - An example of using Scala.js with sbt, Vite, Laminar and Chart.js
 - [slick/slick](https://github.com/slick/slick) - Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala
 - [snowplow/snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
 - [spaced/scala-js-d3](https://github.com/spaced/scala-js-d3) - d3 facade types for Scala.js
@@ -1880,6 +1883,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fp4ts/fp4ts](https://github.com/fp4ts/fp4ts) - Zero-dependency, purely functional library for effectful programming in Typescript
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
+- [gcanti/elm-ts](https://github.com/gcanti/elm-ts) - A porting to TypeScript featuring fp-ts, rxjs6 and React
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [gcanti/monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
