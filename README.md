@@ -770,6 +770,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
+- [strangelove-ventures/cosmos-operator](https://github.com/strangelove-ventures/cosmos-operator) - Cosmos Operator is a kubernetes operator for managing cosmos nodes
 - [strangelove-ventures/half-life](https://github.com/strangelove-ventures/half-life) - Cosmos validator monitoring and alerting utility
 - [strangelove-ventures/interchaintest](https://github.com/strangelove-ventures/interchaintest) - e2e testing framework for the interchain
 - [strangelove-ventures/lens](https://github.com/strangelove-ventures/lens) - ⚛️❤️👁 Brought to you by the LensCrafters
