@@ -1206,6 +1206,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ltearno/pom-explorer](https://github.com/ltearno/pom-explorer) - A tool to aid managing lots of maven projects
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
 - [m0t0k1ch1/ERC721-token-sample](https://github.com/m0t0k1ch1/ERC721-token-sample) - a sample implementation of ERC721 (CryptoKitties ver.)
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -1562,6 +1563,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
+- [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
 - [arendjr/rust-for-ts-devs](https://github.com/arendjr/rust-for-ts-devs) - Rust courses for TypeScript developers
 - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
@@ -2147,6 +2149,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [monksy/awesome-kafka](https://github.com/monksy/awesome-kafka) - A collection of kafka-resources
 - [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
 - [mundimark/awesome-markdown-alternatives](https://github.com/mundimark/awesome-markdown-alternatives) - A collection of awesome light-weight markup markdown alternatives 
+- [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [near/borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing
 - [newca12/awesome-rust-formalized-reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning) - An exhaustive list of all Rust resources regarding automated or semi-automated formalization efforts in any area, constructive mathematics, formal algorithms, and program verification.
 - [nikolay-martynov/eip-for-plantuml](https://github.com/nikolay-martynov/eip-for-plantuml) - Library of EIP sprites for PlantUML
