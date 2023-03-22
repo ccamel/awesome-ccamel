@@ -444,7 +444,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [fission/fission-workflows](https://github.com/fission/fission-workflows) - Workflows for Fission: Fast, reliable and lightweight function composition for serverless functions
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems — without the downtime risk.
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source device management for IT and security teams with thousands of laptops and servers. (macOS, Windows, Linux, ChromeOS, AWS, Google Cloud, Azure, data center, containers)
 - [flimzy/donewriter](https://github.com/flimzy/donewriter) - DoneWriter provides an http.ResponseWriter which can report if a response has been sent or not.
 - [forbole/bdjuno](https://github.com/forbole/bdjuno) - BDJuno is the official Juno implementation for BigDipper, the open-source block explorer for Cosmos
 - [forbole/juno](https://github.com/forbole/juno) - A Cosmos Hub data aggregator and exporter.
@@ -1591,11 +1591,14 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Tendermint in Rust!
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
+- [larry0x/badges](https://github.com/larry0x/badges) - Monorepo for the Badges project
+- [larry0x/cw-template](https://github.com/larry0x/cw-template) - Template for multi-contract CosmWasm projects
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
+- [mortendahl/rust-paillier](https://github.com/mortendahl/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -1625,14 +1628,13 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [setten-io/ecg](https://github.com/setten-io/ecg) -  Cosmos validators dead man's switch
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
-- [steak-enjoyers/badges](https://github.com/steak-enjoyers/badges) - Badges is an NFT project inspired by POAP, intended to be deployed on Stargaze
-- [steak-enjoyers/cw-template](https://github.com/steak-enjoyers/cw-template) - Template for multi-contract CosmWasm projects
 - [stellar/slingshot](https://github.com/stellar/slingshot) -  A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [swc-project/plugins](https://github.com/swc-project/plugins) - Plugins for swc, written in rust
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
@@ -1855,6 +1857,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cheqd/validator-status](https://github.com/cheqd/validator-status) - Network-wide validator status alerting API for cheqd mainnet. Designed to work for any Cosmos SDK network
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus v2.
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella: 
+- [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - Cosmos chain registry ⚛️
 - [cosmology-tech/cosmology](https://github.com/cosmology-tech/cosmology) - CLI and TS library for the Cosmos ⚛️
