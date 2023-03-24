@@ -17,6 +17,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Erlang](#erlang)
+- [F#](#f)
 - [Gleam](#gleam)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -217,7 +218,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stil4m/elm-analyse](https://github.com/stil4m/elm-analyse) - A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 - [terezka/elm-charts](https://github.com/terezka/elm-charts) - Create SVG charts in Elm.
 - [timjs/elm-collage](https://github.com/timjs/elm-collage) - Create interactive vector graphics and position them relative to each other
-- [trustbit/Contexture](https://github.com/trustbit/Contexture) - Wizard for the Bounded-Context-Canvas
 - [vendrinc/elm-gql](https://github.com/vendrinc/elm-gql) - 
 - [wsowens/term](https://github.com/wsowens/term) - An Elm package for making web-based terminals
 - [yujota/elm-collision-detection](https://github.com/yujota/elm-collision-detection) - Collision detection library for elm.
@@ -235,6 +235,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [joxa/joxa](https://github.com/joxa/joxa) - A Modern Lisp for the Erlang VM
 - [rabbitmq/aten](https://github.com/rabbitmq/aten) - An adaptive accrual node failure detection library for Elixir and Erlang
 - [sile/jsone](https://github.com/sile/jsone) - Erlang JSON library
+
+## F#
+
+- [trustbit/Contexture](https://github.com/trustbit/Contexture) - Wizard for the Bounded-Context-Canvas
 
 ## Gleam
 
