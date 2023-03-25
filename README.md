@@ -114,6 +114,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [j-jorge/codesignal](https://github.com/j-jorge/codesignal) - My solutions to CodeSignal's puzzles
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Monitor and observe the availability of end-user applications atop of Kubernetes, Zabbix and Nagios. Define and track SLA/SLO targets through Prometheus metrics and built-in dashboards.
 - [sosolimited/Entity-Component-Samples](https://github.com/sosolimited/Entity-Component-Samples) - Cinder block for EntityX and a brief ECS tutorial.
@@ -313,7 +314,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [akash-network/node](https://github.com/akash-network/node) - a secure, transparent, and peer-to-peer cloud computing network
 - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter) - DEPRECATED: Use https://github.com/golangci/golangci-lint
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [alpeb/go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
 - [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language and expression evaluation for Go
@@ -880,7 +881,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [8values/8values.github.io](https://github.com/8values/8values.github.io) - The 8values political quiz
 - [Cumulo-pro/OKP4](https://github.com/Cumulo-pro/OKP4) - 
-- [ErikssonJoakim/PHP-Blog](https://github.com/ErikssonJoakim/PHP-Blog) - 
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [Funny-OpenSource-Projects/image-to-xls](https://github.com/Funny-OpenSource-Projects/image-to-xls) - A simple tool to make ascii art from an image using excel colored cells.
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
