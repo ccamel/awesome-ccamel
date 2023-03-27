@@ -89,7 +89,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [timescale/pg_prometheus](https://github.com/timescale/pg_prometheus) - PostgreSQL extension for Prometheus data
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [trealla-prolog/trealla](https://github.com/trealla-prolog/trealla) - A compact, efficient Prolog interpreter written in plain-old C.
-- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter, and the most universal WASM runtime
+- [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 
 ## C#
 
@@ -1788,6 +1788,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Swift
 
+- [freedmand/textra](https://github.com/freedmand/textra) - A command-line application to convert images, PDFs, and audio files to text using Apple's APIs
 - [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 
@@ -1914,6 +1915,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [improbable-eng/ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.
+- [incetarik/fp-ts-stream](https://github.com/incetarik/fp-ts-stream) - Providing Transducers/Streams based on fp-ts library.
 - [ingvaar/beauf-net-back](https://github.com/ingvaar/beauf-net-back) - A simple quote website backend built using NestJS
 - [ingvaar/beauf-net-front](https://github.com/ingvaar/beauf-net-front) - A simple quote website frontend built using React
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
@@ -2162,6 +2164,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [near/borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing
 - [newca12/awesome-rust-formalized-reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning) - An exhaustive list of all Rust resources regarding automated or semi-automated formalization efforts in any area, constructive mathematics, formal algorithms, and program verification.
 - [nikolay-martynov/eip-for-plantuml](https://github.com/nikolay-martynov/eip-for-plantuml) - Library of EIP sprites for PlantUML
+- [obajay/StateSync-snapshots](https://github.com/obajay/StateSync-snapshots) - 
 - [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) - A curated list of awesome Web Components tools, articles and resources.
 - [okp4/.github](https://github.com/okp4/.github) - OKP4 GitHub Organization-wide files
 - [okp4/actions](https://github.com/okp4/actions) - 🏭 Repository for sharing our Github CI/CD workflows 
