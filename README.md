@@ -182,6 +182,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Elm
 
 - [BrianHicks/elm-particle](https://github.com/BrianHicks/elm-particle) -  Simple particle system for web apps. Designed for visual flourishes like confetti.
+- [JesterXL/simple-game](https://github.com/JesterXL/simple-game) - 
 - [MacCASOutreach/graphicsvg](https://github.com/MacCASOutreach/graphicsvg) - Graphics library authored by Chris Schankula and Dr. Christopher Anand
 - [bigardone/elm-dynamic-base-path](https://github.com/bigardone/elm-dynamic-base-path) - Example Elm SPA with dynamic base path
 - [billstclair/elm-websocket-client](https://github.com/billstclair/elm-websocket-client) - Websockets for Elm 0.19, using ports
@@ -716,7 +717,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates.
 - [psampaz/gothanks](https://github.com/psampaz/gothanks) - GoThanks automatically stars Go's official repository and your go.mod github dependencies, providing a simple way  to say thanks to the maintainers of the modules you use and the contributors of Go itself.
 - [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
-- [public-awesome/stargaze](https://github.com/public-awesome/stargaze) - Stargaze Cosmos proof-of-stake node
+- [public-awesome/stargaze](https://github.com/public-awesome/stargaze) - Stargaze Cosmos proof-of-stake blockchain
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [qntfy/kazaam](https://github.com/qntfy/kazaam) - Arbitrary transformations of JSON in Golang
 - [quay/dba-operator](https://github.com/quay/dba-operator) - Kubernetes Operator that orchestrates relational database schema migrations
@@ -774,6 +775,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [soypat/gitaligned](https://github.com/soypat/gitaligned) - Find out where you fall on the Open-Source Character Alignment Chart
 - [soypat/rebed](https://github.com/soypat/rebed) - Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type.
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+- [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go 
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
@@ -1825,7 +1827,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
 - [DomParfitt/graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A Fully-fledged functional effect system for typescript with a rich standard library
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [EmpowerPlastic/empowerchain](https://github.com/EmpowerPlastic/empowerchain) - Empowerchain is a global platform to revolutionize waste management and recycling, creating a transparent and efficient circular economy.
 - [IvanGoncharov/graphql-lodash](https://github.com/IvanGoncharov/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
