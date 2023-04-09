@@ -56,6 +56,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [YAML](#yaml)
+- [Zig](#zig)
 - [Misc](#misc)
 
 ---
@@ -2050,6 +2051,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## YAML
 
 - [sleighzy/k3s-traefik-v2-kubernetes-crd](https://github.com/sleighzy/k3s-traefik-v2-kubernetes-crd) - Deployment files for Traefik v2 Kubernetes CRD for ingress
+
+## Zig
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## Misc
 
