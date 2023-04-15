@@ -317,6 +317,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [akash-network/node](https://github.com/akash-network/node) - a secure, transparent, and peer-to-peer cloud computing network
 - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter) - DEPRECATED: Use https://github.com/golangci/golangci-lint
+- [alessio/shellescape](https://github.com/alessio/shellescape) - Escape arbitrary strings for use as command line arguments
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [alpeb/go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
@@ -434,6 +435,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
 - [elliotchance/pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [emicklei/mora](https://github.com/emicklei/mora) - MongoDB generic REST server in Go
+- [eminetto/api-o11y](https://github.com/eminetto/api-o11y) - Repository used in a talk about APIs and Observability
 - [emperror/emperror](https://github.com/emperror/emperror) - The Emperor takes care of all errors personally
 - [emvi/hide](https://github.com/emvi/hide) - ID type with marshalling to/from hash to prevent sending IDs to clients.
 - [epiclabs-io/elastic](https://github.com/epiclabs-io/elastic) - Converts go types no matter what
@@ -1402,7 +1404,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Mustache
 
 - [mmz-srf/passbolt-helm](https://github.com/mmz-srf/passbolt-helm) - Passbolt Kubernetes Helm Charts
-- [nextcloud/helm](https://github.com/nextcloud/helm) - 
+- [nextcloud/helm](https://github.com/nextcloud/helm) - A helm chart for deploying nextcloud on Kubernetes
 
 ## OCaml
 
@@ -1446,9 +1448,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
 - [RDFLib/rdflib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [SimplyVC/panic](https://github.com/SimplyVC/panic) - PANIC Monitoring and Alerting For Blockchains
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Wenzel/oswatcher](https://github.com/Wenzel/oswatcher) - A framework to track the evolution of Operating Systems over time
 - [actions-automation/pull-request-responsibility](https://github.com/actions-automation/pull-request-responsibility) - Keep pull requests moving -- from opening to merge.
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
@@ -1839,6 +1841,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AudiusProject/hedgehog](https://github.com/AudiusProject/hedgehog) - 🦔 Build DApps like Apps -- A Metamask alternative that empowers you to build good UX
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
 - [BowlingX/geschichte](https://github.com/BowlingX/geschichte) - zustand and immer based hook to manage query parameters
+- [BuilderIO/gpt-assistant](https://github.com/BuilderIO/gpt-assistant) - An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks
 - [CosmWasm/CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS) - Source of the cosmwasm npm package
 - [CosmWasm/mesh-security-ui](https://github.com/CosmWasm/mesh-security-ui) - Basic UI to try out mesh security
 - [CosmWasm/ts-codegen](https://github.com/CosmWasm/ts-codegen) - Convert your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.
@@ -1943,6 +1946,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [guigrpa/docx-templates](https://github.com/guigrpa/docx-templates) - Template-based docx report creation
 - [guregu/trealla-js](https://github.com/guregu/trealla-js) - Trealla Prolog for the web
+- [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
