@@ -643,7 +643,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [memnix/memnix-rest](https://github.com/memnix/memnix-rest) - Memnix Rest API
 - [mikespook/gorbac](https://github.com/mikespook/gorbac) - goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.
 - [mingderwang/did](https://github.com/mingderwang/did) - x/did module for the Cosmos SDK framework with a “self-sovereign" digital identity (DID) support
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage 
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [mishudark/eventhus](https://github.com/mishudark/eventhus) - Go - CQRS / Event Sourcing made easy - Go
 - [mitchellh/ioprogress](https://github.com/mitchellh/ioprogress) - Go (golang) package for progress bars around io.Reader/Writers.
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
@@ -1142,6 +1142,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [battila7/get-version-action](https://github.com/battila7/get-version-action) - A GitHub Action which extracts the version from github.ref
 - [bgoonz/Markdown-Templates](https://github.com/bgoonz/Markdown-Templates) - 
+- [biodiv/anycluster](https://github.com/biodiv/anycluster) - Server-side clustering of map markers for (Geo)Django
 - [bjankord/stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - ⚙ A stylelint config inspired by https://sass-guidelin.es/
 - [blackcater/blackcater](https://github.com/blackcater/blackcater) - Using Node.js to generate my Github profile readme automatically.
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
@@ -1461,7 +1462,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [atchopba/scraping-jobs](https://github.com/atchopba/scraping-jobs) - Scraping-jobs helps scrape jobs from major job boards (apec.fr, indeed.fr, monster.fr...) to provide a simple and unified job search engine.
 - [aziz/SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3
 - [benjefferies/branch-protection-bot](https://github.com/benjefferies/branch-protection-bot) - A bot tool to disable and re-enable "Include administrators" option in branch protection
-- [biodiv/anycluster](https://github.com/biodiv/anycluster) - Server-side clustering of map markers for (Geo)Django
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [brouberol/marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr: 
 - [cadmiumkitty/rdfpandas](https://github.com/cadmiumkitty/rdfpandas) - RdfPandas is a module providing RDF support for Pandas
