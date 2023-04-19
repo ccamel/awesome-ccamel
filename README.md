@@ -833,6 +833,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
 - [ugol/gamel](https://github.com/ugol/gamel) - Camel experiments in go
 - [ulule/loukoum](https://github.com/ulule/loukoum) - A simple SQL Query Builder
+- [umee-network/umee](https://github.com/umee-network/umee) - A Golang implementation of the Umee network, a decentralized universal capital facility in the Cosmos ecosystem.
 - [unidoc/unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [unidoc/unipdf-examples](https://github.com/unidoc/unipdf-examples) - Examples for creating and processing PDF files with UniPDF https://github.com/unidoc/unipdf
@@ -896,6 +897,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
 - [NLP2RDF/ontologies](https://github.com/NLP2RDF/ontologies) - All ontologies used in NIF 2.0 (NIF-Core + vocabulary modules + helper modules)
 - [SWI-Prolog/swipl-wasm](https://github.com/SWI-Prolog/swipl-wasm) - Run SWI-Prolog in your browser using WebAssemply
+- [SethClydesdale/genki-study-resources](https://github.com/SethClydesdale/genki-study-resources) - A collection of exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese.
 - [VectorLogoZone/vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
 - [ad2ien/ad2ien.github.io](https://github.com/ad2ien/ad2ien.github.io) - Just my résumé
 - [bfirsh/docker-redoc](https://github.com/bfirsh/docker-redoc) - A Docker image which serves ReDoc documentation
@@ -1648,6 +1650,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+- [rust-lang/rustwide](https://github.com/rust-lang/rustwide) - Execute your code on the Rust ecosystem.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [rxRust/rxRust](https://github.com/rxRust/rxRust) - Rust implementation of Reactive Extensions. 
