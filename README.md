@@ -409,7 +409,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
-- [dagu-labs/dagu](https://github.com/dagu-labs/dagu) - Just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [dagu-labs/dagu](https://github.com/dagu-labs/dagu) - Just another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [dataux/dataux](https://github.com/dataux/dataux) - Federated mysql compatible proxy to elasticsearch, mongo, cassandra, big-table, google datastore
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [dedalqq/omg.jsonparser](https://github.com/dedalqq/omg.jsonparser) - The simple JSON parser with validation by condition
@@ -733,7 +733,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [rcrowley/go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [red-gold/telar-social-go](https://github.com/red-gold/telar-social-go) - Telar Social Engine is a scalable cloud native social network. Whatever your creative idea or unique bussiness model, you can build it by Telar running on any public or private cloud.
-- [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [redpanda-data/kminion](https://github.com/redpanda-data/kminion) - KMinion is a feature-rich Prometheus exporter for Apache Kafka written in Go. It is lightweight and highly configurable so that it will meet your requirements.
 - [regen-network/regen-ledger](https://github.com/regen-network/regen-ledger) - :seedling: Blockchain for planetary regeneration
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -1075,7 +1075,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [puniverse/quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java. 
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
-- [redis/jedis](https://github.com/redis/jedis) - Redis Java client designed for performance and ease of use.
+- [redis/jedis](https://github.com/redis/jedis) - Redis Java client
 - [remkop/picocli](https://github.com/remkop/picocli) - Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc. 
 - [rholder/guava-retrying](https://github.com/rholder/guava-retrying) - This is a small extension to Google's Guava library to allow for the creation of configurable retrying strategies for an arbitrary function call, such as something that talks to a remote service with flaky uptime.
 - [senx/warp10-platform](https://github.com/senx/warp10-platform) - The Most Advanced Time Series Platform
