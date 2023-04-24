@@ -1192,6 +1192,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [faubourg-numerique/i4trust-stakeholder-mvp-stack](https://github.com/faubourg-numerique/i4trust-stakeholder-mvp-stack) - 
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [fission/fission-ui](https://github.com/fission/fission-ui) - Fission web interface
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
@@ -1250,7 +1251,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [observablehq/runtime](https://github.com/observablehq/runtime) - The Observable dataflow runtime.
 - [octoherd/script-star-or-unstar](https://github.com/octoherd/script-star-or-unstar) - An octoherd script to add or remove star
 - [okp4/eslint-config-okp4](https://github.com/okp4/eslint-config-okp4) - 📜 ESLint shareable config used @okp4
-- [okp4/follow-contributor-action](https://github.com/okp4/follow-contributor-action) - Github action to follow a contributor.
 - [okp4/ping-pub-explorer](https://github.com/okp4/ping-pub-explorer) - A light explorer for Cosmos-based Blockchains.
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [orbitdb/orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-Only Log database for orbit-db
@@ -1447,6 +1447,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
+- [ActivityWatch/contributor-stats](https://github.com/ActivityWatch/contributor-stats) - Generating contributor stats for the ActivityWatch project
 - [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
@@ -1797,6 +1798,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [linagora/linshare](https://github.com/linagora/linshare) - LinShare
 - [lindt/docker_plantuml](https://github.com/lindt/docker_plantuml) - docker container for plantuml
 - [nodejumper-org/cosmos-scripts](https://github.com/nodejumper-org/cosmos-scripts) - Useful utils for cosmos chains
+- [obajay/StateSync-snapshots](https://github.com/obajay/StateSync-snapshots) - 
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [oh-my-fish/theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
 - [pgexperts/pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
@@ -1860,6 +1862,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [EmpowerPlastic/empowerchain](https://github.com/EmpowerPlastic/empowerchain) - Empowerchain is a global platform to revolutionize waste management and recycling, creating a transparent and efficient circular economy.
+- [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [IvanGoncharov/graphql-lodash](https://github.com/IvanGoncharov/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
@@ -1989,6 +1992,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Datavserve Portal for the OKP4 network. 
 - [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
+- [okp4/follow-contributor-action](https://github.com/okp4/follow-contributor-action) - Github action to follow a contributor.
 - [okp4/nemeton-web](https://github.com/okp4/nemeton-web) - 🧙‍♂️ The landing page repository for the Nemeton Program! 🔥
 - [okp4/nodejumper](https://github.com/okp4/nodejumper) - Nodejumper web app is a multi tool for cosmos based networks.
 - [okp4/okp4-keycloak-theme](https://github.com/okp4/okp4-keycloak-theme) - OKP4 keylcoak theme using keycloakify and okp4/ui react components
@@ -2220,7 +2224,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [near/borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing
 - [newca12/awesome-rust-formalized-reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning) - An exhaustive list of all Rust resources regarding automated or semi-automated formalization efforts in any area, constructive mathematics, formal algorithms, and program verification.
 - [nikolay-martynov/eip-for-plantuml](https://github.com/nikolay-martynov/eip-for-plantuml) - Library of EIP sprites for PlantUML
-- [obajay/StateSync-snapshots](https://github.com/obajay/StateSync-snapshots) - 
 - [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) - A curated list of awesome Web Components tools, articles and resources.
 - [okp4/.github](https://github.com/okp4/.github) - OKP4 GitHub Organization-wide files
 - [okp4/actions](https://github.com/okp4/actions) - 🏭 Repository for sharing our Github CI/CD workflows 
