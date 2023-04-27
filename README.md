@@ -187,7 +187,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BrianHicks/elm-particle](https://github.com/BrianHicks/elm-particle) -  Simple particle system for web apps. Designed for visual flourishes like confetti.
 - [JesterXL/simple-game](https://github.com/JesterXL/simple-game) - 
 - [MacCASOutreach/graphicsvg](https://github.com/MacCASOutreach/graphicsvg) - Graphics library authored by Chris Schankula and Dr. Christopher Anand
-- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Next-Gen ERD: explore, analyze, document and design your SQL database schema.
+- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Next-Gen ERD: explore, analyze, document and design your database schema
 - [bigardone/elm-dynamic-base-path](https://github.com/bigardone/elm-dynamic-base-path) - Example Elm SPA with dynamic base path
 - [billstclair/elm-websocket-client](https://github.com/billstclair/elm-websocket-client) - Websockets for Elm 0.19, using ports
 - [ccamel/playground-elm](https://github.com/ccamel/playground-elm) -  :balloon: My playground for playing with elm-lang
@@ -1486,7 +1486,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 
