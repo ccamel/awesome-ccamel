@@ -1384,7 +1384,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [prestongarno/kotlinq](https://github.com/prestongarno/kotlinq) - Kotlin DSL for GraphQL 
 - [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.
 - [terra-money/terra.kt](https://github.com/terra-money/terra.kt) - Kotlin, Java SDK for Terra
-- [thomasnield/kotlin-statistics](https://github.com/thomasnield/kotlin-statistics) - Idiomatic statistical operators for Kotlin
 - [topicusoverheid/kamel](https://github.com/topicusoverheid/kamel) - Kotlin DSL for Apache Camel
 - [xmlking/microservices-observability](https://github.com/xmlking/microservices-observability) - 🎉 Microservices Observability - Log Aggregation, Distributed Tracking,  Metrics
 - [zsmb13/VillageDSL](https://github.com/zsmb13/VillageDSL) - Examples of Kotlin DSL design
