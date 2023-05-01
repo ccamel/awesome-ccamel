@@ -1683,6 +1683,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [zwilias/elm-json](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
 
 ## SCSS
@@ -1864,8 +1865,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [EmpowerPlastic/empowerchain](https://github.com/EmpowerPlastic/empowerchain) - Empowerchain is a global platform to revolutionize waste management and recycling, creating a transparent and efficient circular economy.
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
-- [IvanGoncharov/graphql-lodash](https://github.com/IvanGoncharov/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
-- [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [KYVENetwork/kyvejs](https://github.com/KYVENetwork/kyvejs) - Tools for building applications on KYVE
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
@@ -1957,6 +1956,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [graphql-compose/graphql-compose-elasticsearch](https://github.com/graphql-compose/graphql-compose-elasticsearch) - Hide Elastic Search REST API behind GraphQL.
+- [graphql-kit/graphql-lodash](https://github.com/graphql-kit/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
+- [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [guigrpa/docx-templates](https://github.com/guigrpa/docx-templates) - Template-based docx report creation
