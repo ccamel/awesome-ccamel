@@ -187,7 +187,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BrianHicks/elm-particle](https://github.com/BrianHicks/elm-particle) -  Simple particle system for web apps. Designed for visual flourishes like confetti.
 - [JesterXL/simple-game](https://github.com/JesterXL/simple-game) - 
 - [MacCASOutreach/graphicsvg](https://github.com/MacCASOutreach/graphicsvg) - Graphics library authored by Chris Schankula and Dr. Christopher Anand
-- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Next-Gen ERD: explore, analyze, document and design your database schema
+- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Next-Gen ERD: Design, Explore, Document and Analyze your database
 - [bigardone/elm-dynamic-base-path](https://github.com/bigardone/elm-dynamic-base-path) - Example Elm SPA with dynamic base path
 - [billstclair/elm-websocket-client](https://github.com/billstclair/elm-websocket-client) - Websockets for Elm 0.19, using ports
 - [ccamel/playground-elm](https://github.com/ccamel/playground-elm) -  :balloon: My playground for playing with elm-lang
@@ -297,6 +297,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ODIN-PROTOCOL/odin-core](https://github.com/ODIN-PROTOCOL/odin-core) - Odin blockchain reference implementation
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [Orange-OpenSource/nifikop](https://github.com/Orange-OpenSource/nifikop) - The NiFiKop NiFi Kubernetes operator makes it easy to run Apache NiFi on Kubernetes. Apache NiFI is a free, open-source solution that support powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
+- [Pisush/chatGPT-plugin-template](https://github.com/Pisush/chatGPT-plugin-template) - For Gophers
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [QuokkaStake/cosmos-validators-exporter](https://github.com/QuokkaStake/cosmos-validators-exporter) - A Prometheus scraper to fetch data about your validators in Cosmos-based blockchains.
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
@@ -448,6 +449,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [evmos/evmos](https://github.com/evmos/evmos) - Evmos is the first decentralized EVM chain on the Cosmos Network.  It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.
+- [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
 - [ezzarghili/recaptcha-go](https://github.com/ezzarghili/recaptcha-go) - Validate Google reCAPTCHA v2 & v3 form submission package in golang
 - [faiface/generics](https://github.com/faiface/generics) - A proof-of-concept implementation of my generics proposal for Go
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
@@ -1580,6 +1582,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AleoHQ/leo](https://github.com/AleoHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
+- [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
 - [Callum-A/cosmwasm-zero-to-hero](https://github.com/Callum-A/cosmwasm-zero-to-hero) - 
 - [Callum-A/whoami-paths](https://github.com/Callum-A/whoami-paths) - 
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK
