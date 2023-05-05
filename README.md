@@ -64,6 +64,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Assembly
 
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
+- [kelindar/bitmap](https://github.com/kelindar/bitmap) - Simple dense bitmap index in Go with binary operators
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) - A pure-Go implementation of the BLAKE3 cryptographic hash function
 
 ## C
@@ -439,6 +440,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
 - [elliotchance/pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
+- [elys-network/elys](https://github.com/elys-network/elys) - Elys is a blockchain built using Cosmos SDK and Tendermint
 - [emicklei/mora](https://github.com/emicklei/mora) - MongoDB generic REST server in Go
 - [eminetto/api-o11y](https://github.com/eminetto/api-o11y) - Repository used in a talk about APIs and Observability
 - [emperror/emperror](https://github.com/emperror/emperror) - The Emperor takes care of all errors personally
@@ -575,6 +577,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [istreamdata/orientgo](https://github.com/istreamdata/orientgo) - Go (golang) client for OrientDB
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go) - 🛑 This library is DEPRECATED!
+- [jamf/regatta](https://github.com/jamf/regatta) - Regatta is a distributed key-value store. It is Kubernetes friendly with emphasis on high read throughput and low operational cost.
 - [jbenet/data](https://github.com/jbenet/data) - package manager for datasets
 - [jdel/go-syno](https://github.com/jdel/go-syno) - Go library for Synology. Work in progress.
 - [jeevatkm/go-model](https://github.com/jeevatkm/go-model) - Robust & Easy to use struct mapper and utility methods for Go
@@ -597,7 +600,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kannon-email/kannon](https://github.com/kannon-email/kannon) - ✉️  Cloud-Native massive mail sender for Kubernetes!
 - [kataras/sheets](https://github.com/kataras/sheets) - :bar_chart: (Unofficial) A Lightweight Google Spreadsheets Client written in Go
 - [kelindar/binary](https://github.com/kelindar/binary) - Generic and fast binary serializer for Go
-- [kelindar/bitmap](https://github.com/kelindar/bitmap) - Simple dense bitmap index in Go with binary operators
 - [kevinpollet/serve](https://github.com/kevinpollet/serve) - Simple and secure Go HTTP server to serve static sites or files from the command-line.
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
@@ -620,6 +622,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kylelemons/godebug](https://github.com/kylelemons/godebug) - Debugging helper utilities for Go
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [lacion/iothub](https://github.com/lacion/iothub) - IoT Hub for things
+- [lavanet/lava](https://github.com/lavanet/lava) - 
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
 - [letiantech/hotplugin](https://github.com/letiantech/hotplugin) - golang plugin framework for hot update
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - Lightweight data stream processing engine for IoT edge
@@ -688,6 +691,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/go-bitsong](https://github.com/okp4/go-bitsong) - :rocket: Official BitSong Blockchain Implementation in Go
 - [okp4/nemeton-leaderboard](https://github.com/okp4/nemeton-leaderboard) - 🧙‍♂️ The Nemeton program leaderboard service 🏆
 - [okp4/okp4d](https://github.com/okp4/okp4d) - ⛓️ OKP4 blockchain 💫
+- [okp4/osmosis](https://github.com/okp4/osmosis) - The AMM Laboratory
 - [okp4/template-go](https://github.com/okp4/template-go) - 🖨 Template for Golang projects @okp4.
 - [okp4/tendermint](https://github.com/okp4/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
@@ -809,6 +813,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tendermint/fundraising](https://github.com/tendermint/fundraising) - 
 - [tendermint/spn](https://github.com/tendermint/spn) - A blockchain to launch blockchains.
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
+- [terpnetwork/terp-core](https://github.com/terpnetwork/terp-core) - The Official Repository For Terp-Network, A Decentralized Smart-Contract Platform For Terp Culture.
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [textileio/go-did-resolver](https://github.com/textileio/go-did-resolver) - Universal did-resolver for Go environments
 - [tgres/tgres](https://github.com/tgres/tgres) - Time Series in Go and PostgreSQL
@@ -1479,6 +1484,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
 - [diego-vicente/som-tsp](https://github.com/diego-vicente/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
@@ -1918,6 +1924,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) - Set up a modern Cosmos app by running one command ⚛️
 - [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.
 - [cosmos/cosmos-multisig-ui](https://github.com/cosmos/cosmos-multisig-ui) - Create multisigs and multisig transactions on the cosmoshub chain
+- [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
 - [davidfig/pixi-viewport](https://github.com/davidfig/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
