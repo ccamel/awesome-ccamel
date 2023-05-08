@@ -357,7 +357,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [blend/go-sdk](https://github.com/blend/go-sdk) - A composable toolbox of libraries to build everything from CLIs to enterprise applications.
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
-- [bots-garden/capsule](https://github.com/bots-garden/capsule) - Capsule is a runner (or launcher) of wasm functions. Capsule can serve the functions through HTTP, NATS and MQTT (it’s possible to use Capsule as a simple CLI).
+- [bots-garden/capsule](https://github.com/bots-garden/capsule) - Capsule is a runner (or launcher) of wasm functions. Capsule can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI). And soon: NATS and MQTT
 - [bozd4g/go-http-client](https://github.com/bozd4g/go-http-client) - An enhanced http client for Golang
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [bsm/sarama-cluster](https://github.com/bsm/sarama-cluster) - Cluster extensions for Sarama, the Go client library for Apache Kafka 0.9 [DEPRECATED]
@@ -1690,6 +1690,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
+- [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browsless tool to help you quickly view markdown files in the blink of an eye.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -2088,6 +2089,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Vue
 
 - [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
+- [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer
 - [co-demos/datapatch-front](https://github.com/co-demos/datapatch-front) - Frontend for data patch project
 
 ## WebAssembly
