@@ -1437,6 +1437,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Perl
 
 - [OpenCageData/address-formatting](https://github.com/OpenCageData/address-formatting) - templates to format geographic addresses
+- [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) - Server for the MusicBrainz project (website, API, database tools)
 - [mludvig/smtp-cli](https://github.com/mludvig/smtp-cli) - The ultimate command line SMTP client
 - [zonemaster/zonemaster](https://github.com/zonemaster/zonemaster) - The Zonemaster Project
 
@@ -1520,7 +1521,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
 - [okp4/data-join-tabular](https://github.com/okp4/data-join-tabular) - Tabular data join service
 - [okp4/data-selector](https://github.com/okp4/data-selector) - Select (or filter) data of different types and in multiple dimensions.
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
 - [openfaas/workshop](https://github.com/openfaas/workshop) - Learn Serverless for Kubernetes with OpenFaaS
 - [patdaburu/cookiecutter-click](https://github.com/patdaburu/cookiecutter-click) - A Python cookiecutter template to help you start a Click project.
@@ -1640,7 +1641,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Tendermint in Rust!
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
-- [larry0x/badges](https://github.com/larry0x/badges) - Monorepo for the Badges project
 - [larry0x/cw-template](https://github.com/larry0x/cw-template) - Template for multi-contract CosmWasm projects
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
@@ -1652,6 +1652,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mortendahl/rust-paillier](https://github.com/mortendahl/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
+- [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [okp4/contracts](https://github.com/okp4/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
 - [okp4/cosmos-rust](https://github.com/okp4/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
@@ -1662,6 +1663,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [osmosis-labs/osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Rust libraries for osmosis
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [oxigraph/rio](https://github.com/oxigraph/rio) - RDF parsers library
+- [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc) - user-friendly rust bindings for the bpf compiler collection
