@@ -463,7 +463,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [fission/fission-workflows](https://github.com/fission/fission-workflows) - Workflows for Fission: Fast, reliable and lightweight function composition for serverless functions
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source device management for IT and security teams with thousands of laptops and servers. (macOS, Windows, Linux, ChromeOS, AWS, Google Cloud, Azure, data center, containers)
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT and security teams with thousands of computers. (Linux, macOS, Windows, ChromeOS, AWS, Google Cloud, Azure, data center, containers, IoT)
 - [flimzy/donewriter](https://github.com/flimzy/donewriter) - DoneWriter provides an http.ResponseWriter which can report if a response has been sent or not.
 - [forbole/bdjuno](https://github.com/forbole/bdjuno) - BDJuno is the official Juno implementation for BigDipper, the open-source block explorer for Cosmos
 - [forbole/juno](https://github.com/forbole/juno) - A Cosmos Hub data aggregator and exporter.
