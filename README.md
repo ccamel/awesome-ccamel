@@ -404,7 +404,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/gogoproto](https://github.com/cosmos/gogoproto) - Protocol Buffers for Go with Gadgets for Cosmos
 - [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Interblockchain Communication Protocol (IBC) implementation in Golang.
 - [cosmos/interchain-accounts-demo](https://github.com/cosmos/interchain-accounts-demo) - ICA 
-- [cosmos/interchain-security](https://github.com/cosmos/interchain-security) - interchain-security houses the code implementing interchain security (aka replicated security) for Cosmos based blockchains.
+- [cosmos/interchain-security](https://github.com/cosmos/interchain-security) - Replicated security (aka interchain security V1) is an open sourced IBC application which allows cosmos blockchains to lease their proof-of-stake security to one another.
 - [cosmos/ledger-cosmos-go](https://github.com/cosmos/ledger-cosmos-go) - 
 - [cosmos/modules](https://github.com/cosmos/modules) - 
 - [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer for ibc-go
