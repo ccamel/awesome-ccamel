@@ -180,7 +180,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [andreapavoni/disco](https://github.com/andreapavoni/disco) - Simple, opinionated yet flexible library to build CQRS/ES driven systems 🕺
 - [ateliware/triplex](https://github.com/ateliware/triplex) - Database multitenancy for Elixir applications!
 - [commanded/commanded](https://github.com/commanded/commanded) - Use Commanded to build Elixir CQRS/ES applications
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [fremantle-industries/tai](https://github.com/fremantle-industries/tai) - A composable, real time, market data and trade execution toolkit. Built with Elixir, runs on the Erlang virtual machine
 - [nerves-project/nerves](https://github.com/nerves-project/nerves) - Craft and deploy bulletproof embedded software in Elixir
 
