@@ -479,6 +479,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
+- [githubexporter/github-exporter](https://github.com/githubexporter/github-exporter) - :octocat: Prometheus exporter for github metrics
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gjongenelen/eh-mongodb](https://github.com/gjongenelen/eh-mongodb) - Improved MongoDB driver for Event Horizon
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
@@ -566,7 +567,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
 - [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013
 - [inconshreveable/mousetrap](https://github.com/inconshreveable/mousetrap) - Detect starting from Windows explorer
-- [infinityworks/github-exporter](https://github.com/infinityworks/github-exporter) - :octocat: Prometheus exporter for github metrics
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
@@ -1318,7 +1318,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
 - [tau-prolog/notebook](https://github.com/tau-prolog/notebook) - A web-based notebook environment for Tau Prolog
 - [tau-prolog/tau-prolog](https://github.com/tau-prolog/tau-prolog) - An open source Prolog interpreter in JavaScript
-- [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks that all of the hyperlinks in a markdown text to determine if they are alive or dead
+- [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks all of the hyperlinks in a markdown text to determine if they are alive or dead
 - [terra-money/classic-core](https://github.com/terra-money/classic-core) - GO implementation of the Terra Protocol 
 - [testnetrunn/cosmos-governance](https://github.com/testnetrunn/cosmos-governance) - Governance proposals notification/alert bot for Cosmos-based chains
 - [tomayac/local-reverse-geocoder](https://github.com/tomayac/local-reverse-geocoder) - Local reverse geocoder for Node.js based on GeoNames data
@@ -1385,7 +1385,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/kafka-processor-cosmos-block](https://github.com/okp4/kafka-processor-cosmos-block) - Kafka Streams Processor to unwrap CØSMOS blocks into CØSMOS transactions
 - [okp4/kafka-processor-cosmos-tx-dispatch](https://github.com/okp4/kafka-processor-cosmos-tx-dispatch) - Kafka Streams Processor to dispatch protobuf encoded CØSMOS transactions in topics depending on routing rules
 - [okp4/kafka-processor-cosmos-tx-proto2json](https://github.com/okp4/kafka-processor-cosmos-tx-proto2json) - Kafka Streams Processor to decode protobuf encoded CØSMOS transactions into a JSON representation
-- [okp4/okp4-cosmos-proto](https://github.com/okp4/okp4-cosmos-proto) - OKP4 CØSMOS gRPC client libraries based on Protobuf definitions.
 - [okp4/template-kafka-processor](https://github.com/okp4/template-kafka-processor) - 🖨  Template for Kafka processor projects @okp4.
 - [perwendel/spark-kotlin](https://github.com/perwendel/spark-kotlin) - A Spark DSL in idiomatic kotlin // dependency: com.sparkjava:spark-kotlin:1.0.0-alpha
 - [pgutkowski/KGraphQL](https://github.com/pgutkowski/KGraphQL) - Pure Kotlin GraphQL implementation
@@ -1660,6 +1659,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/contracts](https://github.com/okp4/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
 - [okp4/cosmos-rust](https://github.com/okp4/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [okp4/discord-bot](https://github.com/okp4/discord-bot) - 🤖 Discord bot used @okp4 to bridge the Dataverse!
+- [okp4/okp4-cosmos-proto](https://github.com/okp4/okp4-cosmos-proto) - OKP4 CØSMOS gRPC client libraries based on Protobuf definitions.
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust
 - [osmosis-labs/cw-minimal-template](https://github.com/osmosis-labs/cw-minimal-template) - A minimal CosmWasm template
