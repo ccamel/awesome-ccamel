@@ -16,6 +16,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [F#](#f)
 - [Gleam](#gleam)
@@ -229,6 +230,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vendrinc/elm-gql](https://github.com/vendrinc/elm-gql) - 
 - [wsowens/term](https://github.com/wsowens/term) - An Elm package for making web-based terminals
 - [yujota/elm-collision-detection](https://github.com/yujota/elm-collision-detection) - Collision detection library for elm.
+
+## Emacs Lisp
+
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 
 ## Erlang
 
@@ -683,6 +688,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [nuts-foundation/go-did](https://github.com/nuts-foundation/go-did) - Golang library for parsing Decentralized Identifiers (DIDs)
+- [nymtech/nyxd](https://github.com/nymtech/nyxd) - Fork of https://github.com/CosmWasm/wasmd for Nyx validators
 - [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [okp4/cosmos-faucet](https://github.com/okp4/cosmos-faucet) - 🚰 CØSMOS Faucet backend implementation
@@ -1591,9 +1597,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Rust
 
+- [AbstractSDK/cw-orchestrator](https://github.com/AbstractSDK/cw-orchestrator) - A CosmWasm oriented scripting library.
 - [AleoHQ/leo](https://github.com/AleoHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
 - [Callum-A/cosmwasm-zero-to-hero](https://github.com/Callum-A/cosmwasm-zero-to-hero) - 
 - [Callum-A/whoami-paths](https://github.com/Callum-A/whoami-paths) - 
@@ -1656,6 +1664,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
+- [nymtech/sphinx](https://github.com/nymtech/sphinx) - A Sphinx implementation in Rust
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [okp4/contracts](https://github.com/okp4/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
 - [okp4/cosmos-rust](https://github.com/okp4/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
@@ -1778,6 +1787,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [spaced/scala-js-d3](https://github.com/spaced/scala-js-d3) - d3 facade types for Scala.js
 - [spartanz/schemaz](https://github.com/spartanz/schemaz) - A purely-functional library for defining type-safe schemas for algebraic data types, providing free generators, SQL queries, JSON codecs, binary codecs, and migration from this schema definition
 - [suzaku-io/diode](https://github.com/suzaku-io/diode) - Scala library for managing immutable application model
+- [szeiger/interact](https://github.com/szeiger/interact) - Interaction net / combinator language based on https://core.ac.uk/download/pdf/81113716.pdf
 - [topshell-language/topshell](https://github.com/topshell-language/topshell) - TopShell - a purely functional, reactive scripting language
 - [typelevel/cats](https://github.com/typelevel/cats) - Lightweight, modular, and extensible library for functional programming.
 - [typelevel/fs2](https://github.com/typelevel/fs2) - Compositional, streaming I/O library for Scala
