@@ -755,7 +755,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [redpanda-data/kminion](https://github.com/redpanda-data/kminion) - KMinion is a feature-rich Prometheus exporter for Apache Kafka written in Go. It is lightweight and highly configurable so that it will meet your requirements.
 - [regen-network/regen-ledger](https://github.com/regen-network/regen-ledger) - :seedling: Blockchain for planetary regeneration
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [rjNemo/underscore](https://github.com/rjNemo/underscore) - 🌟 Useful functional programming helpers for Go 1.18 and beyond
+- [rjNemo/underscore](https://github.com/rjNemo/underscore) - 🌟 Useful functional programming helpers for Go
 - [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [robinjoseph08/redisqueue](https://github.com/robinjoseph08/redisqueue) - redisqueue provides a producer and consumer of a queue that uses Redis streams
