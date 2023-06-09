@@ -1018,7 +1018,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [confluentinc/kafka-connect-storage-cloud](https://github.com/confluentinc/kafka-connect-storage-cloud) - Kafka Connect suite of connectors for Cloud storage (Amazon S3)
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database for storing and analyzing massive amounts of data in real-time. Built on top of Lucene.
 - [crate/crate-sample-apps](https://github.com/crate/crate-sample-apps) - A JavaScript guestbook app with a number of different backend implementations, each using a different client library to communicate with CrateDB.
 - [ctongfei/progressbar](https://github.com/ctongfei/progressbar) - Terminal-based progress bar for Java / JVM
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
@@ -1204,6 +1204,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [epsylon/ufonet](https://github.com/epsylon/ufonet) - UFONet - Denial of Service Toolkit
 - [ept/avrodoc](https://github.com/ept/avrodoc) - Documentation tool for Avro schemas
 - [etalab/guides.etalab.gouv.fr](https://github.com/etalab/guides.etalab.gouv.fr) - Les guides d'Etalab : bonnes pratiques relatives aux données, algorithmes et codes sources
+- [evanw/polywasm](https://github.com/evanw/polywasm) - 
 - [evoluteur/meet-the-fans](https://github.com/evoluteur/meet-the-fans) - Query and Visualize the network graph of your GitHub repositories, followers, stargazers, and forks.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
