@@ -964,7 +964,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AxonFramework/Axon-trader](https://github.com/AxonFramework/Axon-trader) - A sample to use the axon framework for a trading application
 - [ChrisEnglert/nifi-keycloak](https://github.com/ChrisEnglert/nifi-keycloak) - Keycloak NiFi AuthProvider
 - [Codearte/props2yaml-idea-plugin](https://github.com/Codearte/props2yaml-idea-plugin) - 
-- [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA) - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
 - [Domo42/stateless4j](https://github.com/Domo42/stateless4j) - Lightweight Java State Machine
 - [Enigmatis/graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) - GraphQL Annotations for Java
 - [FasterXML/TransiStore](https://github.com/FasterXML/TransiStore) - Distributed data store for transient (temporary, time-bound) data. Based on ClusterMate/StoreMate
@@ -1026,6 +1025,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ddd-by-examples/all-things-cqrs](https://github.com/ddd-by-examples/all-things-cqrs) - Comprehensive guide to a couple of possible ways of synchronizing two states with Spring tools. Synchronization is shown by separating command and queries in a simple CQRS application.
 - [dgarijo/Widoco](https://github.com/dgarijo/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
+- [discord-jda/JDA](https://github.com/discord-jda/JDA) - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
 - [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 - [dvoraka/av-service](https://github.com/dvoraka/av-service) - Network file service with replication and anti-virus checking
 - [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector) - EDC core services including data plane and control plane
@@ -1263,6 +1263,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - Template for PixiJS using Typescript and Webpack https://stackblitz.com/github/miltoncandelero/pixi-hotwire 
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - :star2:  Create IoT applications. Wire devices together regardless their brand or technology.
+- [nice-move/remark-docusaurus](https://github.com/nice-move/remark-docusaurus) - 
 - [normen/homebridge-landroid](https://github.com/normen/homebridge-landroid) - Homebridge plugin to control Worx Landroid robo mowers through the Worx Cloud
 - [notional-labs/multisig-ui](https://github.com/notional-labs/multisig-ui) - UI for multisignature tool
 - [observablehq/runtime](https://github.com/observablehq/runtime) - The Observable dataflow runtime.
@@ -2244,7 +2245,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins
 - [jacc/awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
 - [jamiebuilds/documentation-handbook](https://github.com/jamiebuilds/documentation-handbook) - How to write high-quality friendly documentation that people want to read.
-- [jasongitmail/svelte-vs-next](https://github.com/jasongitmail/svelte-vs-next) - 
+- [jasongitmail/svelte-vs-next](https://github.com/jasongitmail/svelte-vs-next) - Comparison of major features in SvelteKit vs NextJS.
 - [jeremylgn/jeremylgn](https://github.com/jeremylgn/jeremylgn) - My profile
 - [jfmengels/awesome-elm-sponsorship](https://github.com/jfmengels/awesome-elm-sponsorship) - Elm profiles to sponsor
 - [jfrazee/awesome-nifi](https://github.com/jfrazee/awesome-nifi) - A list of useful Apache NiFi resources, processor bundles and tools
