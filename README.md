@@ -48,6 +48,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -393,7 +394,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cirello-io/oversight](https://github.com/cirello-io/oversight) - Erlang-like supervisor trees
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line. 
 - [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) - Client-customizable JSON formats for dynamic APIs
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [codersrank-org/repo_info_extractor](https://github.com/codersrank-org/repo_info_extractor) - Use this script to extract data from your private repo. This data is used to calculate your score. https://codersrank.io
 - [codr7/g-fu](https://github.com/codr7/g-fu) - Lisp 2 Go
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
@@ -1698,6 +1699,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) - 𝕊 The Secret Network
 - [scrtlabs/secret-toolkit](https://github.com/scrtlabs/secret-toolkit) - A collection of Rust packages that contain common tools used in development of Secret Contracts
+- [scrtlabs/secret-vault](https://github.com/scrtlabs/secret-vault) - A contract that allows you to create private keys on-chain and sign data with secp256k1 signatures
 - [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [serenity-rs/poise](https://github.com/serenity-rs/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
 - [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) - A lightweight, opinionated CQRS and event sourcing framework targeting serverless architectures.
@@ -1866,6 +1868,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Smarty
 
 - [monaparty/helm-ipfs-cluster](https://github.com/monaparty/helm-ipfs-cluster) - A Helm chart for IPFS clusters.
+
+## Starlark
+
+- [cosmology-tech/starship](https://github.com/cosmology-tech/starship) - A k8s based unified development environment for Cosmos Ecosystem (and beyond)
 
 ## Svelte
 
