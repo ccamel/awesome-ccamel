@@ -1470,6 +1470,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Prolog
 
+- [AdrienLemaire/okp4_chains_access_control](https://github.com/AdrienLemaire/okp4_chains_access_control) - OKP4 Nemeton Program step 5: Purpose a governance template (Prolog code)
 - [Anniepoo/prolog-examples](https://github.com/Anniepoo/prolog-examples) - Some simple examples for new Prolog programmers
 
 ## PureScript
