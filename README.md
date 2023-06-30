@@ -454,7 +454,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
 - [elliotchance/pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
-- [elys-network/elys](https://github.com/elys-network/elys) - Elys is a blockchain built using Cosmos SDK and Tendermint
+- [elys-network/elys](https://github.com/elys-network/elys) - Elys Network is a decentralised exchange built on Cosmos and CometBFT, leveraging the latest blockchain technologies to provide an exceptional user experience.
 - [emicklei/mora](https://github.com/emicklei/mora) - MongoDB generic REST server in Go
 - [eminetto/api-o11y](https://github.com/eminetto/api-o11y) - Repository used in a talk about APIs and Observability
 - [emperror/emperror](https://github.com/emperror/emperror) - The Emperor takes care of all errors personally
@@ -1473,7 +1473,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Prolog
 
-- [AdrienLemaire/okp4_chains_access_control](https://github.com/AdrienLemaire/okp4_chains_access_control) - OKP4 Nemeton Program step 5: Purpose a governance template (Prolog code)
+- [AdrienLemaire/okp4_buider_templates](https://github.com/AdrienLemaire/okp4_buider_templates) - OKP4 Nemeton Program step 5: Purpose a governance template (Prolog code)
 - [Anniepoo/prolog-examples](https://github.com/Anniepoo/prolog-examples) - Some simple examples for new Prolog programmers
 
 ## PureScript
