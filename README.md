@@ -377,7 +377,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bykof/gostradamus](https://github.com/bykof/gostradamus) - Gostradamus: Better DateTimes for Go 🕰️
 - [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
 - [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go
 - [cbarraford/cosmos-multisig](https://github.com/cbarraford/cosmos-multisig) - Multi-signature Wallet for the Cosmos Blockchain
 - [ccamel/go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - ☝️ go-graphql subscription over Kafka/Redis/NSQ example 
@@ -1281,6 +1281,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nice-move/remark-docusaurus](https://github.com/nice-move/remark-docusaurus) - 
 - [nice-move/remark-kroki](https://github.com/nice-move/remark-kroki) - Kroki plugin of remark
 - [normen/homebridge-landroid](https://github.com/normen/homebridge-landroid) - Homebridge plugin to control Worx Landroid robo mowers through the Worx Cloud
+- [notional-labs/cosmosia](https://github.com/notional-labs/cosmosia) - Cosmos Infrastructure Automation
 - [notional-labs/multisig-ui](https://github.com/notional-labs/multisig-ui) - UI for multisignature tool
 - [observablehq/runtime](https://github.com/observablehq/runtime) - The Observable dataflow runtime.
 - [octoherd/script-star-or-unstar](https://github.com/octoherd/script-star-or-unstar) - An octoherd script to add or remove star
