@@ -1476,6 +1476,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [AdrienLemaire/okp4_buider_templates](https://github.com/AdrienLemaire/okp4_buider_templates) - OKP4 Nemeton Program step 5: Purpose a governance template (Prolog code)
 - [Anniepoo/prolog-examples](https://github.com/Anniepoo/prolog-examples) - Some simple examples for new Prolog programmers
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model
 
 ## PureScript
 
@@ -2332,6 +2333,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/awesome-design-systems](https://github.com/okp4/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [okp4/chain-registry](https://github.com/okp4/chain-registry) - 
 - [okp4/cosmos-awesome](https://github.com/okp4/cosmos-awesome) - Collection of Cosmos related resources
+- [okp4/hackwasm](https://github.com/okp4/hackwasm) - 💻🇩🇪2️⃣0️⃣2️⃣3️⃣ Contains resources related to OKP4 participation in HackWasm Berlin 2023
 - [okp4/publications](https://github.com/okp4/publications) - 📚 Official publications (slides, papers, ...) from OKP4
 - [okp4/template-oss](https://github.com/okp4/template-oss) - 🖨 Template for opensource projects @okp4
 - [okp4/wiki](https://github.com/okp4/wiki) - 📚 Wiki for technical documentation
