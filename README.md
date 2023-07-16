@@ -1639,6 +1639,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/mesh-security-hackathon](https://github.com/CosmWasm/mesh-security-hackathon) - Implementation of Sunny's Mesh Security talk (Hackathon / Prototype status)
 - [CosmWasm/rust-optimizer](https://github.com/CosmWasm/rust-optimizer) - Dockerfile and script to deterministically produce the smallest possible wasm for your rust contract
 - [CyberHoward/cosmwasm-re-entrancy-example](https://github.com/CyberHoward/cosmwasm-re-entrancy-example) - An example re-entrancy attack on a flashloan vault.
+- [Derrick-DApps/contracts](https://github.com/Derrick-DApps/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
 - [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [InjectiveLabs/test-tube](https://github.com/InjectiveLabs/test-tube) - Enables testing CosmWasm contracts against Injective chain without mocks!
@@ -1925,6 +1926,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [2-alchemists/krossboard-ui](https://github.com/2-alchemists/krossboard-ui) - User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [3mcd/javelin](https://github.com/3mcd/javelin) - TypeScript ECS and multiplayer game development toolkit
+- [AbstractSDK/cw-gov-card](https://github.com/AbstractSDK/cw-gov-card) - 
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [AudiusProject/hedgehog](https://github.com/AudiusProject/hedgehog) - 🦔 Build DApps like Apps -- A Metamask alternative that empowers you to build good UX
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
@@ -2067,6 +2069,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lavanet/lava](https://github.com/lavanet/lava) - 
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿
+- [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [mars-protocol/networks](https://github.com/mars-protocol/networks) - Genesis data for Mars Hub mainnet and testnets
