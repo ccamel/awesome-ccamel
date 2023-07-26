@@ -638,6 +638,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kylelemons/godebug](https://github.com/kylelemons/godebug) - Debugging helper utilities for Go
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [lacion/iothub](https://github.com/lacion/iothub) - IoT Hub for things
+- [lavanet/lava](https://github.com/lavanet/lava) - 
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
 - [letiantech/hotplugin](https://github.com/letiantech/hotplugin) - golang plugin framework for hot update
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - Lightweight data stream processing engine for IoT edge
@@ -1001,7 +1002,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [agliznetsov/cache-demo](https://github.com/agliznetsov/cache-demo) - 
 - [agliznetsov/crud](https://github.com/agliznetsov/crud) - A framework to create REST APIs in Java
 - [aiven/prometheus-exporter-plugin-for-opensearch](https://github.com/aiven/prometheus-exporter-plugin-for-opensearch) - Prometheus exporter plugin for OpenSearch & OpenSearch Mixin
-- [aklivity/zilla](https://github.com/aklivity/zilla) - A multi-protocol, event-native proxy. Securely interface web apps, IoT clients, and microservices to Apache Kafka® via declaratively defined, stateless APIs.
+- [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A multi-protocol, event-native proxy. Securely interface web apps, IoT clients, and microservices to Apache Kafka® via declaratively defined, stateless APIs.
 - [ananas-analytics/ananas-desktop](https://github.com/ananas-analytics/ananas-desktop) - A hackable data integration & analysis tool to enable non technical users to edit data processing jobs and visualise data on demand.
 - [andreschaffer/event-sourcing-cqrs-examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - Event Sourcing and CQRS in practice.
 - [anthonynsimon/jurl](https://github.com/anthonynsimon/jurl) - Fast and simple URL parsing for Java, with UTF-8 and path resolving support
@@ -2066,7 +2067,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kitze/mobx-router](https://github.com/kitze/mobx-router) - A simple router for MobX + React apps
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
-- [lavanet/lava](https://github.com/lavanet/lava) - 
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
@@ -2210,10 +2210,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [FabienTregan/DDDTranslation](https://github.com/FabienTregan/DDDTranslation) - 
-- [Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) - Automatic polyfill service.
 - [GetTech-io/awesome-actor](https://github.com/GetTech-io/awesome-actor) - :punch: Awesome lists of actor model resources
 - [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) - IDS-G
 - [International-Data-Spaces-Association/idsa](https://github.com/International-Data-Spaces-Association/idsa) - This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and useful information on IDS Landscape.
+- [JakeChampion/polyfill-service](https://github.com/JakeChampion/polyfill-service) - Automatic polyfill service.
 - [Kolot86/Snapshots-StateSync](https://github.com/Kolot86/Snapshots-StateSync) - 
 - [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [LinaMahrouch/vitepress-template](https://github.com/LinaMahrouch/vitepress-template) - A software documentation Template made with Vitepress
