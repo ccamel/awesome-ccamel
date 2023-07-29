@@ -269,7 +269,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AlekSi/gocov-xml](https://github.com/AlekSi/gocov-xml) - 
 - [AntoineAugusti/feature-flags](https://github.com/AntoineAugusti/feature-flags) - Feature flags API written in Go
 - [AppsFlyer/go-sundheit](https://github.com/AppsFlyer/go-sundheit) - A library built to provide support for defining service health for golang services. It allows you to register async health checks for your dependencies and the service itself, provides a health endpoint that exposes their status, and health metrics.
-- [Arafatk/DataViz](https://github.com/Arafatk/DataViz) - Build and Visualize data structures in Golang
 - [AsaiYusuke/jsonpath](https://github.com/AsaiYusuke/jsonpath) - A query library for retrieving part of JSON based on JSONPath syntax.
 - [B23admin/nifi-stateless-operator](https://github.com/B23admin/nifi-stateless-operator) - An Operator for scheduling and executing NiFi Flows as Jobs on Kubernetes
 - [BitCannaGlobal/bcna](https://github.com/BitCannaGlobal/bcna) - BitCanna Blockchain based on Cosmos SDK
@@ -339,6 +338,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apache/camel-k](https://github.com/apache/camel-k) - Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers
 - [application-research/estuary](https://github.com/application-research/estuary) - A custom IPFS/Filecoin node that makes it easy to pin IPFS content and make Filecoin deals.
 - [araddon/qlbridge](https://github.com/araddon/qlbridge) - A golang expression evaluator & Library to build SQL query engine based functionality. 
+- [arafatkatze/DataViz](https://github.com/arafatkatze/DataViz) - Build and Visualize data structures in Golang
 - [archway-network/archway](https://github.com/archway-network/archway) - Archway Network
 - [archway-network/cosmologger](https://github.com/archway-network/cosmologger) - Cosmologger listens to the NewBlock and TX events of a cosmos based network and logs the acquire information in a database for further usage.
 - [argoproj-labs/argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
