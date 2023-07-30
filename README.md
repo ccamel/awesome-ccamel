@@ -1994,6 +1994,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmology-tech/cosmology](https://github.com/cosmology-tech/cosmology) - CLI and TS library for the Cosmos ⚛️
 - [cosmology-tech/cosmos-kit](https://github.com/cosmology-tech/cosmos-kit) - A wallet connector for the Cosmos ⚛️
 - [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) - Set up a modern Cosmos app by running one command ⚛️
+- [cosmology-tech/telescope](https://github.com/cosmology-tech/telescope) - A TypeScript Transpiler for Cosmos Protobufs ⚛️
 - [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.
 - [cosmos/cosmos-multisig-ui](https://github.com/cosmos/cosmos-multisig-ui) - Create multisigs and multisig transactions on the cosmoshub chain
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
@@ -2098,7 +2099,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [optimistex/xlsx-template-ex](https://github.com/optimistex/xlsx-template-ex) - The template engine for generate xlsx documents
-- [osmosis-labs/telescope](https://github.com/osmosis-labs/telescope) - A TypeScript Transpiler for Cosmos Protobufs ⚛️
 - [paambaati/codeclimate-action](https://github.com/paambaati/codeclimate-action) - GitHub Action to send your code coverage to CodeClimate
 - [patrickmichalina/typescript-monads](https://github.com/patrickmichalina/typescript-monads) - 📚Write safer TypeScript using Maybe, List, Result, and Either monads.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
