@@ -123,7 +123,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Monitor and observe the availability of end-user applications atop of Kubernetes, Zabbix and Nagios. Define and track SLA/SLO targets through Prometheus metrics and built-in dashboards.
+- [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Monitor and observe the availability of end-user services atop of Kubernetes, Zabbix and Nagios. Define and track SLA/SLO targets through Prometheus metrics and built-in dashboards.
 - [sosolimited/Entity-Component-Samples](https://github.com/sosolimited/Entity-Component-Samples) - Cinder block for EntityX and a brief ECS tutorial.
 - [strickyak/jsonnet_cgo](https://github.com/strickyak/jsonnet_cgo) - Golang CGo Wrapper around JSonnet VM
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -316,6 +316,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Team-Kujira/core](https://github.com/Team-Kujira/core) - 
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
+- [UnUniFi/chain](https://github.com/UnUniFi/chain) - 
 - [Xe/olin](https://github.com/Xe/olin) - Webassembly + Event Sourcing
 - [Yamashou/gqlgenc](https://github.com/Yamashou/gqlgenc) - This is Go library for building GraphQL client with gqlgen
 - [a8m/rql](https://github.com/a8m/rql) - Resource Query Language for REST
@@ -430,6 +431,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
+- [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
 - [dataux/dataux](https://github.com/dataux/dataux) - Federated mysql compatible proxy to elasticsearch, mongo, cassandra, big-table, google datastore
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [dedalqq/omg.jsonparser](https://github.com/dedalqq/omg.jsonparser) - The simple JSON parser with validation by condition
@@ -510,6 +512,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [go-validator/validator](https://github.com/go-validator/validator) - Package validator implements struct field validations
 - [go-wasm-adapter/go-wasm](https://github.com/go-wasm-adapter/go-wasm) - Run WASM built from Go in Go
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
@@ -581,7 +584,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ignite-hq/installer](https://github.com/ignite-hq/installer) - One-liner for installing binaries from Github releases
 - [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
-- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013
 - [inconshreveable/mousetrap](https://github.com/inconshreveable/mousetrap) - Detect starting from Windows explorer
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -702,6 +704,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nuts-foundation/go-did](https://github.com/nuts-foundation/go-did) - Golang library for parsing Decentralized Identifiers (DIDs)
 - [nymtech/nyxd](https://github.com/nymtech/nyxd) - Fork of https://github.com/CosmWasm/wasmd for Nyx validators
 - [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
+- [ojo-network/ojo](https://github.com/ojo-network/ojo) - 
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [okp4/cosmos-faucet](https://github.com/okp4/cosmos-faucet) - 🚰 CØSMOS Faucet backend implementation
 - [okp4/cosmos-sdk](https://github.com/okp4/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
@@ -818,6 +821,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
 - [strangelove-ventures/cosmos-operator](https://github.com/strangelove-ventures/cosmos-operator) - Cosmos Operator is a kubernetes operator for managing cosmos nodes
 - [strangelove-ventures/half-life](https://github.com/strangelove-ventures/half-life) - Cosmos validator monitoring and alerting utility
+- [strangelove-ventures/horcrux](https://github.com/strangelove-ventures/horcrux) - A threshold Tendermint signer
 - [strangelove-ventures/interchaintest](https://github.com/strangelove-ventures/interchaintest) - e2e testing framework for the interchain
 - [strangelove-ventures/lens](https://github.com/strangelove-ventures/lens) - ⚛️❤️👁 Brought to you by the LensCrafters
 - [stretchr/objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
@@ -1641,6 +1645,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/mesh-security-hackathon](https://github.com/CosmWasm/mesh-security-hackathon) - Implementation of Sunny's Mesh Security talk (Hackathon / Prototype status)
 - [CosmWasm/rust-optimizer](https://github.com/CosmWasm/rust-optimizer) - Dockerfile and script to deterministically produce the smallest possible wasm for your rust contract
 - [CyberHoward/cosmwasm-re-entrancy-example](https://github.com/CyberHoward/cosmwasm-re-entrancy-example) - An example re-entrancy attack on a flashloan vault.
+- [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) - CosmWasm smart contracts for Interchain DAOs.
 - [Derrick-DApps/contracts](https://github.com/Derrick-DApps/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
 - [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
@@ -1714,6 +1719,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [oxigraph/rio](https://github.com/oxigraph/rio) - RDF parsers library
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
+- [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc) - user-friendly rust bindings for the bpf compiler collection
@@ -2044,6 +2050,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+- [graz-sh/graz](https://github.com/graz-sh/graz) - React hooks for Cosmos 🪐
 - [guigrpa/docx-templates](https://github.com/guigrpa/docx-templates) - Template-based docx report creation
 - [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 - [guregu/trealla-js](https://github.com/guregu/trealla-js) - Trealla Prolog for the web
@@ -2134,7 +2141,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [storybookjs/native](https://github.com/storybookjs/native) - 📱 Storybook for Native: iOS, Android, Flutter
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. 
 - [storybookjs/test-runner](https://github.com/storybookjs/test-runner) - 🚕 Turn stories into executable tests
-- [strangelove-ventures/graz](https://github.com/strangelove-ventures/graz) - React hooks for Cosmos 🪐
 - [stubailo/schema-stitching-demo](https://github.com/stubailo/schema-stitching-demo) - Example of schema stitching with graphql-tools
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [subquery/subql](https://github.com/subquery/subql) - 
