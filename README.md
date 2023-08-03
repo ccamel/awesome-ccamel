@@ -623,7 +623,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go
-- [knative/eventing](https://github.com/knative/eventing) - Open source specification and implementation of Knative event binding and delivery
+- [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
 - [kragniz/tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
