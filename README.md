@@ -728,6 +728,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 - [osmosis-labs/assetlists](https://github.com/osmosis-labs/assetlists) - 
+- [osmosis-labs/fee-abstraction](https://github.com/osmosis-labs/fee-abstraction) - 
 - [osmosis-labs/osmosis](https://github.com/osmosis-labs/osmosis) - The AMM Laboratory
 - [outscale/cloud-provider-osc](https://github.com/outscale/cloud-provider-osc) - 
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
@@ -947,6 +948,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [starbelly/erlang-companies](https://github.com/starbelly/erlang-companies) - A list of companies currently using Erlang in production.
 - [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - Introduction to modern Prolog
 - [vasturiano/3d-force-graph-vr](https://github.com/vasturiano/3d-force-graph-vr) - 3D force-directed graph component in VR
+- [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [w3c/dxwg](https://github.com/w3c/dxwg) - Data Catalog Vocabulary (DCAT)
 - [w3c/wot](https://github.com/w3c/wot) - Web of Things
 - [w3c/wot-architecture](https://github.com/w3c/wot-architecture) - Web of Things (WoT) Architecture
@@ -1226,6 +1228,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [etalab/guides.etalab.gouv.fr](https://github.com/etalab/guides.etalab.gouv.fr) - Les guides d'Etalab : bonnes pratiques relatives aux données, algorithmes et codes sources
 - [evanw/polywasm](https://github.com/evanw/polywasm) - 
 - [evoluteur/meet-the-fans](https://github.com/evoluteur/meet-the-fans) - Query and Visualize the network graph of your GitHub repositories, followers, stargazers, and forks.
+- [exogen/graphql-markdown](https://github.com/exogen/graphql-markdown) - The easiest way to document your GraphQL schema.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [faubourg-numerique/i4trust-stakeholder-mvp-stack](https://github.com/faubourg-numerique/i4trust-stakeholder-mvp-stack) - 
@@ -2103,7 +2106,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/okp4-keycloak-theme](https://github.com/okp4/okp4-keycloak-theme) - OKP4 keylcoak theme using keycloakify and okp4/ui react components
 - [okp4/portal-web](https://github.com/okp4/portal-web) - 🔭 Portal Web App for the ØKP4 network.
 - [okp4/subql](https://github.com/okp4/subql) - 
-- [okp4/subql-okp4](https://github.com/okp4/subql-okp4) - 🔄 Subquery repository for OKP4 network
+- [okp4/subql-okp4](https://github.com/okp4/subql-okp4) - 🔄 Subquery repository for OKP4 protocol
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
@@ -2125,7 +2128,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-- [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine
+- [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [rubensworks/GraphQL-LD.js](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL
@@ -2148,6 +2151,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [subquery/subql](https://github.com/subquery/subql) - 
 - [subquery/subql-cosmos](https://github.com/subquery/subql-cosmos) - A fork of Subql for cosmos support
 - [subquery/subql-starter](https://github.com/subquery/subql-starter) - The Starter Package is an example that you can use as a starting point for developing your SubQuery project.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [terra-money/station](https://github.com/terra-money/station) - 🛰️ Station wallet
