@@ -1467,7 +1467,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## PHP
 
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [d8ahazard/Phlex](https://github.com/d8ahazard/Phlex) - A super-sexy voice interface for the Plex HTPC
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
 - [mathieupassenaud/afup-demo-oauth-php](https://github.com/mathieupassenaud/afup-demo-oauth-php) - 
@@ -2148,7 +2148,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [storybookjs/test-runner](https://github.com/storybookjs/test-runner) - 🚕 Turn stories into executable tests
 - [stubailo/schema-stitching-demo](https://github.com/stubailo/schema-stitching-demo) - Example of schema stitching with graphql-tools
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
-- [subquery/subql](https://github.com/subquery/subql) - 
+- [subquery/subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
 - [subquery/subql-cosmos](https://github.com/subquery/subql-cosmos) - A fork of Subql for cosmos support
 - [subquery/subql-starter](https://github.com/subquery/subql-starter) - The Starter Package is an example that you can use as a starting point for developing your SubQuery project.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -2168,6 +2168,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [virtualzone/landroid-bridge](https://github.com/virtualzone/landroid-bridge) - Bridge for connecting the Worx Landroid S Lawn Mower to home automation systems like OpenHAB or FHEM.
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [wyozi/react-pptx](https://github.com/wyozi/react-pptx) - Create PowerPoint presentations with React
 - [xiguaxigua/docusaurus-plugin-drawio](https://github.com/xiguaxigua/docusaurus-plugin-drawio) - drawio render for docusaurus
 - [yutailang0119/action-ktlint](https://github.com/yutailang0119/action-ktlint) - GitHub Action for ktlint
