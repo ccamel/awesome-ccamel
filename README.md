@@ -153,6 +153,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Clojure
 
+- [FundingCircle/jackdaw](https://github.com/FundingCircle/jackdaw) - A Clojure library for the Apache Kafka distributed streaming platform.
 - [francoisroyer/clj-cqrs](https://github.com/francoisroyer/clj-cqrs) - A reference implementation of CQRS and Event Sourcing in Clojure.
 - [francoisroyer/clj-xai](https://github.com/francoisroyer/clj-xai) - A repository of AI/ML algorithms in Clojure, with a focus on interpretability and explainability.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -1146,6 +1147,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/docs](https://github.com/CosmWasm/docs) - Updated documentation repo
 - [David-Kunz/derive-type](https://github.com/David-Kunz/derive-type) - Derive types dynamically by running tests to capture value combinations
 - [DemocracyEarth/self](https://github.com/DemocracyEarth/self) - 🦉 Cryptgraphic peer authentication.
+- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware) - ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes
 - [GoldinGuy/Ideastorm](https://github.com/GoldinGuy/Ideastorm) - 💡 Ideas for days
 - [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI) - User interface for the Dataspace Connector.
@@ -1657,6 +1659,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
 - [LeTurt333/LeBundler](https://github.com/LeTurt333/LeBundler) - CW721 & CW20 query bundler + Example usage of Raw Queries
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
+- [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
 - [RedStoneCoin/redstone-rs](https://github.com/RedStoneCoin/redstone-rs) - Redstone Project is a p2p custom blockchain implementation, comprised of a network of interconnected sub-chains for better speed and scalability.
 - [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
@@ -1706,6 +1709,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) - Command line tool to show clear git graphs arranged for your branching model
 - [mortendahl/rust-paillier](https://github.com/mortendahl/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
+- [move-language/move](https://github.com/move-language/move) - 
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
@@ -1722,6 +1726,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [osmosis-labs/osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Rust libraries for osmosis
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [oxigraph/rio](https://github.com/oxigraph/rio) - RDF parsers library
+- [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
 - [public-awesome/marketplace](https://github.com/public-awesome/marketplace) - Stargaze Marketplace smart contract
@@ -1917,6 +1922,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Svelte
 
+- [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for GitHub based on Sveltekit
 - [sveltejs/community-legacy](https://github.com/sveltejs/community-legacy) -  Svelte community meetups, packages, resources, recipes, showcase websites, and more
 
 ## Swift
@@ -1979,6 +1985,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). Unopinionated and heavily updated fork of react-signature-pad
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
+- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
@@ -2316,6 +2323,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jamiebuilds/documentation-handbook](https://github.com/jamiebuilds/documentation-handbook) - How to write high-quality friendly documentation that people want to read.
 - [jasongitmail/svelte-vs-next](https://github.com/jasongitmail/svelte-vs-next) - Comparison of major features in SvelteKit vs NextJS.
 - [jeremylgn/jeremylgn](https://github.com/jeremylgn/jeremylgn) - My profile
+- [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [jfmengels/awesome-elm-sponsorship](https://github.com/jfmengels/awesome-elm-sponsorship) - Elm profiles to sponsor
 - [jfrazee/awesome-nifi](https://github.com/jfrazee/awesome-nifi) - A list of useful Apache NiFi resources, processor bundles and tools
 - [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
