@@ -569,7 +569,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [harmony-development/protocol](https://github.com/harmony-development/protocol) - The schemas for the Harmony protocol
 - [hashgraph/hedera-sdk-go](https://github.com/hashgraph/hedera-sdk-go) - Hedera™ Hashgraph SDK for Go
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [hasit/bolter](https://github.com/hasit/bolter) - Command-line app for viewing BoltDB file in your terminal
 - [haydenwoodhead/burner.kiwi](https://github.com/haydenwoodhead/burner.kiwi) - No bullshit temporary mail service written in Go
 - [hellofresh/health-go](https://github.com/hellofresh/health-go) - Library to provide basic healthcheck functionality to Go applications.
@@ -1433,6 +1433,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Lua
 
 - [Kong/kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus) - Prometheus plugin for Kong - this plugin has been moved into https://github.com/Kong/kong, please open issues and PRs in that repo 
+- [penso/kickstart.nvim](https://github.com/penso/kickstart.nvim) - My neovim configuration based from kickstart.nvim
 - [pravin-raha/kong-plugin-cookies-to-headers](https://github.com/pravin-raha/kong-plugin-cookies-to-headers) - A Kong plugin that will add Authorization header from cookie
 - [yciabaud/kong-plugin-prometheus](https://github.com/yciabaud/kong-plugin-prometheus) - Prometheus metrics exporter for Kong API management
 
