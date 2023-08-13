@@ -1379,6 +1379,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Jupyter Notebook
 
+- [llSourcell/DoctorGPT](https://github.com/llSourcell/DoctorGPT) - DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
 
 ## Kotlin
