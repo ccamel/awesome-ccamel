@@ -489,6 +489,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [francesconi/go-rampart](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
+- [fugue/zim](https://github.com/fugue/zim) - A caching build system for teams using monorepos
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [functionalfoundry/graphqlws](https://github.com/functionalfoundry/graphqlws) - Implementation of the GraphQL over WebSocket protocol in Go.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -524,6 +525,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gocraft/work](https://github.com/gocraft/work) - Process background jobs in Go
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [gojp/goreportcard](https://github.com/gojp/goreportcard) - A report card for your Go application
 - [golang/crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
@@ -533,6 +535,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2
 - [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
+- [golang/snappy](https://github.com/golang/snappy) - The Snappy compression format in the Go programming language.
 - [golang/sys](https://github.com/golang/sys) - [mirror] Go packages for low-level interaction with the operating system
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [golang/xerrors](https://github.com/golang/xerrors) - 
@@ -661,6 +664,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lum-network/chain](https://github.com/lum-network/chain) - Core Lum Network blockchain protocol implementation.
 - [m3ng9i/ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go
 - [machinebox/graphql](https://github.com/machinebox/graphql) - Simple low-level GraphQL HTTP client for Go
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [mailgun/gubernator](https://github.com/mailgun/gubernator) - High Performance Rate Limiting MicroService and Library
 - [marianogappa/flowbro](https://github.com/marianogappa/flowbro) - Real-time flowchart visualisation for Kafka-based distributed systems.
 - [martian-lang/martian](https://github.com/martian-lang/martian) - Language and framework for high performance computational pipelines.
@@ -877,6 +881,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [unidoc/unipdf-examples](https://github.com/unidoc/unipdf-examples) - Examples for creating and processing PDF files with UniPDF https://github.com/unidoc/unipdf
 - [unrolled/secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 - [upbound/universal-crossplane](https://github.com/upbound/universal-crossplane) - Enterprise-grade @crossplane from @upbound
+- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [utahta/swagger-doc](https://github.com/utahta/swagger-doc) - Easy visualize swagger.json using swagger-ui and redoc
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [vektah/gqlparser](https://github.com/vektah/gqlparser) - A port of the parser from graphql-js into golang
@@ -1737,6 +1742,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
 - [public-awesome/marketplace](https://github.com/public-awesome/marketplace) - Stargaze Marketplace smart contract
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc) - user-friendly rust bindings for the bpf compiler collection
@@ -2136,6 +2142,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [poapxyz/poap](https://github.com/poapxyz/poap) - ⛔️ DEPRECATED - Proof Of Attendance Protocol
+- [poteat/hkt-toolbelt](https://github.com/poteat/hkt-toolbelt) - ✨Functional and composable type utilities
 - [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -2153,6 +2160,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [scrtlabs/secret-template](https://github.com/scrtlabs/secret-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [segmentio/analytics-react-native](https://github.com/segmentio/analytics-react-native) - The hassle-free way to add analytics to your React-Native app.
+- [sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain) - 
 - [shakyShane/actor-js](https://github.com/shakyShane/actor-js) - Exploring the potential benefits of implementing APIs in the style of the Actor Model, even in single-threaded programming environments such as Javascript.
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
 - [skiff-org/skiff-ui](https://github.com/skiff-org/skiff-ui) - React components for the Skiff UI Design System
