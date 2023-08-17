@@ -114,6 +114,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [data61/MP-SPDZ](https://github.com/data61/MP-SPDZ) - Versatile framework for multi-party computation
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [duckie/mongo_smasher](https://github.com/duckie/mongo_smasher) - A small tool to generate randomized datasets
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -363,6 +364,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [benbjohnson/immutable](https://github.com/benbjohnson/immutable) - Immutable collections for Go
 - [beyondstorage/go-storage](https://github.com/beyondstorage/go-storage) - A vendor-neutral storage library for Golang: Write once, run on every storage service.
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [bitsbeats/prometheus-acls](https://github.com/bitsbeats/prometheus-acls) - prometheus oauth acl reverse proxy
 - [bitsongofficial/go-bitsong](https://github.com/bitsongofficial/go-bitsong) - :rocket: Official BitSong Blockchain Implementation in Go
@@ -917,6 +919,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [yuval-k/oci-registry-p2p](https://github.com/yuval-k/oci-registry-p2p) - A IPFS backed storage implementation for docker/OCI registry. This Project brings together cloud-native and peer-to-peer by enabling you pull images directly from IPFS in way that's supported by existing container tooling.
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 
 ## Groovy
 
@@ -1062,7 +1065,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [eventuate-examples/eventuate-examples-java-customers-and-orders](https://github.com/eventuate-examples/eventuate-examples-java-customers-and-orders) - Java version of the Customers and Orders event sourcing example from my presentations
 - [evertrue/monotone](https://github.com/evertrue/monotone) - A 64 bit monotonically increasing Id generator for distributed databases
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [feaster83/quarkus-axonframework-extension](https://github.com/feaster83/quarkus-axonframework-extension) - Quarkus Axon Framework extension
 - [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin) - A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
 - [fewlaps/quitnow-email-suggester](https://github.com/fewlaps/quitnow-email-suggester) - 📧 Correct typos in email addresses like hello@gmail.con
@@ -1289,6 +1291,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [m0t0k1ch1/ERC721-token-sample](https://github.com/m0t0k1ch1/ERC721-token-sample) - a sample implementation of ERC721 (CryptoKitties ver.)
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
+- [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) - LaTeX block support for EditorJS
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -1654,6 +1657,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
 - [Callum-A/cosmwasm-zero-to-hero](https://github.com/Callum-A/cosmwasm-zero-to-hero) - 
 - [Callum-A/whoami-paths](https://github.com/Callum-A/whoami-paths) - 
+- [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK
 - [CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts) - Examples and helpers to build NFT contracts on CosmWasm
 - [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
@@ -1687,6 +1691,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [concoct-rs/concoct](https://github.com/concoct-rs/concoct) - An experimental cross-platform UI framework in rust.
 - [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Example IBC enabled contracts along with full stack integration tests
 - [confio/poe-contracts](https://github.com/confio/poe-contracts) - Tgrade PoE smart contracts
 - [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template suitable for new Rust 2021 Edition projects with cargo-make/rustfmt/rust-clippy.
@@ -1712,6 +1717,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
+- [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) parser generator for Rust
 - [larry0x/cw-template](https://github.com/larry0x/cw-template) - Template for multi-contract CosmWasm projects
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
@@ -1739,10 +1745,12 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [oxigraph/rio](https://github.com/oxigraph/rio) - RDF parsers library
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
 - [public-awesome/marketplace](https://github.com/public-awesome/marketplace) - Stargaze Marketplace smart contract
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc) - user-friendly rust bindings for the bpf compiler collection
@@ -2360,6 +2368,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [llaisdy/beam_languages](https://github.com/llaisdy/beam_languages) - Languages, and about languages, on the BEAM
 - [lolottetheclash/lolottetheclash](https://github.com/lolottetheclash/lolottetheclash) - About me 
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
+- [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources
 - [magnetikonline/action-golang-cache](https://github.com/magnetikonline/action-golang-cache) - GitHub Action bringing together actions/setup-go and actions/cache.
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
@@ -2369,6 +2378,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [michenriksen/drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - Draw.io libraries for threat modeling diagrams
 - [microo8/golymer](https://github.com/microo8/golymer) - Web components with golang (gopherjs) moved to gitlab.com/microo8/golymer
 - [monksy/awesome-kafka](https://github.com/monksy/awesome-kafka) - A collection of kafka-resources
+- [moul/mdencode](https://github.com/moul/mdencode) - convert Go structures to and from readable Markdown (codec).
 - [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
 - [mundimark/awesome-markdown-alternatives](https://github.com/mundimark/awesome-markdown-alternatives) - A collection of awesome light-weight markup markdown alternatives 
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
