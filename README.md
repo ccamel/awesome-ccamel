@@ -693,6 +693,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mongoeye/mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer for MongoDB written in Go.
 - [motemen/go-loghttp](https://github.com/motemen/go-loghttp) - Go library to log http.Client's requests and responses automatically
 - [motemen/go-nuts](https://github.com/motemen/go-nuts) - Go code I want sometimes but too small to be a separate library
+- [moul/mdcodec](https://github.com/moul/mdcodec) - convert Go structures to and from readable Markdown (codec).
 - [muquit/mailsend-go](https://github.com/muquit/mailsend-go) - mailsend-go is a multi-platform  command line tool to send mail via SMTP protocol
 - [muyo/sno](https://github.com/muyo/sno) - Compact, sortable and fast unique IDs with embedded metadata.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
@@ -1371,6 +1372,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀
 - [vardius/message-bus](https://github.com/vardius/message-bus) - Go simple async message bus
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [victorandree/apollo-federation-relay](https://github.com/victorandree/apollo-federation-relay) - A demo of Apollo Federation and global Node resolution
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
@@ -1699,6 +1701,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
 - [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
+- [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
@@ -1784,6 +1787,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/musli](https://github.com/udoprog/musli) - Müsli is a flexible and generic binary serialization framework
@@ -2113,6 +2117,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
+- [magefile/mage-action](https://github.com/magefile/mage-action) - :octocat: GitHub Action for Mage
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [mars-protocol/networks](https://github.com/mars-protocol/networks) - Genesis data for Mars Hub mainnet and testnets
@@ -2154,6 +2159,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [r-wasm/webr](https://github.com/r-wasm/webr) - The statistical language R compiled to WebAssembly via Emscripten, for use in web browsers and Node.
 - [react-component/select](https://github.com/react-component/select) - React Select
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
@@ -2378,7 +2384,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [michenriksen/drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - Draw.io libraries for threat modeling diagrams
 - [microo8/golymer](https://github.com/microo8/golymer) - Web components with golang (gopherjs) moved to gitlab.com/microo8/golymer
 - [monksy/awesome-kafka](https://github.com/monksy/awesome-kafka) - A collection of kafka-resources
-- [moul/mdencode](https://github.com/moul/mdencode) - convert Go structures to and from readable Markdown (codec).
 - [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
 - [mundimark/awesome-markdown-alternatives](https://github.com/mundimark/awesome-markdown-alternatives) - A collection of awesome light-weight markup markdown alternatives 
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
