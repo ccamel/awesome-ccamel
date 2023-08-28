@@ -5,6 +5,7 @@
 Automatically generated with ❤️ by [Create My Awesome](https://github.com/marketplace/actions/create-my-awesome).
 
 - [Assembly](#assembly)
+- [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -49,7 +50,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
-- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -69,6 +69,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [kelindar/bitmap](https://github.com/kelindar/bitmap) - Simple dense bitmap index in Go with binary operators
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) - A pure-Go implementation of the BLAKE3 cryptographic hash function
+
+## Bikeshed
+
+- [SEMICeu/LinkedDataEventStreams](https://github.com/SEMICeu/LinkedDataEventStreams) - The Linked Data Event Streams specification
 
 ## C
 
@@ -419,6 +423,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
 - [contribsys/faktory_worker_go](https://github.com/contribsys/faktory_worker_go) - Faktory workers for Go
 - [coreos/go-oidc](https://github.com/coreos/go-oidc) - A Go OpenID Connect client.
+- [cosmology-tech/starship](https://github.com/cosmology-tech/starship) - A k8s based unified development environment for Cosmos Ecosystem (and beyond)
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [cosmos/ethermint](https://github.com/cosmos/ethermint) - Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
 - [cosmos/gaia](https://github.com/cosmos/gaia) - Cosmos Hub
@@ -1781,7 +1786,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
 - [public-awesome/marketplace](https://github.com/public-awesome/marketplace) - Stargaze Marketplace smart contract
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc) - user-friendly rust bindings for the bpf compiler collection
@@ -1970,10 +1975,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [monaparty/helm-ipfs-cluster](https://github.com/monaparty/helm-ipfs-cluster) - A Helm chart for IPFS clusters.
 
-## Starlark
-
-- [cosmology-tech/starship](https://github.com/cosmology-tech/starship) - A k8s based unified development environment for Cosmos Ecosystem (and beyond)
-
 ## Svelte
 
 - [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for GitHub based on Sveltekit
@@ -2148,6 +2149,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
+- [madeintracker/okp4_web_interface](https://github.com/madeintracker/okp4_web_interface) - Invoke the power of Dagda
 - [magefile/mage-action](https://github.com/magefile/mage-action) - :octocat: GitHub Action for Mage
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
@@ -2162,6 +2164,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Dataverse Portal for the OKP4 network. 
