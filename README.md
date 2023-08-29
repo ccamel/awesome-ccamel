@@ -931,7 +931,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [yuval-k/oci-registry-p2p](https://github.com/yuval-k/oci-registry-p2p) - A IPFS backed storage implementation for docker/OCI registry. This Project brings together cloud-native and peer-to-peer by enabling you pull images directly from IPFS in way that's supported by existing container tooling.
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [zeta-chain/node](https://github.com/zeta-chain/node) - ZetaChain’s blockchain node and an observer validator client
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 
 ## Groovy
 
@@ -1268,7 +1268,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [frintjs/frint](https://github.com/frintjs/frint) - Modular JavaScript framework for building scalable and reactive applications
 - [garygrossgarten/github-action-scp](https://github.com/garygrossgarten/github-action-scp) - ⬆️ Copy a folder to a remote server using SSH
 - [gatewayapps/react-adaptivecards](https://github.com/gatewayapps/react-adaptivecards) - A react wrapper for microsoft/adaptivecards
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [gocli/go-cli](https://github.com/gocli/go-cli) - Create and use boilerplates with ease
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [gridiron-zone/bonds](https://github.com/gridiron-zone/bonds) - The Bonds module is a custom Cosmos SDK module that provides universal token bonding curve functions to mint, burn or swap any token in a Cosmos blockchain.  In the future, once the Cosmos Inter-Blockchain Communication (IBC) protocol is available, this should enable cross-network exchanges of tokens at algorithmically-determined prices.
@@ -1693,6 +1693,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/mesh-security-hackathon](https://github.com/CosmWasm/mesh-security-hackathon) - Implementation of Sunny's Mesh Security talk (Hackathon / Prototype status)
 - [CosmWasm/rust-optimizer](https://github.com/CosmWasm/rust-optimizer) - Dockerfile and script to deterministically produce the smallest possible wasm for your rust contract
 - [CosmWasm/sylvia](https://github.com/CosmWasm/sylvia) - CosmWasm smart contract framework
+- [CronCats/cw-croncat](https://github.com/CronCats/cw-croncat) - CosmWasm smart contracts for CronCat
 - [CyberHoward/cosmwasm-re-entrancy-example](https://github.com/CyberHoward/cosmwasm-re-entrancy-example) - An example re-entrancy attack on a flashloan vault.
 - [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) - CosmWasm smart contracts for Interchain DAOs.
 - [DA0-DA0/polytone](https://github.com/DA0-DA0/polytone) - An account on every blockchain for every smart contract.
@@ -1754,6 +1755,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
 - [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) parser generator for Rust
+- [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite
 - [larry0x/cw-template](https://github.com/larry0x/cw-template) - Template for multi-contract CosmWasm projects
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
@@ -1931,6 +1933,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
 - [appieasahbie/okp4](https://github.com/appieasahbie/okp4) - 
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories
+- [creyD/prettier_action](https://github.com/creyD/prettier_action) - GitHub action for running prettier on your projects pull requests
 - [cyberomanov/status](https://github.com/cyberomanov/status) - status & alarm log with bash and telegram bot.
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
