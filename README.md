@@ -586,6 +586,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hashgraph/hedera-sdk-go](https://github.com/hashgraph/hedera-sdk-go) - Hedera™ Hashgraph SDK for Go
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) - The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
 - [hasit/bolter](https://github.com/hasit/bolter) - Command-line app for viewing BoltDB file in your terminal
 - [haydenwoodhead/burner.kiwi](https://github.com/haydenwoodhead/burner.kiwi) - No bullshit temporary mail service written in Go
 - [hellofresh/health-go](https://github.com/hellofresh/health-go) - Library to provide basic healthcheck functionality to Go applications.
@@ -725,6 +726,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nymtech/nyxd](https://github.com/nymtech/nyxd) - Fork of https://github.com/CosmWasm/wasmd for Nyx validators
 - [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
 - [ojo-network/ojo](https://github.com/ojo-network/ojo) - 
+- [ojo-network/price-feeder](https://github.com/ojo-network/price-feeder) - 
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [okp4/cosmos-faucet](https://github.com/okp4/cosmos-faucet) - 🚰 CØSMOS Faucet backend implementation
 - [okp4/cosmos-sdk](https://github.com/okp4/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
@@ -848,6 +850,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stretchr/objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+- [taubyte/tau](https://github.com/taubyte/tau) - Build Cloud Computing Networks with features like Serverless WebAssembly Functions, Frontend Hosting, Object Storage, K/V Database, and Pub-Sub Messaging. Designed to succeed Kubernetes, Tau enables Autonomous Cloud Computing.
 - [taylorchu/work](https://github.com/taylorchu/work) - gocraft/work v2 prototype
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel 
 - [tcnksm/go-httpstat](https://github.com/tcnksm/go-httpstat) - Tracing golang HTTP request latency
@@ -1285,6 +1288,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ipfs-shipyard/ipfs-share-files](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files via IPFS
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
+- [isbang/compose-action](https://github.com/isbang/compose-action) - 
 - [ixofoundation/ixo-blockchain](https://github.com/ixofoundation/ixo-blockchain) - ixo blockchain SDK
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
@@ -2034,6 +2038,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SINTEF-9012/PruneCluster](https://github.com/SINTEF-9012/PruneCluster) - Fast and realtime marker clustering for Leaflet
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Svelte Form and Vue Form.
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [Terran-One/cosmwasm-as](https://github.com/Terran-One/cosmwasm-as) - CosmWasm contracts in AssemblyScript (experiment) 
 - [Urigo/graphql-mesh](https://github.com/Urigo/graphql-mesh) - GraphQL Mesh — Query anything, run anywhere
 - [Urigo/graphql-scalars](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
@@ -2054,6 +2059,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Tooling for development and production Apollo workflows
 - [argoproj/argo-ui](https://github.com/argoproj/argo-ui) - Argoproj shared React components
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
+- [aswever/cosmwasm-devtools](https://github.com/aswever/cosmwasm-devtools) - cosmwasm devtools
 - [berendsliedrecht/did-ts](https://github.com/berendsliedrecht/did-ts) - 
 - [bitsongofficial/bitsong-faucet](https://github.com/bitsongofficial/bitsong-faucet) - 
 - [blofin/blofin-ui](https://github.com/blofin/blofin-ui) - UI library for crypto exchange.
