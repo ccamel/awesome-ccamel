@@ -1502,7 +1502,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Mustache
 
 - [mmz-srf/passbolt-helm](https://github.com/mmz-srf/passbolt-helm) - Passbolt Kubernetes Helm Charts
-- [nextcloud/helm](https://github.com/nextcloud/helm) - A helm chart for deploying nextcloud on Kubernetes
 
 ## OCaml
 
@@ -1985,6 +1984,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Smarty
 
 - [monaparty/helm-ipfs-cluster](https://github.com/monaparty/helm-ipfs-cluster) - A Helm chart for IPFS clusters.
+- [nextcloud/helm](https://github.com/nextcloud/helm) - A helm chart for deploying nextcloud on Kubernetes
 
 ## Svelte
 
