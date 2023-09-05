@@ -468,6 +468,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dymensionxyz/dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 - [dymensionxyz/dymension-rdk](https://github.com/dymensionxyz/dymension-rdk) - Framework for building highly scalable RollApps
 - [dymensionxyz/dymint](https://github.com/dymensionxyz/dymint) - ABCI-client for Dymension RollApps forked from Optimint
+- [dymensionxyz/roller](https://github.com/dymensionxyz/roller) - CLI tool for deploying IBC RollApps
 - [eBay/akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
@@ -1868,6 +1869,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [VledicFranco/purity](https://github.com/VledicFranco/purity) - A set of FP goodies to help you create pure, type-safe code easily in Scala
 - [akka-js/akka.js](https://github.com/akka-js/akka.js) - Akka, for Scala.js
 - [akka/akka-quickstart-scala.g8](https://github.com/akka/akka-quickstart-scala.g8) - A minimal seed template for an Akka with Scala build 
+- [almond-sh/almond](https://github.com/almond-sh/almond) - A Scala kernel for Jupyter
 - [alwins0n/pmsm](https://github.com/alwins0n/pmsm) - Poor Man's State Management - Scala.js
 - [camunda/feel-scala](https://github.com/camunda/feel-scala) - FEEL parser and interpreter written in Scala
 - [cb372/scala-typed-holes](https://github.com/cb372/scala-typed-holes) - 
@@ -2474,6 +2476,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
+- [rofrol/elm-ui-cookbook](https://github.com/rofrol/elm-ui-cookbook) - 
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [s-tikhomirov/smart-contract-languages](https://github.com/s-tikhomirov/smart-contract-languages) - A curated collection of resources on smart contract programming languages
 - [scrtlabs/Grants](https://github.com/scrtlabs/Grants) - Repository for grant proposal submissions
