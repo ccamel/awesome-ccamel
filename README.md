@@ -118,7 +118,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [data61/MP-SPDZ](https://github.com/data61/MP-SPDZ) - Versatile framework for multi-party computation
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [duckie/mongo_smasher](https://github.com/duckie/mongo_smasher) - A small tool to generate randomized datasets
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -1089,6 +1088,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [eventuate-examples/eventuate-examples-java-customers-and-orders](https://github.com/eventuate-examples/eventuate-examples-java-customers-and-orders) - Java version of the Customers and Orders event sourcing example from my presentations
 - [evertrue/monotone](https://github.com/evertrue/monotone) - A 64 bit monotonically increasing Id generator for distributed databases
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [feaster83/quarkus-axonframework-extension](https://github.com/feaster83/quarkus-axonframework-extension) - Quarkus Axon Framework extension
 - [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin) - A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
 - [fewlaps/quitnow-email-suggester](https://github.com/fewlaps/quitnow-email-suggester) - 📧 Correct typos in email addresses like hello@gmail.con
@@ -2306,6 +2306,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Zig
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## Misc
