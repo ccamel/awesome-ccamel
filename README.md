@@ -436,6 +436,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/ledger-cosmos-go](https://github.com/cosmos/ledger-cosmos-go) - 
 - [cosmos/modules](https://github.com/cosmos/modules) - 
 - [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer for ibc-go
+- [cosmos/rosetta](https://github.com/cosmos/rosetta) - 
 - [crescent-network/crescent](https://github.com/crescent-network/crescent) - ⛓️ Crescent Network, Expanding DeFi capabilities through InterBlockchain Technology 🌙
 - [crucibuild/cookiecutter-agent-go](https://github.com/crucibuild/cookiecutter-agent-go) - A cookiecutter template to create new Crucibuild Agents in Go following best practices.
 - [crucibuild/sdk-agent-go](https://github.com/crucibuild/sdk-agent-go) - Go library wrapping common tools to make Crucibuild agents
@@ -1997,6 +1998,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Svelte
 
+- [Azoyalabs/pocket-druid](https://github.com/Azoyalabs/pocket-druid) - A knowledge explorer for the OKP4 blockchain - Dagda challenge
 - [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for GitHub based on Sveltekit
 - [sveltejs/community-legacy](https://github.com/sveltejs/community-legacy) -  Svelte community meetups, packages, resources, recipes, showcase websites, and more
 
