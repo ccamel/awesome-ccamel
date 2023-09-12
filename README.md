@@ -958,6 +958,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## HTML
 
 - [8values/8values.github.io](https://github.com/8values/8values.github.io) - The 8values political quiz
+- [AuthenticID-Labs/real-id-snap](https://github.com/AuthenticID-Labs/real-id-snap) - 
 - [Cumulo-pro/OKP4](https://github.com/Cumulo-pro/OKP4) - 
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [Funny-OpenSource-Projects/image-to-xls](https://github.com/Funny-OpenSource-Projects/image-to-xls) - A simple tool to make ascii art from an image using excel colored cells.
@@ -1139,6 +1140,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [openhab/openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB
 - [openhab/openhab1-addons](https://github.com/openhab/openhab1-addons) - Add-ons for openHAB 1.x
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
+- [opensourceBIM/BIMserver](https://github.com/opensourceBIM/BIMserver) - The open source BIMserver platform
 - [opentracing-contrib/java-kafka-client](https://github.com/opentracing-contrib/java-kafka-client) - OpenTracing Instrumentation for Apache Kafka Client
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [otto-de/gitactionboard](https://github.com/otto-de/gitactionboard) - GitactionBoard - Ultimate Dashboard for GithubActions.
@@ -1783,6 +1785,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [move-language/move](https://github.com/move-language/move) - 
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
+- [nymlab/vectis-plugins](https://github.com/nymlab/vectis-plugins) - Vectis Plugins
 - [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 - [nymtech/sphinx](https://github.com/nymtech/sphinx) - A Sphinx implementation in Rust
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -2155,7 +2158,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [improbable-eng/ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.
 - [incetarik/fp-ts-stream](https://github.com/incetarik/fp-ts-stream) - Providing Transducers/Streams based on fp-ts library.
-- [informalsystems/quint](https://github.com/informalsystems/quint) - Quint is tool for *understanding*. It is an executable specification language with design and tooling focused on usability. It is based on the Temporal Logic of Actions
+- [informalsystems/quint](https://github.com/informalsystems/quint) - Quint is a tool for *understanding*. It is an executable specification language with design and tooling focused on usability. It is based on the Temporal Logic of Actions
 - [ingvaar/beauf-net-back](https://github.com/ingvaar/beauf-net-back) - A simple quote website backend built using NestJS
 - [ingvaar/beauf-net-front](https://github.com/ingvaar/beauf-net-front) - A simple quote website frontend built using React
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
@@ -2192,6 +2195,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+- [nymlab/vectis](https://github.com/nymlab/vectis) - A non-custodial smart contract wallet project to enhance DApp user experience; it supports social recovery,  guardianship and relaying capability for gas provisioning and auditability. For more details, please see our documentation
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Dataverse Portal for the OKP4 network. 
 - [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
@@ -2485,6 +2489,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [persistenceOne/persistence-docs](https://github.com/persistenceOne/persistence-docs) - Persistence Documentation
 - [pfalcon/awesome-smarthome](https://github.com/pfalcon/awesome-smarthome) - Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)
+- [piotr-roslaniec/awesome-metamask-snaps](https://github.com/piotr-roslaniec/awesome-metamask-snaps) - A curated list of awesome MetaMask Snaps related resources
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
