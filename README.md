@@ -969,6 +969,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [VectorLogoZone/vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
 - [ad2ien/ad2ien.github.io](https://github.com/ad2ien/ad2ien.github.io) - Just my résumé
 - [bfirsh/docker-redoc](https://github.com/bfirsh/docker-redoc) - A Docker image which serves ReDoc documentation
+- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [ctco/spring-boot-graphql-template](https://github.com/ctco/spring-boot-graphql-template) - Spring Boot and GraphQL template project
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -1366,7 +1367,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [release-it/bumper](https://github.com/release-it/bumper) - Version read/write plugin for release-it
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
+- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [rogierschouten/async-lock](https://github.com/rogierschouten/async-lock) - Lock on asynchronous code for Nodejs
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
@@ -1427,7 +1428,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Jupyter Notebook
 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - 🪐 ⚛️ React.js components 💯% compatible with Jupyter.
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
 
@@ -1559,6 +1559,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
 - [RDFLib/rdflib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [SimplyStaking/panic](https://github.com/SimplyStaking/panic) - PANIC Monitoring and Alerting For Blockchains
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Wenzel/oswatcher](https://github.com/Wenzel/oswatcher) - A framework to track the evolution of Operating Systems over time
