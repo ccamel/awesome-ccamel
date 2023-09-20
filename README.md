@@ -96,6 +96,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nanomsg/nanomsg](https://github.com/nanomsg/nanomsg) - nanomsg library
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [seanpringle/reforth](https://github.com/seanpringle/reforth) - Rethinking Forth
 - [timescale/pg_prometheus](https://github.com/timescale/pg_prometheus) - PostgreSQL extension for Prometheus data
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
@@ -1522,7 +1523,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## PHP
 
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [d8ahazard/Phlex](https://github.com/d8ahazard/Phlex) - A super-sexy voice interface for the Plex HTPC
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
 - [mathieupassenaud/afup-demo-oauth-php](https://github.com/mathieupassenaud/afup-demo-oauth-php) - 
@@ -1611,7 +1612,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries.
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
-- [llSourcell/DoctorGPT](https://github.com/llSourcell/DoctorGPT) - DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
+- [llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity) - Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [mikethebeer/graphql-crate](https://github.com/mikethebeer/graphql-crate) - Graphql Demo using Crate
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
@@ -1989,6 +1990,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [snowplow/iglu-central](https://github.com/snowplow/iglu-central) - Contains all JSON Schemas, Avros and Thrifts for Iglu Central
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+- [strangelove-ventures/noble-networks](https://github.com/strangelove-ventures/noble-networks) - 
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [t0pd4wn/loco.sh](https://github.com/t0pd4wn/loco.sh) - Loco.sh, local configuration manager
@@ -2371,7 +2373,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [antoninab4/OKP4](https://github.com/antoninab4/OKP4) - Пошаговая установка ноды OKP4
 - [apiaryio/mson](https://github.com/apiaryio/mson) - Markdown Syntax for Object Notation
-- [apollographql/apollo-feature-requests](https://github.com/apollographql/apollo-feature-requests) - 🧑‍🚀 Apollo Core Platform Feature Requests | (no 🐛 please).
+- [apollographql/apollo-feature-requests](https://github.com/apollographql/apollo-feature-requests) - 🧑‍🚀 Apollo Client Feature Requests | (no 🐛 please).
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appieasahbie/okp4-kelpr](https://github.com/appieasahbie/okp4-kelpr) - 
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
