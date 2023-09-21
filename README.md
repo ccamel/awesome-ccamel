@@ -752,6 +752,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
 - [ontio/ontology](https://github.com/ontio/ontology) - Official Go implementation of the Ontology protocol. https://dev-docs.ont.io/#/
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) - A management framework for extending Kubernetes with Operators
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
@@ -1701,6 +1702,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Big-Bytes-Labs/fisher-rs](https://github.com/Big-Bytes-Labs/fisher-rs) - A fast, powerful, flexible and easy to use open source data analysis and manipulation tool written in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
+- [ByteSudoer/Dependust](https://github.com/ByteSudoer/Dependust) - A Rust tool to check for unused dependencies for your crate in your Cargo.toml
 - [Callum-A/cosmwasm-zero-to-hero](https://github.com/Callum-A/cosmwasm-zero-to-hero) - 
 - [Callum-A/whoami-paths](https://github.com/Callum-A/whoami-paths) - 
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
@@ -1783,6 +1785,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
+- [mars-protocol/red-bank](https://github.com/mars-protocol/red-bank) - Smart contracts for Red Bank
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) - Command line tool to show clear git graphs arranged for your branching model
@@ -1836,6 +1839,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [serenity-rs/poise](https://github.com/serenity-rs/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
 - [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) - A lightweight, opinionated CQRS and event sourcing framework.
 - [setten-io/ecg](https://github.com/setten-io/ecg) -  Cosmos validators dead man's switch
+- [sideprotocol/ibcswap-wasm](https://github.com/sideprotocol/ibcswap-wasm) - Cosmwasm implementation of ICS-100 & ICS-101 
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
 - [stellar/slingshot](https://github.com/stellar/slingshot) -  A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety
