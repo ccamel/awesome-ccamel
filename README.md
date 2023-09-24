@@ -1720,7 +1720,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CyberHoward/cosmwasm-re-entrancy-example](https://github.com/CyberHoward/cosmwasm-re-entrancy-example) - An example re-entrancy attack on a flashloan vault.
 - [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) - CosmWasm smart contracts for Interchain DAOs.
 - [DA0-DA0/polytone](https://github.com/DA0-DA0/polytone) - An account on every blockchain for every smart contract.
-- [Derrick-DApps/contracts](https://github.com/Derrick-DApps/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
+- [Derricks-DApps/contracts](https://github.com/Derricks-DApps/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
 - [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [InjectiveLabs/test-tube](https://github.com/InjectiveLabs/test-tube) - Enables testing CosmWasm contracts against Injective chain without mocks!
@@ -1842,6 +1842,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) - A lightweight, opinionated CQRS and event sourcing framework.
 - [setten-io/ecg](https://github.com/setten-io/ecg) -  Cosmos validators dead man's switch
 - [sideprotocol/ibcswap-wasm](https://github.com/sideprotocol/ibcswap-wasm) - Cosmwasm implementation of ICS-100 & ICS-101 
+- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
 - [stellar/slingshot](https://github.com/stellar/slingshot) -  A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety
