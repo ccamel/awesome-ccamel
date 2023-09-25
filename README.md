@@ -1202,7 +1202,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MtPelerin/bridge-v2](https://github.com/MtPelerin/bridge-v2) - New version of Mt Pelerin DeFi middleware
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [Rbillon59/jmeter-docker-compose-starterkit](https://github.com/Rbillon59/jmeter-docker-compose-starterkit) - 
 - [ReachFive/fake-smtp-server](https://github.com/ReachFive/fake-smtp-server) - Fake SMTP Server for email testing
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [SchumacherFM/blog-cs](https://github.com/SchumacherFM/blog-cs) - My blog at https://cyrillschumacher.com - You may submit pull requests :-)
@@ -1813,7 +1812,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
-- [public-awesome/marketplace](https://github.com/public-awesome/marketplace) - Stargaze Marketplace smart contract
+- [public-awesome/marketplace](https://github.com/public-awesome/marketplace) - Stargaze Marketplace and Live Auctions smart contracts
 - [pysel/dolev-strong](https://github.com/pysel/dolev-strong) - Implementation of Dolev-Strong protocol 
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
@@ -1959,6 +1958,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Megavolv/okp4d-auto-rewards](https://github.com/Megavolv/okp4d-auto-rewards) - OKP4 script for reinvest rewards automatically
 - [NickLiffen/actions-boilerplate](https://github.com/NickLiffen/actions-boilerplate) - Sample Typescript Actions Template
 - [PotatoLabs/git-redate](https://github.com/PotatoLabs/git-redate) - Change the dates of several git commits with a single command
+- [Rbillon59/jmeter-docker-compose-starterkit](https://github.com/Rbillon59/jmeter-docker-compose-starterkit) - 
 - [RubieV/plugin-fuck](https://github.com/RubieV/plugin-fuck) - Execute last command as root in fish
 - [ScaCap/action-ktlint](https://github.com/ScaCap/action-ktlint) - Run Ktlint with reviewdog
 - [StreakyCobra/gws](https://github.com/StreakyCobra/gws) - Colorful KISS helper for git workspaces
