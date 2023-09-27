@@ -410,6 +410,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [chuhlomin/render-template](https://github.com/chuhlomin/render-template) - GitHub Action to render file based on template and passed variables
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [cirello-io/oversight](https://github.com/cirello-io/oversight) - Erlang-like supervisor trees
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line. 
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) - Client-customizable JSON formats for dynamic APIs
@@ -855,6 +856,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [strangelove-ventures/horcrux](https://github.com/strangelove-ventures/horcrux) - A threshold Tendermint signer
 - [strangelove-ventures/interchaintest](https://github.com/strangelove-ventures/interchaintest) - e2e testing framework for the interchain
 - [strangelove-ventures/lens](https://github.com/strangelove-ventures/lens) - ⚛️❤️👁 Brought to you by the LensCrafters
+- [stratosnet/stratos-chain](https://github.com/stratosnet/stratos-chain) - Stratos Blockchain
 - [stretchr/objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
@@ -1696,6 +1698,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [AbstractSDK/cw-orchestrator](https://github.com/AbstractSDK/cw-orchestrator) - A CosmWasm oriented scripting library.
 - [AleoHQ/leo](https://github.com/AleoHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
+- [AleoHQ/snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [Big-Bytes-Labs/fisher-rs](https://github.com/Big-Bytes-Labs/fisher-rs) - A fast, powerful, flexible and easy to use open source data analysis and manipulation tool written in Rust
@@ -1754,6 +1757,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 - [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [ericseppanen/cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - An easy to configure wrapper for Rust's clippy
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
