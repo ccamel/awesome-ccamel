@@ -310,6 +310,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Kava-Labs/kava](https://github.com/Kava-Labs/kava) - DeFi for Crypto.
 - [KiFoundation/ki-tools](https://github.com/KiFoundation/ki-tools) - Tools for the Kichain
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
+- [Konstantin8105/f4go](https://github.com/Konstantin8105/f4go) - Transpiling fortran code to golang code
 - [LambdaIM/lambdavm](https://github.com/LambdaIM/lambdavm) - docs: https://docs.lambda.im/
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
@@ -666,6 +667,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lacion/iothub](https://github.com/lacion/iothub) - IoT Hub for things
 - [larry0x/abstract-account](https://github.com/larry0x/abstract-account) - An account abstraction solution for CosmWasm-enabled chains
 - [lavanet/lava](https://github.com/lavanet/lava) - 
+- [leekchan/accounting](https://github.com/leekchan/accounting) - money and currency formatting for golang
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
 - [letiantech/hotplugin](https://github.com/letiantech/hotplugin) - golang plugin framework for hot update
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - Lightweight data stream processing engine for IoT edge
@@ -940,6 +942,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xrstf/github_exporter](https://github.com/xrstf/github_exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
 - [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
 - [yohamta/donburi](https://github.com/yohamta/donburi) - Just another ECS library for Ebitengine
+- [yourbasic/bit](https://github.com/yourbasic/bit) - Bitset data structure
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [yuval-k/oci-registry-p2p](https://github.com/yuval-k/oci-registry-p2p) - A IPFS backed storage implementation for docker/OCI registry. This Project brings together cloud-native and peer-to-peer by enabling you pull images directly from IPFS in way that's supported by existing container tooling.
@@ -1817,6 +1820,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [oxigraph/rio](https://github.com/oxigraph/rio) - RDF parsers library
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
+- [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a fully private proof-of-stake network and decentralized exchange for the Cosmos ecosystem.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
@@ -2292,6 +2296,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [typeguard/awesome-typed-datasets](https://github.com/typeguard/awesome-typed-datasets) - Awesome types in many languages for popular, open data sets.
 - [udecode/zustood](https://github.com/udecode/zustood) - 🐻‍❄️ A modular store factory using zustand
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
 - [universal-model/universal-model-react](https://github.com/universal-model/universal-model-react) - Universal Model for React
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [uport-project/ethr-did](https://github.com/uport-project/ethr-did) - Create ethr DIDs
