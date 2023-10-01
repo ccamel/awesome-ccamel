@@ -336,6 +336,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [abice/gencheck](https://github.com/abice/gencheck) - Code Generated Validation for Go
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go
 - [achiku/planter](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
+- [aerogo/aero](https://github.com/aerogo/aero) - :bullettrain_side: High-performance web server for Go.
 - [aevea/commitsar](https://github.com/aevea/commitsar) - Tool to check that commits comply with conventional commit standard
 - [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs+parallel)
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
@@ -481,6 +482,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eminetto/api-o11y](https://github.com/eminetto/api-o11y) - Repository used in a talk about APIs and Observability
 - [emperror/emperror](https://github.com/emperror/emperror) - The Emperor takes care of all errors personally
 - [emvi/hide](https://github.com/emvi/hide) - ID type with marshalling to/from hash to prevent sending IDs to clients.
+- [enimatek-nl/tango](https://github.com/enimatek-nl/tango) - WebAssembly Lightweight Javascript Framework in Go (React / AngularJS Inspired)
 - [epiclabs-io/elastic](https://github.com/epiclabs-io/elastic) - Converts go types no matter what
 - [equinor/flowify-workflows-server](https://github.com/equinor/flowify-workflows-server) - 
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
@@ -676,6 +678,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [liggitt/audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs
 - [lingrino/go-fault](https://github.com/lingrino/go-fault) - Fault injection library in Go using standard http middleware
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [livefir/fir](https://github.com/livefir/fir) - Build progressively enhanced reactive html apps
 - [llgcode/draw2d](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf, svg)
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go!
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
@@ -1822,6 +1825,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a fully private proof-of-stake network and decentralized exchange for the Cosmos ecosystem.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL. 
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
 - [public-awesome/marketplace](https://github.com/public-awesome/marketplace) - Stargaze Marketplace and Live Auctions smart contracts
@@ -1849,6 +1853,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [scrtlabs/secret-toolkit](https://github.com/scrtlabs/secret-toolkit) - A collection of Rust packages that contain common tools used in development of Secret Contracts
 - [scrtlabs/secret-vault](https://github.com/scrtlabs/secret-vault) - A contract that allows you to create private keys on-chain and sign data with secp256k1 signatures
 - [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
+- [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [serenity-rs/poise](https://github.com/serenity-rs/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
 - [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) - A lightweight, opinionated CQRS and event sourcing framework.
 - [setten-io/ecg](https://github.com/setten-io/ecg) -  Cosmos validators dead man's switch
