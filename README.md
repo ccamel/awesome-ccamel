@@ -294,6 +294,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmosContracts/juno](https://github.com/CosmosContracts/juno) - Open Source Platform for Interoperable Smart Contracts
 - [DecentralCardGame/Cardchain](https://github.com/DecentralCardGame/Cardchain) - Cosmos based blockchain for handling card ownership, card creation and voting on cards.
 - [Djarvur/go-err113](https://github.com/Djarvur/go-err113) -   Golang linter to check the errors handling expressions
+- [DoWithLogic/golang-clean-architecture](https://github.com/DoWithLogic/golang-clean-architecture) - implementation clean architecture with SOLID Principles
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [EmpowerPlastic/cosmos-chain-reporting](https://github.com/EmpowerPlastic/cosmos-chain-reporting) - 
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -444,6 +445,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/modules](https://github.com/cosmos/modules) - 
 - [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer for ibc-go
 - [cosmos/rosetta](https://github.com/cosmos/rosetta) - 
+- [cosmosregistry/chain-minimal](https://github.com/cosmosregistry/chain-minimal) - Mini - A minimal Cosmos SDK chain template
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [crescent-network/crescent](https://github.com/crescent-network/crescent) - ⛓️ Crescent Network, Expanding DeFi capabilities through InterBlockchain Technology 🌙
 - [crucibuild/cookiecutter-agent-go](https://github.com/crucibuild/cookiecutter-agent-go) - A cookiecutter template to create new Crucibuild Agents in Go following best practices.
@@ -639,7 +641,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jordan-wright/email](https://github.com/jordan-wright/email) - Robust and flexible email library for Go
 - [jpillora/installer](https://github.com/jpillora/installer) - One-liner for installing binaries from Github releases
 - [jtolio/gls](https://github.com/jtolio/gls) - Goroutine local storage
-- [julienrbrt/chain-minimal](https://github.com/julienrbrt/chain-minimal) - Mini - A minimal Cosmos SDK chain template
 - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus.
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
@@ -1137,6 +1138,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
 - [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 - [kagkarlsson/db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [leangen/graphql-spqr](https://github.com/leangen/graphql-spqr) - Build a GraphQL service in seconds
 - [linked-solutions/fuseki-oidc](https://github.com/linked-solutions/fuseki-oidc) - 
@@ -1614,7 +1616,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal. Powered by OpenAI's GPT language model APIs 💫
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -1824,7 +1826,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
-- [mars-protocol/red-bank](https://github.com/mars-protocol/red-bank) - Smart contracts for Red Bank
+- [mars-protocol/contracts](https://github.com/mars-protocol/contracts) - Smart contracts for Red Bank
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) - Command line tool to show clear git graphs arranged for your branching model
@@ -1839,6 +1841,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [okp4/contracts](https://github.com/okp4/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
 - [okp4/cosmos-rust](https://github.com/okp4/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
+- [okp4/cosmos-tools](https://github.com/okp4/cosmos-tools) - 💰 Tool to generate cliff vesting configuration for cosmos chains
 - [okp4/discord-bot](https://github.com/okp4/discord-bot) - 🤖 Discord bot used @okp4 to bridge the Dataverse!
 - [okp4/okp4-cosmos-proto](https://github.com/okp4/okp4-cosmos-proto) - OKP4 CØSMOS gRPC client libraries based on Protobuf definitions.
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
@@ -2132,6 +2135,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Zondax/ledger-cosmos-js](https://github.com/Zondax/ledger-cosmos-js) - 
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
+- [adevinta/spark](https://github.com/adevinta/spark) - ✨ Simple, Modular & Accessible UI Components for your React Applications
 - [adhrinae/ts-react-parcel](https://github.com/adhrinae/ts-react-parcel) - Typescript with React, using parcel bundler
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). Unopinionated and heavily updated fork of react-signature-pad
@@ -2296,6 +2300,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [r-wasm/webr](https://github.com/r-wasm/webr) - The statistical language R compiled to WebAssembly via Emscripten, for use in web browsers and Node.
+- [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [react-component/select](https://github.com/react-component/select) - React Select
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
@@ -2445,6 +2450,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [badouralix/coding-best-practices](https://github.com/badouralix/coding-best-practices) - Collection of tips and tricks to make computers beep boop beep beep boop
 - [bdeneux/bdeneux](https://github.com/bdeneux/bdeneux) - 
+- [beyondstorage/community](https://github.com/beyondstorage/community) - Community Center for BeyondStorage.
 - [bipinvaylu/awesome-kotlin-multiplatform](https://github.com/bipinvaylu/awesome-kotlin-multiplatform) - A curated list of Kotlin Multiplatform libraries & resources.
 - [blyxyas/no-rust-policy-change](https://github.com/blyxyas/no-rust-policy-change) - Say NO to the Rust Trademark policy change!
 - [bot-anik/bot-anik](https://github.com/bot-anik/bot-anik) - :octocat: About me
