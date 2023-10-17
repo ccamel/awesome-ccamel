@@ -299,6 +299,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EmpowerPlastic/cosmos-chain-reporting](https://github.com/EmpowerPlastic/cosmos-chain-reporting) - 
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [Finschia/finschia-sdk](https://github.com/Finschia/finschia-sdk) - A framework for building blockchains based Finschia Mainnet that is forked from cosmos-sdk
 - [Fs02/grimoire](https://github.com/Fs02/grimoire) - Database access layer for golang
 - [Fs02/wire](https://github.com/Fs02/wire) - Strict Runtime Dependency Injection for Golang
 - [GetStream/vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
@@ -318,6 +319,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [ODIN-PROTOCOL/odin-core](https://github.com/ODIN-PROTOCOL/odin-core) - Odin blockchain reference implementation
+- [OmniFlix/omniflixhub](https://github.com/OmniFlix/omniflixhub) - OmniFlix Hub is the root chain of the OmniFlix Network. Sovereign chains and DAOs build on top of or connect to the OmniFlix Hub to manage their web2 & web3 media operations to mint, manage, distribute & monetize NFTs enabled with community interactions.
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [Orange-OpenSource/nifikop](https://github.com/Orange-OpenSource/nifikop) - The NiFiKop NiFi Kubernetes operator makes it easy to run Apache NiFi on Kubernetes. Apache NiFI is a free, open-source solution that support powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
 - [Pisush/chatGPT-plugin-template](https://github.com/Pisush/chatGPT-plugin-template) - For Gophers
@@ -491,6 +493,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [enimatek-nl/tango](https://github.com/enimatek-nl/tango) - WebAssembly Lightweight Javascript Framework in Go (React / AngularJS Inspired)
 - [epiclabs-io/elastic](https://github.com/epiclabs-io/elastic) - Converts go types no matter what
 - [equinor/flowify-workflows-server](https://github.com/equinor/flowify-workflows-server) - 
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based framework with network transparency. For creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
@@ -499,6 +502,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
 - [ezzarghili/recaptcha-go](https://github.com/ezzarghili/recaptcha-go) - Validate Google reCAPTCHA v2 & v3 form submission package in golang
 - [faiface/generics](https://github.com/faiface/generics) - A proof-of-concept implementation of my generics proposal for Go
+- [fatal-fruit/neutrino](https://github.com/fatal-fruit/neutrino) - Minimal IBC connected Cosmos SDK Chain
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [fcambus/rrda](https://github.com/fcambus/rrda) - REST API allowing to perform DNS queries over HTTP
 - [feliixx/mgodatagen](https://github.com/feliixx/mgodatagen) - Generate random data for MongoDB
@@ -960,7 +964,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [yuval-k/oci-registry-p2p](https://github.com/yuval-k/oci-registry-p2p) - A IPFS backed storage implementation for docker/OCI registry. This Project brings together cloud-native and peer-to-peer by enabling you pull images directly from IPFS in way that's supported by existing container tooling.
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [zeta-chain/node](https://github.com/zeta-chain/node) - ZetaChain’s blockchain node and an observer validator client
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. We combine the best of Auth0 and Keycloak for you.
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 
 ## Groovy
 
@@ -2128,7 +2132,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Svelte Form and Vue Form.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
-- [Terran-One/cosmwasm-as](https://github.com/Terran-One/cosmwasm-as) - CosmWasm contracts in AssemblyScript (experiment) 
 - [Urigo/graphql-mesh](https://github.com/Urigo/graphql-mesh) - GraphQL Mesh — Query anything, run anywhere
 - [Urigo/graphql-scalars](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
 - [VisionsOfficial/Human-Centric-Rulebook](https://github.com/VisionsOfficial/Human-Centric-Rulebook) - Service Registry project description (TBD)
@@ -2171,6 +2174,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - Cosmos chain registry ⚛️
 - [cosmology-tech/cosmology](https://github.com/cosmology-tech/cosmology) - CLI and TS library for the Cosmos ⚛️
 - [cosmology-tech/cosmos-kit](https://github.com/cosmology-tech/cosmos-kit) - A wallet connector for the Cosmos ⚛️
+- [cosmology-tech/cosmwasm-as](https://github.com/cosmology-tech/cosmwasm-as) - CosmWasm contracts in AssemblyScript (experiment) 
 - [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) - Set up a modern Cosmos app by running one command ⚛️
 - [cosmology-tech/telescope](https://github.com/cosmology-tech/telescope) - A TypeScript Transpiler for Cosmos Protobufs ⚛️
 - [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.
