@@ -477,6 +477,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
+- [dustinxie/ecc](https://github.com/dustinxie/ecc) - Golang native implementation of the secp256k1 elliptic curve
 - [dymensionxyz/dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 - [dymensionxyz/dymension-rdk](https://github.com/dymensionxyz/dymension-rdk) - Framework for building highly scalable RollApps
 - [dymensionxyz/dymint](https://github.com/dymensionxyz/dymint) - ABCI-client for Dymension RollApps forked from Optimint
@@ -1829,6 +1830,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
+- [many-things/cw-hyperlane](https://github.com/many-things/cw-hyperlane) - 
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
 - [mars-protocol/contracts](https://github.com/mars-protocol/contracts) - Smart contracts for Red Bank
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
@@ -1892,7 +1894,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [serenity-rs/poise](https://github.com/serenity-rs/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
 - [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) - A lightweight, opinionated CQRS and event sourcing framework.
 - [setten-io/ecg](https://github.com/setten-io/ecg) -  Cosmos validators dead man's switch
-- [sideprotocol/ibcswap-wasm](https://github.com/sideprotocol/ibcswap-wasm) - Cosmwasm implementation of ICS-100 & ICS-101 
+- [sideprotocol/mesh-liquidity-wasm](https://github.com/sideprotocol/mesh-liquidity-wasm) - Cosmwasm implementation of ICS-100 & ICS-101 
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
@@ -1907,6 +1909,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [turbofish-org/orga](https://github.com/turbofish-org/orga) - State machine engine
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/musli](https://github.com/udoprog/musli) - Müsli is a flexible and generic binary serialization framework
 - [utkarshkukreti/draco](https://github.com/utkarshkukreti/draco) - Draco is a Rust library for building client side web applications with Web Assembly.
