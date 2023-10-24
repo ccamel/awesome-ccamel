@@ -595,6 +595,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [graph-gophers/graphql-transport-ws](https://github.com/graph-gophers/graphql-transport-ws) - WebSocket transport for GraphQL subscriptions
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [graphql-go/relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
+- [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐
 - [gregdhill/prometheus-cachet](https://github.com/gregdhill/prometheus-cachet) - Prometheus Alertmanager to Cachet
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
@@ -994,6 +995,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SethClydesdale/genki-study-resources](https://github.com/SethClydesdale/genki-study-resources) - A collection of exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese.
 - [VectorLogoZone/vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
 - [ad2ien/ad2ien.github.io](https://github.com/ad2ien/ad2ien.github.io) - Just my résumé
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [bfirsh/docker-redoc](https://github.com/bfirsh/docker-redoc) - A Docker image which serves ReDoc documentation
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [ctco/spring-boot-graphql-template](https://github.com/ctco/spring-boot-graphql-template) - Spring Boot and GraphQL template project
@@ -1328,7 +1330,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [iot-schema-collab/iotschema](https://github.com/iot-schema-collab/iotschema) - 
 - [ipfs-shipyard/ipfs-provider](https://github.com/ipfs-shipyard/ipfs-provider) - Connect to IPFS via an available provider
 - [ipfs-shipyard/ipfs-share-files](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files via IPFS
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, and services related to IPFS.
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [isbang/compose-action](https://github.com/isbang/compose-action) - 
 - [ixofoundation/ixo-blockchain](https://github.com/ixofoundation/ixo-blockchain) - ixo blockchain SDK
@@ -1900,6 +1902,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
+- [srdtrk/cw-ica-controller](https://github.com/srdtrk/cw-ica-controller) - This is a cosmwasm implementation of an interchain accounts controller.
 - [stellar/slingshot](https://github.com/stellar/slingshot) -  A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [swc-project/plugins](https://github.com/swc-project/plugins) - Plugins for swc, written in rust
@@ -2063,6 +2066,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [t0pd4wn/loco.sh](https://github.com/t0pd4wn/loco.sh) - Loco.sh, local configuration manager
+- [thiagosanches/audio-comedy-cafe](https://github.com/thiagosanches/audio-comedy-cafe) - Add a touch of humor and entertainment to virtual meetings and calls.
 - [thisislexar/OKP4-Protocol-Testnet](https://github.com/thisislexar/OKP4-Protocol-Testnet) - OKP4 Testneti için Kurulum Rehberi
 - [timescale/helm-charts](https://github.com/timescale/helm-charts) - Configuration and Documentation to run TimescaleDB in your Kubernetes cluster
 - [tj-actions/eslint-changed-files](https://github.com/tj-actions/eslint-changed-files) - :octocat: Github action to run ESLint on changed pull request files with support for reporting errors via Github checks.
@@ -2296,6 +2300,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/subql-okp4](https://github.com/okp4/subql-okp4) - 🔄 Subquery repository for OKP4 protocol
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
+- [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [optimistex/xlsx-template-ex](https://github.com/optimistex/xlsx-template-ex) - The template engine for generate xlsx documents
@@ -2348,6 +2353,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [terra-money/station](https://github.com/terra-money/station) - 🛰️ Station wallet
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [tonai/storybook-addon-themes](https://github.com/tonai/storybook-addon-themes) - 
 - [trackawesomelist/trackawesomelist-source](https://github.com/trackawesomelist/trackawesomelist-source) - Track Awesome List Source Code, build with Deno.
@@ -2497,6 +2503,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [erichard/awesome-gdpr](https://github.com/erichard/awesome-gdpr) - A curated list of GDPR-compliant tools for websites creators
+- [erlend-sh/opensource-curriculum](https://github.com/erlend-sh/opensource-curriculum) - Curriculum for students of ‘open source’, starting with a narrow focus on open software development.
 - [ethanfrey/ethanfrey](https://github.com/ethanfrey/ethanfrey) - 
 - [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
