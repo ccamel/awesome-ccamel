@@ -50,6 +50,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -844,6 +845,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sge-network/sge](https://github.com/sge-network/sge) - 
 - [shentufoundation/shentu](https://github.com/shentufoundation/shentu) - A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains
 - [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) - An example for building event-driven distributed systems and microservices in Go with NATS JetStream, gRPC and CockroachDB 
+- [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [shurcooL/graphql](https://github.com/shurcooL/graphql) - Package graphql provides a GraphQL client implementation.
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [sideshow/apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
@@ -1653,6 +1655,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
 - [llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity) - Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
+- [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [mikethebeer/graphql-crate](https://github.com/mikethebeer/graphql-crate) - Graphql Demo using Crate
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
@@ -1663,7 +1666,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
 - [okp4/data-join-tabular](https://github.com/okp4/data-join-tabular) - Tabular data join service
 - [okp4/data-selector](https://github.com/okp4/data-selector) - Select (or filter) data of different types and in multiple dimensions.
-- [okp4/detection-of-personal-data](https://github.com/okp4/detection-of-personal-data) - 
+- [okp4/detection-of-personal-data](https://github.com/okp4/detection-of-personal-data) - 📟 CLI tool to detect sensitive personal data
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
 - [openfaas/workshop](https://github.com/openfaas/workshop) - Learn Serverless for Kubernetes with OpenFaaS
@@ -1765,6 +1768,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) - CosmWasm smart contracts for Interchain DAOs.
 - [DA0-DA0/polytone](https://github.com/DA0-DA0/polytone) - An account on every blockchain for every smart contract.
 - [Derricks-DApps/contracts](https://github.com/Derricks-DApps/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+- [DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects) - Featured Dioxus projects on how to build clean user interfaces in Rust
 - [Electron-Labs/cw-eth2-lc](https://github.com/Electron-Labs/cw-eth2-lc) - Eth2 light client implementation as a cosmwasm smart contract
 - [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
@@ -1801,6 +1806,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template suitable for new Rust 2021 Edition projects with cargo-make/rustfmt/rust-clippy.
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [cosmos/ibc-proto-rs](https://github.com/cosmos/ibc-proto-rs) - Rust crate for interacting with Cosmos and IBC structs.
+- [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
 - [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
@@ -1880,8 +1886,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
+- [readysettech/proptest-stateful](https://github.com/readysettech/proptest-stateful) - Library for building stateful property tests using the proptest crate
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
+- [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc) - user-friendly rust bindings for the bpf compiler collection
 - [rust-cli/env_logger](https://github.com/rust-cli/env_logger) - A logging implementation for `log` which is configured via an environment variable.
 - [rust-github/template](https://github.com/rust-github/template) - Template for a generic rust project hosted on GitHub
@@ -2086,6 +2094,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [monaparty/helm-ipfs-cluster](https://github.com/monaparty/helm-ipfs-cluster) - A Helm chart for IPFS clusters.
 - [nextcloud/helm](https://github.com/nextcloud/helm) - A helm chart for deploying nextcloud on Kubernetes
 
+## Solidity
+
+- [d-cast-media/dsponsor](https://github.com/d-cast-media/dsponsor) - Build a community-owned ad inventory with d&gt;sponsor. As a media or a creator, set up your sponsorships tight to NFTs.
+
 ## Svelte
 
 - [Azoyalabs/pocket-druid](https://github.com/Azoyalabs/pocket-druid) - A knowledge explorer for the OKP4 blockchain - Dagda challenge
@@ -2106,6 +2118,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 - [llsoftsec/llsoftsecbook](https://github.com/llsoftsec/llsoftsecbook) - Low-Level Software Security for Compiler Developers
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [prifilabs/decentralized-mnemonic-backup](https://github.com/prifilabs/decentralized-mnemonic-backup) - Decentralized Mnemonic Backup System
 - [s-tikhomirov/solidity-latex-highlighting](https://github.com/s-tikhomirov/solidity-latex-highlighting) - Include nice-looking Solidity examples into LaTeX files
 
@@ -2503,6 +2516,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [dharmeshkakadia/awesome-kafka](https://github.com/dharmeshkakadia/awesome-kafka) - Everything about Apache Kafka
 - [drobakowski/awesome-erlang](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things.
+- [eco-stake/validator-registry](https://github.com/eco-stake/validator-registry) - Cosmos Validator Registry
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness
 - [emersion/stability-badges](https://github.com/emersion/stability-badges) - SVG badges for Go projects
