@@ -217,6 +217,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eskimoblood/elm-color-extra](https://github.com/eskimoblood/elm-color-extra) - :art: Additional color handling for Elm
 - [evancz/guide.elm-lang.org](https://github.com/evancz/guide.elm-lang.org) - My book introducing you to Elm!
 - [exercism/elm](https://github.com/exercism/elm) - Exercism exercises in Elm.
+- [gacallea/elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Vite, TailwindCSS and daisyUI.
 - [gampleman/elm-visualization](https://github.com/gampleman/elm-visualization) - A data visualization library for Elm
 - [gdotdesign/elm-ui](https://github.com/gdotdesign/elm-ui) - UI library for making web applications with Elm
 - [harmboschloo/elm-ecs](https://github.com/harmboschloo/elm-ecs) - Using the entity-component-system (ECS) pattern in elm.
@@ -889,6 +890,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tcnksm/go-httpstat](https://github.com/tcnksm/go-httpstat) - Tracing golang HTTP request latency
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
+- [tendermint/faucet](https://github.com/tendermint/faucet) - A faucet for cosmos-sdk apps that uses the app binary only
 - [tendermint/fundraising](https://github.com/tendermint/fundraising) - 
 - [tendermint/spn](https://github.com/tendermint/spn) - A blockchain to launch blockchains.
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
@@ -1995,6 +1997,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [profunktor/redis4cats](https://github.com/profunktor/redis4cats) - :bookmark: Redis client built on top of Cats Effect, Fs2 and Lettuce
 - [raquo/Airstream](https://github.com/raquo/Airstream) - State propagation and event streams with mandatory ownership and no glitches
 - [raquo/Laminar](https://github.com/raquo/Laminar) - Simple, expressive, and safe UI library for Scala.js
+- [sbt/sbt](https://github.com/sbt/sbt) - sbt, the interactive build tool
 - [sbt/sbt-release](https://github.com/sbt/sbt-release) - A release plugin for sbt
 - [scala-exercises/exercises-cats](https://github.com/scala-exercises/exercises-cats) - Scala Exercises' lessons for the Cats library
 - [scala-js/scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
@@ -2209,6 +2212,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmology-tech/telescope](https://github.com/cosmology-tech/telescope) - A TypeScript Transpiler for Cosmos Protobufs ⚛️
 - [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.
 - [cosmos/cosmos-multisig-ui](https://github.com/cosmos/cosmos-multisig-ui) - Create multisigs and multisig transactions on the cosmoshub chain
+- [cosmos/snap](https://github.com/cosmos/snap) - Packages That Add Cosmos Support Into Metamask. The Cosmos is Expanding!
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - 🪐 ⚛️ React.js components 💯% compatible with Jupyter.
