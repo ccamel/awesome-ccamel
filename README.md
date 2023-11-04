@@ -1801,6 +1801,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [ad2ien/ideal-wages-calculator](https://github.com/ad2ien/ideal-wages-calculator) - A webassembly project using trunk and yew to point out injustices in range of wages
+- [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
 - [antouhou/rs-merkle](https://github.com/antouhou/rs-merkle) - The most advanced Merkle tree library for Rust
 - [arendjr/rust-for-ts-devs](https://github.com/arendjr/rust-for-ts-devs) - Rust courses for TypeScript developers
@@ -2417,6 +2418,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [wyozi/react-pptx](https://github.com/wyozi/react-pptx) - Create PowerPoint presentations with React
 - [xiguaxigua/docusaurus-plugin-drawio](https://github.com/xiguaxigua/docusaurus-plugin-drawio) - drawio render for docusaurus
