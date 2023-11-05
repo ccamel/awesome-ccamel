@@ -137,6 +137,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 - [xaos-project/XaoS](https://github.com/xaos-project/XaoS) - Real-time interactive fractal zoomer
 - [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
 
@@ -202,45 +203,78 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Elm
 
 - [BrianHicks/elm-particle](https://github.com/BrianHicks/elm-particle) -  Simple particle system for web apps. Designed for visual flourishes like confetti.
+- [Chadtech/elm-vector](https://github.com/Chadtech/elm-vector) - Collection types of a fixed length
 - [JesterXL/simple-game](https://github.com/JesterXL/simple-game) - 
 - [MacCASOutreach/graphicsvg](https://github.com/MacCASOutreach/graphicsvg) - Graphics library authored by Chris Schankula and Dr. Christopher Anand
+- [andre-dietrich/elm-conditional](https://github.com/andre-dietrich/elm-conditional) - Conditional application of functions to simplify piping.
 - [arowM/elm-atomic-design-example](https://github.com/arowM/elm-atomic-design-example) - An example Elm project in the manner of atomic design.
+- [avh4/elm-color](https://github.com/avh4/elm-color) - Standard representation of colors, encouraging sharing between packages.  (This replaces elm-lang/core#Color from Elm 0.18.)
 - [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Next-Gen ERD: Design, Explore, Document and Analyze your database
 - [bigardone/elm-dynamic-base-path](https://github.com/bigardone/elm-dynamic-base-path) - Example Elm SPA with dynamic base path
 - [billstclair/elm-websocket-client](https://github.com/billstclair/elm-websocket-client) - Websockets for Elm 0.19, using ports
 - [ccamel/playground-elm](https://github.com/ccamel/playground-elm) -  :balloon: My playground for playing with elm-lang
+- [cuducos/elm-format-number](https://github.com/cuducos/elm-format-number) - ✨Format numbers as pretty strings
 - [dillonkearns/elm-pages](https://github.com/dillonkearns/elm-pages) - Hybrid Elm framework with full-stack and static routes.
 - [dillonkearns/elm-ts-json](https://github.com/dillonkearns/elm-ts-json) - 
 - [ellie-app/ellie](https://github.com/ellie-app/ellie) - The Elm Live Editor
 - [elm-athlete/athlete](https://github.com/elm-athlete/athlete) - 💪 type safe elm-html-css-builder aka athlete
+- [elm-community/basics-extra](https://github.com/elm-community/basics-extra) - Additional basic functions for Elm.
+- [elm-community/list-extra](https://github.com/elm-community/list-extra) - Convenience functions for working with List.
+- [elm-community/random-extra](https://github.com/elm-community/random-extra) - Extra functions for the core Random library.
 - [elm-community/typed-svg](https://github.com/elm-community/typed-svg) - Typed SVG library written for Elm
+- [elm-explorations/markdown](https://github.com/elm-explorations/markdown) - Markdown parser available for historical reasons. Will be replaced when we have an Elm implementation!
 - [elm/browser](https://github.com/elm/browser) - Create Elm programs that run in browsers!
+- [elm/bytes](https://github.com/elm/bytes) - Work with bytes and implement network protocols
 - [elm/core](https://github.com/elm/core) - Elm's core libraries
 - [elm/elm-lang.org](https://github.com/elm/elm-lang.org) - Server and client code for the Elm website.
+- [elm/file](https://github.com/elm/file) - Select files. Download files. Work with file content.
+- [elm/html](https://github.com/elm/html) - Use HTML in Elm!
+- [elm/json](https://github.com/elm/json) - Work with JSON in Elm
+- [elm/parser](https://github.com/elm/parser) - A parsing library, focused on simplicity and great error messages
+- [elm/random](https://github.com/elm/random) - Generate random values in Elm
+- [elm/regex](https://github.com/elm/regex) - If you really need regex in Elm, it is possible.
 - [elm/svg](https://github.com/elm/svg) - Fast SVG in Elm
+- [elm/time](https://github.com/elm/time) - A simplified approach to working with dates, times, and time zones.
+- [elm/url](https://github.com/elm/url) - Build and parse URLs. Useful for HTTP and "routing" in single-page apps (SPAs)
 - [eskimoblood/elm-color-extra](https://github.com/eskimoblood/elm-color-extra) - :art: Additional color handling for Elm
 - [evancz/guide.elm-lang.org](https://github.com/evancz/guide.elm-lang.org) - My book introducing you to Elm!
 - [exercism/elm](https://github.com/exercism/elm) - Exercism exercises in Elm.
+- [fredcy/elm-parseint](https://github.com/fredcy/elm-parseint) - Elm function for converting a String value to Int
 - [gacallea/elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Vite, TailwindCSS and daisyUI.
 - [gampleman/elm-visualization](https://github.com/gampleman/elm-visualization) - A data visualization library for Elm
 - [gdotdesign/elm-ui](https://github.com/gdotdesign/elm-ui) - UI library for making web applications with Elm
+- [harmboschloo/elm-dict-intersect](https://github.com/harmboschloo/elm-dict-intersect) - Provides intersections of multiple dictionaries
 - [harmboschloo/elm-ecs](https://github.com/harmboschloo/elm-ecs) - Using the entity-component-system (ECS) pattern in elm.
+- [ianmackenzie/elm-1d-parameter](https://github.com/ianmackenzie/elm-1d-parameter) - Generate evenly spaced interpolated values in Elm
+- [ianmackenzie/elm-float-extra](https://github.com/ianmackenzie/elm-float-extra) - Useful functionality for Float values in Elm
+- [ianmackenzie/elm-geometry](https://github.com/ianmackenzie/elm-geometry) - 2D/3D geometry package for Elm
+- [ianmackenzie/elm-interval](https://github.com/ianmackenzie/elm-interval) - Simple Interval type for Elm
+- [ianmackenzie/elm-triangular-mesh](https://github.com/ianmackenzie/elm-triangular-mesh) - Generic indexed triangular mesh data structure for Elm
+- [ianmackenzie/elm-units](https://github.com/ianmackenzie/elm-units) - Simple, safe and convenient unit types and conversions for Elm
+- [ianmackenzie/elm-units-interval](https://github.com/ianmackenzie/elm-units-interval) - Version of elm-interval based on elm-units
 - [izdi/elm-cheat-sheet](https://github.com/izdi/elm-cheat-sheet) - An overview of Elm syntax and features
 - [jah2488/elm-companies](https://github.com/jah2488/elm-companies) - 🌲 A list of companies using Elm in production.
 - [jfmengels/elm-review](https://github.com/jfmengels/elm-review) - Analyzes Elm projects, to help find mistakes before your users find them.
+- [joakin/elm-canvas](https://github.com/joakin/elm-canvas) - A canvas drawing library for Elm
 - [kevgathuku/parcel-elm](https://github.com/kevgathuku/parcel-elm) - Boilerplate for a new Elm app using Parcel
 - [kraklin/elm-readiness](https://github.com/kraklin/elm-readiness) - Keep track of transition state of your dependencies in your own Elm app to Elm 0.19
 - [lindsaykwardell/vite-elm-spa](https://github.com/lindsaykwardell/vite-elm-spa) - A default template for building Elm SPA applications using Vite.
 - [lindsaykwardell/vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications using Vite.
 - [lucamug/elm-parcel-example](https://github.com/lucamug/elm-parcel-example) - 
+- [lukewestby/elm-string-interpolate](https://github.com/lukewestby/elm-string-interpolate) - Inject values from a list into a template. Useful for i18n and templated copy.
 - [mdgriffith/elm-codegen](https://github.com/mdgriffith/elm-codegen) - 
 - [mdgriffith/elm-gql-github-example](https://github.com/mdgriffith/elm-gql-github-example) - An example repo for elm-gql that uses the Github GraphQL API
 - [mdgriffith/elm-ui](https://github.com/mdgriffith/elm-ui) - What if you never had to write CSS again?
+- [mpizenberg/elm-pointer-events](https://github.com/mpizenberg/elm-pointer-events) - Mouse, Touch, Pointer, Wheel and Drag events in elm
+- [myrho/elm-round](https://github.com/myrho/elm-round) - Round floats (mathematically/commercially) to a given number of decimal places
+- [noahzgordon/elm-color-extra](https://github.com/noahzgordon/elm-color-extra) - :art: Additional color handling for Elm
 - [oakesja/elm-news](https://github.com/oakesja/elm-news) - All elm news in one place
+- [ohanhi/keyboard](https://github.com/ohanhi/keyboard) - Nice handling for keyboard inputs in Elm
 - [rlopzc/elm-webpack-starter](https://github.com/rlopzc/elm-webpack-starter) - Elm 0.19 webpack 4 starter template to build SPA
 - [rogeriochaves/spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 - [ryannhg/elm-storybook-example](https://github.com/ryannhg/elm-storybook-example) - An example of how you can build a design system with Elm + Storybook!
+- [simonh1000/elm-colorpicker](https://github.com/simonh1000/elm-colorpicker) - Elm library to implement a color picker tool
 - [stil4m/elm-analyse](https://github.com/stil4m/elm-analyse) - A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 - [terezka/elm-charts](https://github.com/terezka/elm-charts) - Create SVG charts in Elm.
 - [timjs/elm-collage](https://github.com/timjs/elm-collage) - Create interactive vector graphics and position them relative to each other
@@ -308,6 +342,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Fs02/grimoire](https://github.com/Fs02/grimoire) - Database access layer for golang
 - [Fs02/wire](https://github.com/Fs02/wire) - Strict Runtime Dependency Injection for Golang
 - [GetStream/vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
+- [Gravity-Bridge/Gravity-Bridge](https://github.com/Gravity-Bridge/Gravity-Bridge) - The official repository of the Gravity Bridge Blockchain
 - [HnH/qry](https://github.com/HnH/qry) - Write your SQL queries in raw files with all benefits of modern IDEs, use them in an easy way inside your application with all the profit of compile time constants
 - [HouzuoGuo/tiedot](https://github.com/HouzuoGuo/tiedot) - A rudimentary implementation of a basic document (NoSQL) database in Go
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
@@ -362,6 +397,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language and expression evaluation for Go
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [antsankov/go-live](https://github.com/antsankov/go-live) - 🗂️ go-live is an ultra-light server utility that serves files, HTML or anything else, over HTTP.
+- [aosasona/gots](https://github.com/aosasona/gots) - No matter how you pronounce it, this repository is all about converting Go types to TypeScript types.
 - [apache/camel-k](https://github.com/apache/camel-k) - Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers
 - [application-research/estuary](https://github.com/application-research/estuary) - A custom IPFS/Filecoin node that makes it easy to pin IPFS content and make Filecoin deals.
 - [araddon/qlbridge](https://github.com/araddon/qlbridge) - A golang expression evaluator & Library to build SQL query engine based functionality. 
@@ -480,6 +516,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dpapathanasiou/go-recaptcha](https://github.com/dpapathanasiou/go-recaptcha) - A package for handling reCaptcha (http://www.google.com/recaptcha) form submissions in Go (http://golang.org/).
 - [dravenk/webthing-go](https://github.com/dravenk/webthing-go) - Go implementation of a Web Thing server
 - [drgrib/maps](https://github.com/drgrib/maps) - Deprecated with note on how to implement this package's functionality using Go 1.18. Previously: Type-safe implementations of common map functions and tools to generate those functions.
+- [driusan/dgit](https://github.com/driusan/dgit) - A Pure Go Git Implementation
 - [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
@@ -1304,12 +1341,14 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [digitalbazaar/did-cli](https://github.com/digitalbazaar/did-cli) - A client for managing Decentralized Identifiers
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
+- [dnewcome/Donatello](https://github.com/dnewcome/Donatello) - Pure-CSS drawing library for the browser.
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [eco-stake/cosmos-directory](https://github.com/eco-stake/cosmos-directory) - ⚛️ · 📖
 - [eddy-guo/validator-monitor](https://github.com/eddy-guo/validator-monitor) - Discord bot to monitor Jackal validator uptime status (and other Cosmos blockchains).
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [editor-js/embed](https://github.com/editor-js/embed) - Embed Tool for Editor.js
 - [editor-js/raw](https://github.com/editor-js/raw) - Raw HTML tool for Editor.js
+- [elm/virtual-dom](https://github.com/elm/virtual-dom) - The foundation of HTML and SVG in Elm.
 - [elwin013/parcel-plugin-static-files-copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - ParcelJS plugin to copy static files
 - [epsylon/ufonet](https://github.com/epsylon/ufonet) - UFONet - Denial of Service Toolkit
 - [ept/avrodoc](https://github.com/ept/avrodoc) - Documentation tool for Avro schemas
@@ -1338,6 +1377,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [hhru/react-d3-chart-graphs](https://github.com/hhru/react-d3-chart-graphs) - 
+- [hoodrunio/cosmos-governance](https://github.com/hoodrunio/cosmos-governance) - Governance proposals notification/alert bot for Cosmos-based chains
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [inblocks/precedence](https://github.com/inblocks/precedence) - precedence brings secure blockchain-powered traceability features to your already existing legacy information system
 - [iot-schema-collab/iotschema](https://github.com/iot-schema-collab/iotschema) - 
@@ -1450,7 +1490,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tau-prolog/tau-prolog](https://github.com/tau-prolog/tau-prolog) - An open source Prolog interpreter in JavaScript
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks all of the hyperlinks in a markdown text to determine if they are alive or dead
 - [terra-money/classic-core](https://github.com/terra-money/classic-core) - GO implementation of the Terra Protocol 
-- [testnetrunn/cosmos-governance](https://github.com/testnetrunn/cosmos-governance) - Governance proposals notification/alert bot for Cosmos-based chains
 - [tomayac/local-reverse-geocoder](https://github.com/tomayac/local-reverse-geocoder) - Local reverse geocoder for Node.js based on GeoNames data
 - [traveldevel/iot-hub-ingestion-rest](https://github.com/traveldevel/iot-hub-ingestion-rest) - Ingestion REST api that writes to a Kafka topic
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
@@ -1619,6 +1658,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [amcat/progressmonitor](https://github.com/amcat/progressmonitor) - Python classes for tracking (sub)task progress (inspired by Eclipse ProgressMonitor, but more pythonic)
+- [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera is an Argo Python SDK. Hera aims to make construction and submission of various Argo Project resources easy and accessible to everyone! Hera abstracts away low-level setup details while still maintaining a consistent vocabulary with Argo.
 - [assetnote/batchql](https://github.com/assetnote/batchql) - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations
@@ -1802,9 +1842,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [ad2ien/ideal-wages-calculator](https://github.com/ad2ien/ideal-wages-calculator) - A webassembly project using trunk and yew to point out injustices in range of wages
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
+- [andresilva/rust-okasaki](https://github.com/andresilva/rust-okasaki) - Purely Functional Data Structures in Rust
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
 - [antouhou/rs-merkle](https://github.com/antouhou/rs-merkle) - The most advanced Merkle tree library for Rust
 - [arendjr/rust-for-ts-devs](https://github.com/arendjr/rust-for-ts-devs) - Rust courses for TypeScript developers
+- [arkworks-rs/curves](https://github.com/arkworks-rs/curves) - Implementations of popular elliptic curves 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [balpan-rs/balpan](https://github.com/balpan-rs/balpan) - Simple CLI Tool that supports your onboarding for a journey on source code.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -2256,6 +2298,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
 - [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
+- [etherspot/etherspot-sdk](https://github.com/etherspot/etherspot-sdk) - Etherspot - Account Abstraction SDK
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [fathyb/parcel-plugin-angular](https://github.com/fathyb/parcel-plugin-angular) - Complete Angular support for Parcel
 - [fathyb/parcel-plugin-typescript](https://github.com/fathyb/parcel-plugin-typescript) - 🚨 Enhanced TypeScript support for Parcel
@@ -2516,6 +2559,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appieasahbie/okp4-kelpr](https://github.com/appieasahbie/okp4-kelpr) - 
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [badouralix/coding-best-practices](https://github.com/badouralix/coding-best-practices) - Collection of tips and tricks to make computers beep boop beep beep boop
 - [bdeneux/bdeneux](https://github.com/bdeneux/bdeneux) - 
 - [beyondstorage/community](https://github.com/beyondstorage/community) - Community Center for BeyondStorage.
