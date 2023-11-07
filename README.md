@@ -451,6 +451,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ccbrown/api-fu](https://github.com/ccbrown/api-fu) - A collection of Go packages for creating robust GraphQL APIs
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes
 - [census-instrumentation/opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
+- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [cheqd/cheqd-node](https://github.com/cheqd/cheqd-node) - Ledger/node software for cheqd's decentralised identity network. Built using the Cosmos SDK blockchain framework.
@@ -792,6 +793,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nuts-foundation/go-did](https://github.com/nuts-foundation/go-did) - Golang library for parsing Decentralized Identifiers (DIDs)
 - [nymtech/nyxd](https://github.com/nymtech/nyxd) - Fork of https://github.com/CosmWasm/wasmd for Nyx validators
 - [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
+- [ojo-network/contracts](https://github.com/ojo-network/contracts) - 
 - [ojo-network/ojo](https://github.com/ojo-network/ojo) - 
 - [ojo-network/price-feeder](https://github.com/ojo-network/price-feeder) - 
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
@@ -1611,6 +1613,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
+- [ocaml-wasm/wasm_of_ocaml](https://github.com/ocaml-wasm/wasm_of_ocaml) - 
 - [realworldocaml/book](https://github.com/realworldocaml/book) - V2 of Real World OCaml
 
 ## PHP
@@ -2123,7 +2126,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [ibiqlik/action-yamllint](https://github.com/ibiqlik/action-yamllint) - GitHub Action - Yaml Lint
 - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
-- [johannchangpro/git-fast-forward-all-branches](https://github.com/johannchangpro/git-fast-forward-all-branches) - 
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [karancode/kustomize-github-action](https://github.com/karancode/kustomize-github-action) - :european_castle: Github action for kustomize
@@ -2131,6 +2133,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lensesio/lenses-docker](https://github.com/lensesio/lenses-docker) - ❤for real-time DataOps - where the application and data fabric blends - Lenses
 - [linagora/linshare](https://github.com/linagora/linshare) - LinShare
 - [lindt/docker_plantuml](https://github.com/lindt/docker_plantuml) - docker container for plantuml
+- [mrjohannchang/git-fast-forward-all-branches](https://github.com/mrjohannchang/git-fast-forward-all-branches) - 
 - [nodejumper-org/cosmos-scripts](https://github.com/nodejumper-org/cosmos-scripts) - Useful utils for cosmos chains
 - [obajay/StateSync-snapshots](https://github.com/obajay/StateSync-snapshots) - 
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
