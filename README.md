@@ -5,6 +5,7 @@
 Automatically generated with ❤️ by [Create My Awesome](https://github.com/marketplace/actions/create-my-awesome).
 
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c-1)
@@ -72,6 +73,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kelindar/bitmap](https://github.com/kelindar/bitmap) - Simple dense bitmap index in Go with binary operators
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) - A pure-Go implementation of the BLAKE3 cryptographic hash function
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
+
+## Astro
+
+- [mationai/astro-rescript](https://github.com/mationai/astro-rescript) - Astro with ReScript
 
 ## Bikeshed
 
@@ -484,7 +489,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/gex](https://github.com/cosmos/gex) - In-terminal explorer for Cosmos SDK blockchains.
 - [cosmos/gogoproto](https://github.com/cosmos/gogoproto) - Protocol Buffers for Go with Gadgets for Cosmos
 - [cosmos/ibc-apps](https://github.com/cosmos/ibc-apps) - IBC applications and middleware for Cosmos SDK chains.
-- [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Interblockchain Communication Protocol (IBC) implementation in Golang.
+- [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication Protocol (IBC) implementation in Golang.
 - [cosmos/interchain-accounts-demo](https://github.com/cosmos/interchain-accounts-demo) - ICA 
 - [cosmos/interchain-security](https://github.com/cosmos/interchain-security) - Replicated security (aka interchain security V1) is an open sourced IBC application which allows cosmos blockchains to lease their proof-of-stake security to one another.
 - [cosmos/ledger-cosmos-go](https://github.com/cosmos/ledger-cosmos-go) - 
@@ -647,6 +652,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [guregu/hammertime](https://github.com/guregu/hammertime) - alternative WASI for wasmtime-go
 - [guregu/intertube](https://github.com/guregu/intertube) - music storage locker
+- [guregu/into](https://github.com/guregu/into) - coercion convenience for Go
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
 - [harmony-development/protocol](https://github.com/harmony-development/protocol) - The schemas for the Harmony protocol
@@ -2441,7 +2447,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [skiff-org/skiff-ui](https://github.com/skiff-org/skiff-ui) - React components for the Skiff UI Design System
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [solana-labs/example-helloworld](https://github.com/solana-labs/example-helloworld) - Hello world on Solana
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 - [stolenng/react-hooks-mobx](https://github.com/stolenng/react-hooks-mobx) - React Hooks + MobX guide
 - [storybookjs/native](https://github.com/storybookjs/native) - 📱 Storybook for Native: iOS, Android, Flutter
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. 
