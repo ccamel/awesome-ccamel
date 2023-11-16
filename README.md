@@ -837,7 +837,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [packruler/rewrite-body](https://github.com/packruler/rewrite-body) - Traefik Plugin to allow regex replacement of HTTP GET response body
 - [palomachain/paloma](https://github.com/palomachain/paloma) - The fast blockchain messenger protocol
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - The most accurate natural language detection library for Go, suitable for long and short text alike
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - The most accurate natural language detection library for Go, suitable for short text and mixed-language text
 - [persistenceOne/persistenceCore](https://github.com/persistenceOne/persistenceCore) - Project implementing an application for the Persistence Core chain that all the other chains in the ecosystem connect to as a raised and open moderator for interoperability, shared security, and as a gateway to other ecosystems and chains.
 - [petrgazarov/salami](https://github.com/petrgazarov/salami) - Infrastructure as Natural Language
 - [phayes/freeport](https://github.com/phayes/freeport) - Get a free and open tcp port that is ready to use
@@ -1825,6 +1825,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/cw-multi-test](https://github.com/CosmWasm/cw-multi-test) - CosmWasm multi-contract testing framework
 - [CosmWasm/cw-nfts](https://github.com/CosmWasm/cw-nfts) - Examples and helpers to build NFT contracts on CosmWasm
 - [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
+- [CosmWasm/cw-storage-plus](https://github.com/CosmWasm/cw-storage-plus) - Storage abstractions for CosmWasm smart contracts
 - [CosmWasm/cw-template](https://github.com/CosmWasm/cw-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [CosmWasm/cw-tokens](https://github.com/CosmWasm/cw-tokens) - Examples of cw20 usage, extracted from cw-plus, maintained by the community
 - [CosmWasm/mesh-security-hackathon](https://github.com/CosmWasm/mesh-security-hackathon) - Implementation of Sunny's Mesh Security talk (Hackathon / Prototype status)
@@ -2752,6 +2753,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [theDavidCoen/BanksAgainstBitcoin](https://github.com/theDavidCoen/BanksAgainstBitcoin) - A blacklist of banks that block movements to or from Bitcoin/Crypto related services.
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
 - [thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of resources for learning about http://www.keycloak.org
+- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [timburgan/timburgan](https://github.com/timburgan/timburgan) - 
 - [tj-actions/branch-names](https://github.com/tj-actions/branch-names) - :octocat: Github action to retrieve branch or tag names with support for all events.
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
