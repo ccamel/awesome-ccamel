@@ -1271,6 +1271,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AmbireTech/wallet](https://github.com/AmbireTech/wallet) - Ambire Wallet: A full featured self-custodial DeFi wallet superapp focused on UX using account abstraction
 - [AshKyd/ui95](https://github.com/AshKyd/ui95) - 🖥 WIP: A preact implementation of Windows 95/98/ME style components and apps. See it in action on my personal site at https://ash.ms
 - [BitCannaCommunity/cosmos-faucet](https://github.com/BitCannaCommunity/cosmos-faucet) - Cosmos-faucet is a simple alternative to the tendermint/faucet GoLang script. This is an idea adapted for  Bitcanna and can be used for any project using cosmos.
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [ChristophP/elm-esm](https://github.com/ChristophP/elm-esm) - Turn Elm compiler output into modern ES Modules
 - [CosmWasm/docs](https://github.com/CosmWasm/docs) - Updated documentation repo
 - [David-Kunz/derive-type](https://github.com/David-Kunz/derive-type) - Derive types dynamically by running tests to capture value combinations
@@ -1947,7 +1948,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/okp4-cosmos-proto](https://github.com/okp4/okp4-cosmos-proto) - OKP4 CØSMOS gRPC client libraries based on Protobuf definitions.
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [orpheuslummis/hackmos2023](https://github.com/orpheuslummis/hackmos2023) - 
 - [osmosis-labs/beaker](https://github.com/osmosis-labs/beaker) - Beaker helps streamlining CosmWasm development workflow.
 - [osmosis-labs/cw-minimal-template](https://github.com/osmosis-labs/cw-minimal-template) - A minimal CosmWasm template
@@ -2381,6 +2382,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kamilkisiela/graphql-hive](https://github.com/kamilkisiela/graphql-hive) - GraphQL Hive is a schema registry and observability
 - [kamilkisiela/graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [kitze/mobx-router](https://github.com/kitze/mobx-router) - A simple router for MobX + React apps
+- [koala819/starterPack](https://github.com/koala819/starterPack) - to begin project with NextJS , TS and Tailwind
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [lavanet/lava-sdk-providers](https://github.com/lavanet/lava-sdk-providers) - Lava SDK providers
@@ -2455,7 +2457,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [shakyShane/actor-js](https://github.com/shakyShane/actor-js) - Exploring the potential benefits of implementing APIs in the style of the Actor Model, even in single-threaded programming environments such as Javascript.
 - [shivanshubisht/chatgpt](https://github.com/shivanshubisht/chatgpt) - ChatGPT built with Next.js 13 app directory and Tailwind CSS using OpenAI's API sdk v4 and GPT-4 and SSR streaming for data with edge functions.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Markdown as a platform
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Workshop for the mind
 - [skiff-org/skiff-ui](https://github.com/skiff-org/skiff-ui) - React components for the Skiff UI Design System
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [solana-labs/example-helloworld](https://github.com/solana-labs/example-helloworld) - Hello world on Solana
