@@ -977,6 +977,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tyler-smith/go-avalanche](https://github.com/tyler-smith/go-avalanche) - Implementation of the Avalanche consensus algorithm in Go
 - [uber-common/cadence-samples](https://github.com/uber-common/cadence-samples) - 
 - [uber-go/cadence-client](https://github.com/uber-go/cadence-client) - Framework for authoring workflows and activities running on top of the Cadence orchestration engine.
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
@@ -1444,6 +1445,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/eslint-config-okp4](https://github.com/okp4/eslint-config-okp4) - 📜 ESLint shareable config used @okp4
 - [orbitdb/orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-Only Log database for orbit-db
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
+- [organix/tartjs](https://github.com/organix/tartjs) - Tiny Actor Run-Time in JavaScript
 - [osmosis-labs/docs](https://github.com/osmosis-labs/docs) - Official Documentation for Osmosis. 
 - [outerbounds/nbdoc-docusaurus](https://github.com/outerbounds/nbdoc-docusaurus) - Create testable, reproduceable documentation with Jupyter notebooks
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
@@ -1509,6 +1511,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tomayac/local-reverse-geocoder](https://github.com/tomayac/local-reverse-geocoder) - Local reverse geocoder for Node.js based on GeoNames data
 - [traveldevel/iot-hub-ingestion-rest](https://github.com/traveldevel/iot-hub-ingestion-rest) - Ingestion REST api that writes to a Kafka topic
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
+- [untu/comedy](https://github.com/untu/comedy) - Node.js actor framework.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀
 - [vardius/message-bus](https://github.com/vardius/message-bus) - Go simple async message bus
@@ -2227,6 +2230,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BowlingX/geschichte](https://github.com/BowlingX/geschichte) - zustand and immer based hook to manage query parameters
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡  
 - [BuilderIO/gpt-assistant](https://github.com/BuilderIO/gpt-assistant) - An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [CosmWasm/CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS) - Source of the cosmwasm npm package
 - [CosmWasm/mesh-security-ui](https://github.com/CosmWasm/mesh-security-ui) - Basic UI to try out mesh security
