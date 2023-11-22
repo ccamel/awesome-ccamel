@@ -890,6 +890,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rumlang/rum](https://github.com/rumlang/rum) - Functional language, easily extensible and possible (Lua features with LISP dialect and functional) to be embarked on software Go!
 - [ryboe/q](https://github.com/ryboe/q) - Quick and dirty debugging output for tired Go programmers
 - [rylans/getlang](https://github.com/rylans/getlang) - Natural language detection package in pure Go
+- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [satori/go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
@@ -1303,6 +1304,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and compress) GLSL shader files :electric_plug:
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
+- [Wervice/Codelink](https://github.com/Wervice/Codelink) - Codelink is a collection and starter for applications that are developed for programmers. It features an easy to run file manager and a very lightweigh browser.
 - [Yomguithereal/baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 - [adobe/jsonschema2md](https://github.com/adobe/jsonschema2md) - Convert Complex JSON Schemas into Markdown Documentation
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
@@ -1437,7 +1439,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - Template for PixiJS using Typescript and Webpack https://stackblitz.com/github/miltoncandelero/pixi-hotwire 
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - :star2:  Create IoT applications. Wire devices together regardless their brand or technology.
-- [nice-move/remark-docusaurus](https://github.com/nice-move/remark-docusaurus) - Remark plugin for docusaurus features.
 - [nice-move/remark-kroki](https://github.com/nice-move/remark-kroki) - Kroki plugin of remark
 - [normen/homebridge-landroid](https://github.com/normen/homebridge-landroid) - Homebridge plugin to control Worx Landroid robo mowers through the Worx Cloud
 - [notional-labs/cosmosia](https://github.com/notional-labs/cosmosia) - Cosmos Infrastructure Automation
@@ -1492,6 +1493,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [serverless/serverless-kubeless](https://github.com/serverless/serverless-kubeless) - This plugin enables support for Kubeless within the Serverless Framework.
 - [settlemint/graphiql-online](https://github.com/settlemint/graphiql-online) - Online GraphiQL instance with a configurable endpoint!
 - [sheerun/graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL Server schema visualizer
+- [show-docs/remark-docusaurus](https://github.com/show-docs/remark-docusaurus) - Remark plugin for docusaurus features.
 - [siddharthkp/use-timeout](https://github.com/siddharthkp/use-timeout) - Declarative React hook for setTimeout
 - [silverwind/uppie](https://github.com/silverwind/uppie) - Cross-browser directory and multi-file upload library
 - [simonh1000/elm-webpack-starter](https://github.com/simonh1000/elm-webpack-starter) - Elm 0.19.1, Webpack 5 & Tailwind
@@ -1673,6 +1675,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
 - [RDFLib/rdflib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+- [Reecepbcups/airdrop-tools](https://github.com/Reecepbcups/airdrop-tools) - A suite of tools to airdrop under a variety of edge cases for the Cosmos Interchain
 - [SimplyStaking/panic](https://github.com/SimplyStaking/panic) - PANIC Monitoring and Alerting For Blockchains
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Wenzel/oswatcher](https://github.com/Wenzel/oswatcher) - A framework to track the evolution of Operating Systems over time
@@ -2157,6 +2160,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [linagora/linshare](https://github.com/linagora/linshare) - LinShare
 - [lindt/docker_plantuml](https://github.com/lindt/docker_plantuml) - docker container for plantuml
 - [mrjohannchang/git-fast-forward-all-branches](https://github.com/mrjohannchang/git-fast-forward-all-branches) - 
+- [noble-assets/networks](https://github.com/noble-assets/networks) - 
 - [nodejumper-org/cosmos-scripts](https://github.com/nodejumper-org/cosmos-scripts) - Useful utils for cosmos chains
 - [obajay/StateSync-snapshots](https://github.com/obajay/StateSync-snapshots) - 
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
@@ -2173,7 +2177,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [snowplow/iglu-central](https://github.com/snowplow/iglu-central) - Contains all JSON Schemas, Avros and Thrifts for Iglu Central
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-- [strangelove-ventures/noble-networks](https://github.com/strangelove-ventures/noble-networks) - 
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [t0pd4wn/loco.sh](https://github.com/t0pd4wn/loco.sh) - Loco.sh, local configuration manager
@@ -2655,7 +2658,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [google/deepdream](https://github.com/google/deepdream) - 
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [gqlgo/awesome-gqlgen](https://github.com/gqlgo/awesome-gqlgen) - A curated list of awesome frameworks, libraries and software  using gqlgen library.
-- [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of resources on automated load- and performance testing using k6 🗻
+- [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of awesome tools, content and projects using k6
 - [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects
 - [grommet/design-kit](https://github.com/grommet/design-kit) - Grommet Design Kit
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
