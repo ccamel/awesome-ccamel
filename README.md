@@ -1319,7 +1319,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
 - [ashutosh1919/react-awesome-loaders](https://github.com/ashutosh1919/react-awesome-loaders) - 🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.
 - [assemblee-virtuelle/Semantic-Bus](https://github.com/assemblee-virtuelle/Semantic-Bus) - object flow treatment,  data transformation
-- [atmoner/cosmos-faucet](https://github.com/atmoner/cosmos-faucet) - Cosmos-faucet is a simple alternative to the tendermint/faucet script
+- [atmoner/cosmos-faucet](https://github.com/atmoner/cosmos-faucet) - 💧 Cosmos-faucet is a simple alternative to the tendermint/faucet script
 - [axept/open-parse](https://github.com/axept/open-parse) - Get RESTful API to your data store, schemas, users and security management and bring up your own BaaS in a few minutes
 - [badgen/badgen](https://github.com/badgen/badgen) - Fast handcraft svg badge generator.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -2018,7 +2018,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
-- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable Vector database plugin for Postgres, written in Rust, specifically designed for LLM
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
