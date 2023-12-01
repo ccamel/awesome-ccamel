@@ -1073,6 +1073,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [node101-io/klein](https://github.com/node101-io/klein) - Klein
+- [okp4/w3id.org](https://github.com/okp4/w3id.org) - Website source code for w3id.org.
 - [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [ruby-rdf/json-ld](https://github.com/ruby-rdf/json-ld) - Ruby JSON-LD reader/writer for RDF.rb
@@ -1646,7 +1647,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [d8ahazard/Phlex](https://github.com/d8ahazard/Phlex) - A super-sexy voice interface for the Plex HTPC
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
 - [mathieupassenaud/afup-demo-oauth-php](https://github.com/mathieupassenaud/afup-demo-oauth-php) - 
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 
 ## Perl
 
@@ -2405,7 +2406,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kamilkisiela/graphql-hive](https://github.com/kamilkisiela/graphql-hive) - GraphQL Hive is a schema registry and observability
 - [kamilkisiela/graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [kitze/mobx-router](https://github.com/kitze/mobx-router) - A simple router for MobX + React apps
-- [koala819/starterPack](https://github.com/koala819/starterPack) - to begin project with NextJS , TS and Tailwind
+- [koala819/StarterPack](https://github.com/koala819/StarterPack) - A comprehensive web development kit for swift site creation, featuring responsive design, contact form, NextUI components, and Google Analytics integration.
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [lavanet/lava-sdk-providers](https://github.com/lavanet/lava-sdk-providers) - Lava SDK providers
