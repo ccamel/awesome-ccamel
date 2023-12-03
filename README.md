@@ -4,6 +4,7 @@
 
 Automatically generated with ❤️ by [Create My Awesome](https://github.com/marketplace/actions/create-my-awesome).
 
+- [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Bikeshed](#bikeshed)
@@ -66,6 +67,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Misc](#misc)
 
 ---
+
+## Adblock Filter List
+
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 
 ## Assembly
 
@@ -175,6 +180,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [francoisroyer/clj-xai](https://github.com/francoisroyer/clj-xai) - A repository of AI/ML algorithms in Clojure, with a focus on interpretability and explainability.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+- [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
 
 ## Common Lisp
 
@@ -501,6 +507,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/rosetta](https://github.com/cosmos/rosetta) - 
 - [cosmosregistry/chain-minimal](https://github.com/cosmosregistry/chain-minimal) - Mini - A minimal Cosmos SDK chain template
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
+- [couchbase/gocb](https://github.com/couchbase/gocb) - The Couchbase Go SDK
 - [crescent-network/crescent](https://github.com/crescent-network/crescent) - ⛓️ Crescent Network, Expanding DeFi capabilities through InterBlockchain Technology 🌙
 - [crucibuild/cookiecutter-agent-go](https://github.com/crucibuild/cookiecutter-agent-go) - A cookiecutter template to create new Crucibuild Agents in Go following best practices.
 - [crucibuild/sdk-agent-go](https://github.com/crucibuild/sdk-agent-go) - Go library wrapping common tools to make Crucibuild agents
@@ -1867,6 +1874,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
 - [LeTurt333/LeBundler](https://github.com/LeTurt333/LeBundler) - CosmWasm query bundler + Example usage of Raw Queries
+- [MegaRockLabs/cw-extra](https://github.com/MegaRockLabs/cw-extra) - Experimental CosmWasm based contracts, packages and protocols
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
 - [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
 - [RedStoneCoin/redstone-rs](https://github.com/RedStoneCoin/redstone-rs) - Redstone Project is a p2p custom blockchain implementation, comprised of a network of interconnected sub-chains for better speed and scalability.
@@ -2268,6 +2276,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NodesGuru/casper-world-backend](https://github.com/NodesGuru/casper-world-backend) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [Pondorasti/emojis](https://github.com/Pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
+- [Protofy-xyz/Protofy](https://github.com/Protofy-xyz/Protofy) - AI Supercharged LowCode Platform CMS and Framework 🚀🚀
 - [RaphaelEscrig/no-brain-extension](https://github.com/RaphaelEscrig/no-brain-extension) - Chrome extension used to translate normal langage to "no-brain" langage.
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -2349,6 +2358,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
+- [efstajas/versioned-parser](https://github.com/efstajas/versioned-parser) - 🤓 A TypeScript-first utility for managing multiple versions of parse functions.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
 - [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
@@ -2479,6 +2489,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rubensworks/GraphQL-LD.js](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL
 - [ryardley/ts-bus](https://github.com/ryardley/ts-bus) - A lightweight JavaScript/TypeScript event bus to help manage your application architecture.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+- [samuelcolvin/FastUI](https://github.com/samuelcolvin/FastUI) - Build better UIs faster.
 - [scrtlabs/secret-template](https://github.com/scrtlabs/secret-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [segmentio/analytics-react-native](https://github.com/segmentio/analytics-react-native) - The hassle-free way to add analytics to your React-Native app.
 - [sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain) - 
