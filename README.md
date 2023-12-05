@@ -90,6 +90,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## C
 
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
+- [SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel) - SWI-Prolog Main development repository
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [adsr/mle](https://github.com/adsr/mle) - flexible terminal-based text editor (C)
@@ -1455,7 +1456,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - Template for PixiJS using Typescript and Webpack https://stackblitz.com/github/miltoncandelero/pixi-hotwire 
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - :star2:  Create IoT applications. Wire devices together regardless their brand or technology.
-- [nice-move/remark-kroki](https://github.com/nice-move/remark-kroki) - Kroki plugin of remark
 - [normen/homebridge-landroid](https://github.com/normen/homebridge-landroid) - Homebridge plugin to control Worx Landroid robo mowers through the Worx Cloud
 - [notional-labs/cosmosia](https://github.com/notional-labs/cosmosia) - Cosmos Infrastructure Automation
 - [notional-labs/multisig-ui](https://github.com/notional-labs/multisig-ui) - UI for multisignature tool
@@ -1511,6 +1511,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [settlemint/graphiql-online](https://github.com/settlemint/graphiql-online) - Online GraphiQL instance with a configurable endpoint!
 - [sheerun/graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL Server schema visualizer
 - [show-docs/remark-docusaurus](https://github.com/show-docs/remark-docusaurus) - Remark plugin for docusaurus features.
+- [show-docs/remark-kroki](https://github.com/show-docs/remark-kroki) - Kroki plugin of remark
 - [siddharthkp/use-timeout](https://github.com/siddharthkp/use-timeout) - Declarative React hook for setTimeout
 - [silverwind/uppie](https://github.com/silverwind/uppie) - Cross-browser directory and multi-file upload library
 - [simonh1000/elm-webpack-starter](https://github.com/simonh1000/elm-webpack-starter) - Elm 0.19.1, Webpack 5 & Tailwind
@@ -2115,6 +2116,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sbt/sbt-release](https://github.com/sbt/sbt-release) - A release plugin for sbt
 - [scala-exercises/exercises-cats](https://github.com/scala-exercises/exercises-cats) - Scala Exercises' lessons for the Cats library
 - [scala-js/scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
+- [scala-js/scala-js-dom](https://github.com/scala-js/scala-js-dom) - Statically typed DOM API for Scala.js
 - [scala-native/scala-native](https://github.com/scala-native/scala-native) - Your favorite language gets closer to bare metal.
 - [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) - :robot: A bot that helps you keep your Scala projects up-to-date
 - [scalacenter/bloop](https://github.com/scalacenter/bloop) - Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.
