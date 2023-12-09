@@ -449,7 +449,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bozd4g/go-http-client](https://github.com/bozd4g/go-http-client) - An enhanced and lightweight http client for Golang
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [bsm/sarama-cluster](https://github.com/bsm/sarama-cluster) - Cluster extensions for Sarama, the Go client library for Apache Kafka 0.9 [DEPRECATED]
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
+- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.
 - [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter) - Database agnostic SQL exporter for Prometheus
@@ -1361,7 +1361,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ciao-lang/ciaowasm](https://github.com/ciao-lang/ciaowasm) - Ciao Prolog for Javascript (w/ WebAssembly)
 - [classic-terra/core](https://github.com/classic-terra/core) - GO implementation of the Terra Classic Protocol
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [cosmos/developer-portal](https://github.com/cosmos/developer-portal) - 
 - [cosmos/ics23](https://github.com/cosmos/ics23) - Building generic merkle proof format for IBC
@@ -2338,6 +2337,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella: 
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - Cosmos chain registry ⚛️
 - [cosmology-tech/cosmology](https://github.com/cosmology-tech/cosmology) - CLI and TS library for the Cosmos ⚛️
 - [cosmology-tech/cosmos-kit](https://github.com/cosmology-tech/cosmos-kit) - A wallet connector for the Cosmos ⚛️
