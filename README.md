@@ -180,7 +180,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [francoisroyer/clj-cqrs](https://github.com/francoisroyer/clj-cqrs) - A reference implementation of CQRS and Event Sourcing in Clojure.
 - [francoisroyer/clj-xai](https://github.com/francoisroyer/clj-xai) - A repository of AI/ML algorithms in Clojure, with a focus on interpretability and explainability.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
-- [raystubbs/zero](https://github.com/raystubbs/zero) - Build web components in CLJS
+- [raystubbs/zero](https://github.com/raystubbs/zero) - Build web components in ClojureScript
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
 
@@ -2564,6 +2564,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [codeindulgence/vim-tig](https://github.com/codeindulgence/vim-tig) - Do a tig in your vim
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue
 
