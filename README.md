@@ -1716,6 +1716,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [purescript-contrib/purescript-react](https://github.com/purescript-contrib/purescript-react) - React Bindings for PureScript
 - [purescript-halogen/purescript-halogen](https://github.com/purescript-halogen/purescript-halogen) - A declarative, type-safe UI library for PureScript.
+- [purescript-react/purescript-nextui](https://github.com/purescript-react/purescript-nextui) - Purescript bindings for https://nextui.org/
 - [thomashoneyman/purescript-halogen-store](https://github.com/thomashoneyman/purescript-halogen-store) - Global state management for Halogen
 
 ## Python
@@ -2139,6 +2140,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [criteo/cuttle](https://github.com/criteo/cuttle) - An embedded job scheduler.
 - [davenverse/fuuid](https://github.com/davenverse/fuuid) - Functional UUID's for Scala
 - [endpoints4s/endpoints4s](https://github.com/endpoints4s/endpoints4s) - Describe HTTP endpoints in Scala and derive clients, servers, and documentation
+- [ergoplatform/ergo](https://github.com/ergoplatform/ergo) - Ergo protocol description & reference client implementation
 - [evolution-gaming/kafka-journal](https://github.com/evolution-gaming/kafka-journal) - Event sourcing journal implementation using Kafka as main storage
 - [fthomas/fs2-cron](https://github.com/fthomas/fs2-cron) - FS2 streams based on cron expressions
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
@@ -2351,6 +2353,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [antho31/okp4-ui-boilerplate](https://github.com/antho31/okp4-ui-boilerplate) - 🖥️ Vite starter for the OKP4 protocol
+- [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [apicollective/graphql-rest-proxy](https://github.com/apicollective/graphql-rest-proxy) - 
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Apollo CLI for client tooling (Mostly replaced by Rover)
@@ -2374,6 +2377,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [build-canaries/nevergreen](https://github.com/build-canaries/nevergreen) - :baby_chick: A build monitor with attitude
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜 
 - [cerebral/overmind](https://github.com/cerebral/overmind) - Overmind - Frictionless state management
+- [chainapsis/keplr-chain-registry](https://github.com/chainapsis/keplr-chain-registry) - Protocol for Integrating Non-Native Chains to Keplr
 - [chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet) - The most powerful wallet for the Cosmos ecosystem and the Interchain
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
@@ -2495,6 +2499,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [my-badges/my-badges](https://github.com/my-badges/my-badges) - All You Badges
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [nextui-org/next-app-template](https://github.com/nextui-org/next-app-template) - A Next.js 13 with app directory template  pre-configured with NextUI (v2) and Tailwind CSS.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -2585,6 +2590,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [uport-project/ethr-did](https://github.com/uport-project/ethr-did) - Create ethr DIDs
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
+- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [virtualzone/landroid-bridge](https://github.com/virtualzone/landroid-bridge) - Bridge for connecting the Worx Landroid S Lawn Mower to home automation systems like OpenHAB or FHEM.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
