@@ -109,6 +109,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [nanomsg/nanomsg](https://github.com/nanomsg/nanomsg) - nanomsg library
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
+- [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard. 
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [robertklep/dsm7-usb-serial-drivers](https://github.com/robertklep/dsm7-usb-serial-drivers) - Synology DSM 7 USB serial drivers
@@ -756,6 +757,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [lacion/iothub](https://github.com/lacion/iothub) - IoT Hub for things
 - [larry0x/abstract-account](https://github.com/larry0x/abstract-account) - An account abstraction solution for CosmWasm-enabled chains
+- [larry0x/cosmos-sdk-historical-query](https://github.com/larry0x/cosmos-sdk-historical-query) - How to query a Cosmos chain at historical block heights in Rust, Go, JS, and Bash
 - [lavanet/lava](https://github.com/lavanet/lava) - 
 - [leekchan/accounting](https://github.com/leekchan/accounting) - money and currency formatting for golang
 - [lens-vm/lens](https://github.com/lens-vm/lens) - 
@@ -1274,6 +1276,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mongodb/mongo-kafka](https://github.com/mongodb/mongo-kafka) - MongoDB Kafka Connector
 - [mvel/mvel](https://github.com/mvel/mvel) - MVEL (MVFLEX Expression Language)
 - [myfear/alpakka-jdbc](https://github.com/myfear/alpakka-jdbc) - Introduction to JDBC Streaming for Java Developers
+- [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
 - [neoremind/fluent-validator](https://github.com/neoremind/fluent-validator) - A Java validation framework leveraging fluent interface style and JSR 303 specification
 - [networknt/light-4j](https://github.com/networknt/light-4j) - A fast, lightweight and more productive microservices framework
 - [nibi79/worxlandroid](https://github.com/nibi79/worxlandroid) - openHAB Binding for Worx Landroid 
@@ -1981,6 +1984,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [hackbg/fadroma](https://github.com/hackbg/fadroma) - Distributed application framework maintained by https://hack.bg
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+- [hoodrunio/explorer-backend](https://github.com/hoodrunio/explorer-backend) - Backend app for Cosmos ecosystem explorer.
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
@@ -2314,6 +2318,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [EmpowerPlastic/empowerchain](https://github.com/EmpowerPlastic/empowerchain) - Empowerchain is a global platform to revolutionize waste management and recycling, creating a transparent and efficient circular economy.
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [KYVENetwork/kyvejs](https://github.com/KYVENetwork/kyvejs) - Tools for building applications on KYVE
@@ -2504,7 +2509,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [nymlab/vectis](https://github.com/nymlab/vectis) - A non-custodial smart contract wallet project to enhance DApp user experience; it supports social recovery,  guardianship and relaying capability for gas provisioning and auditability. For more details, please see our documentation
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Dataverse Portal for the OKP4 network. 
