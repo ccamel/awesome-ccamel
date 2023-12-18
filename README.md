@@ -31,6 +31,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -1458,7 +1459,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [iot-schema-collab/iotschema](https://github.com/iot-schema-collab/iotschema) - 
 - [ipfs-shipyard/ipfs-provider](https://github.com/ipfs-shipyard/ipfs-provider) - Connect to IPFS via an available provider
 - [ipfs-shipyard/ipfs-share-files](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files via IPFS
-- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, and services related to IPFS.
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [isbang/compose-action](https://github.com/isbang/compose-action) - 
 - [ixofoundation/ixo-blockchain](https://github.com/ixofoundation/ixo-blockchain) - ixo blockchain SDK
@@ -1596,6 +1597,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Jinja
 
 - [polkachu/cosmos-validators](https://github.com/polkachu/cosmos-validators) - Ansible Script for Cosmos-based blockchain validators
+
+## Julia
+
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 
 ## Jupyter Notebook
 
@@ -2467,7 +2472,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [improbable-eng/ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.
 - [incetarik/fp-ts-stream](https://github.com/incetarik/fp-ts-stream) - Providing Transducers/Streams based on fp-ts library.
-- [informalsystems/quint](https://github.com/informalsystems/quint) - Executable specification language with delightful tooling
+- [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [ingvaar/beauf-net-back](https://github.com/ingvaar/beauf-net-back) - A simple quote website backend built using NestJS
 - [ingvaar/beauf-net-front](https://github.com/ingvaar/beauf-net-front) - A simple quote website frontend built using React
 - [inrupt/solid-client-vc-js](https://github.com/inrupt/solid-client-vc-js) - Client library to ease working with Verifiable Credentials in Solid
