@@ -810,7 +810,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mitchellh/ioprogress](https://github.com/mitchellh/ioprogress) - Go (golang) package for progress bars around io.Reader/Writers.
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [mjibson/esc](https://github.com/mjibson/esc) - A simple file embedder for Go
-- [mmalcek/bafi](https://github.com/mmalcek/bafi) - Universal JSON, BSON, YAML, CSV, XML converter with templates
+- [mmalcek/bafi](https://github.com/mmalcek/bafi) - Universal JSON, BSON, YAML, CSV, XML, mt940 converter with templates
 - [mndrix/golog](https://github.com/mndrix/golog) - Prolog interpreter in Go
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [mongoeye/mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer for MongoDB written in Go.
@@ -947,6 +947,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) - Guidance for building event-driven distributed systems and microservices in Go with NATS JetStream, gRPC and CockroachDB 
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [shurcooL/graphql](https://github.com/shurcooL/graphql) - Package graphql provides a GraphQL client implementation.
+- [sideprotocol/side](https://github.com/sideprotocol/side) - a Cosmos SDK layer-1 blockchain
 - [siderolabs/conform](https://github.com/siderolabs/conform) - Policy enforcement for your pipelines.
 - [sideshow/apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
