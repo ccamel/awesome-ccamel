@@ -311,10 +311,12 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [boardwalk/erltest](https://github.com/boardwalk/erltest) - Erlang example application
 - [comtihon/mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - MongoDB driver for Erlang
 - [erlang-lager/lager](https://github.com/erlang-lager/lager) - A logging framework for Erlang/OTP
+- [erlang-punch/awesome-erlang](https://github.com/erlang-punch/awesome-erlang) - An (accurate) list of awesome Erlang resources
 - [erlang/docker-erlang-example](https://github.com/erlang/docker-erlang-example) - HowTo Erlang in Docker
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 - [jlouis/graphql-erlang](https://github.com/jlouis/graphql-erlang) - GraphQL implementation in Erlang.
 - [joxa/joxa](https://github.com/joxa/joxa) - A Modern Lisp for the Erlang VM
+- [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
 - [rabbitmq/aten](https://github.com/rabbitmq/aten) - An adaptive accrual node failure detection library for Elixir and Erlang
 - [sile/jsone](https://github.com/sile/jsone) - Erlang JSON library
 
@@ -399,6 +401,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Xe/olin](https://github.com/Xe/olin) - Webassembly + Event Sourcing
 - [Yamashou/gqlgenc](https://github.com/Yamashou/gqlgenc) - This is Go library for building GraphQL client with gqlgen
 - [Zondax/golem](https://github.com/Zondax/golem) - 
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [a8m/rql](https://github.com/a8m/rql) - Resource Query Language for REST
 - [abice/gencheck](https://github.com/abice/gencheck) - Code Generated Validation for Go
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go
@@ -476,6 +479,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
+- [chaisql/chai](https://github.com/chaisql/chai) - Modern embedded SQL database
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [cheqd/cheqd-node](https://github.com/cheqd/cheqd-node) - Ledger/node software for cheqd's decentralised identity network. Built using the Cosmos SDK blockchain framework.
 - [chop-dbhi/prometheus-sql](https://github.com/chop-dbhi/prometheus-sql) - Service that exposes Prometheus metrics for a SQL result set.
@@ -597,7 +601,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [g3n/engine](https://github.com/g3n/engine) - Go 3D Game Engine (http://g3n.rocks)
 - [gamegos/jsend](https://github.com/gamegos/jsend) - Go JSend library to wrap json responses
-- [genjidb/genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -606,6 +609,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gjongenelen/eh-mongodb](https://github.com/gjongenelen/eh-mongodb) - Improved MongoDB driver for Event Horizon
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [go-chat-bot/bot](https://github.com/go-chat-bot/bot) - IRC, Slack, Telegram and RocketChat bot written in go
+- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [go-easygen/easygen](https://github.com/go-easygen/easygen) - Easy to use universal code/text generator
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 - [go-ffmt/ffmt](https://github.com/go-ffmt/ffmt) - Golang beautify data display for Humans
@@ -656,6 +660,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
 - [google/go-querystring](https://github.com/google/go-querystring) - go-querystring is Go library for encoding structs into URL query strings.
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+- [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [goplus/c2go](https://github.com/goplus/c2go) - Convert C to Go
 - [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
@@ -724,6 +729,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
 - [jiuyunyue/valsta](https://github.com/jiuyunyue/valsta) - For cosmos blockchain validator to collect validator information
 - [jluccisano/syno-cli](https://github.com/jluccisano/syno-cli) - Command-line interface for Synology DiskStations. Allows batch-unlocking encrypted volumes.
+- [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by simply defining an interface
 - [jordan-wright/email](https://github.com/jordan-wright/email) - Robust and flexible email library for Go
 - [jpillora/installer](https://github.com/jpillora/installer) - One-liner for installing binaries from Github releases
 - [jtolio/gls](https://github.com/jtolio/gls) - Goroutine local storage
@@ -876,6 +882,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oxyno-zeta/golang-graphql-example](https://github.com/oxyno-zeta/golang-graphql-example) - 
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - [packruler/rewrite-body](https://github.com/packruler/rewrite-body) - Traefik Plugin to allow regex replacement of HTTP GET response body
+- [paganotoni/tailo](https://github.com/paganotoni/tailo) - Tailo is a wrapper that takes care of downloading the TailwindCLI and run it.
 - [palomachain/paloma](https://github.com/palomachain/paloma) - The fast blockchain messenger protocol
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [pelletier/go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML file format
@@ -1420,6 +1427,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dnewcome/Donatello](https://github.com/dnewcome/Donatello) - Pure-CSS drawing library for the browser.
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [eco-stake/cosmos-directory](https://github.com/eco-stake/cosmos-directory) - ⚛️ · 📖
+- [eco-stake/restake](https://github.com/eco-stake/restake) - Auto-compounder script for Cosmos Validators using REStake
 - [eddy-guo/validator-monitor](https://github.com/eddy-guo/validator-monitor) - Discord bot to monitor Jackal validator uptime status (and other Cosmos blockchains).
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [editor-js/embed](https://github.com/editor-js/embed) - Embed Tool for Editor.js
@@ -2206,6 +2214,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Shell
 
 - [2-alchemists/krossboard](https://github.com/2-alchemists/krossboard) - 📊 Krossboard is a Multi-cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
+- [88Mikhail88/My_Testnets](https://github.com/88Mikhail88/My_Testnets) - 
 - [AlexsJones/kubernetes-nifi-cluster](https://github.com/AlexsJones/kubernetes-nifi-cluster) - Apache Nifi cluster running in kubernetes
 - [CosmWasm/advisories](https://github.com/CosmWasm/advisories) - To publicly communicate advisories about serious bugs in CosmWasm, wasmvm, and wasmd
 - [CosmWasm/testnets](https://github.com/CosmWasm/testnets) - Information on all public CosmWasm testnets
@@ -2874,7 +2883,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stake-capital/research](https://github.com/stake-capital/research) - All research stuff related to Stake Capital 
 - [stereobooster/type-o-rama](https://github.com/stereobooster/type-o-rama) - 👾 JS type systems interportability
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-- [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
+- [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [subquery/documentation](https://github.com/subquery/documentation) - 
 - [swyxio/devtools-angels](https://github.com/swyxio/devtools-angels) - active angel investors in developer tools!
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
