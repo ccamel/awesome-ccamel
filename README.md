@@ -137,6 +137,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [data61/MP-SPDZ](https://github.com/data61/MP-SPDZ) - Versatile framework for multi-party computation
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [duckie/mongo_smasher](https://github.com/duckie/mongo_smasher) - A small tool to generate randomized datasets
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -314,6 +315,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [erlang-punch/awesome-erlang](https://github.com/erlang-punch/awesome-erlang) - An (accurate) list of awesome Erlang resources
 - [erlang/docker-erlang-example](https://github.com/erlang/docker-erlang-example) - HowTo Erlang in Docker
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
+- [erlang/rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases.
 - [jlouis/graphql-erlang](https://github.com/jlouis/graphql-erlang) - GraphQL implementation in Erlang.
 - [joxa/joxa](https://github.com/joxa/joxa) - A Modern Lisp for the Erlang VM
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
@@ -812,7 +814,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [mikespook/gorbac](https://github.com/mikespook/gorbac) - goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.
 - [mingderwang/did](https://github.com/mingderwang/did) - x/did module for the Cosmos SDK framework with a “self-sovereign" digital identity (DID) support
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [mishudark/eventhus](https://github.com/mishudark/eventhus) - Go - CQRS / Event Sourcing made easy - Go
 - [mitchellh/go-homedir](https://github.com/mitchellh/go-homedir) - Go library for detecting and expanding the user's home directory without cgo.
 - [mitchellh/ioprogress](https://github.com/mitchellh/ioprogress) - Go (golang) package for progress bars around io.Reader/Writers.
@@ -1248,7 +1250,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [eventuate-examples/eventuate-examples-java-customers-and-orders](https://github.com/eventuate-examples/eventuate-examples-java-customers-and-orders) - Java version of the Customers and Orders event sourcing example from my presentations
 - [evertrue/monotone](https://github.com/evertrue/monotone) - A 64 bit monotonically increasing Id generator for distributed databases
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [feaster83/quarkus-axonframework-extension](https://github.com/feaster83/quarkus-axonframework-extension) - Quarkus Axon Framework extension
 - [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin) - A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
 - [fewlaps/quitnow-email-suggester](https://github.com/fewlaps/quitnow-email-suggester) - 📧 Correct typos in email addresses like hello@gmail.con
@@ -1687,6 +1688,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [armyids/OKP4-Testnet](https://github.com/armyids/OKP4-Testnet) - 🌐 Genesis and node configuration elements for joining OKP4 networks.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
+- [ninenines/erlang.mk](https://github.com/ninenines/erlang.mk) - A build tool for Erlang that just works.
 - [okp4/networks](https://github.com/okp4/networks) - 🌐 Genesis and node configuration elements for joining OKP4 networks.
 - [okp4/ontology](https://github.com/okp4/ontology) - 📙 The OKP4 Ontology system
 - [prometheus/client_model](https://github.com/prometheus/client_model) - Data model artifacts for Prometheus.
@@ -2429,7 +2431,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmostation/chainlist](https://github.com/cosmostation/chainlist) - 📚 Chain Resource Managed By Cosmostation
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
-- [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - 🪐 ⚛️ React.js components 💯% compatible with Jupyter. https://jupyter-ui-storybook.datalayer.tech
+- [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - 🪐 ⚛️ React.js components 💯% compatible with 🪐 Jupyter. https://jupyter-ui-storybook.datalayer.tech
 - [davidfig/pixi-viewport](https://github.com/davidfig/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [dbcls/grasp](https://github.com/dbcls/grasp) - Grasp: A bridge between GraphQL and SPARQL
