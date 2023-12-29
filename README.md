@@ -309,6 +309,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [adoptingerlang/service_discovery](https://github.com/adoptingerlang/service_discovery) - Adopting Erlang service discovery project
 - [aeternity/mnesia_rocksdb](https://github.com/aeternity/mnesia_rocksdb) - A RocksDB backend plugin for mnesia, based on mnesia_eleveldb
 - [basho/riak_cs](https://github.com/basho/riak_cs) - Riak CS is simple, available cloud storage built on Riak.
+- [benoitc/hooks](https://github.com/benoitc/hooks) - generic plugin & hook system for Erlang applications
 - [boardwalk/erltest](https://github.com/boardwalk/erltest) - Erlang example application
 - [comtihon/mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - MongoDB driver for Erlang
 - [erlang-lager/lager](https://github.com/erlang-lager/lager) - A logging framework for Erlang/OTP
@@ -924,6 +925,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [redpanda-data/kminion](https://github.com/redpanda-data/kminion) - KMinion is a feature-rich Prometheus exporter for Apache Kafka written in Go. It is lightweight and highly configurable so that it will meet your requirements.
 - [regen-network/regen-ledger](https://github.com/regen-network/regen-ledger) - :seedling: Blockchain for planetary regeneration
+- [reiver/go-rfc2396](https://github.com/reiver/go-rfc2396) - Package rfc2396 is an implementation of (parts of) IETF RFC-2396 (Uniform Resource Identifiers (URI): Generic Syntax), for the Go programming language.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [rjNemo/underscore](https://github.com/rjNemo/underscore) - 🌟 Useful functional programming helpers for Go
@@ -963,7 +965,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sideshow/apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [sj14/dbbench](https://github.com/sj14/dbbench) - 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts
-- [skip-mev/block-sdk](https://github.com/skip-mev/block-sdk) - 🎨 Programmable Block Building
+- [skip-mev/block-sdk](https://github.com/skip-mev/block-sdk) - 🎨 Programmable Block Builder for Cosmos Chains
 - [skip-mev/pob](https://github.com/skip-mev/pob) - Skip's protocol-owned MEV builder implementation
 - [skx/go.vm](https://github.com/skx/go.vm) - A simple virtual machine - compiler & interpreter - written in golang
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -1120,6 +1122,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [bfirsh/docker-redoc](https://github.com/bfirsh/docker-redoc) - A Docker image which serves ReDoc documentation
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
+- [cosmos/cosmos-sdk-docs](https://github.com/cosmos/cosmos-sdk-docs) - 
 - [ctco/spring-boot-graphql-template](https://github.com/ctco/spring-boot-graphql-template) - Spring Boot and GraphQL template project
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [dominictarr/sentimental-versioning](https://github.com/dominictarr/sentimental-versioning) - version numbers with meaning
@@ -1509,7 +1512,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - :star2:  Create IoT applications. Wire devices together regardless their brand or technology.
 - [normen/homebridge-landroid](https://github.com/normen/homebridge-landroid) - Homebridge plugin to control Worx Landroid robo mowers through the Worx Cloud
-- [notional-labs/cosmosia](https://github.com/notional-labs/cosmosia) - Cosmos Infrastructure Automation
 - [notional-labs/multisig-ui](https://github.com/notional-labs/multisig-ui) - UI for multisignature tool
 - [observablehq/runtime](https://github.com/observablehq/runtime) - The Observable dataflow runtime.
 - [octoherd/script-star-or-unstar](https://github.com/octoherd/script-star-or-unstar) - An octoherd script to add or remove star
@@ -2015,7 +2017,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [informalsystems/basecoin-rs](https://github.com/informalsystems/basecoin-rs) - An example ABCI application making use of tendermint-rs and ibc-rs
 - [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
-- [intendednull/yewdux](https://github.com/intendednull/yewdux) - Ergonomic state management for Yew apps
+- [intendednull/yewdux](https://github.com/intendednull/yewdux) - Ergonomic state management for Yew applications
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Tendermint KMS: Key Management System for Tendermint Validators
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
@@ -2260,6 +2262,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mrjohannchang/git-fast-forward-all-branches](https://github.com/mrjohannchang/git-fast-forward-all-branches) - 
 - [noble-assets/networks](https://github.com/noble-assets/networks) - 
 - [nodejumper-org/cosmos-scripts](https://github.com/nodejumper-org/cosmos-scripts) - Useful utils for cosmos chains
+- [notional-labs/cosmosia](https://github.com/notional-labs/cosmosia) - Cosmos Infrastructure Automation
 - [obajay/StateSync-snapshots](https://github.com/obajay/StateSync-snapshots) - 
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [oh-my-fish/theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
@@ -2330,6 +2333,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [AudiusProject/hedgehog](https://github.com/AudiusProject/hedgehog) - 🦔 Build DApps like Apps -- A Metamask alternative that empowers you to build good UX
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [BlockTrainBuilders/BlockTrain](https://github.com/BlockTrainBuilders/BlockTrain) - 
 - [BowlingX/geschichte](https://github.com/BowlingX/geschichte) - zustand and immer based hook to manage query parameters
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡  
@@ -2445,7 +2449,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
