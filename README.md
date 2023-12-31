@@ -1243,7 +1243,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [davidmoten/subethasmtp](https://github.com/davidmoten/subethasmtp) - SubEtha SMTP is a Java library for receiving SMTP mail
 - [ddd-by-examples/all-things-cqrs](https://github.com/ddd-by-examples/all-things-cqrs) - Comprehensive guide to a couple of possible ways of synchronizing two states with Spring tools. Synchronization is shown by separating command and queries in a simple CQRS application.
 - [decentralized-identity/universal-resolver](https://github.com/decentralized-identity/universal-resolver) - Universal Resolver implementation and drivers.
-- [dgarijo/Widoco](https://github.com/dgarijo/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [discord-jda/JDA](https://github.com/discord-jda/JDA) - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
 - [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
@@ -1424,6 +1423,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [davidbau/seedrandom](https://github.com/davidbau/seedrandom) - seeded random number generator for Javascript
 - [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
+- [dgarijo/Widoco](https://github.com/dgarijo/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [digitalbazaar/did-cli](https://github.com/digitalbazaar/did-cli) - A client for managing Decentralized Identifiers
 - [digitalbazaar/vc](https://github.com/digitalbazaar/vc) - W3C Verifiable Credentials implementation in JavaScript
@@ -1794,7 +1794,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README files automatically using GPT LLM APIs 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files from the terminal using GPT LLM APIs 💫
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -2331,6 +2331,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [3mcd/javelin](https://github.com/3mcd/javelin) - TypeScript ECS and multiplayer game development toolkit
 - [AbstractSDK/cw-gov-card](https://github.com/AbstractSDK/cw-gov-card) - 
 - [AdrienLemaire/okp4_web_interface](https://github.com/AdrienLemaire/okp4_web_interface) - 
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [AudiusProject/hedgehog](https://github.com/AudiusProject/hedgehog) - 🦔 Build DApps like Apps -- A Metamask alternative that empowers you to build good UX
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
@@ -2528,7 +2529,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 - [madeintracker/okp4_web_interface](https://github.com/madeintracker/okp4_web_interface) - Invoke the power of Dagda
 - [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage
-- [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
+- [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [mars-protocol/networks](https://github.com/mars-protocol/networks) - Genesis data for Mars Hub mainnet and testnets
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
