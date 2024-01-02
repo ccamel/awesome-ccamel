@@ -312,6 +312,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [benoitc/hooks](https://github.com/benoitc/hooks) - generic plugin & hook system for Erlang applications
 - [boardwalk/erltest](https://github.com/boardwalk/erltest) - Erlang example application
 - [comtihon/mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - MongoDB driver for Erlang
+- [efcasado/behaviours2](https://github.com/efcasado/behaviours2) - Erlang behaviours on steroids.
 - [erlang-lager/lager](https://github.com/erlang-lager/lager) - A logging framework for Erlang/OTP
 - [erlang-punch/awesome-erlang](https://github.com/erlang-punch/awesome-erlang) - An (accurate) list of awesome Erlang resources
 - [erlang/docker-erlang-example](https://github.com/erlang/docker-erlang-example) - HowTo Erlang in Docker
@@ -722,6 +723,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [istreamdata/orientgo](https://github.com/istreamdata/orientgo) - Go (golang) client for OrientDB
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go) - 🛑 This library is DEPRECATED!
+- [jakewright/home-automation](https://github.com/jakewright/home-automation) - Distributed home automation system
 - [jamf/regatta](https://github.com/jamf/regatta) - Regatta is a distributed key-value store. It is Kubernetes friendly with emphasis on high read throughput and low operational cost.
 - [jbenet/data](https://github.com/jbenet/data) - package manager for datasets
 - [jdel/go-syno](https://github.com/jdel/go-syno) - Go library for Synology. Work in progress.
@@ -1794,7 +1796,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files from the terminal using GPT LLM APIs 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal using GPT LLM APIs 💫
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -2045,6 +2047,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nymlab/vectis-plugins](https://github.com/nymlab/vectis-plugins) - Vectis Plugins
 - [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 - [nymtech/sphinx](https://github.com/nymtech/sphinx) - A Sphinx implementation in Rust
+- [nysa-network/cw-tf-merkle-airdrop](https://github.com/nysa-network/cw-tf-merkle-airdrop) - CosmWasm contract for Token Factory Merkle Airdrop
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [okp4/contracts](https://github.com/okp4/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
 - [okp4/cosmos-rust](https://github.com/okp4/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
@@ -2874,6 +2877,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [persistenceOne/persistence-docs](https://github.com/persistenceOne/persistence-docs) - Persistence Documentation
 - [pfalcon/awesome-smarthome](https://github.com/pfalcon/awesome-smarthome) - Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)
+- [ping-pub/ping.pub](https://github.com/ping-pub/ping.pub) - The deployment of ping.pub, submit your chain config here
 - [piotr-roslaniec/awesome-metamask-snaps](https://github.com/piotr-roslaniec/awesome-metamask-snaps) - A curated list of awesome MetaMask Snaps related resources
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [qwikverse/awesome-qwik](https://github.com/qwikverse/awesome-qwik) - A curated list of awesome things related to Resumable Framework 
