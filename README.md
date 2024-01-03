@@ -133,6 +133,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [28msec/gridfs-fuse](https://github.com/28msec/gridfs-fuse) - 
 - [4Lang/4](https://github.com/4Lang/4) - A completely emoji-based programming language
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [data61/MP-SPDZ](https://github.com/data61/MP-SPDZ) - Versatile framework for multi-party computation
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -303,6 +304,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Emacs Lisp
 
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/themes](https://github.com/doomemacs/themes) - A megapack of themes for GNU Emacs.
 
 ## Erlang
 
@@ -422,6 +424,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [alpeb/go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
+- [anthdm/slick](https://github.com/anthdm/slick) - 
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [antsankov/go-live](https://github.com/antsankov/go-live) - 🗂️ go-live is an ultra-light server utility that serves files, HTML or anything else, over HTTP.
 - [aosasona/gots](https://github.com/aosasona/gots) - No matter how you pronounce it, this repository is all about converting Go types to TypeScript types.
@@ -830,6 +833,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [motemen/go-loghttp](https://github.com/motemen/go-loghttp) - Go library to log http.Client's requests and responses automatically
 - [motemen/go-nuts](https://github.com/motemen/go-nuts) - Go code I want sometimes but too small to be a separate library
 - [moul/mdcodec](https://github.com/moul/mdcodec) - convert Go structures to and from readable Markdown (codec).
+- [msyavuz/Lua-Capture](https://github.com/msyavuz/Lua-Capture) - Test lua capture patterns online
 - [muquit/mailsend-go](https://github.com/muquit/mailsend-go) - mailsend-go is a multi-platform  command line tool to send mail via SMTP protocol
 - [muyo/sno](https://github.com/muyo/sno) - Compact, sortable and fast unique IDs with embedded metadata.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
@@ -2291,6 +2295,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tj-actions/eslint-changed-files](https://github.com/tj-actions/eslint-changed-files) - :octocat: Github action to run ESLint on changed pull request files with support for reporting errors via Github checks.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+- [void-linux/void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
 - [xu-cheng/latex-docker](https://github.com/xu-cheng/latex-docker) - :whale: Docker Image of TeXLive
 - [yvoronoy/shell-boilerplate](https://github.com/yvoronoy/shell-boilerplate) - Bash Boilerplate
 
@@ -2881,6 +2886,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [piotr-roslaniec/awesome-metamask-snaps](https://github.com/piotr-roslaniec/awesome-metamask-snaps) - A curated list of awesome MetaMask Snaps related resources
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [qwikverse/awesome-qwik](https://github.com/qwikverse/awesome-qwik) - A curated list of awesome things related to Resumable Framework 
+- [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus) - A curated list of awesome Prometheus resources, projects and tools.
 - [rofrol/elm-ui-cookbook](https://github.com/rofrol/elm-ui-cookbook) - 
@@ -2889,6 +2895,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [scrtlabs/Grants](https://github.com/scrtlabs/Grants) - Repository for grant proposal submissions
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengine) - A curated list of awesome Ebitengine frameworks, libraries and software 
+- [sefakilic/awesome-emacs](https://github.com/sefakilic/awesome-emacs) - a curated list of Emacs resources
 - [semantalytics/awesome-kafka](https://github.com/semantalytics/awesome-kafka) - A curated list of awesome things related to Apache Kafka
 - [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
