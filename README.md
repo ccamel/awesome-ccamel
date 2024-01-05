@@ -675,7 +675,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [goraz/onion](https://github.com/goraz/onion) - Layer based configuration for golang
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool to easily build amazing web applications with Go on the backend, using htmx & hyperscript and the most popular CSS frameworks on the frontend.
+- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx & hyperscript and the most popular CSS frameworks on the frontend.
 - [gqlc/gqlc](https://github.com/gqlc/gqlc) - GraphQL IDL Compiler
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -2119,7 +2119,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
-- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable Vector database plugin for Postgres, written in Rust, specifically designed for LLM
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -2132,7 +2132,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [voidpumpkin/fallout-ui](https://github.com/voidpumpkin/fallout-ui) - 
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [zwilias/elm-json](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
 
