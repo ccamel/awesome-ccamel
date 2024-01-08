@@ -135,6 +135,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [4Lang/4](https://github.com/4Lang/4) - A completely emoji-based programming language
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [data61/MP-SPDZ](https://github.com/data61/MP-SPDZ) - Versatile framework for multi-party computation
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [duckie/mongo_smasher](https://github.com/duckie/mongo_smasher) - A small tool to generate randomized datasets
@@ -143,6 +144,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [j-jorge/codesignal](https://github.com/j-jorge/codesignal) - My solutions to CodeSignal's puzzles
+- [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
@@ -824,6 +826,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mingderwang/did](https://github.com/mingderwang/did) - x/did module for the Cosmos SDK framework with a “self-sovereign" digital identity (DID) support
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [mishudark/eventhus](https://github.com/mishudark/eventhus) - Go - CQRS / Event Sourcing made easy - Go
+- [mistakenelf/fm](https://github.com/mistakenelf/fm) - A terminal based file manager
 - [mitchellh/go-homedir](https://github.com/mitchellh/go-homedir) - Go library for detecting and expanding the user's home directory without cgo.
 - [mitchellh/ioprogress](https://github.com/mitchellh/ioprogress) - Go (golang) package for progress bars around io.Reader/Writers.
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
@@ -1466,6 +1469,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [garygrossgarten/github-action-scp](https://github.com/garygrossgarten/github-action-scp) - ⬆️ Copy a folder to a remote server using SSH
 - [gatewayapps/react-adaptivecards](https://github.com/gatewayapps/react-adaptivecards) - A react wrapper for microsoft/adaptivecards
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [gocli/go-cli](https://github.com/gocli/go-cli) - Create and use boilerplates with ease
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [gridiron-zone/bonds](https://github.com/gridiron-zone/bonds) - The Bonds module is a custom Cosmos SDK module that provides universal token bonding curve functions to mint, burn or swap any token in a Cosmos blockchain.  In the future, once the Cosmos Inter-Blockchain Communication (IBC) protocol is available, this should enable cross-network exchanges of tokens at algorithmically-determined prices.
@@ -1689,6 +1693,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## MDX
 
+- [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [dydxprotocol/v4-documentation](https://github.com/dydxprotocol/v4-documentation) - 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
@@ -1972,6 +1977,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [antouhou/rs-merkle](https://github.com/antouhou/rs-merkle) - The most advanced Merkle tree library for Rust
 - [arendjr/rust-for-ts-devs](https://github.com/arendjr/rust-for-ts-devs) - Rust courses for TypeScript developers
 - [arkworks-rs/curves](https://github.com/arkworks-rs/curves) - Implementations of popular elliptic curves 
+- [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std) - R1CS constraints for bits, fields, and elliptic curves
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [azerpas/bourso-api](https://github.com/azerpas/bourso-api) - Boursorama / BoursoBank unofficial API and CLI
 - [balpan-rs/balpan](https://github.com/balpan-rs/balpan) - Simple CLI Tool that supports your onboarding for a journey on source code.
@@ -2035,6 +2041,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [larry0x/cw-template](https://github.com/larry0x/cw-template) - Template for multi-contract CosmWasm projects
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+- [llenotre/maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [many-things/cw-hyperlane](https://github.com/many-things/cw-hyperlane) - 
@@ -2238,6 +2245,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DP-3T/documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
 - [Dimokus88/Akash-Nodes-Lab](https://github.com/Dimokus88/Akash-Nodes-Lab) - Deploy nodes on Akash Network ! | Разворачивай ноды на Акаш!
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
+- [GuillaumeGomez/tuto-rust-fr](https://github.com/GuillaumeGomez/tuto-rust-fr) - Un tutoriel pour apprendre Rust
 - [International-Data-Spaces-Association/InformationModel](https://github.com/International-Data-Spaces-Association/InformationModel) - The Information Model of the International Data Spaces implements the IDS reference architecture as an extensible, machine readable and technology independent data model.
 - [L0vd/OKP4](https://github.com/L0vd/OKP4) - 
 - [Megavolv/okp4d-auto-rewards](https://github.com/Megavolv/okp4d-auto-rewards) - OKP4 script for reinvest rewards automatically
@@ -2470,6 +2478,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [efstajas/versioned-parser](https://github.com/efstajas/versioned-parser) - 🤓 A TypeScript-first utility for managing multiple versions of parse functions.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
+- [enricopolanski/functional-programming](https://github.com/enricopolanski/functional-programming) - Introduction to Functional Programming using TypeScript and fp-ts.
 - [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [etherspot/etherspot-sdk](https://github.com/etherspot/etherspot-sdk) - Etherspot - Account Abstraction SDK
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
@@ -2850,6 +2859,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [mundimark/awesome-markdown-alternatives](https://github.com/mundimark/awesome-markdown-alternatives) - A collection of awesome light-weight markup markdown alternatives 
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
+- [near/DX](https://github.com/near/DX) - Developer Experience building on NEAR
 - [near/borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing
 - [newca12/awesome-rust-formalized-reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning) - An exhaustive list of all Rust resources regarding automated or semi-automated formalization efforts in any area, constructive mathematics, formal algorithms, and program verification.
 - [nikolay-martynov/eip-for-plantuml](https://github.com/nikolay-martynov/eip-for-plantuml) - Library of EIP sprites for PlantUML
