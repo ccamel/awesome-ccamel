@@ -1811,6 +1811,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator, powered by GPT language model APIs
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
+- [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 
@@ -2406,7 +2407,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). Unopinionated and heavily updated fork of react-signature-pad
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
-- [aidenybai/million](https://github.com/aidenybai/million) - Make React 70% faster in minutes ▶️ npx million@latest
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster. No migration at all.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
@@ -2534,6 +2535,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
+- [jonmbake/react-terminal-ui](https://github.com/jonmbake/react-terminal-ui) - A terminal react component with support for light and dark modes.
 - [joonhocho/graphql-scalar](https://github.com/joonhocho/graphql-scalar) - Configurable custom GraphQL Scalars (string, number, date, etc) with sanitization / validation / transformation in TypeScript.
 - [jpoehnelt/semantic-release-replace-plugin](https://github.com/jpoehnelt/semantic-release-replace-plugin) - A semantic-release plugin for replacing text in files with the current release version.
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
@@ -2850,6 +2852,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources
 - [magnetikonline/action-golang-cache](https://github.com/magnetikonline/action-golang-cache) - GitHub Action bringing together actions/setup-go and actions/cache.
+- [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
