@@ -1046,6 +1046,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [trusch/passchain](https://github.com/trusch/passchain) - a blockchain based password store for teams
 - [trustbloc/vc-go](https://github.com/trustbloc/vc-go) - Verifiable Credentials (and related code) for Go
+- [trustbloc/vcs](https://github.com/trustbloc/vcs) - Verifiable Credential Systems
 - [trustmaster/goflow](https://github.com/trustmaster/goflow) - Flow-based and dataflow programming library for Go (golang)
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [ttacon/uri](https://github.com/ttacon/uri) - RFC 3986 compliant uri builder/parser
@@ -1268,6 +1269,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [feaster83/quarkus-axonframework-extension](https://github.com/feaster83/quarkus-axonframework-extension) - Quarkus Axon Framework extension
 - [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin) - A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
 - [fewlaps/quitnow-email-suggester](https://github.com/fewlaps/quitnow-email-suggester) - 📧 Correct typos in email addresses like hello@gmail.con
+- [filip26/titanium-json-ld](https://github.com/filip26/titanium-json-ld) - A JSON-LD 1.1 Processor & API
 - [flapdoodle-oss/de.flapdoodle.embed.mongo](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo) - ...will provide a platform neutral way for running mongodb in unittests.
 - [gavlyukovskiy/spring-boot-data-source-decorator](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator) - Spring Boot integration with p6spy, datasource-proxy, flexy-pool and spring-cloud-sleuth
 - [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI
@@ -1717,7 +1719,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [okp4/slips](https://github.com/okp4/slips) - SatoshiLabs Improvement Proposals
 - [okp4/status](https://github.com/okp4/status) - 🟩 Uptime and historical data of the OKP4 services
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Mustache
 
@@ -2460,6 +2462,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmostation/chainlist](https://github.com/cosmostation/chainlist) - 📚 Chain Resource Managed By Cosmostation
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - 🪐 ⚛️ React.js components 💯% compatible with 🪐 Jupyter. https://jupyter-ui-storybook.datalayer.tech
 - [davidfig/pixi-viewport](https://github.com/davidfig/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
