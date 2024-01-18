@@ -531,7 +531,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/mainnet](https://github.com/cosmos/mainnet) - It's happening!
 - [cosmos/modules](https://github.com/cosmos/modules) - 
 - [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer for ibc-go
-- [cosmos/rosetta](https://github.com/cosmos/rosetta) - 
+- [cosmos/rosetta](https://github.com/cosmos/rosetta) - Rosetta implementation for cosmos zones
 - [cosmosregistry/chain-minimal](https://github.com/cosmosregistry/chain-minimal) - Mini - A minimal Cosmos SDK chain template
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [couchbase/gocb](https://github.com/couchbase/gocb) - The Couchbase Go SDK
@@ -1881,10 +1881,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
 - [stefano/wasm-forth](https://github.com/stefano/wasm-forth) - A Forth implementation compiling to WebAssembly.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [subquery/cosmos-subql-starter](https://github.com/subquery/cosmos-subql-starter) - 
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
 - [tartiflette/tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project.
 - [tehmaze/diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters and fancy colors
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [victordibia/data2vis](https://github.com/victordibia/data2vis) - Data2Vis: Automatic Generation of Data Visualizations Using Sequence to Sequence Recurrent Neural Networks
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [vmware-archive/functions](https://github.com/vmware-archive/functions) - Functions Repository for Kubeless
@@ -2415,7 +2415,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). Unopinionated and heavily updated fork of react-signature-pad
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster. No migration at all.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months. 
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
@@ -2646,6 +2646,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [storybookjs/test-runner](https://github.com/storybookjs/test-runner) - 🚕 Turn stories into executable tests
 - [stubailo/schema-stitching-demo](https://github.com/stubailo/schema-stitching-demo) - Example of schema stitching with graphql-tools
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
+- [subquery/cosmos-subql-starter](https://github.com/subquery/cosmos-subql-starter) - 
 - [subquery/subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
 - [subquery/subql-cosmos](https://github.com/subquery/subql-cosmos) - A fork of Subql for cosmos support
 - [subquery/subql-starter](https://github.com/subquery/subql-starter) - The Starter Package is an example that you can use as a starting point for developing your SubQuery project.
@@ -2802,7 +2803,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [dcasati/kubernetes-PlantUML](https://github.com/dcasati/kubernetes-PlantUML) - Kubernetes diagrams using VS Code
 - [ddd-crew/domain-message-flow-modelling](https://github.com/ddd-crew/domain-message-flow-modelling) - Design & visualise the flow of commands, events, and queries between your bounded contexts
-- [devisasari/awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs 
+- [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
