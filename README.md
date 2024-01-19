@@ -493,6 +493,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [chaisql/chai](https://github.com/chaisql/chai) - Modern embedded SQL database
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [cheqd/cheqd-node](https://github.com/cheqd/cheqd-node) - Ledger/node software for cheqd's decentralised identity network. Built using the Cosmos SDK blockchain framework.
@@ -532,6 +533,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/modules](https://github.com/cosmos/modules) - 
 - [cosmos/relayer](https://github.com/cosmos/relayer) - An IBC relayer for ibc-go
 - [cosmos/rosetta](https://github.com/cosmos/rosetta) - Rosetta implementation for cosmos zones
+- [cosmos/sdk-tutorials](https://github.com/cosmos/sdk-tutorials) - Tutorials for building modules for the Cosmos SDK
 - [cosmosregistry/chain-minimal](https://github.com/cosmosregistry/chain-minimal) - Mini - A minimal Cosmos SDK chain template
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [couchbase/gocb](https://github.com/couchbase/gocb) - The Couchbase Go SDK
@@ -954,6 +956,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rs/jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
+- [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
 - [rumlang/rum](https://github.com/rumlang/rum) - Functional language, easily extensible and possible (Lua features with LISP dialect and functional) to be embarked on software Go!
 - [runabol/tork](https://github.com/runabol/tork) - A distributed workflow engine
 - [ryboe/q](https://github.com/ryboe/q) - Quick and dirty debugging output for tired Go programmers
@@ -1051,6 +1054,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [trustbloc/vcs](https://github.com/trustbloc/vcs) - Verifiable Credential Systems
 - [trustmaster/goflow](https://github.com/trustmaster/goflow) - Flow-based and dataflow programming library for Go (golang)
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+- [ttacon/chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output. http://godoc.org/github.com/ttacon/chalk
 - [ttacon/uri](https://github.com/ttacon/uri) - RFC 3986 compliant uri builder/parser
 - [twmb/murmur3](https://github.com/twmb/murmur3) - Fast, fully fledged murmur3 in Go.
 - [tyler-smith/go-avalanche](https://github.com/tyler-smith/go-avalanche) - Implementation of the Avalanche consensus algorithm in Go
@@ -2123,6 +2127,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [scrtlabs/secret-toolkit](https://github.com/scrtlabs/secret-toolkit) - A collection of Rust packages that contain common tools used in development of Secret Contracts
 - [scrtlabs/secret-vault](https://github.com/scrtlabs/secret-vault) - A contract that allows you to create private keys on-chain and sign data with secp256k1 signatures
 - [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
+- [securesecrets/shade](https://github.com/securesecrets/shade) - Shade Protocol is an array of connected privacy-preserving dApps built on Secret Network
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [serenity-rs/poise](https://github.com/serenity-rs/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
 - [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) - A lightweight, opinionated CQRS and event sourcing framework.
@@ -2794,7 +2799,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [cosmos/awesome-cosmos](https://github.com/cosmos/awesome-cosmos) - Collection of Cosmos related resources
 - [cosmos/did-cosmos](https://github.com/cosmos/did-cosmos) - 
-- [cosmos/sdk-tutorials](https://github.com/cosmos/sdk-tutorials) - Tutorials for building modules for the Cosmos SDK
 - [coteries/cedille-ai](https://github.com/coteries/cedille-ai) - ✒️ Cedille is a large French language model (6B), released under an open-source license
 - [cryptobtcbuyer/Testnet_guides](https://github.com/cryptobtcbuyer/Testnet_guides) - 
 - [danger/awesome-danger](https://github.com/danger/awesome-danger) - An awesome list of all things Danger
