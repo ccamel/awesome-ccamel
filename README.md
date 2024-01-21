@@ -2004,7 +2004,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
-- [concoct-rs/concoct](https://github.com/concoct-rs/concoct) - A runtime for user-interfaces in Rust.
+- [concoct-rs/concoct](https://github.com/concoct-rs/concoct) - Cross-platform Rust UI framework
 - [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Example IBC enabled contracts along with full stack integration tests
 - [confio/poe-contracts](https://github.com/confio/poe-contracts) - Tgrade PoE smart contracts
 - [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template suitable for new Rust 2021 Edition projects with cargo-make/rustfmt/rust-clippy.
