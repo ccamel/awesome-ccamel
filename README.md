@@ -679,7 +679,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [goplus/c2go](https://github.com/goplus/c2go) - Convert C to Go
-- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
+- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [goraz/onion](https://github.com/goraz/onion) - Layer based configuration for golang
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -2132,6 +2132,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [serenity-rs/poise](https://github.com/serenity-rs/poise) - Discord bot command framework for serenity, with advanced features like edit tracking and flexible argument parsing
 - [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) - A lightweight, opinionated CQRS and event sourcing framework.
 - [setten-io/ecg](https://github.com/setten-io/ecg) -  Cosmos validators dead man's switch
+- [shuttle-hq/shuttlings](https://github.com/shuttle-hq/shuttlings) - Collection of code challenges for learning backend development in Rust
 - [sideprotocol/mesh-liquidity-wasm](https://github.com/sideprotocol/mesh-liquidity-wasm) - Cosmwasm implementation of ICS-101 
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
