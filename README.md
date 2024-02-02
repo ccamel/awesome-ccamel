@@ -1405,7 +1405,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Yomguithereal/baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 - [adobe/jsonschema2md](https://github.com/adobe/jsonschema2md) - Convert Complex JSON Schemas into Markdown Documentation
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [alecglassford/commit-msg-must-use-emoji](https://github.com/alecglassford/commit-msg-must-use-emoji) - 💌 Easy-to-add Git hook that forces you to start every commit message with an emoji
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec.
 - [angusjf/astro-integration-elm](https://github.com/angusjf/astro-integration-elm) - Server side rendering with hydration for Elm
@@ -1938,6 +1938,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fxn/i-told-you-it-was-private](https://github.com/fxn/i-told-you-it-was-private) - 
 - [isalevine/event-sourcing-user-app](https://github.com/isalevine/event-sourcing-user-app) - dev.to demo code for Event Sourcing system built around a User model
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [mojombo/bert](https://github.com/mojombo/bert) - BERT (Binary ERlang Term) serialization library for Ruby.
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [ruby-rdf/rdf-turtle](https://github.com/ruby-rdf/rdf-turtle) - Turtle reader/writer for Ruby
@@ -2585,7 +2586,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [mars-protocol/networks](https://github.com/mars-protocol/networks) - Genesis data for Mars Hub mainnet and testnets
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -2740,6 +2740,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Misc
 
+- [0x-sen/mev-bot-fraud](https://github.com/0x-sen/mev-bot-fraud) - Be careful for the fake mev-bot codes , watch your wallet
 - [AAkira/Kotlin-Multiplatform-Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) - Kotlin Multiplatform Libraries. Welcome PR if you find or create new Kotlin Multiplatform Library.
 - [AbstractSDK/awesome-abstract](https://github.com/AbstractSDK/awesome-abstract) - 😎 Curated list of tools, contracts, and projects built with, for, or by Abstract
 - [AnatolianTeam/OKP4-Nemeton-Program](https://github.com/AnatolianTeam/OKP4-Nemeton-Program) - Everything is about OKP4 Nemeton Program
