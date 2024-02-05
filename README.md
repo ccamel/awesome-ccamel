@@ -572,7 +572,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dustinxie/ecc](https://github.com/dustinxie/ecc) - Golang native implementation of the secp256k1 elliptic curve
 - [dymensionxyz/dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 - [dymensionxyz/dymension-rdk](https://github.com/dymensionxyz/dymension-rdk) - Framework for building highly scalable RollApps
-- [dymensionxyz/dymint](https://github.com/dymensionxyz/dymint) - ABCI-client for Dymension RollApps forked from Optimint
+- [dymensionxyz/dymint](https://github.com/dymensionxyz/dymint) - Sequencing Engine for Dymension RollApps
 - [dymensionxyz/roller](https://github.com/dymensionxyz/roller) - CLI tool for deploying Dymension RollApps
 - [eBay/akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
@@ -609,7 +609,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Windows, Chromebooks, AWS, Google Cloud, Azure, data center, containers, IoT)
 - [flimzy/donewriter](https://github.com/flimzy/donewriter) - DoneWriter provides an http.ResponseWriter which can report if a response has been sent or not.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [forbole/bdjuno](https://github.com/forbole/bdjuno) - BDJuno is the official Juno implementation for BigDipper, the open-source block explorer for Cosmos
+- [forbole/callisto](https://github.com/forbole/callisto) - Callisto (formerly BDJuno) is the official Juno implementation for Big Dipper, the open-source block explorer for Cosmos
 - [forbole/juno](https://github.com/forbole/juno) - A Cosmos Hub data aggregator and exporter.
 - [francesconi/go-rampart](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
@@ -2184,7 +2184,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties. 
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
-- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - Badges for badges' sake.
 - [okp4/docs](https://github.com/okp4/docs) - 📜 OKP4 documentation portal (built with Docusaurus).
 - [okp4/okp4-web](https://github.com/okp4/okp4-web) - 🌐 OKP4 web site
 - [okp4/team-wiki](https://github.com/okp4/team-wiki) - 📚 OKP4 Wiki
@@ -2521,6 +2520,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots
 - [foo-software/lighthouse-check-action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running @GoogleChromeLabs Lighthouse audits with all the bells and whistles 🔔 Multiple audits, Slack notifications, and more!
 - [forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos) - 
+- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
 - [fp4ts/fp4ts](https://github.com/fp4ts/fp4ts) - Zero-dependency, purely functional library for effectful programming in Typescript
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
