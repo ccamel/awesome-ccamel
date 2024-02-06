@@ -176,6 +176,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pushkaraj2007/TechCreators](https://github.com/pushkaraj2007/TechCreators) - A website to list tech twitter creators, across the world.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [stripe-samples/checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
+- [w3c/verifiable-credentials](https://github.com/w3c/verifiable-credentials) - W3C Verifiable Credentials Working Group
 
 ## CUE
 
@@ -475,7 +476,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bsm/sarama-cluster](https://github.com/bsm/sarama-cluster) - Cluster extensions for Sarama, the Go client library for Apache Kafka 0.9 [DEPRECATED]
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.
 - [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter) - Database agnostic SQL exporter for Prometheus
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord
 - [bykof/gostradamus](https://github.com/bykof/gostradamus) - Gostradamus: Better DateTimes for Go 🕰️
@@ -587,7 +588,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [enimatek-nl/tango](https://github.com/enimatek-nl/tango) - WebAssembly Lightweight Javascript Framework in Go (React / AngularJS Inspired)
 - [epiclabs-io/elastic](https://github.com/epiclabs-io/elastic) - Converts go types no matter what
 - [equinor/flowify-workflows-server](https://github.com/equinor/flowify-workflows-server) - 
-- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based framework with network transparency. For creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies. 
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
@@ -1173,7 +1174,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - A specification for an HTTP API used to issue and verify Verifiable Credentials.
 - [w3c/dxwg](https://github.com/w3c/dxwg) - Data Catalog Vocabulary (DCAT)
-- [w3c/verifiable-credentials](https://github.com/w3c/verifiable-credentials) - W3C Verifiable Credentials Working Group
 - [w3c/wot](https://github.com/w3c/wot) - Web of Things
 - [w3c/wot-architecture](https://github.com/w3c/wot-architecture) - Web of Things (WoT) Architecture
 - [w3c/wot-thing-description](https://github.com/w3c/wot-thing-description) - Web of Things (WoT) Thing Description
@@ -2640,6 +2640,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [robisim74/qwik-speak](https://github.com/robisim74/qwik-speak) - Translate your Qwik apps into any language
 - [rubensworks/GraphQL-LD.js](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL
@@ -2652,7 +2653,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [shakyShane/actor-js](https://github.com/shakyShane/actor-js) - Exploring the potential benefits of implementing APIs in the style of the Actor Model, even in single-threaded programming environments such as Javascript.
 - [shivanshubisht/chatgpt](https://github.com/shivanshubisht/chatgpt) - ChatGPT built with Next.js 13 app directory and Tailwind CSS using OpenAI's API sdk v4 and GPT-4 and SSR streaming for data with edge functions.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Workshop for the mind
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hacker's notebook
 - [skiff-org/skiff-ui](https://github.com/skiff-org/skiff-ui) - React components for the Skiff UI Design System
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [solana-labs/example-helloworld](https://github.com/solana-labs/example-helloworld) - Hello world on Solana
