@@ -313,7 +313,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Erlang
 
-- [WhatsApp/eqwalizer](https://github.com/WhatsApp/eqwalizer) - A type-checker for Erlang
 - [adoptingerlang/service_discovery](https://github.com/adoptingerlang/service_discovery) - Adopting Erlang service discovery project
 - [aeternity/mnesia_rocksdb](https://github.com/aeternity/mnesia_rocksdb) - A RocksDB backend plugin for mnesia, based on mnesia_eleveldb
 - [basho/riak_cs](https://github.com/basho/riak_cs) - Riak CS is simple, available cloud storage built on Riak.
@@ -1748,9 +1747,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
-- [leostera/riot](https://github.com/leostera/riot) - An actor-model multi-core scheduler for OCaml 5 🐫
 - [ocaml-wasm/wasm_of_ocaml](https://github.com/ocaml-wasm/wasm_of_ocaml) - 
 - [realworldocaml/book](https://github.com/realworldocaml/book) - V2 of Real World OCaml
+- [riot-ml/riot](https://github.com/riot-ml/riot) - An actor-model multi-core scheduler for OCaml 5 🐫
 
 ## PHP
 
@@ -1831,7 +1830,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator, powered by GPT language model APIs
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -2208,6 +2207,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ThoughtWorksInc/sbt-best-practice](https://github.com/ThoughtWorksInc/sbt-best-practice) - Configure common build settings for a Scala project
 - [ThoughtWorksInc/sbt-scala-js-map](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - A Sbt plugin that configures source mapping for Scala.js projects hosted on Github
 - [VledicFranco/purity](https://github.com/VledicFranco/purity) - A set of FP goodies to help you create pure, type-safe code easily in Scala
+- [WhatsApp/eqwalizer](https://github.com/WhatsApp/eqwalizer) - A type-checker for Erlang
 - [akka-js/akka.js](https://github.com/akka-js/akka.js) - Akka, for Scala.js
 - [akka/akka-quickstart-scala.g8](https://github.com/akka/akka-quickstart-scala.g8) - A minimal seed template for an Akka with Scala build 
 - [almond-sh/almond](https://github.com/almond-sh/almond) - A Scala kernel for Jupyter
