@@ -1606,6 +1606,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [spekt8/spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
 - [ssuman/parcel-plugin-elm](https://github.com/ssuman/parcel-plugin-elm) -  A parcel plugin that enables elm support
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
+- [studio-freight/aniso](https://github.com/studio-freight/aniso) - Aniso is an open-source ASCII tool built by Studio Freight to generate and customize character-based imagery.
+- [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
 - [supermodel/supermodel](https://github.com/supermodel/supermodel) - Supermodel browser library and CLI tool for working with JSON Schema data models
 - [sveltejs/gl](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -1830,7 +1832,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -2476,7 +2478,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - Cosmos chain registry ⚛️
 - [cosmology-tech/cosmology](https://github.com/cosmology-tech/cosmology) - CLI and TS library for the Cosmos ⚛️
-- [cosmology-tech/cosmos-kit](https://github.com/cosmology-tech/cosmos-kit) - A wallet connector for the Cosmos ⚛️
+- [cosmology-tech/cosmos-kit](https://github.com/cosmology-tech/cosmos-kit) - Universal wallet connector for the Cosmos ⚛️
 - [cosmology-tech/cosmwasm-as](https://github.com/cosmology-tech/cosmwasm-as) - CosmWasm contracts in AssemblyScript (experiment) 
 - [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) - Set up a modern Cosmos app by running one command ⚛️
 - [cosmology-tech/telescope](https://github.com/cosmology-tech/telescope) - A TypeScript Transpiler for Cosmos Protobufs ⚛️
