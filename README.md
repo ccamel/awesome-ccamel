@@ -1400,7 +1400,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and compress) GLSL shader files :electric_plug:
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
-- [Wervice/Codelink](https://github.com/Wervice/Codelink) - Codelink is a project, providing you with small tools designed for developers.
+- [Wervice/Codelink](https://github.com/Wervice/Codelink) - Codelink is a family of open source applications for programming and collaboration.
 - [Yomguithereal/baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 - [adobe/jsonschema2md](https://github.com/adobe/jsonschema2md) - Convert Complex JSON Schemas into Markdown Documentation
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
@@ -1832,7 +1832,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -1869,6 +1869,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mormahr/pdf-service](https://github.com/mormahr/pdf-service) - A dockerized HTTP service, that generates PDF files from HTML using Weasyprint.
 - [multiformats/multicodec](https://github.com/multiformats/multicodec) - Compact self-describing codecs. Save space by using predefined multicodec tables.
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
 - [okp4/data-join-tabular](https://github.com/okp4/data-join-tabular) - Tabular data join service
 - [okp4/data-selector](https://github.com/okp4/data-selector) - Select (or filter) data of different types and in multiple dimensions.
@@ -2112,6 +2113,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a fully private proof-of-stake network and decentralized exchange for the Cosmos ecosystem.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
+- [provenance-io/provwasm](https://github.com/provenance-io/provwasm) - This crate provides Rust bindings to enable CosmWasm smart contracts to interact with custom modules in the Provenance Blockchain.
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
 - [public-awesome/marketplace](https://github.com/public-awesome/marketplace) - Stargaze Marketplace and Live Auctions smart contracts
@@ -2694,6 +2696,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
+- [weaveworks/vscode-gitops-tools](https://github.com/weaveworks/vscode-gitops-tools) - GitOps Visual Studio Code Extension
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [wyozi/react-pptx](https://github.com/wyozi/react-pptx) - Create PowerPoint presentations with React
