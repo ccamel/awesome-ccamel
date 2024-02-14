@@ -404,6 +404,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Reecepbcups/cosmos-submit-tx-client](https://github.com/Reecepbcups/cosmos-submit-tx-client) - Submit a Cosmos Tx in Go (via gRPC)
 - [Shyp/generate-tls-cert](https://github.com/Shyp/generate-tls-cert) - Generating self signed certificates
 - [SimonSchneider/traefik-jwt-decode](https://github.com/SimonSchneider/traefik-jwt-decode) - Traefik forward auth implementation for JWT tokens
+- [SyntropyNet/data-layer-sdk](https://github.com/SyntropyNet/data-layer-sdk) - 
 - [TERITORI/teritori-chain](https://github.com/TERITORI/teritori-chain) - Teritori chain repository based on Cosmos SDK
 - [TIBCOSoftware/flogo-contrib](https://github.com/TIBCOSoftware/flogo-contrib) - Flogo Contribution repo. Contains activities, triggers, models and actions.
 - [Team-Kujira/core](https://github.com/Team-Kujira/core) - 
@@ -1841,6 +1842,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [grafana/github-traffic](https://github.com/grafana/github-traffic) - Github Traffic Insights as Prometheus metrics.
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -1870,6 +1872,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [mormahr/pdf-service](https://github.com/mormahr/pdf-service) - A dockerized HTTP service, that generates PDF files from HTML using Weasyprint.
 - [multiformats/multicodec](https://github.com/multiformats/multicodec) - Compact self-describing codecs. Save space by using predefined multicodec tables.
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
@@ -2498,7 +2501,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmostation/chainlist](https://github.com/cosmostation/chainlist) - 📚 Chain Resource Managed By Cosmostation
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter. https://jupyter-ui-storybook.datalayer.tech
 - [davidfig/pixi-viewport](https://github.com/davidfig/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
