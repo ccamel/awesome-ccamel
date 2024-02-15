@@ -400,11 +400,13 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Pisush/chatGPT-plugin-template](https://github.com/Pisush/chatGPT-plugin-template) - For Gophers
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [QuokkaStake/cosmos-validators-exporter](https://github.com/QuokkaStake/cosmos-validators-exporter) - A Prometheus scraper to fetch data about your validators in Cosmos-based blockchains.
+- [QuokkaStake/tmtop](https://github.com/QuokkaStake/tmtop) - A top-like chain consensus and chain info visualizer for all Tendermint chains.
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [Reecepbcups/cosmos-submit-tx-client](https://github.com/Reecepbcups/cosmos-submit-tx-client) - Submit a Cosmos Tx in Go (via gRPC)
 - [Shyp/generate-tls-cert](https://github.com/Shyp/generate-tls-cert) - Generating self signed certificates
 - [SimonSchneider/traefik-jwt-decode](https://github.com/SimonSchneider/traefik-jwt-decode) - Traefik forward auth implementation for JWT tokens
 - [SyntropyNet/data-layer-sdk](https://github.com/SyntropyNet/data-layer-sdk) - 
+- [SyntropyNet/syntropy-agent](https://github.com/SyntropyNet/syntropy-agent) - Syntropy Platform Agent
 - [TERITORI/teritori-chain](https://github.com/TERITORI/teritori-chain) - Teritori chain repository based on Cosmos SDK
 - [TIBCOSoftware/flogo-contrib](https://github.com/TIBCOSoftware/flogo-contrib) - Flogo Contribution repo. Contains activities, triggers, models and actions.
 - [Team-Kujira/core](https://github.com/Team-Kujira/core) - 
@@ -1457,6 +1459,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dgarijo/Widoco](https://github.com/dgarijo/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [digitalbazaar/did-cli](https://github.com/digitalbazaar/did-cli) - A client for managing Decentralized Identifiers
+- [digitalbazaar/jsonld-cli](https://github.com/digitalbazaar/jsonld-cli) - JSON-LD command line interface tool
+- [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript
 - [digitalbazaar/vc](https://github.com/digitalbazaar/vc) - W3C Verifiable Credentials implementation in JavaScript
 - [djenriquez/vault-ui](https://github.com/djenriquez/vault-ui) - Vault-UI — A beautiful UI to manage your Vault, written in React
 - [dnewcome/Donatello](https://github.com/dnewcome/Donatello) - Pure-CSS drawing library for the browser.
@@ -1539,7 +1543,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) - LaTeX block support for EditorJS
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - Template for PixiJS using Typescript and Webpack https://stackblitz.com/github/miltoncandelero/pixi-hotwire 
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -2013,6 +2016,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
 - [antouhou/rs-merkle](https://github.com/antouhou/rs-merkle) - The most advanced Merkle tree library for Rust
 - [arendjr/rust-for-ts-devs](https://github.com/arendjr/rust-for-ts-devs) - Rust courses for TypeScript developers
+- [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic
 - [arkworks-rs/crypto-primitives](https://github.com/arkworks-rs/crypto-primitives) - Interfaces and implementations of cryptographic primitives, along with R1CS constraints for them 
 - [arkworks-rs/curves](https://github.com/arkworks-rs/curves) - Implementations of popular elliptic curves 
 - [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std) - R1CS constraints for bits, fields, and elliptic curves
@@ -2070,6 +2074,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [informalsystems/basecoin-rs](https://github.com/informalsystems/basecoin-rs) - An example ABCI application making use of tendermint-rs and ibc-rs
+- [informalsystems/sovereign-ibc](https://github.com/informalsystems/sovereign-ibc) - Implementation of IBC modules by `ibc-rs` that can run with Sovereign SDK rollups
 - [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [intendednull/yewdux](https://github.com/intendednull/yewdux) - Ergonomic state management for Yew applications
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
@@ -2545,6 +2550,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gcanti/monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle
 - [gcanti/retry-ts](https://github.com/gcanti/retry-ts) - Retry combinators for monadic actions that may fail
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [github-20k/trending-list](https://github.com/github-20k/trending-list) - Know when you are trending on GitHub
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -2602,6 +2608,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [mobxjs/mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - Lightweight React bindings for MobX based on React 16.8 and Hooks
 - [moonbeam-foundation/moonbeam](https://github.com/moonbeam-foundation/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot
@@ -2806,6 +2813,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [amimart/amimart](https://github.com/amimart/amimart) - :octocat: About me
 - [amirrezaask/Goify](https://github.com/amirrezaask/Goify) - Goify is My Vision of clean code in golang
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
+- [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [antoninab4/OKP4](https://github.com/antoninab4/OKP4) - Пошаговая установка ноды OKP4
 - [apiaryio/mson](https://github.com/apiaryio/mson) - Markdown Syntax for Object Notation
 - [apollographql/apollo-feature-requests](https://github.com/apollographql/apollo-feature-requests) - 🧑‍🚀 Apollo Client Feature Requests | (no 🐛 please).
