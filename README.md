@@ -1458,10 +1458,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cryptocrew-validators/relayer-feegrant-wg](https://github.com/cryptocrew-validators/relayer-feegrant-wg) - 
 - [cycjimmy/semantic-release-action](https://github.com/cycjimmy/semantic-release-action) - GitHub Action for Semantic Release
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
-- [dakroomengineering/aniso](https://github.com/dakroomengineering/aniso) - Aniso is an open-source ASCII tool built by Studio Freight to generate and customize character-based imagery.
-- [dakroomengineering/lenis](https://github.com/dakroomengineering/lenis) - How smooth scroll should be
 - [danilowoz/react-atomic-design](https://github.com/danilowoz/react-atomic-design) - 🔬 How the Atomic Design methodology can create a great design system from scratch and make better developers.
 - [danyshaanan/cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - :package: View the Mandelbrot set from your terminal
+- [darkroomengineering/aniso](https://github.com/darkroomengineering/aniso) - Aniso is an open-source ASCII tool built by Studio Freight to generate and customize character-based imagery.
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [davidbau/seedrandom](https://github.com/davidbau/seedrandom) - seeded random number generator for Javascript
 - [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
@@ -2845,7 +2845,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ccamel/awesome-ccamel](https://github.com/ccamel/awesome-ccamel) - A collection of awesome things for me, myself and I.
 - [ccamel/ccamel](https://github.com/ccamel/ccamel) - My :octocat: profile 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [cheqd/service-portal](https://github.com/cheqd/service-portal) - Service portal for DID Registrar and Credential Service
 - [chokermaxx/zkjson](https://github.com/chokermaxx/zkjson) - JSON parser written in Lurk
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [cosmos/awesome-cosmos](https://github.com/cosmos/awesome-cosmos) - Collection of Cosmos related resources
