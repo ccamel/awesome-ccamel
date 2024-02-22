@@ -199,6 +199,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Dart
 
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile
@@ -794,6 +795,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [larry0x/abstract-account](https://github.com/larry0x/abstract-account) - An account abstraction solution for CosmWasm-enabled chains
 - [larry0x/cosmos-sdk-historical-query](https://github.com/larry0x/cosmos-sdk-historical-query) - How to query a Cosmos chain at historical block heights in Rust, Go, JS, and Bash
 - [lavanet/lava](https://github.com/lavanet/lava) - 
+- [ldez/tagliatelle](https://github.com/ldez/tagliatelle) - A linter that handles struct tags.
 - [leekchan/accounting](https://github.com/leekchan/accounting) - money and currency formatting for golang
 - [lens-vm/lens](https://github.com/lens-vm/lens) - 
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
@@ -835,6 +837,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [medibloc/panacea-doracle](https://github.com/medibloc/panacea-doracle) - 
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [memnix/memnix-rest](https://github.com/memnix/memnix-rest) - Memnix Rest API
+- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [mikespook/gorbac](https://github.com/mikespook/gorbac) - goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.
 - [mingderwang/did](https://github.com/mingderwang/did) - x/did module for the Cosmos SDK framework with a “self-sovereign" digital identity (DID) support
@@ -980,6 +983,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sagikazarmark/slog-shim](https://github.com/sagikazarmark/slog-shim) - Backward-compatible shim for log/slog
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+- [sanposhiho/wastedassign](https://github.com/sanposhiho/wastedassign) - Go Linter: finds wasted assignment statements 🗑
 - [satori/go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [seborama/fuego](https://github.com/seborama/fuego) - Functional Experiment in Golang
@@ -1119,7 +1123,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xorcare/golden](https://github.com/xorcare/golden) - Package golden testing with golden files in Go. A golden file is the expected output of test, stored as a separate file rather than as a string literal inside the test code.
 - [xrstf/github_exporter](https://github.com/xrstf/github_exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
 - [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
-- [yohamta/donburi](https://github.com/yohamta/donburi) - Just another ECS library for Ebitengine
+- [yohamta/donburi](https://github.com/yohamta/donburi) - Just another ECS library for Go/Ebitengine
 - [yourbasic/bit](https://github.com/yourbasic/bit) - Bitset data structure
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
@@ -2053,6 +2057,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/ibc-proto-rs](https://github.com/cosmos/ibc-proto-rs) - Rust crate for interacting with Cosmos and IBC structs.
 - [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
@@ -2882,7 +2887,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [gnolang/awesome-gno](https://github.com/gnolang/awesome-gno) - Curated list of great GNO resources by the community.
-- [gnolang/govdao](https://github.com/gnolang/govdao) - genesis, constitution, rules, and contracts for GovDAO (owner of gno.land)
+- [gnolang/genesis](https://github.com/gnolang/genesis) - **will be moved to gnoland gh org.** genesis, constitution, rules, and contracts for GovDAO (owner of gno.land)
 - [google/deepdream](https://github.com/google/deepdream) - 
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [gqlgo/awesome-gqlgen](https://github.com/gqlgo/awesome-gqlgen) - A curated list of awesome frameworks, libraries and software  using gqlgen library.
