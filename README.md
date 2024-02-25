@@ -2134,6 +2134,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/discord-bot](https://github.com/okp4/discord-bot) - 🤖 Discord bot used @okp4 to bridge the Dataverse!
 - [okp4/okp4-cosmos-proto](https://github.com/okp4/okp4-cosmos-proto) - OKP4 CØSMOS gRPC client libraries based on Protobuf definitions.
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
+- [omallassi/adrust](https://github.com/omallassi/adrust) - ADRust: a tool in Rust to manage (Architecture) Decision Records
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [orpheuslummis/cosmwasm-babysteps](https://github.com/orpheuslummis/cosmwasm-babysteps) - 
@@ -2714,6 +2715,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [subquery/subql-cosmos](https://github.com/subquery/subql-cosmos) - A fork of Subql for cosmos support
 - [subquery/subql-starter](https://github.com/subquery/subql-starter) - The Starter Package is an example that you can use as a starting point for developing your SubQuery project.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [swup/swup](https://github.com/swup/swup) - Versatile and extensible page transition library for server-rendered websites 🎉
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [terra-money/station](https://github.com/terra-money/station) - 🛰️ Station wallet
