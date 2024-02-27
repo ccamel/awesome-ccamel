@@ -610,7 +610,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [fission/fission-workflows](https://github.com/fission/fission-workflows) - Workflows for Fission: Fast, reliable and lightweight function composition for serverless functions
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Windows, Chromebooks, AWS, Google Cloud, Azure, data center, containers, IoT)
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
 - [flimzy/donewriter](https://github.com/flimzy/donewriter) - DoneWriter provides an http.ResponseWriter which can report if a response has been sent or not.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [forbole/callisto](https://github.com/forbole/callisto) - Callisto (formerly BDJuno) is the official Juno implementation for Big Dipper, the open-source block explorer for Cosmos
@@ -725,6 +725,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [hhatto/gocloc](https://github.com/hhatto/gocloc) -  A little fast cloc(Count Lines Of Code)
 - [howeyc/ledger](https://github.com/howeyc/ledger) - Command line double-entry accounting program
+- [huandu/xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go.
 - [hukkin/cosmosvanity](https://github.com/hukkin/cosmosvanity) - CLI tool for generating Cosmos vanity addresses
 - [hyperboloide/lk](https://github.com/hyperboloide/lk) - Simple licensing library for golang.
 - [ichiban/prolog](https://github.com/ichiban/prolog) - The only reasonable scripting engine for Go.
@@ -1506,6 +1507,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gatewayapps/react-adaptivecards](https://github.com/gatewayapps/react-adaptivecards) - A react wrapper for microsoft/adaptivecards
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [gocli/go-cli](https://github.com/gocli/go-cli) - Create and use boilerplates with ease
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [gridiron-zone/bonds](https://github.com/gridiron-zone/bonds) - The Bonds module is a custom Cosmos SDK module that provides universal token bonding curve functions to mint, burn or swap any token in a Cosmos blockchain.  In the future, once the Cosmos Inter-Blockchain Communication (IBC) protocol is available, this should enable cross-network exchanges of tokens at algorithmically-determined prices.
@@ -1851,7 +1853,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by LLM APIs.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -1998,7 +2000,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/cw-template](https://github.com/CosmWasm/cw-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [CosmWasm/cw-tokens](https://github.com/CosmWasm/cw-tokens) - Examples of cw20 usage, extracted from cw-plus, maintained by the community
 - [CosmWasm/mesh-security-hackathon](https://github.com/CosmWasm/mesh-security-hackathon) - Implementation of Sunny's Mesh Security talk (Hackathon / Prototype status)
-- [CosmWasm/rust-optimizer](https://github.com/CosmWasm/rust-optimizer) - Dockerfile and script to deterministically produce the smallest possible Wasm for your Rust contract
+- [CosmWasm/optimizer](https://github.com/CosmWasm/optimizer) - Dockerfile and script to deterministically produce the smallest possible Wasm for your Rust contract
 - [CosmWasm/sylvia](https://github.com/CosmWasm/sylvia) - CosmWasm smart contract framework
 - [CyberHoward/cosmwasm-re-entrancy-example](https://github.com/CyberHoward/cosmwasm-re-entrancy-example) - An example re-entrancy attack on a flashloan vault.
 - [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) - CosmWasm smart contracts for Interchain DAOs.
@@ -2161,6 +2163,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [readysettech/proptest-stateful](https://github.com/readysettech/proptest-stateful) - Library for building stateful property tests using the proptest crate
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
+- [ricott1/sshattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
