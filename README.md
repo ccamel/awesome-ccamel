@@ -949,6 +949,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [qntfy/kazaam](https://github.com/qntfy/kazaam) - Arbitrary transformations of JSON in Golang
 - [quay/dba-operator](https://github.com/quay/dba-operator) - Kubernetes Operator that orchestrates relational database schema migrations
+- [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures
 - [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [raviqqe/gherkin2markdown](https://github.com/raviqqe/gherkin2markdown) - Gherkin to Markdown converter
@@ -991,6 +992,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [segmentio/topicctl](https://github.com/segmentio/topicctl) - Tool for declarative management of Kafka topics
+- [sergi/go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go
 - [seznam/slo-exporter](https://github.com/seznam/slo-exporter) - Slo-exporter computes standardized SLI and SLO metrics based on events coming from various data sources.
 - [sge-network/sge](https://github.com/sge-network/sge) - 
 - [shentufoundation/shentu](https://github.com/shentufoundation/shentu) - A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains
@@ -2137,7 +2139,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/okp4-cosmos-proto](https://github.com/okp4/okp4-cosmos-proto) - OKP4 CØSMOS gRPC client libraries based on Protobuf definitions.
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
 - [omallassi/adrust](https://github.com/omallassi/adrust) - ADRust: a tool in Rust to manage (Architecture) Decision Records
-- [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust
+- [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [orpheuslummis/cosmwasm-babysteps](https://github.com/orpheuslummis/cosmwasm-babysteps) - 
 - [orpheuslummis/hackmos2023](https://github.com/orpheuslummis/hackmos2023) - 
@@ -2428,9 +2430,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AudiusProject/hedgehog](https://github.com/AudiusProject/hedgehog) - 🦔 Build DApps like Apps -- A Metamask alternative that empowers you to build good UX
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
+- [Bendat/autometa](https://github.com/Bendat/autometa) - 
 - [BlockTrainBuilders/BlockTrain](https://github.com/BlockTrainBuilders/BlockTrain) - 
 - [BowlingX/geschichte](https://github.com/BowlingX/geschichte) - zustand and immer based hook to manage query parameters
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡  
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  
 - [BuilderIO/gpt-assistant](https://github.com/BuilderIO/gpt-assistant) - An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
@@ -2532,7 +2535,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmostation/chainlist](https://github.com/cosmostation/chainlist) - 📚 Chain Resource Managed By Cosmostation
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter. https://jupyter-ui-storybook.datalayer.tech
 - [davidfig/pixi-viewport](https://github.com/davidfig/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
