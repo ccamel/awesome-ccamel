@@ -571,7 +571,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [drgrib/maps](https://github.com/drgrib/maps) - Deprecated with note on how to implement this package's functionality using Go 1.18. Previously: Type-safe implementations of common map functions and tools to generate those functions.
 - [driusan/dgit](https://github.com/driusan/dgit) - A Pure Go Git Implementation
 - [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [dustinxie/ecc](https://github.com/dustinxie/ecc) - Golang native implementation of the secp256k1 elliptic curve
 - [dymensionxyz/dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
@@ -942,6 +942,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries.
 - [prometheus/procfs](https://github.com/prometheus/procfs) - procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
 - [promhippie/github_exporter](https://github.com/promhippie/github_exporter) - Prometheus exporter for GitHub
+- [provenance-io/provenance](https://github.com/provenance-io/provenance) - A distributed, proof of stake blockchain designed for the financial services industry.
 - [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates.
 - [psampaz/gothanks](https://github.com/psampaz/gothanks) - GoThanks automatically stars Go's official repository and your go.mod github dependencies, providing a simple way  to say thanks to the maintainers of the modules you use and the contributors of Go itself.
 - [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers
@@ -1073,6 +1074,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [trusch/passchain](https://github.com/trusch/passchain) - a blockchain based password store for teams
 - [trustbloc/vc-go](https://github.com/trustbloc/vc-go) - Verifiable Credentials (and related code) for Go
 - [trustbloc/vcs](https://github.com/trustbloc/vcs) - Verifiable Credential Systems
+- [trustbloc/wallet-sdk](https://github.com/trustbloc/wallet-sdk) - Verifiable Credential Wallet SDK and Demo/Reference Wallet App (Go / GoMobile | Android | iOS)
 - [trustmaster/goflow](https://github.com/trustmaster/goflow) - Flow-based and dataflow programming library for Go (golang)
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [ttacon/chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output. http://godoc.org/github.com/ttacon/chalk
@@ -2153,6 +2155,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [preiter93/wireman](https://github.com/preiter93/wireman) - A TUI gRPC client
+- [privacy-scaling-explorations/folding-schemes](https://github.com/privacy-scaling-explorations/folding-schemes) - 
 - [provenance-io/provwasm](https://github.com/provenance-io/provwasm) - This crate provides Rust bindings to enable CosmWasm smart contracts to interact with custom modules in the Provenance Blockchain.
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
@@ -2212,6 +2215,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [turbofish-org/orga](https://github.com/turbofish-org/orga) - State machine engine
+- [tweedegolf/teach-rs](https://github.com/tweedegolf/teach-rs) - A modular, reusable university course for Rust
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/musli](https://github.com/udoprog/musli) - Müsli is a flexible and generic binary serialization framework
 - [utkarshkukreti/draco](https://github.com/utkarshkukreti/draco) - Draco is a Rust library for building client side web applications with Web Assembly.
