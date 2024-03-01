@@ -544,6 +544,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmosregistry/chain-minimal](https://github.com/cosmosregistry/chain-minimal) - Mini - A minimal Cosmos SDK chain template
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [couchbase/gocb](https://github.com/couchbase/gocb) - The Couchbase Go SDK
+- [craigpastro/nungwi](https://github.com/craigpastro/nungwi) - Nungwi is a PoC authorization service inspired by Google Zanzibar, written in Ichiban Prolog.
 - [crescent-network/crescent](https://github.com/crescent-network/crescent) - ⛓️ Crescent Network, Expanding DeFi capabilities through InterBlockchain Technology 🌙
 - [crucibuild/cookiecutter-agent-go](https://github.com/crucibuild/cookiecutter-agent-go) - A cookiecutter template to create new Crucibuild Agents in Go following best practices.
 - [crucibuild/sdk-agent-go](https://github.com/crucibuild/sdk-agent-go) - Go library wrapping common tools to make Crucibuild agents
@@ -582,7 +583,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
 - [elliotchance/pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
-- [elys-network/elys](https://github.com/elys-network/elys) - Elys Network is a NextGen Decentralized Finance platform built on Cosmos and CometBFT, leveraging the latest blockchain technologies to provide a premier user experience. View our official site at https://elys.network
+- [elys-network/elys](https://github.com/elys-network/elys) - Elys Network is the first PerpDex and All-In-One DEFI platform to join the Atom Economic Zone, backed by Informal Systems and the Cosmos Hub. Built on Cosmos and CometBFT, leveraging the latest blockchain technologies to provide a premier user experience. Visit our official site at https://elys.network
 - [emicklei/mora](https://github.com/emicklei/mora) - MongoDB generic REST server in Go
 - [eminetto/api-o11y](https://github.com/eminetto/api-o11y) - Repository used in a talk about APIs and Observability
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
@@ -1857,7 +1858,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by LLM APIs.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -2456,13 +2457,13 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [KYVENetwork/kyvejs](https://github.com/KYVENetwork/kyvejs) - Tools for building applications on KYVE
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
 - [MyDidCom/mydid-auth](https://github.com/MyDidCom/mydid-auth) - 
 - [NoahSaso/snapper](https://github.com/NoahSaso/snapper) - API Caching Layer
 - [NodesGuru/casper-world](https://github.com/NodesGuru/casper-world) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [NodesGuru/casper-world-backend](https://github.com/NodesGuru/casper-world-backend) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
-- [Pondorasti/emojis](https://github.com/Pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 - [Protofy-xyz/Protofy](https://github.com/Protofy-xyz/Protofy) - AI Supercharged LowCode Platform CMS and Framework 🚀🚀
 - [QuantGeekDev/lmaolang](https://github.com/QuantGeekDev/lmaolang) - 👏🏼A👏🏼brand👏🏼new👏🏼way👏🏼to👏🏼write👏🏼HTML👏🏼
 - [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) - The game-changing wallet for Ethereum and all EVM chains
@@ -2682,6 +2683,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [poapxyz/poap](https://github.com/poapxyz/poap) - ⛔️ DEPRECATED - Proof Of Attendance Protocol
+- [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 - [poteat/hkt-toolbelt](https://github.com/poteat/hkt-toolbelt) - ✨Functional and composable type utilities
 - [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -3021,6 +3023,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [swyxio/devtools-angels](https://github.com/swyxio/devtools-angels) - active angel investors in developer tools!
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
+- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [teambit/reusable-components-styleguide](https://github.com/teambit/reusable-components-styleguide) - Tips and tricks for making components shareable across different projects (framework agnostic)
 - [tendermint/atom_one](https://github.com/tendermint/atom_one) - ATOM ONE CONSTITUTION
 - [tendermint/awesome](https://github.com/tendermint/awesome) - Collection of resources for all things Tendermint
