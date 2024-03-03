@@ -731,7 +731,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hyperboloide/lk](https://github.com/hyperboloide/lk) - Simple licensing library for golang.
 - [ichiban/prolog](https://github.com/ichiban/prolog) - The only reasonable scripting engine for Go.
 - [ignite-hq/installer](https://github.com/ignite-hq/installer) - One-liner for installing binaries from Github releases
-- [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
+- [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [inconshreveable/mousetrap](https://github.com/inconshreveable/mousetrap) - Detect starting from Windows explorer
