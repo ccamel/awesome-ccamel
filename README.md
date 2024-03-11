@@ -487,6 +487,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization
 - [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util
+- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - command argument completion generator for spf13/cobra
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go
 - [cbarraford/cosmos-multisig](https://github.com/cbarraford/cosmos-multisig) - Multi-signature Wallet for the Cosmos Blockchain
@@ -582,6 +583,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dymensionxyz/dymension-rdk](https://github.com/dymensionxyz/dymension-rdk) - Framework for building highly scalable RollApps
 - [dymensionxyz/dymint](https://github.com/dymensionxyz/dymint) - Sequencing Engine for Dymension RollApps
 - [dymensionxyz/roller](https://github.com/dymensionxyz/roller) - CLI tool for deploying Dymension RollApps
+- [e154/smart-home](https://github.com/e154/smart-home) - software package for automation
 - [eBay/akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
@@ -981,7 +983,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rs/jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
-- [rsteube/carapace](https://github.com/rsteube/carapace) - command argument completion generator for spf13/cobra
 - [rumlang/rum](https://github.com/rumlang/rum) - Functional language, easily extensible and possible (Lua features with LISP dialect and functional) to be embarked on software Go!
 - [runabol/tork](https://github.com/runabol/tork) - A distributed workflow engine
 - [ryboe/q](https://github.com/ryboe/q) - Quick and dirty debugging output for tired Go programmers
@@ -2184,7 +2185,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
 - [ricott1/sshattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
-- [rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+- [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [rust-bpf/rust-bcc](https://github.com/rust-bpf/rust-bcc) - user-friendly rust bindings for the bpf compiler collection
