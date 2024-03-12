@@ -1864,6 +1864,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
+- [derrian-distro/LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts) - A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy
 - [diego-vicente/som-tsp](https://github.com/diego-vicente/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
@@ -1894,6 +1895,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries.
+- [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
 - [laurentb/weboob](https://github.com/laurentb/weboob) - mirror of git://git.p.engu.in/laurentb/weboob
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
@@ -2104,7 +2106,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [grantshandy/fdg](https://github.com/grantshandy/fdg) - A Force Directed Graph Framework for Rust.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
-- [hackbg/fadroma](https://github.com/hackbg/fadroma) - Magical flying bulldozer for the Cosmosverse, developed at https://hack.bg. Contains clients for Tendermint-based chains in various states of flux, and a mini build system for deploying systems of multiple interdependent smart contracts from source.
+- [hackbg/fadroma](https://github.com/hackbg/fadroma) - Magical flying bulldozer for the Cosmosverse. Contains clients for Tendermint-based chains in various degrees of completeness, and a mini build system for deploying systems of multiple interdependent smart contracts from source.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [hoodrunio/explorer-backend](https://github.com/hoodrunio/explorer-backend) - Backend app for Cosmos ecosystem explorer.
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -2821,6 +2823,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AnatolianTeam/OKP4-Nemeton-Program](https://github.com/AnatolianTeam/OKP4-Nemeton-Program) - Everything is about OKP4 Nemeton Program
 - [BccNodes/BccNodes](https://github.com/BccNodes/BccNodes) - 
 - [BccNodes/okp4-nemeton-testnet](https://github.com/BccNodes/okp4-nemeton-testnet) - 
+- [BlockApex/resources](https://github.com/BlockApex/resources) - List of BlockApex public resources like audit readiness checklists, methodologies, pitch decks, company branding, etc.
 - [CedrickArmel/ml-template](https://github.com/CedrickArmel/ml-template) - 
 - [CosmWasm/awesome-cosmwasm](https://github.com/CosmWasm/awesome-cosmwasm) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
 - [CosmWasm/book](https://github.com/CosmWasm/book) - CosmWasm book
