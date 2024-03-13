@@ -297,7 +297,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rlopzc/elm-webpack-starter](https://github.com/rlopzc/elm-webpack-starter) - Elm 0.19 webpack 4 starter template to build SPA
 - [rogeriochaves/spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
-- [ryannhg/elm-storybook-example](https://github.com/ryannhg/elm-storybook-example) - An example of how you can build a design system with Elm + Storybook!
+- [ryan-haskell/elm-storybook-example](https://github.com/ryan-haskell/elm-storybook-example) - An example of how you can build a design system with Elm + Storybook!
 - [simonh1000/elm-colorpicker](https://github.com/simonh1000/elm-colorpicker) - Elm library to implement a color picker tool
 - [stil4m/elm-analyse](https://github.com/stil4m/elm-analyse) - A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 - [terezka/elm-charts](https://github.com/terezka/elm-charts) - Create SVG charts in Elm.
@@ -1042,6 +1042,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [strangelove-ventures/horcrux](https://github.com/strangelove-ventures/horcrux) - A threshold Tendermint signer
 - [strangelove-ventures/interchaintest](https://github.com/strangelove-ventures/interchaintest) - e2e testing framework for the interchain
 - [strangelove-ventures/lens](https://github.com/strangelove-ventures/lens) - ⚛️❤️👁 Brought to you by the LensCrafters
+- [strangelove-ventures/poa](https://github.com/strangelove-ventures/poa) - Cosmos Proof-of-Authority module for private & permissioned networks
 - [stratosnet/stratos-chain](https://github.com/stratosnet/stratos-chain) - Stratos Blockchain
 - [stretchr/objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
