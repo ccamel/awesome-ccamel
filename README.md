@@ -149,6 +149,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Monitor and observe the availability of end-user services atop of Kubernetes, Zabbix and Nagios. Define and track SLA/SLO targets through Prometheus metrics and built-in dashboards.
 - [sosolimited/Entity-Component-Samples](https://github.com/sosolimited/Entity-Component-Samples) - Cinder block for EntityX and a brief ECS tutorial.
@@ -191,6 +192,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [raystubbs/zero](https://github.com/raystubbs/zero) - Build web components in ClojureScript
 - [stain/owl2jsonld](https://github.com/stain/owl2jsonld) - Convert RDFS/OWL ontology to JSON-LD context
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+- [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
 
 ## Common Lisp
 
@@ -900,7 +902,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
 - [oliamb/cutter](https://github.com/oliamb/cutter) - Crop images in Golang
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
@@ -1003,6 +1004,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [seznam/slo-exporter](https://github.com/seznam/slo-exporter) - Slo-exporter computes standardized SLI and SLO metrics based on events coming from various data sources.
 - [sge-network/sge](https://github.com/sge-network/sge) - 
 - [shentufoundation/shentu](https://github.com/shentufoundation/shentu) - A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains
+- [shenwei356/brename](https://github.com/shenwei356/brename) - A practical cross-platform command-line tool for safely batch renaming files/directories via regular expression
 - [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) - Guidance for building event-driven distributed systems and microservices in Go with NATS JetStream, gRPC and CockroachDB 
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
 - [shurcooL/graphql](https://github.com/shurcooL/graphql) - Package graphql provides a GraphQL client implementation.
@@ -1921,6 +1923,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/data-selector](https://github.com/okp4/data-selector) - Select (or filter) data of different types and in multiple dimensions.
 - [okp4/detection-of-personal-data](https://github.com/okp4/detection-of-personal-data) - 📟 CLI tool to detect sensitive personal data
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
+- [openai/grok](https://github.com/openai/grok) - 
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
 - [openfaas/workshop](https://github.com/openfaas/workshop) - Learn Serverless for Kubernetes with OpenFaaS
 - [patdaburu/cookiecutter-click](https://github.com/patdaburu/cookiecutter-click) - A Python cookiecutter template to help you start a Click project.
