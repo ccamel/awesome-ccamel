@@ -422,7 +422,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Zondax/golem](https://github.com/Zondax/golem) - 
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [a8m/rql](https://github.com/a8m/rql) - Resource Query Language for REST
-- [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert Github Copilot to ChatGPT
 - [abice/gencheck](https://github.com/abice/gencheck) - Code Generated Validation for Go
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go
 - [achiku/planter](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
@@ -2503,7 +2502,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK) - Self Sovereign Identity SDK
-- [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Svelte Form and Vue Form.
+- [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Lit Form and Vue Form.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [Urigo/graphql-scalars](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
 - [VisionsOfficial/Human-Centric-Rulebook](https://github.com/VisionsOfficial/Human-Centric-Rulebook) - Service Registry project description (TBD)
