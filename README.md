@@ -1000,6 +1000,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [segmentio/topicctl](https://github.com/segmentio/topicctl) - Tool for declarative management of Kafka topics
 - [sergi/go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go
+- [settlus/chain](https://github.com/settlus/chain) - Implementation of Settlus node
 - [seznam/slo-exporter](https://github.com/seznam/slo-exporter) - Slo-exporter computes standardized SLI and SLO metrics based on events coming from various data sources.
 - [sge-network/sge](https://github.com/sge-network/sge) - 
 - [shentufoundation/shentu](https://github.com/shentufoundation/shentu) - A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains
@@ -1535,6 +1536,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [hhru/react-d3-chart-graphs](https://github.com/hhru/react-d3-chart-graphs) - 
 - [hoodrunio/cosmos-governance](https://github.com/hoodrunio/cosmos-governance) - Governance proposals notification/alert bot for Cosmos-based chains
+- [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - 
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [inblocks/precedence](https://github.com/inblocks/precedence) - precedence brings secure blockchain-powered traceability features to your already existing legacy information system
 - [iot-schema-collab/iotschema](https://github.com/iot-schema-collab/iotschema) - 
@@ -1543,7 +1545,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [irisnet/irishub](https://github.com/irisnet/irishub) - A BPoS blockchain that enables cross-chain interoperability through a unified service model -- built with Cosmos-SDK
-- [isbang/compose-action](https://github.com/isbang/compose-action) - 
 - [ixofoundation/ixo-blockchain](https://github.com/ixofoundation/ixo-blockchain) - ixo blockchain SDK
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
@@ -2582,7 +2583,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
