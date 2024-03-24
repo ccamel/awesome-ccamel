@@ -2637,6 +2637,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [guregu/trealla-js](https://github.com/guregu/trealla-js) - Trealla Prolog for the web
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hazae41/decibel](https://github.com/hazae41/decibel) - Queriable in-memory database for TypeScript
 - [hazae41/result](https://github.com/hazae41/result) - Rust-like Result for TypeScript
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
