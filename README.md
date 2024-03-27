@@ -429,7 +429,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter) - DEPRECATED: Use https://github.com/golangci/golangci-lint
 - [alessio/shellescape](https://github.com/alessio/shellescape) - Escape arbitrary strings for use as command line arguments
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
@@ -1036,6 +1035,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [spf13/pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
+- [srdtrk/cw-ica-controller](https://github.com/srdtrk/cw-ica-controller) - This is a CosmWasm implementation of an ICS-27 interchain accounts controller.
 - [srdtrk/linked-packets](https://github.com/srdtrk/linked-packets) - This middleware module allows ibc packets across different channels execute atomically.
 - [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
@@ -1538,7 +1538,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [hhru/react-d3-chart-graphs](https://github.com/hhru/react-d3-chart-graphs) - 
 - [hoodrunio/cosmos-governance](https://github.com/hoodrunio/cosmos-governance) - Governance proposals notification/alert bot for Cosmos-based chains
-- [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - 
+- [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - This action runs your docker-compose file and clean up before action finished
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [inblocks/precedence](https://github.com/inblocks/precedence) - precedence brings secure blockchain-powered traceability features to your already existing legacy information system
 - [iot-schema-collab/iotschema](https://github.com/iot-schema-collab/iotschema) - 
@@ -2235,7 +2235,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
 - [spruceid/didkit](https://github.com/spruceid/didkit) - A cross-platform toolkit for decentralized identity.
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
-- [srdtrk/cw-ica-controller](https://github.com/srdtrk/cw-ica-controller) - This is a CosmWasm implementation of an ICS-27 interchain accounts controller.
 - [stellar/slingshot](https://github.com/stellar/slingshot) -  A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [swc-project/plugins](https://github.com/swc-project/plugins) - Plugins for swc, written in rust
@@ -2526,6 +2525,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months. 
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
@@ -3021,7 +3021,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [olegrjumin/awesome-react-state-management](https://github.com/olegrjumin/awesome-react-state-management) - ⚛️  ・React state management tools and libraries
 - [omniti-labs/jsend](https://github.com/omniti-labs/jsend) - JSend is a specification for a simple, no-frills, JSON based format for application-level communication.
 - [ontology-tech/DID-method-specs](https://github.com/ontology-tech/DID-method-specs) - 
-- [onwidget/awesome-qwik](https://github.com/onwidget/awesome-qwik) - 💠 A curated list of awesome Qwik repos, examples, starters, tutorials, components, modules, videos, and anything else useful.
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - 📙 Awesome Data Catalogs and Observability Platforms. 
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
