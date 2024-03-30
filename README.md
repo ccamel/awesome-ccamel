@@ -1539,7 +1539,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [hhru/react-d3-chart-graphs](https://github.com/hhru/react-d3-chart-graphs) - 
 - [hoodrunio/cosmos-governance](https://github.com/hoodrunio/cosmos-governance) - Governance proposals notification/alert bot for Cosmos-based chains
-- [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - This action runs your docker-compose file and clean up before action finished
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [inblocks/precedence](https://github.com/inblocks/precedence) - precedence brings secure blockchain-powered traceability features to your already existing legacy information system
 - [iot-schema-collab/iotschema](https://github.com/iot-schema-collab/iotschema) - 
@@ -2038,6 +2037,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects) - Featured Dioxus projects on how to build clean user interfaces in Rust
 - [Electron-Labs/cw-eth2-lc](https://github.com/Electron-Labs/cw-eth2-lc) - Eth2 light client implementation as a cosmwasm smart contract
+- [EntropicLabs/cw-rewards](https://github.com/EntropicLabs/cw-rewards) - 
 - [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [InjectiveLabs/cw-injective](https://github.com/InjectiveLabs/cw-injective) - 
@@ -2062,6 +2062,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ad2ien/ideal-wages-calculator](https://github.com/ad2ien/ideal-wages-calculator) - A webassembly project using trunk and yew to point out injustices in range of wages
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
 - [andresilva/rust-okasaki](https://github.com/andresilva/rust-okasaki) - Purely Functional Data Structures in Rust
+- [andromedaprotocol/andromeda-core](https://github.com/andromedaprotocol/andromeda-core) - Operating System and ADO Smart Contracts
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
 - [antouhou/rs-merkle](https://github.com/antouhou/rs-merkle) - The most advanced Merkle tree library for Rust
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
@@ -2640,12 +2641,14 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [guregu/trealla-js](https://github.com/guregu/trealla-js) - Trealla Prolog for the web
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hazae41/cadenas](https://github.com/hazae41/cadenas) - Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [hazae41/decibel](https://github.com/hazae41/decibel) - Queriable in-memory database for TypeScript
 - [hazae41/result](https://github.com/hazae41/result) - Rust-like Result for TypeScript
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
 - [homotechsual/docusaurus.community](https://github.com/homotechsual/docusaurus.community) - Docusaurus.community - Collecting knowledge, tips and tricks for Docusaurus.
 - [hongaar/semantic-release-yarn](https://github.com/hongaar/semantic-release-yarn) - 🧶 A semantic-release plugin to publish npm packages with Yarn. Comes with built-in support for monorepos.
+- [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - This action runs your docker-compose file and clean up before action finished
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [hung-ngm/cosmos-sdk-gpt](https://github.com/hung-ngm/cosmos-sdk-gpt) - A chatbot on the Cosmos SDK source code
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
@@ -2659,6 +2662,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
 - [iroiro/iroiro](https://github.com/iroiro/iroiro) - 
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Cypress + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
@@ -3024,6 +3028,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [olegrjumin/awesome-react-state-management](https://github.com/olegrjumin/awesome-react-state-management) - ⚛️  ・React state management tools and libraries
 - [omniti-labs/jsend](https://github.com/omniti-labs/jsend) - JSend is a specification for a simple, no-frills, JSON based format for application-level communication.
 - [ontology-tech/DID-method-specs](https://github.com/ontology-tech/DID-method-specs) - 
+- [onwidget/awesome-qwik](https://github.com/onwidget/awesome-qwik) - 💠 A curated list of awesome Qwik repos, examples, starters, tutorials, components, modules, videos, and anything else useful.
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - 📙 Awesome Data Catalogs and Observability Platforms. 
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
