@@ -1410,7 +1410,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware) - ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes
 - [GoldinGuy/Ideastorm](https://github.com/GoldinGuy/Ideastorm) - 💡 Ideas for days
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI) - User interface for the Dataspace Connector.
 - [IvanGoncharov/react-apollo-lodash-demo](https://github.com/IvanGoncharov/react-apollo-lodash-demo) - Example usage of react-apollo with graphql-lodash
@@ -2171,6 +2171,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/cosmos-rust](https://github.com/okp4/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [okp4/cosmos-tools](https://github.com/okp4/cosmos-tools) - 💰 Tool to generate cliff vesting configuration for cosmos chains
 - [okp4/discord-bot](https://github.com/okp4/discord-bot) - 🤖 Discord bot used @okp4 to bridge the Dataverse!
+- [okp4/hackwasm-okp4](https://github.com/okp4/hackwasm-okp4) - 
 - [okp4/okp4-cosmos-proto](https://github.com/okp4/okp4-cosmos-proto) - OKP4 CØSMOS gRPC client libraries based on Protobuf definitions.
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
 - [omallassi/adrust](https://github.com/omallassi/adrust) - ADRust: a tool in Rust to manage (Architecture) Decision Records
