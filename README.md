@@ -464,6 +464,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [benbjohnson/immutable](https://github.com/benbjohnson/immutable) - Immutable collections for Go
 - [beorn7/perks](https://github.com/beorn7/perks) - Effective Computation of Things
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [beyondstorage/go-storage](https://github.com/beyondstorage/go-storage) - A vendor-neutral storage library for Golang: Write once, run on every storage service.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
@@ -878,6 +879,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nikolaydubina/go-graph-layout](https://github.com/nikolaydubina/go-graph-layout) - 🔮 Graph Layout Algorithms in Go
 - [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) - 🏝 JSONL Graph Tools
 - [noble-assets/noble](https://github.com/noble-assets/noble) - 
+- [noislabs/noisd](https://github.com/noislabs/noisd) - 
 - [novalagung/gubrak](https://github.com/novalagung/gubrak) - ⚙️ Golang functional utility library with syntactic sugar. It's like lodash, but for Go
 - [nsqio/go-nsq](https://github.com/nsqio/go-nsq) - The official Go package for NSQ
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -1413,6 +1415,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DemocracyEarth/self](https://github.com/DemocracyEarth/self) - 🦉 Cryptgraphic peer authentication.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware) - ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes
+- [FindTheFox/Fractal-React-Native-Three](https://github.com/FindTheFox/Fractal-React-Native-Three) - Fractal render application made in React-Native with expo-three & react-three-fiber
 - [GoldinGuy/Ideastorm](https://github.com/GoldinGuy/Ideastorm) - 💡 Ideas for days
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
@@ -1615,7 +1618,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rdfjs/N3.js](https://github.com/rdfjs/N3.js) - Lightning fast, spec-compatible, streaming RDF for JavaScript
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
-- [react-tags/react-tags](https://github.com/react-tags/react-tags) - A fantastically simple tagging component for your projects
 - [react-theming/create-mui-theme](https://github.com/react-theming/create-mui-theme) - online tool for creating material-ui themes
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. 
 - [rehypejs/rehype-react](https://github.com/rehypejs/rehype-react) - plugin to transform to preact, react, vue, etc
@@ -2169,6 +2171,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [near-ndc/voting-v1](https://github.com/near-ndc/voting-v1) - Voting smart contracts for NDC v1
 - [neutron-org/neutron-dao](https://github.com/neutron-org/neutron-dao) - 
+- [nomic-io/nomic](https://github.com/nomic-io/nomic) - Rust implementation of the Nomic Bitcoin sidechain
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [nymlab/vectis](https://github.com/nymlab/vectis) - The Foundation for Compliant Self-sovereign Wallets
@@ -2546,6 +2549,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [antho31/okp4-ui-boilerplate](https://github.com/antho31/okp4-ui-boilerplate) - 🖥️ Vite starter for the OKP4 protocol
 - [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
@@ -2751,6 +2755,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [react-component/select](https://github.com/react-component/select) - React Select
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [react-tags/react-tags](https://github.com/react-tags/react-tags) - A fantastically simple tagging component for your projects
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [regen-network/regen-server](https://github.com/regen-network/regen-server) - :seedling: Regen web server and database
