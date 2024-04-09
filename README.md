@@ -653,7 +653,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [go-validator/validator](https://github.com/go-validator/validator) - Package validator implements struct field validations
 - [go-wasm-adapter/go-wasm](https://github.com/go-wasm-adapter/go-wasm) - Run WASM built from Go in Go
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
@@ -1768,6 +1767,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [dydxprotocol/v4-documentation](https://github.com/dydxprotocol/v4-documentation) - 
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## Makefile
@@ -1835,7 +1835,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
 - [ActivityWatch/contributor-stats](https://github.com/ActivityWatch/contributor-stats) - Generating contributor stats for the ActivityWatch project
 - [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
-- [Anil-matcha/Chatbase](https://github.com/Anil-matcha/Chatbase) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
+- [Anil-matcha/Chatbase-Alternative](https://github.com/Anil-matcha/Chatbase-Alternative) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
 - [BlueFox2718/Solveur-Mini-Cactpot-FFXIV](https://github.com/BlueFox2718/Solveur-Mini-Cactpot-FFXIV) - 
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
