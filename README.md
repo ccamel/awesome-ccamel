@@ -135,6 +135,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [4Lang/4](https://github.com/4Lang/4) - A completely emoji-based programming language
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [KDE/kwallet](https://github.com/KDE/kwallet) - KWallet: Credential Storage
+- [PabloMK7/citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [data61/MP-SPDZ](https://github.com/data61/MP-SPDZ) - Versatile framework for multi-party computation
