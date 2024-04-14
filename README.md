@@ -2134,7 +2134,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [google/zerocopy](https://github.com/google/zerocopy) - 
-- [grantshandy/fdg](https://github.com/grantshandy/fdg) - A Force Directed Graph Framework for Rust.
+- [grantshandy/fdg](https://github.com/grantshandy/fdg) - A Force Directed Graph Drawing Library
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [hackbg/fadroma](https://github.com/hackbg/fadroma) - Magical flying bulldozer for the Cosmosverse. Contains clients for Tendermint-based chains in various degrees of completeness, and a mini build system for deploying systems of multiple interdependent smart contracts from source.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
