@@ -871,6 +871,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [mwitkow/go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations.
 - [mxschmitt/golang-url-shortener](https://github.com/mxschmitt/golang-url-shortener) - URL Shortener written in Golang using Bolt DB or Redis. Provides features such as Deletion, Expiration, OAuth and is of course Dockerizable.
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 - [nanobox-io/golang-scribble](https://github.com/nanobox-io/golang-scribble) - A tiny Golang JSON database
 - [nao1215/spectest](https://github.com/nao1215/spectest) - A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests. 
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
@@ -1412,7 +1413,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BitCannaCommunity/cosmos-faucet](https://github.com/BitCannaCommunity/cosmos-faucet) - Cosmos-faucet is a simple alternative to the tendermint/faucet GoLang script. This is an idea adapted for  Bitcanna and can be used for any project using cosmos.
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [ChristophP/elm-esm](https://github.com/ChristophP/elm-esm) - Turn Elm compiler output into modern ES Modules
-- [CosmWasm/docs](https://github.com/CosmWasm/docs) - Updated documentation repo
+- [CosmWasm/docs-deprecated](https://github.com/CosmWasm/docs-deprecated) - Updated documentation repo
 - [David-Kunz/derive-type](https://github.com/David-Kunz/derive-type) - Derive types dynamically by running tests to capture value combinations
 - [DemocracyEarth/self](https://github.com/DemocracyEarth/self) - 🦉 Cryptgraphic peer authentication.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
