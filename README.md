@@ -2209,7 +2209,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [preiter93/wireman](https://github.com/preiter93/wireman) - A TUI gRPC client
-- [privacy-scaling-explorations/sonobe](https://github.com/privacy-scaling-explorations/sonobe) - 
+- [privacy-scaling-explorations/sonobe](https://github.com/privacy-scaling-explorations/sonobe) - Experimental folding schemes library
 - [provenance-io/provwasm](https://github.com/provenance-io/provwasm) - This crate provides Rust bindings to enable CosmWasm smart contracts to interact with custom modules in the Provenance Blockchain.
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
@@ -2683,7 +2683,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [iroiro/iroiro](https://github.com/iroiro/iroiro) - 
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Cypress + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [jonmbake/react-terminal-ui](https://github.com/jonmbake/react-terminal-ui) - A terminal react component with support for light and dark modes.
