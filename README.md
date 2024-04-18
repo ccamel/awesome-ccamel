@@ -1104,7 +1104,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tyler-smith/go-avalanche](https://github.com/tyler-smith/go-avalanche) - Implementation of the Avalanche consensus algorithm in Go
 - [uber-common/cadence-samples](https://github.com/uber-common/cadence-samples) - 
 - [uber-go/cadence-client](https://github.com/uber-go/cadence-client) - Framework for authoring workflows and activities running on top of the Cadence orchestration engine.
-- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
