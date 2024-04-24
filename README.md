@@ -411,8 +411,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Reecepbcups/cosmos-submit-tx-client](https://github.com/Reecepbcups/cosmos-submit-tx-client) - Submit a Cosmos Tx in Go (via gRPC)
 - [Shyp/generate-tls-cert](https://github.com/Shyp/generate-tls-cert) - Generating self signed certificates
 - [SimonSchneider/traefik-jwt-decode](https://github.com/SimonSchneider/traefik-jwt-decode) - Traefik forward auth implementation for JWT tokens
-- [SyntropyNet/data-layer-sdk](https://github.com/SyntropyNet/data-layer-sdk) - 
-- [SyntropyNet/syntropy-agent](https://github.com/SyntropyNet/syntropy-agent) - Syntropy Platform Agent
+- [Synternet/data-layer-sdk](https://github.com/Synternet/data-layer-sdk) - 
+- [Synternet/syntropy-agent](https://github.com/Synternet/syntropy-agent) - Syntropy Platform Agent
 - [TERITORI/teritori-chain](https://github.com/TERITORI/teritori-chain) - Teritori chain repository based on Cosmos SDK
 - [TIBCOSoftware/flogo-contrib](https://github.com/TIBCOSoftware/flogo-contrib) - Flogo Contribution repo. Contains activities, triggers, models and actions.
 - [Team-Kujira/core](https://github.com/Team-Kujira/core) - 
@@ -558,7 +558,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
 - [dataux/dataux](https://github.com/dataux/dataux) - Federated mysql compatible proxy to elasticsearch, mongo, cassandra, big-table, google datastore
@@ -602,7 +601,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies. 
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
+- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [evmos/evmos](https://github.com/evmos/evmos) - Evmos is the first decentralized EVM chain on the Cosmos Network.  It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
@@ -730,6 +729,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hexdigest/gowrap](https://github.com/hexdigest/gowrap) - GoWrap is a command line tool for generating decorators for Go interfaces
 - [hexops/vecty](https://github.com/hexops/vecty) - Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [hhatto/gocloc](https://github.com/hhatto/gocloc) -  A little fast cloc(Count Lines Of Code)
+- [hotaruswarm/dagu](https://github.com/hotaruswarm/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [howeyc/ledger](https://github.com/howeyc/ledger) - Command line double-entry accounting program
 - [huandu/xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go.
 - [hukkin/cosmosvanity](https://github.com/hukkin/cosmosvanity) - CLI tool for generating Cosmos vanity addresses
@@ -1891,6 +1891,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
+- [etalab-ia/albert](https://github.com/etalab-ia/albert) - Backend ressources for Albert. Albert, also known as LIA (Legal Information Assistant), is a conversational agent that uses official French data sources to answer administrative agents questions.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -2060,6 +2061,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
+- [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 - [LeTurt333/LeBundler](https://github.com/LeTurt333/LeBundler) - CosmWasm query bundler + Example usage of Raw Queries
 - [MegaRockLabs/cw-extra](https://github.com/MegaRockLabs/cw-extra) - Experimental CosmWasm based contracts, packages and protocols
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -2071,6 +2073,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
+- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀. 
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
