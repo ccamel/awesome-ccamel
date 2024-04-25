@@ -966,7 +966,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [raviqqe/gherkin2markdown](https://github.com/raviqqe/gherkin2markdown) - Gherkin to Markdown converter
 - [rchakode/hugo-mx-gateway](https://github.com/rchakode/hugo-mx-gateway) - :mailbox_with_no_mail: :scroll: Contact/demo form handler for static websites. Deploy in minutes on Google App Engine, Kubernetes, or Docker. Tested with Hugo static site generator.
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [rcrowley/go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library
 - [red-gold/telar-social-go](https://github.com/red-gold/telar-social-go) - Telar Social Engine is a scalable cloud native social network. Whatever your creative idea or unique bussiness model, you can build it by Telar running on any public or private cloud.
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
@@ -2090,6 +2090,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [arkworks-rs/curves](https://github.com/arkworks-rs/curves) - Implementations of popular elliptic curves 
 - [arkworks-rs/poly-commit](https://github.com/arkworks-rs/poly-commit) - A Rust library for polynomial commitments
 - [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std) - R1CS constraints for bits, fields, and elliptic curves
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) - Astroport DEX core contracts
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
