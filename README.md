@@ -170,6 +170,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
 - [blockpane/tenderduty](https://github.com/blockpane/tenderduty) - Notification tool for Cosmos/Tendermint validators, sends alerts when missing pre-commits
 - [jeblister/kube](https://github.com/jeblister/kube) - Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog.
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
 - [kevin-powell/How-to-build-a-responsive-website-from-scratch](https://github.com/kevin-powell/How-to-build-a-responsive-website-from-scratch) - The site I built for this tutorial series on YouTube: https://www.youtube.com/playlist?list=PL4-IK0AVhVjOH5r4GAtlk1-tLUlEdiqXG
 - [marccampbell/hugo-linkcheck-action](https://github.com/marccampbell/hugo-linkcheck-action) - 
@@ -697,7 +698,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [goraz/onion](https://github.com/goraz/onion) - Layer based configuration for golang
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend.
+- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
 - [gqlc/gqlc](https://github.com/gqlc/gqlc) - GraphQL IDL Compiler
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -2056,6 +2057,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EntropicLabs/cw-rewards](https://github.com/EntropicLabs/cw-rewards) - 
 - [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
+- [Handfish/confetty_rs](https://github.com/Handfish/confetty_rs) - Rust port of maaslalani/confetty
 - [InjectiveLabs/cw-injective](https://github.com/InjectiveLabs/cw-injective) - 
 - [InjectiveLabs/test-tube](https://github.com/InjectiveLabs/test-tube) - Enables testing CosmWasm contracts against Injective chain without mocks!
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
@@ -2299,7 +2301,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties. 
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [okp4/docs](https://github.com/okp4/docs) - 📜 OKP4 documentation portal (built with Docusaurus).
 - [okp4/okp4-web](https://github.com/okp4/okp4-web) - 🌐 OKP4 web site
 - [okp4/team-wiki](https://github.com/okp4/team-wiki) - 📚 OKP4 Wiki
@@ -2515,6 +2516,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CurlGPT/CurlGPT](https://github.com/CurlGPT/CurlGPT) - ChatGPT in your favourite terminal
 - [DA0-DA0/dao-dao-ui](https://github.com/DA0-DA0/dao-dao-ui) - InterChain DAO tooling UI.
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
+- [DocusaurusCommunity/website](https://github.com/DocusaurusCommunity/website) - Docusaurus.community - Collecting knowledge, tips and tricks for Docusaurus.
 - [DomParfitt/graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
@@ -2676,7 +2678,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/result](https://github.com/hazae41/result) - Rust-like Result for TypeScript
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
-- [homotechsual/docusaurus.community](https://github.com/homotechsual/docusaurus.community) - Docusaurus.community - Collecting knowledge, tips and tricks for Docusaurus.
 - [hongaar/semantic-release-yarn](https://github.com/hongaar/semantic-release-yarn) - 🧶 A semantic-release plugin to publish npm packages with Yarn. Comes with built-in support for monorepos.
 - [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - This action runs your docker-compose file and clean up before action finished
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
