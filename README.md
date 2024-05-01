@@ -152,6 +152,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [parcel-bundler/watcher](https://github.com/parcel-bundler/watcher) - 👀 A native C++ Node module for querying and subscribing to filesystem events
 - [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Monitor and observe the availability of end-user services atop of Kubernetes, Zabbix and Nagios. Define and track SLA/SLO targets through Prometheus metrics and built-in dashboards.
 - [sosolimited/Entity-Component-Samples](https://github.com/sosolimited/Entity-Component-Samples) - Cinder block for EntityX and a brief ECS tutorial.
 - [strickyak/jsonnet_cgo](https://github.com/strickyak/jsonnet_cgo) - Golang CGo Wrapper around JSonnet VM
@@ -626,7 +627,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [forbole/juno](https://github.com/forbole/juno) - A Cosmos Hub data aggregator and exporter.
 - [francesconi/go-rampart](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
 - [free/sql_exporter](https://github.com/free/sql_exporter) - Database agnostic SQL exporter for Prometheus
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
+- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [fugue/zim](https://github.com/fugue/zim) - A caching build system for teams using monorepos
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [functionalfoundry/graphqlws](https://github.com/functionalfoundry/graphqlws) - Implementation of the GraphQL over WebSocket protocol in Go.
@@ -1860,6 +1861,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [actions-automation/pull-request-responsibility](https://github.com/actions-automation/pull-request-responsibility) - Keep pull requests moving -- from opening to merge.
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
+- [aida-ugent/fairret](https://github.com/aida-ugent/fairret) - A fairness library in PyTorch.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [amcat/progressmonitor](https://github.com/amcat/progressmonitor) - Python classes for tracking (sub)task progress (inspired by Eclipse ProgressMonitor, but more pythonic)
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
