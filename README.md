@@ -2107,6 +2107,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [bocarw121/tailwind-yew-cli](https://github.com/bocarw121/tailwind-yew-cli) - Sets up the latest tailwindcss version in your existing yew project.
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [bounce-rs/bounce](https://github.com/bounce-rs/bounce) - The uncomplicated Yew State management library
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -2521,7 +2522,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DocusaurusCommunity/website](https://github.com/DocusaurusCommunity/website) - Docusaurus.community - Collecting knowledge, tips and tricks for Docusaurus.
 - [DomParfitt/graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [EmpowerPlastic/empowerchain](https://github.com/EmpowerPlastic/empowerchain) - Empowerchain is a global platform to revolutionize waste management and recycling, creating a transparent and efficient circular economy.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
