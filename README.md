@@ -407,7 +407,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Orange-OpenSource/nifikop](https://github.com/Orange-OpenSource/nifikop) - The NiFiKop NiFi Kubernetes operator makes it easy to run Apache NiFi on Kubernetes. Apache NiFI is a free, open-source solution that support powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
 - [Pisush/chatGPT-plugin-template](https://github.com/Pisush/chatGPT-plugin-template) - For Gophers
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
-- [QuokkaStake/cosmos-validators-exporter](https://github.com/QuokkaStake/cosmos-validators-exporter) - A Prometheus scraper to fetch data about your validators in Cosmos-based blockchains.
+- [QuokkaStake/cosmos-validators-exporter](https://github.com/QuokkaStake/cosmos-validators-exporter) - A Prometheus exporter to fetch data about your validators in Cosmos-based blockchains.
 - [QuokkaStake/tmtop](https://github.com/QuokkaStake/tmtop) - A top-like chain consensus and chain info visualizer for all Tendermint chains.
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [Reecepbcups/cosmos-submit-tx-client](https://github.com/Reecepbcups/cosmos-submit-tx-client) - Submit a Cosmos Tx in Go (via gRPC)
@@ -436,6 +436,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter) - DEPRECATED: Use https://github.com/golangci/golangci-lint
 - [alessio/shellescape](https://github.com/alessio/shellescape) - Escape arbitrary strings for use as command line arguments
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
@@ -988,6 +989,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
 - [rollkit/celestia-da](https://github.com/rollkit/celestia-da) - Celestia Implementation of Modular Data Availability Interface
 - [rollkit/go-da](https://github.com/rollkit/go-da) - Generic Data Availability Interface for Modular Blockchains
+- [rollkit/rollkit](https://github.com/rollkit/rollkit) - A modular framework for rollups, with an ABCI-compatible client interface.
 - [rs/jaggr](https://github.com/rs/jaggr) - JSON Aggregation CLI
 - [rs/jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
@@ -2520,6 +2522,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DA0-DA0/dao-dao-ui](https://github.com/DA0-DA0/dao-dao-ui) - InterChain DAO tooling UI.
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
 - [DocusaurusCommunity/website](https://github.com/DocusaurusCommunity/website) - Docusaurus.community - Collecting knowledge, tips and tricks for Docusaurus.
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [DomParfitt/graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
@@ -2564,7 +2567,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months. 
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
