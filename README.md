@@ -741,7 +741,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [inconshreveable/mousetrap](https://github.com/inconshreveable/mousetrap) - Detect starting from Windows explorer
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [ipfs/go-metrics-prometheus](https://github.com/ipfs/go-metrics-prometheus) - Prometheus bindings for go-metrics-interface
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
@@ -832,6 +832,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [marianogappa/flowbro](https://github.com/marianogappa/flowbro) - Real-time flowchart visualisation for Kafka-based distributed systems.
 - [martian-lang/martian](https://github.com/martian-lang/martian) - Language and framework for high performance computational pipelines.
 - [maruel/panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
+- [matchain/match](https://github.com/matchain/match) - Match is a social network platform based on Cosmos network that is composability, modularity, privacy, decentralized and interoperable.
 - [matcornic/hermes](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails for sending transactional mail
 - [mathieupassenaud/google-calendar-retreiver](https://github.com/mathieupassenaud/google-calendar-retreiver) - 
 - [matiasanaya/go-graphql-subscription-example](https://github.com/matiasanaya/go-graphql-subscription-example) - go-graphql subscription example
@@ -930,7 +931,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [packruler/rewrite-body](https://github.com/packruler/rewrite-body) - Traefik Plugin to allow regex replacement of HTTP GET response body
 - [paganotoni/tailo](https://github.com/paganotoni/tailo) - Tailo is a wrapper that takes care of downloading the TailwindCLI and run it.
 - [palomachain/paloma](https://github.com/palomachain/paloma) - The fast blockchain messenger protocol
-- [parakeet-nest/parakeet](https://github.com/parakeet-nest/parakeet) - 🦜🪺 Parakeet is a GoLang library, made to simplify the development of small generative AI applications.
+- [parakeet-nest/parakeet](https://github.com/parakeet-nest/parakeet) - 🦜🪺 Parakeet is a GoLang library, made to simplify the development of small generative AI applications with Ollama 🦙.
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [pelletier/go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML file format
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - The most accurate natural language detection library for Go, suitable for short text and mixed-language text
@@ -2040,6 +2041,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Callum-A/whoami-paths](https://github.com/Callum-A/whoami-paths) - 
 - [CanYavuzIterationTech/knowledge-network](https://github.com/CanYavuzIterationTech/knowledge-network) - Prolog solution for complex calculations.
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
+- [ChristianSchott/boris](https://github.com/ChristianSchott/boris) - Visualizing Ownership and Borrowing in Rust Programs
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK
 - [CosmWasm/cw-minus](https://github.com/CosmWasm/cw-minus) - Contract helpers originally used for cw-plus contracts/specs
 - [CosmWasm/cw-multi-test](https://github.com/CosmWasm/cw-multi-test) - CosmWasm multi-contract testing framework
@@ -2115,6 +2117,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [codeninja819/cw721-nft-staking](https://github.com/codeninja819/cw721-nft-staking) - CW721 NFT Staking smart contract in CosmWasm
 - [concoct-rs/concoct](https://github.com/concoct-rs/concoct) - A reactive runtime for embedded systems in Rust
 - [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Example IBC enabled contracts along with full stack integration tests
 - [confio/poe-contracts](https://github.com/confio/poe-contracts) - Tgrade PoE smart contracts
@@ -2922,6 +2925,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
 - [ScalablyTyped/Distribution](https://github.com/ScalablyTyped/Distribution) - The Javascript ecosystem for Scala.js!
+- [SecretFoundation/docs](https://github.com/SecretFoundation/docs) - Secret Network Documentation
 - [SmartStake/relayers](https://github.com/SmartStake/relayers) - A repository of all interchain relayers (IBC). Data stored in this repository is used to build https://relayers.smartstake.io
 - [SonnevilleDamien/SonnevilleDamien](https://github.com/SonnevilleDamien/SonnevilleDamien) - My profile. 
 - [Symbitic/awesome-babylonjs](https://github.com/Symbitic/awesome-babylonjs) - A curated list of awesome things related to Babylon.js
