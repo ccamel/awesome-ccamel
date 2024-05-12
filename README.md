@@ -683,7 +683,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [golang/xerrors](https://github.com/golang/xerrors) - 
 - [golangbot/arraysandslices](https://github.com/golangbot/arraysandslices) - Arrays and Slices in Go
 - [golangci/awesome-go-linters](https://github.com/golangci/awesome-go-linters) - A curated list of awesome Go linters. More than 60 linters and tools!
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [gomodules/notify](https://github.com/gomodules/notify) - Send notification via Email, SMS, Chat etc.
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
@@ -1012,6 +1012,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [segmentio/topicctl](https://github.com/segmentio/topicctl) - Tool for declarative management of Kafka topics
+- [sei-protocol/sei-db](https://github.com/sei-protocol/sei-db) - 
 - [sergi/go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go
 - [settlus/chain](https://github.com/settlus/chain) - Implementation of Settlus node
 - [seznam/slo-exporter](https://github.com/seznam/slo-exporter) - Slo-exporter computes standardized SLI and SLO metrics based on events coming from various data sources.
@@ -2072,6 +2073,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 - [LeTurt333/LeBundler](https://github.com/LeTurt333/LeBundler) - CosmWasm query bundler + Example usage of Raw Queries
+- [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 - [MegaRockLabs/cw-extra](https://github.com/MegaRockLabs/cw-extra) - Experimental CosmWasm based contracts, packages and protocols
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
