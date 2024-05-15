@@ -237,7 +237,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [andre-dietrich/elm-conditional](https://github.com/andre-dietrich/elm-conditional) - Conditional application of functions to simplify piping.
 - [arowM/elm-atomic-design-example](https://github.com/arowM/elm-atomic-design-example) - An example Elm project in the manner of atomic design.
 - [avh4/elm-color](https://github.com/avh4/elm-color) - Standard representation of colors, encouraging sharing between packages.  (This replaces elm-lang/core#Color from Elm 0.18.)
-- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Next-Gen ERD: Design, Explore, Document and Analyze your database
+- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Explore and optimize any database
 - [bigardone/elm-dynamic-base-path](https://github.com/bigardone/elm-dynamic-base-path) - Example Elm SPA with dynamic base path
 - [billstclair/elm-websocket-client](https://github.com/billstclair/elm-websocket-client) - Websockets for Elm 0.19, using ports
 - [ccamel/playground-elm](https://github.com/ccamel/playground-elm) -  :balloon: My playground for playing with elm-lang
@@ -464,6 +464,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [axone-protocol/axoned](https://github.com/axone-protocol/axoned) - ⛓️ Axone blockchain 💫
 - [aybabtme/logzalgo](https://github.com/aybabtme/logzalgo) - Logrus formatter invoking the P͉̫o̳̼̊w̖͈̰͎e̬͔̭͂r͚̼̹̲ ̫͓͉̳͈ō̠͕͖̚f̝͍̠ ͕̲̞͖͑Z̖̫̤̫ͪa͉̬͈̗l͖͎g̳̥o̰̥̅!̣͔̲̻͊̄ ̙̘̦̹̦
 - [baarde/cert-manager-webhook-ovh](https://github.com/baarde/cert-manager-webhook-ovh) - OVH Webhook for Cert Manager
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -597,7 +598,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eminetto/api-o11y](https://github.com/eminetto/api-o11y) - Repository used in a talk about APIs and Observability
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
 - [emperror/emperror](https://github.com/emperror/emperror) - The Emperor takes care of all errors personally
-- [emvi/hide](https://github.com/emvi/hide) - ID type with marshalling to/from hash to prevent sending IDs to clients.
+- [emvi/hide](https://github.com/emvi/hide) - A Go type to prevent internal numeric IDs from being exposed to clients using HashIDs and JSON.
 - [enimatek-nl/tango](https://github.com/enimatek-nl/tango) - WebAssembly Lightweight Javascript Framework in Go (React / AngularJS Inspired)
 - [epiclabs-io/elastic](https://github.com/epiclabs-io/elastic) - Converts go types no matter what
 - [equinor/flowify-workflows-server](https://github.com/equinor/flowify-workflows-server) - 
@@ -901,7 +902,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/github-exporter](https://github.com/okp4/github-exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
 - [okp4/go-bitsong](https://github.com/okp4/go-bitsong) - :rocket: Official BitSong Blockchain Implementation in Go
 - [okp4/nemeton-leaderboard](https://github.com/okp4/nemeton-leaderboard) - 🧙‍♂️ The Nemeton program leaderboard service 🏆
-- [okp4/okp4d](https://github.com/okp4/okp4d) - ⛓️ OKP4 blockchain 💫
 - [okp4/osmosis](https://github.com/okp4/osmosis) - The AMM Laboratory
 - [okp4/s3-auth-proxy](https://github.com/okp4/s3-auth-proxy) - 🛡️ S3 auth proxy to the OKP4 protocol
 - [okp4/template-go](https://github.com/okp4/template-go) - 🖨 Template for Golang projects @okp4.
@@ -1473,6 +1473,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [battila7/get-version-action](https://github.com/battila7/get-version-action) - A GitHub Action which extracts the version from github.ref
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [bgoonz/Markdown-Templates](https://github.com/bgoonz/Markdown-Templates) - 
+- [bigskysoftware/chrome-movebefore-demo](https://github.com/bigskysoftware/chrome-movebefore-demo) - 
 - [biodiv/anycluster](https://github.com/biodiv/anycluster) - Server-side clustering of map markers for (Geo)Django
 - [bjankord/stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - ⚙ A stylelint config inspired by https://sass-guidelin.es/
 - [blackcater/blackcater](https://github.com/blackcater/blackcater) - Using Node.js to generate my Github profile readme automatically.
@@ -1931,6 +1932,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [laurentb/weboob](https://github.com/laurentb/weboob) - mirror of git://git.p.engu.in/laurentb/weboob
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
+- [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
 - [llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity) - Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -2108,6 +2110,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) - Astroport DEX core contracts
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
+- [axone-protocol/contracts](https://github.com/axone-protocol/contracts) - 📜 Smart contracts for the Axone protocol (powered by CosmWasm)
 - [azerpas/bourso-api](https://github.com/azerpas/bourso-api) - Boursorama / BoursoBank unofficial API and CLI
 - [balpan-rs/balpan](https://github.com/balpan-rs/balpan) - Simple CLI Tool that supports your onboarding for a journey on source code.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
@@ -2206,7 +2209,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nymtech/sphinx](https://github.com/nymtech/sphinx) - A Sphinx implementation in Rust
 - [nysa-network/cw-tf-merkle-airdrop](https://github.com/nysa-network/cw-tf-merkle-airdrop) - CosmWasm contract for Token Factory Merkle Airdrop
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [okp4/contracts](https://github.com/okp4/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
 - [okp4/cosmos-rust](https://github.com/okp4/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [okp4/cosmos-tools](https://github.com/okp4/cosmos-tools) - 💰 Tool to generate cliff vesting configuration for cosmos chains
 - [okp4/discord-bot](https://github.com/okp4/discord-bot) - 🤖 Discord bot used @okp4 to bridge the Dataverse!
@@ -2313,8 +2315,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties. 
+- [axone-protocol/docs](https://github.com/axone-protocol/docs) - 📜 Axone documentation portal (built with Docusaurus).
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
-- [okp4/docs](https://github.com/okp4/docs) - 📜 OKP4 documentation portal (built with Docusaurus).
 - [okp4/okp4-web](https://github.com/okp4/okp4-web) - 🌐 OKP4 web site
 - [okp4/team-wiki](https://github.com/okp4/team-wiki) - 📚 OKP4 Wiki
 - [oschrenk/scrumoji](https://github.com/oschrenk/scrumoji) - An emoji guide for your scrum ceremonies
@@ -2591,7 +2593,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [arvinxx/gitmoji-commit-workflow](https://github.com/arvinxx/gitmoji-commit-workflow) - 😉 Gitmoji Commit Workflow
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [aswever/cosmwasm-devtools](https://github.com/aswever/cosmwasm-devtools) - cosmwasm devtools
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [bcherny/undux](https://github.com/bcherny/undux) - ⚡️ Dead simple state for React. Now with Hooks support.
 - [berendsliedrecht/did-ts](https://github.com/berendsliedrecht/did-ts) - 
 - [betula/use-between](https://github.com/betula/use-between) - Sharing state between React components
