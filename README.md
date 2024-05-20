@@ -2797,7 +2797,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [regen-network/regen-server](https://github.com/regen-network/regen-server) - :seedling: Regen web server and database
 - [regen-network/regen-web](https://github.com/regen-network/regen-web) - :seedling: Website and marketplace application
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
