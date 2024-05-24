@@ -854,6 +854,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [mikespook/gorbac](https://github.com/mikespook/gorbac) - goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.
+- [miku/zek](https://github.com/miku/zek) - Generate a Go struct from XML.
 - [mingderwang/did](https://github.com/mingderwang/did) - x/did module for the Cosmos SDK framework with a “self-sovereign" digital identity (DID) support
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [mishudark/eventhus](https://github.com/mishudark/eventhus) - Go - CQRS / Event Sourcing made easy - Go
@@ -1433,7 +1434,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware) - ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes
 - [FindTheFox/Fractal-React-Native-Three](https://github.com/FindTheFox/Fractal-React-Native-Three) - Fractal render application made in React-Native with expo-three & react-three-fiber
 - [GoldinGuy/Ideastorm](https://github.com/GoldinGuy/Ideastorm) - 💡 Ideas for days
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [International-Data-Spaces-Association/DataspaceConnectorUI](https://github.com/International-Data-Spaces-Association/DataspaceConnectorUI) - User interface for the Dataspace Connector.
 - [IvanGoncharov/react-apollo-lodash-demo](https://github.com/IvanGoncharov/react-apollo-lodash-demo) - Example usage of react-apollo with graphql-lodash
@@ -1932,6 +1933,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries.
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g llama3) LLMs. Self-host locally or use our web app. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
 - [laurentb/weboob](https://github.com/laurentb/weboob) - mirror of git://git.p.engu.in/laurentb/weboob
@@ -2085,6 +2087,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MegaRockLabs/cw-extra](https://github.com/MegaRockLabs/cw-extra) - Experimental CosmWasm based contracts, packages and protocols
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
+- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 - [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
 - [RedStoneCoin/redstone-rs](https://github.com/RedStoneCoin/redstone-rs) - Redstone Project is a p2p custom blockchain implementation, comprised of a network of interconnected sub-chains for better speed and scalability.
 - [Snedashkovsky/cw-on-chain-registry](https://github.com/Snedashkovsky/cw-on-chain-registry) - on-chain registry contract
@@ -2182,7 +2185,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Tendermint KMS: Key Management System for Tendermint Validators
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
-- [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) parser generator for Rust
+- [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) and LALR(1) parser generator for Rust
 - [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [larry0x/cw-template](https://github.com/larry0x/cw-template) - Template for multi-contract CosmWasm projects
@@ -2198,6 +2201,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) - Command line tool to show clear git graphs arranged for your branching model
 - [mortendahl/rust-paillier](https://github.com/mortendahl/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
@@ -2247,6 +2251,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [public-awesome/marketplace](https://github.com/public-awesome/marketplace) - Stargaze Marketplace and Live Auctions smart contracts
 - [pysel/dolev-strong](https://github.com/pysel/dolev-strong) - Implementation of Dolev-Strong protocol 
 - [pythops/tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
+- [quasar-finance/quasar](https://github.com/quasar-finance/quasar) - Quasar is an application-specific capital management blockchain in the Cosmos ecosystem that runs self-governed vault-based investment strategies.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -2774,7 +2779,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/subql](https://github.com/okp4/subql) - 
 - [okp4/subql-okp4](https://github.com/okp4/subql-okp4) - 🔄 Subquery repository for OKP4 protocol
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified platform for discovery, observability, and governance powered by a central metadata repository, in-depth lineage, and seamless team collaboration.
 - [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
