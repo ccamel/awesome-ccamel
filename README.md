@@ -110,6 +110,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nanomsg/nanomsg](https://github.com/nanomsg/nanomsg) - nanomsg library
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard. 
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [robertklep/dsm7-usb-serial-drivers](https://github.com/robertklep/dsm7-usb-serial-drivers) - Synology DSM 7 USB serial drivers
@@ -790,6 +791,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
+- [kofalt/go-memoize](https://github.com/kofalt/go-memoize) - An easy, no-frills memoizer for Go. Cache your expensive function calls.
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
 - [kragniz/tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
 - [ksync/ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
@@ -1812,8 +1814,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
+- [axone-protocol/status](https://github.com/axone-protocol/status) - 🟩 Uptime and historical data of the Axone services
 - [okp4/slips](https://github.com/okp4/slips) - SatoshiLabs Improvement Proposals
-- [okp4/status](https://github.com/okp4/status) - 🟩 Uptime and historical data of the OKP4 services
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Mustache
@@ -1940,7 +1942,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
 - [laurentb/weboob](https://github.com/laurentb/weboob) - mirror of git://git.p.engu.in/laurentb/weboob
@@ -2122,6 +2124,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [arkworks-rs/curves](https://github.com/arkworks-rs/curves) - Implementations of popular elliptic curves 
 - [arkworks-rs/poly-commit](https://github.com/arkworks-rs/poly-commit) - A Rust library for polynomial commitments
 - [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std) - R1CS constraints for bits, fields, and elliptic curves
+- [arkworks-rs/snark](https://github.com/arkworks-rs/snark) - Interfaces for Relations and SNARKs for these relations
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) - Astroport DEX core contracts
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -2223,6 +2226,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [near-ndc/voting-v1](https://github.com/near-ndc/voting-v1) - Voting smart contracts for NDC v1
 - [neutron-org/neutron-dao](https://github.com/neutron-org/neutron-dao) - 
+- [neutron-org/neutron-sdk](https://github.com/neutron-org/neutron-sdk) - 
 - [nomic-io/nomic](https://github.com/nomic-io/nomic) - Rust implementation of the Nomic Bitcoin sidechain
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
