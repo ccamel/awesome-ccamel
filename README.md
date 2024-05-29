@@ -512,6 +512,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [cheqd/cheqd-node](https://github.com/cheqd/cheqd-node) - Ledger/node software for cheqd's decentralised identity network. Built using the Cosmos SDK blockchain framework.
 - [chop-dbhi/prometheus-sql](https://github.com/chop-dbhi/prometheus-sql) - Service that exposes Prometheus metrics for a SQL result set.
 - [christian-korneck/docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - "Docker Push Readme" - a Docker CLI plugin to update container repo docs
@@ -930,7 +931,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 - [osmosis-labs/assetlists](https://github.com/osmosis-labs/assetlists) - 
-- [osmosis-labs/fee-abstraction](https://github.com/osmosis-labs/fee-abstraction) - 
+- [osmosis-labs/fee-abstraction](https://github.com/osmosis-labs/fee-abstraction) - Enable users on any Cosmos chain with IBC connections to pay fee using IBC tokens.
 - [osmosis-labs/osmosis](https://github.com/osmosis-labs/osmosis) - The AMM Laboratory
 - [outscale/cloud-provider-osc](https://github.com/outscale/cloud-provider-osc) - 
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
@@ -1047,6 +1048,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [solarlabsteam/cosmos-exporter](https://github.com/solarlabsteam/cosmos-exporter) - Scrape the data about the validators set, specific validators or wallets in the Cosmos network. 
 - [solarlabsteam/missed-blocks-checker](https://github.com/solarlabsteam/missed-blocks-checker) - Tool to monitor missed blocks for Cosmos-chain validators
 - [solarlabsteam/tendermint-exporter](https://github.com/solarlabsteam/tendermint-exporter) - Scrape some fancy stuff from a Tendermint node
+- [somatic-labs/hardhat](https://github.com/somatic-labs/hardhat) - Load testing tool for cosmos blockchains
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
@@ -1728,6 +1730,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Snedashkovsky/on-chain-registry](https://github.com/Snedashkovsky/on-chain-registry) - metadata oracle: asset list of all cosmos-sdk chains
 - [dannywillems/zkacademy](https://github.com/dannywillems/zkacademy) - A place to learn ZK with Jupyter
 - [darkhemic/stable-diffusion-cpuonly](https://github.com/darkhemic/stable-diffusion-cpuonly) - a fork that installs runs on pytorch cpu-only
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - LLM-based ontological extraction tools, including SPIRES
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
@@ -2106,6 +2109,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
+- [WhatsApp/erlang-language-platform](https://github.com/WhatsApp/erlang-language-platform) - Erlang Language Platform. LSP server and CLI.
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀. 
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
@@ -2144,6 +2148,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
+- [chanmix51/soft65c02](https://github.com/chanmix51/soft65c02) - A 65C02 simulator
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [codeninja819/cw721-nft-staking](https://github.com/codeninja819/cw721-nft-staking) - CW721 NFT Staking smart contract in CosmWasm
 - [concoct-rs/concoct](https://github.com/concoct-rs/concoct) - A reactive runtime for embedded systems in Rust
