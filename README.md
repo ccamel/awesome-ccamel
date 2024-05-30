@@ -704,6 +704,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [goplus/c2go](https://github.com/goplus/c2go) - Convert C to Go
 - [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
+- [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 - [goraz/onion](https://github.com/goraz/onion) - Layer based configuration for golang
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
@@ -762,6 +763,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jaegertracing/jaeger-client-go](https://github.com/jaegertracing/jaeger-client-go) - 🛑 This library is DEPRECATED!
 - [jakewright/home-automation](https://github.com/jakewright/home-automation) - Distributed home automation system
 - [jamf/regatta](https://github.com/jamf/regatta) - Regatta is a distributed key-value store. It is Kubernetes friendly with emphasis on high read throughput and low operational cost.
+- [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter
 - [jbenet/data](https://github.com/jbenet/data) - package manager for datasets
 - [jdel/go-syno](https://github.com/jdel/go-syno) - Go library for Synology. Work in progress.
 - [jeevatkm/go-model](https://github.com/jeevatkm/go-model) - Robust & Easy to use struct mapper and utility methods for Go
@@ -2144,6 +2146,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bocarw121/tailwind-yew-cli](https://github.com/bocarw121/tailwind-yew-cli) - Sets up the latest tailwindcss version in your existing yew project.
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [bounce-rs/bounce](https://github.com/bounce-rs/bounce) - The uncomplicated Yew State management library
+- [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -2176,10 +2179,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [ffizer/ffizer](https://github.com/ffizer/ffizer) - ffizer is a files and folders initializer / generator. Create any kind (or part) of project from template.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [floneum/floneum](https://github.com/floneum/floneum) - Fast, private, controllable pre-trained models in Rust
+- [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [flux-rs/flux](https://github.com/flux-rs/flux) - Refinement Types for Rust
 - [forbole/cosmos-rust-wallet](https://github.com/forbole/cosmos-rust-wallet) - A cosmos network key-signer buildable in WASM
+- [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally
 - [gendx/lzma-rs](https://github.com/gendx/lzma-rs) - An LZMA decoder written in pure Rust
 - [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -2582,6 +2586,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [KYVENetwork/kyvejs](https://github.com/KYVENetwork/kyvejs) - Tools for building applications on KYVE
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [Mastermindzh/react-cookie-consent](https://github.com/Mastermindzh/react-cookie-consent) - A small, simple and customizable cookie consent bar for use in React applications.
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
 - [MyDidCom/mydid-auth](https://github.com/MyDidCom/mydid-auth) - 
 - [NoahSaso/snapper](https://github.com/NoahSaso/snapper) - API Caching Layer
@@ -2687,6 +2692,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 - [efstajas/versioned-parser](https://github.com/efstajas/versioned-parser) - 🤓 A TypeScript-first utility for managing multiple versions of parse functions.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
 - [enricopolanski/functional-programming](https://github.com/enricopolanski/functional-programming) - Introduction to Functional Programming using TypeScript and fp-ts.
 - [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
@@ -2736,6 +2742,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
 - [hongaar/semantic-release-yarn](https://github.com/hongaar/semantic-release-yarn) - 🧶 A semantic-release plugin to publish npm packages with Yarn. Comes with built-in support for monorepos.
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - This action runs your docker-compose file and clean up before action finished
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [hung-ngm/cosmos-sdk-gpt](https://github.com/hung-ngm/cosmos-sdk-gpt) - A chatbot on the Cosmos SDK source code
@@ -2811,6 +2818,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
 - [paambaati/codeclimate-action](https://github.com/paambaati/codeclimate-action) - GitHub Action to send your code coverage to CodeClimate
+- [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [patrickmichalina/typescript-monads](https://github.com/patrickmichalina/typescript-monads) - 📚Write safer TypeScript using Maybe, List, Result, and Either monads.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
@@ -2855,6 +2863,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [solana-labs/example-helloworld](https://github.com/solana-labs/example-helloworld) - Hello world on Solana
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [stolenng/react-hooks-mobx](https://github.com/stolenng/react-hooks-mobx) - React Hooks + MobX guide
 - [storybookjs/native](https://github.com/storybookjs/native) - 📱 Storybook for Native: iOS, Android, Flutter
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. 
