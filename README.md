@@ -591,6 +591,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dymensionxyz/dymension-rdk](https://github.com/dymensionxyz/dymension-rdk) - Framework for building highly scalable RollApps
 - [dymensionxyz/dymint](https://github.com/dymensionxyz/dymint) - Sequencing Engine for Dymension RollApps
 - [dymensionxyz/rollapp](https://github.com/dymensionxyz/rollapp) - Template for building RollApps
+- [dymensionxyz/rollapp-evm](https://github.com/dymensionxyz/rollapp-evm) - EVM DRS - EVM Dymension Rollapp Standard
 - [dymensionxyz/rollapp-wasm](https://github.com/dymensionxyz/rollapp-wasm) - WASM DRS - WASM Dymension Rollapp Standard
 - [dymensionxyz/roller](https://github.com/dymensionxyz/roller) - CLI tool for deploying Dymension RollApps
 - [e154/smart-home](https://github.com/e154/smart-home) - software package for automation
@@ -1922,7 +1923,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator, powered by large language model APIs.
-- [etalab-ia/albert](https://github.com/etalab-ia/albert) - Backend ressources for Albert. Albert, also known as LIA (Legal Information Assistant), is a conversational agent that uses official French data sources to answer administrative agents questions.
+- [etalab-ia/albert](https://github.com/etalab-ia/albert) - Backend ressources for Albert. Albert is a conversational agent that uses official French data sources to answer administrative agents questions.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -2159,7 +2160,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [confio/poe-contracts](https://github.com/confio/poe-contracts) - Tgrade PoE smart contracts
 - [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template suitable for new Rust 2021 Edition projects with cargo-make/rustfmt/rust-clippy.
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
-- [cosmos/ibc-proto-rs](https://github.com/cosmos/ibc-proto-rs) - Rust crate for interacting with Cosmos and IBC structs.
+- [cosmos/ibc-proto-rs](https://github.com/cosmos/ibc-proto-rs) - Rust Protobuf definitions and gRPC clients for interacting with Cosmos SDK, IBC and Interchain Security
 - [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
@@ -2167,6 +2168,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cybercongress/cw-cybergift](https://github.com/cybercongress/cw-cybergift) - Contracts for cyberGift execution
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
+- [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [duncanlutz/ruxt.rs](https://github.com/duncanlutz/ruxt.rs) - An Actix-based Rust framework for building HTMX sites.
 - [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
@@ -2635,6 +2637,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [arvinxx/gitmoji-commit-workflow](https://github.com/arvinxx/gitmoji-commit-workflow) - 😉 Gitmoji Commit Workflow
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [aswever/cosmwasm-devtools](https://github.com/aswever/cosmwasm-devtools) - cosmwasm devtools
+- [axone-protocol/faucet-web](https://github.com/axone-protocol/faucet-web) - 🚰 Token faucet web app for the Axone testnets.
 - [axone-protocol/website](https://github.com/axone-protocol/website) - 🌐 Axone web site 
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [bcherny/undux](https://github.com/bcherny/undux) - ⚡️ Dead simple state for React. Now with Hooks support.
@@ -2801,7 +2804,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Dataverse Portal for the OKP4 network. 
-- [okp4/faucet-web](https://github.com/okp4/faucet-web) - 🚰 Token faucet web app for the ØKP4 Testnets.
 - [okp4/follow-contributor-action](https://github.com/okp4/follow-contributor-action) - Github action to follow a contributor.
 - [okp4/nemeton-web](https://github.com/okp4/nemeton-web) - 🧙‍♂️ The landing page repository for the Nemeton Program! 🔥
 - [okp4/nodejumper](https://github.com/okp4/nodejumper) - Nodejumper web app is a multi tool for cosmos based networks.
@@ -2884,6 +2886,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [tonai/storybook-addon-themes](https://github.com/tonai/storybook-addon-themes) - 
 - [trackawesomelist/trackawesomelist-source](https://github.com/trackawesomelist/trackawesomelist-source) - Track Awesome List Source Code, build with Deno.
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 - [typeguard/awesome-typed-datasets](https://github.com/typeguard/awesome-typed-datasets) - Awesome types in many languages for popular, open data sets.
