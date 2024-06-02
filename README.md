@@ -1503,7 +1503,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [carboneio/carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
 - [cardano-foundation/developer-portal](https://github.com/cardano-foundation/developer-portal) - The Cardano Developer Portal
-- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [cburgmer/rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - Renders HTML into the browser's canvas
 - [ceramicstudio/identitylink-services](https://github.com/ceramicstudio/identitylink-services) - Services for issuing verifiable credentials that link a DID to social accounts including Twitter, Github, and Discord
 - [cetic/helm-nifi](https://github.com/cetic/helm-nifi) - Helm Chart for Apache Nifi
@@ -2154,6 +2154,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [chanmix51/soft65c02](https://github.com/chanmix51/soft65c02) - A 65C02 simulator
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [cloudpeers/tlfs](https://github.com/cloudpeers/tlfs) - The Local-First SDK
 - [codeninja819/cw721-nft-staking](https://github.com/codeninja819/cw721-nft-staking) - CW721 NFT Staking smart contract in CosmWasm
 - [concoct-rs/concoct](https://github.com/concoct-rs/concoct) - A reactive runtime for embedded systems in Rust
 - [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Example IBC enabled contracts along with full stack integration tests
