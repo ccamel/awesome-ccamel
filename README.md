@@ -435,6 +435,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs+parallel)
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [akash-network/node](https://github.com/akash-network/node) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud computing network
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter) - DEPRECATED: Use https://github.com/golangci/golangci-lint
@@ -551,7 +552,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/rosetta](https://github.com/cosmos/rosetta) - Rosetta implementation for cosmos zones
 - [cosmos/sdk-tutorials](https://github.com/cosmos/sdk-tutorials) - Tutorials for building modules for the Cosmos SDK
 - [cosmosregistry/chain-minimal](https://github.com/cosmosregistry/chain-minimal) - Mini - A minimal Cosmos SDK chain template
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [couchbase/gocb](https://github.com/couchbase/gocb) - The Couchbase Go SDK
 - [couchbase/gocbcore](https://github.com/couchbase/gocbcore) - The IO component of gocb
 - [craigpastro/nungwi](https://github.com/craigpastro/nungwi) - Nungwi is a PoC authorization service inspired by Google Zanzibar, written in Ichiban Prolog.
@@ -2431,7 +2431,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sherpal/LaminarSAPUI5Bindings](https://github.com/sherpal/LaminarSAPUI5Bindings) - Laminar bindings for the SAP ui5 web components library
 - [sjrd/scalajs-sbt-vite-laminar-chartjs-example](https://github.com/sjrd/scalajs-sbt-vite-laminar-chartjs-example) - An example of using Scala.js with sbt, Vite, Laminar and Chart.js
 - [slick/slick](https://github.com/slick/slick) - Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala
-- [snowplow/snowplow](https://github.com/snowplow/snowplow) - The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
+- [snowplow/snowplow](https://github.com/snowplow/snowplow) - The leader in Next-Generation Customer Data Infrastructure
 - [spaced/scala-js-d3](https://github.com/spaced/scala-js-d3) - d3 facade types for Scala.js
 - [spartanz/schemaz](https://github.com/spartanz/schemaz) - A purely-functional library for defining type-safe schemas for algebraic data types, providing free generators, SQL queries, JSON codecs, binary codecs, and migration from this schema definition
 - [suzaku-io/diode](https://github.com/suzaku-io/diode) - Scala library for managing immutable application model
