@@ -1886,6 +1886,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [SimplyStaking/panic](https://github.com/SimplyStaking/panic) - PANIC Monitoring and Alerting For Blockchains
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [Wenzel/oswatcher](https://github.com/Wenzel/oswatcher) - A framework to track the evolution of Operating Systems over time
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [actions-automation/pull-request-responsibility](https://github.com/actions-automation/pull-request-responsibility) - Keep pull requests moving -- from opening to merge.
@@ -2853,6 +2854,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rubensworks/GraphQL-LD.js](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL
 - [ryardley/ts-bus](https://github.com/ryardley/ts-bus) - A lightweight JavaScript/TypeScript event bus to help manage your application architecture.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+- [safe-global/safe-wallet-web](https://github.com/safe-global/safe-wallet-web) - Safe{Wallet} – smart contract wallet for Ethereum (ex-Gnosis Safe multisig)
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
 - [scrtlabs/dash.scrt.network](https://github.com/scrtlabs/dash.scrt.network) - Secret Dashboard is an entry point for new users into Secret Network.
 - [scrtlabs/secret-template](https://github.com/scrtlabs/secret-template) - Quickstart template to get started writing your own cosmwasm contracts
