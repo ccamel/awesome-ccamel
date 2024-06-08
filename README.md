@@ -1360,6 +1360,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [flapdoodle-oss/de.flapdoodle.embed.mongo](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo) - ...will provide a platform neutral way for running mongodb in unittests.
 - [gavlyukovskiy/spring-boot-data-source-decorator](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator) - Spring Boot integration with p6spy, datasource-proxy, flexy-pool and spring-cloud-sleuth
 - [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gluonhq/substrate](https://github.com/gluonhq/substrate) - Create native Java(FX) apps for desktop, mobile and embedded
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
 - [graphql-java-kickstart/graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - Servlet endpoint for GraphQL Java
@@ -2736,7 +2737,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitroomhq/trending-list](https://github.com/gitroomhq/trending-list) - Know when you are trending on GitHub
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
@@ -3134,6 +3134,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [michelcaradec/Graph-OLAP](https://github.com/michelcaradec/Graph-OLAP) - An attempt to model an OLAP cube with Neo4j.
 - [michenriksen/drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - Draw.io libraries for threat modeling diagrams
 - [microo8/golymer](https://github.com/microo8/golymer) - Web components with golang (gopherjs) moved to gitlab.com/microo8/golymer
+- [microsoft/Pride-flag](https://github.com/microsoft/Pride-flag) - Pride flag featuring 74 individual LGBTQIA+ flags
 - [monksy/awesome-kafka](https://github.com/monksy/awesome-kafka) - A collection of kafka-resources
 - [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
