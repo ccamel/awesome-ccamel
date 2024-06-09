@@ -1964,6 +1964,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A self-updating public profile for GitHub
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
+- [linkml/linkml-model](https://github.com/linkml/linkml-model) - Link Modeling Language (LinkML) model
 - [linkml/linkml-runtime](https://github.com/linkml/linkml-runtime) - Runtime support for linkml generated models
 - [linyiLYi/bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments.
 - [llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity) - Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
