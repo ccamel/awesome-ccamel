@@ -1131,6 +1131,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [twmb/murmur3](https://github.com/twmb/murmur3) - Fast, fully fledged murmur3 in Go.
 - [tyler-smith/go-avalanche](https://github.com/tyler-smith/go-avalanche) - Implementation of the Avalanche consensus algorithm in Go
 - [uber-common/cadence-samples](https://github.com/uber-common/cadence-samples) - 
+- [uber-go/atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
 - [uber-go/cadence-client](https://github.com/uber-go/cadence-client) - Framework for authoring workflows and activities running on top of the Cadence orchestration engine.
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
@@ -1628,7 +1629,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - :star2:  Create IoT applications. Wire devices together regardless their brand or technology.
 - [neutron-org/neutron-docs](https://github.com/neutron-org/neutron-docs) - 
 - [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - 😋 NFT.Storage Classic (classic.nft.storage) offers free decentralized storage and bandwidth for NFTs on IPFS and Filecoin. April 2024 Update: Existing NFT.Storage Classic account holders can add data through their Classic accounts. New account holders can transition to the new version at NFT.Storage that preserves data in Filecoin for a small fee.
-- [nftstorage/nftup](https://github.com/nftstorage/nftup) - 🆙 App to easily upload NFTs to IPFS on NFT.Storage with no-code, from the comfort of your laptop computer machine.
+- [nftstorage/nftup](https://github.com/nftstorage/nftup) - 🆙 App to easily upload NFTs to IPFS on NFT.Storage with no-code, from the comfort of your laptop computer machine. April 2024 Update: Existing NFT.Storage Classic account holders can add data through their Classic accounts. New account holders can transition to the new version at NFT.Storage that preserves data in Filecoin for a small one-time fee
 - [normen/homebridge-landroid](https://github.com/normen/homebridge-landroid) - Homebridge plugin to control Worx Landroid robo mowers through the Worx Cloud
 - [notional-labs/multisig-ui](https://github.com/notional-labs/multisig-ui) - UI for multisignature tool
 - [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Framework and Observable notebooks
@@ -2848,6 +2849,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [poteat/hkt-toolbelt](https://github.com/poteat/hkt-toolbelt) - ✨Functional and composable type utilities
 - [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [public-awesome/stargaze-tools](https://github.com/public-awesome/stargaze-tools) - Tools for launching NFT projects on Stargaze
 - [r-wasm/webr](https://github.com/r-wasm/webr) - The statistical language R compiled to WebAssembly via Emscripten, for use in web browsers and Node.
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [react-component/select](https://github.com/react-component/select) - React Select
