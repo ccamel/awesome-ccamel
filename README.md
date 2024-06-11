@@ -2706,7 +2706,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
@@ -3035,6 +3035,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appieasahbie/okp4-kelpr](https://github.com/appieasahbie/okp4-kelpr) - 
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+- [axone-protocol/axone-contract-schema](https://github.com/axone-protocol/axone-contract-schema) - 🚀 Client libraries (for different languages) simplifying OKP4 Smart Contract interactions.
 - [axone-protocol/brand-kit](https://github.com/axone-protocol/brand-kit) - 🎨 Axone Protocol Brand Kit: Unleash creative branding with all necessary elements in one place! 
 - [axone-protocol/template-oss](https://github.com/axone-protocol/template-oss) - 🖨 Template for opensource projects @axone-protocol
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
@@ -3159,7 +3160,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/community](https://github.com/okp4/community) - 🫂 OKP4 Community
 - [okp4/cosmos-awesome](https://github.com/okp4/cosmos-awesome) - Collection of Cosmos related resources
 - [okp4/hackwasm](https://github.com/okp4/hackwasm) - 💻🇩🇪2️⃣0️⃣2️⃣3️⃣ Contains resources related to OKP4 participation in HackWasm Berlin 2023
-- [okp4/okp4-contract-schema](https://github.com/okp4/okp4-contract-schema) - 🚀 Client libraries (for different languages) simplifying OKP4 Smart Contract interactions.
 - [okp4/publications](https://github.com/okp4/publications) - 📚 Official publications (slides, papers, ...) from OKP4
 - [okp4/template-oss](https://github.com/okp4/template-oss) - 🖨 Template for opensource projects @okp4
 - [okp4/wiki](https://github.com/okp4/wiki) - 📚 Wiki for technical documentation
