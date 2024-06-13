@@ -568,6 +568,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
+- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -824,6 +825,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ldez/tagliatelle](https://github.com/ldez/tagliatelle) - A linter that handles struct tags.
 - [leekchan/accounting](https://github.com/leekchan/accounting) - money and currency formatting for golang
 - [lens-vm/lens](https://github.com/lens-vm/lens) - 
+- [leonelquinteros/gotext](https://github.com/leonelquinteros/gotext) - Go (Golang) GNU gettext utilities package 
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
 - [letiantech/hotplugin](https://github.com/letiantech/hotplugin) - golang plugin framework for hot update
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - Lightweight data stream processing engine for IoT edge
@@ -2946,6 +2948,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
 ## Vue
 
