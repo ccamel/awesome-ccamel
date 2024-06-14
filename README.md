@@ -394,6 +394,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [InjectiveLabs/sdk-go](https://github.com/InjectiveLabs/sdk-go) - Tools to work with the Injective Chain, Injective EVM and EIP712.
 - [Iwark/spreadsheet](https://github.com/Iwark/spreadsheet) - Google Go (golang) library for reading and writing spreadsheet files on Google Docs.
 - [JackalLabs/canine-chain](https://github.com/JackalLabs/canine-chain) - The Jackal Protocol blockchain binary
+- [JackalLabs/jackalgo](https://github.com/JackalLabs/jackalgo) - A Jackal Interaction Library written in Golang
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [KYVENetwork/chain](https://github.com/KYVENetwork/chain) - 
@@ -470,6 +471,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [axone-protocol/axone-contract-schema](https://github.com/axone-protocol/axone-contract-schema) - 🚀 Client libraries (for different languages) simplifying Axone chain interactions.
 - [axone-protocol/axoned](https://github.com/axone-protocol/axoned) - ⛓️ Axone blockchain 💫
 - [aybabtme/logzalgo](https://github.com/aybabtme/logzalgo) - Logrus formatter invoking the P͉̫o̳̼̊w̖͈̰͎e̬͔̭͂r͚̼̹̲ ̫͓͉̳͈ō̠͕͖̚f̝͍̠ ͕̲̞͖͑Z̖̫̤̫ͪa͉̬͈̗l͖͎g̳̥o̰̥̅!̣͔̲̻͊̄ ̙̘̦̹̦
 - [baarde/cert-manager-webhook-ovh](https://github.com/baarde/cert-manager-webhook-ovh) - OVH Webhook for Cert Manager
@@ -527,6 +529,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cirello-io/oversight](https://github.com/cirello-io/oversight) - Erlang-like supervisor trees
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line. 
+- [cockroachdb/apd](https://github.com/cockroachdb/apd) - Arbitrary-precision decimals for Go
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 - [cocoonspace/dynjson](https://github.com/cocoonspace/dynjson) - Client-customizable JSON formats for dynamic APIs
@@ -2080,6 +2083,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Big-Bytes-Labs/fisher-rs](https://github.com/Big-Bytes-Labs/fisher-rs) - A fast, powerful, flexible and easy to use open source data analysis and manipulation tool written in Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
+- [Byron/cargo-smart-release](https://github.com/Byron/cargo-smart-release) - Release complex cargo-workspaces automatically with changelog generation, used by `gitoxide`
+- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [ByteSudoer/Dependust](https://github.com/ByteSudoer/Dependust) - A Rust tool to check for unused dependencies for your crate in your Cargo.toml
 - [Callum-A/cosmwasm-zero-to-hero](https://github.com/Callum-A/cosmwasm-zero-to-hero) - 
 - [Callum-A/whoami-paths](https://github.com/Callum-A/whoami-paths) - 
@@ -2207,6 +2212,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [gnprice/toml-cli](https://github.com/gnprice/toml-cli) - 
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [google/zerocopy](https://github.com/google/zerocopy) - 
 - [grantshandy/fdg](https://github.com/grantshandy/fdg) - A Force Directed Graph Drawing Library
@@ -2285,6 +2291,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oxigraph/rio](https://github.com/oxigraph/rio) - RDF parsers library
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a fully private proof-of-stake network and decentralized exchange for the Cosmos ecosystem.
+- [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [preiter93/wireman](https://github.com/preiter93/wireman) - A TUI gRPC client
@@ -3041,7 +3048,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appieasahbie/okp4-kelpr](https://github.com/appieasahbie/okp4-kelpr) - 
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
-- [axone-protocol/axone-contract-schema](https://github.com/axone-protocol/axone-contract-schema) - 🚀 Client libraries (for different languages) simplifying Axone chain interactions.
 - [axone-protocol/brand-kit](https://github.com/axone-protocol/brand-kit) - 🎨 Axone Protocol Brand Kit: Unleash creative branding with all necessary elements in one place! 
 - [axone-protocol/template-oss](https://github.com/axone-protocol/template-oss) - 🖨 Template for opensource projects @axone-protocol
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
