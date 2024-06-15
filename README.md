@@ -1891,6 +1891,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BlueFox2718/Solveur-Mini-Cactpot-FFXIV](https://github.com/BlueFox2718/Solveur-Mini-Cactpot-FFXIV) - 
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
+- [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - 
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
 - [OnToology/oops-report](https://github.com/OnToology/oops-report) - Generate oops report as a beautiful HTML
@@ -2105,6 +2106,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CyberHoward/cosmwasm-re-entrancy-example](https://github.com/CyberHoward/cosmwasm-re-entrancy-example) - An example re-entrancy attack on a flashloan vault.
 - [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) - CosmWasm smart contracts for Interchain DAOs.
 - [DA0-DA0/polytone](https://github.com/DA0-DA0/polytone) - An account on every blockchain for every smart contract.
+- [DanielKeep/cargo-script](https://github.com/DanielKeep/cargo-script) - Cargo script subcommand
 - [Derricks-DApps/contracts](https://github.com/Derricks-DApps/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects) - Featured Dioxus projects on how to build clean user interfaces in Rust
