@@ -1050,6 +1050,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [shentufoundation/shentu](https://github.com/shentufoundation/shentu) - A Cross-chain Protocol with Security Scoring and Decentralized Reimbursements for Building Secure dApps and Blockchains
 - [shenwei356/brename](https://github.com/shenwei356/brename) - A practical cross-platform command-line tool for safely batch renaming files/directories via regular expression
 - [shijuvar/go-distributed-sys](https://github.com/shijuvar/go-distributed-sys) - Guidance for building event-driven distributed systems and microservices in Go with NATS JetStream, gRPC and CockroachDB 
+- [shoenig/test](https://github.com/shoenig/test) - A modern generic testing assertions library for Go
 - [shopspring/decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in Go
 - [shurcooL/graphql](https://github.com/shurcooL/graphql) - Package graphql provides a GraphQL client implementation.
 - [sideprotocol/side](https://github.com/sideprotocol/side) - a Cosmos SDK layer-1 blockchain
@@ -2140,6 +2141,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [WhatsApp/erlang-language-platform](https://github.com/WhatsApp/erlang-language-platform) - Erlang Language Platform. LSP server and CLI.
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀. 
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [ZenGo-X/gotham-city](https://github.com/ZenGo-X/gotham-city) - Gotham city is a fully functional project to demonstrate real-life example of minimalist Bitcoin decentralized HD wallet using 2 party ECDSA
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [ad2ien/ideal-wages-calculator](https://github.com/ad2ien/ideal-wages-calculator) - A webassembly project using trunk and yew to point out injustices in range of wages
