@@ -482,6 +482,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [beorn7/perks](https://github.com/beorn7/perks) - Effective Computation of Things
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [beyondstorage/go-storage](https://github.com/beyondstorage/go-storage) - A vendor-neutral storage library for Golang: Write once, run on every storage service.
+- [bianjieai/irita](https://github.com/bianjieai/irita) - IRITA Consortium Blockchain
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [bitsbeats/prometheus-acls](https://github.com/bitsbeats/prometheus-acls) - prometheus oauth acl reverse proxy
@@ -573,7 +574,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -1256,6 +1257,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - A specification for an HTTP API used to issue and verify Verifiable Credentials.
 - [w3c/dxwg](https://github.com/w3c/dxwg) - Data Catalog Vocabulary (DCAT)
+- [w3c/vc-data-model](https://github.com/w3c/vc-data-model) - W3C Verifiable Credentials Working Group — VC Data Model and Representations specification
 - [w3c/wot](https://github.com/w3c/wot) - Web of Things
 - [w3c/wot-architecture](https://github.com/w3c/wot-architecture) - Web of Things (WoT) Architecture
 - [w3c/wot-thing-description](https://github.com/w3c/wot-thing-description) - Web of Things (WoT) Thing Description
@@ -1512,6 +1514,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [bgoonz/Markdown-Templates](https://github.com/bgoonz/Markdown-Templates) - 
 - [bigskysoftware/chrome-movebefore-demo](https://github.com/bigskysoftware/chrome-movebefore-demo) - 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [biodiv/anycluster](https://github.com/biodiv/anycluster) - Server-side clustering of map markers for (Geo)Django
 - [bjankord/stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - ⚙ A stylelint config inspired by https://sass-guidelin.es/
 - [blackcater/blackcater](https://github.com/blackcater/blackcater) - Using Node.js to generate my Github profile readme automatically.
@@ -1560,7 +1563,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eco-stake/restake](https://github.com/eco-stake/restake) - Auto-compounder script for Cosmos Validators using REStake
 - [eddy-guo/validator-monitor](https://github.com/eddy-guo/validator-monitor) - Discord bot to monitor Jackal validator uptime status (and other Cosmos blockchains).
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-- [editor-js/embed](https://github.com/editor-js/embed) - Embed Tool for Editor.js
 - [editor-js/raw](https://github.com/editor-js/raw) - Raw HTML tool for Editor.js
 - [elm/virtual-dom](https://github.com/elm/virtual-dom) - The foundation of HTML and SVG in Elm.
 - [elwin013/parcel-plugin-static-files-copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - ParcelJS plugin to copy static files
@@ -2267,6 +2269,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mthom/scryer-prolog](https://github.com/mthom/scryer-prolog) - A modern Prolog implementation written mostly in Rust.
 - [near-ndc/voting-v1](https://github.com/near-ndc/voting-v1) - Voting smart contracts for NDC v1
 - [neutron-org/neutron-dao](https://github.com/neutron-org/neutron-dao) - 
+- [neutron-org/neutron-dev-contracts](https://github.com/neutron-org/neutron-dev-contracts) - 
 - [neutron-org/neutron-sdk](https://github.com/neutron-org/neutron-sdk) - 
 - [nomic-io/nomic](https://github.com/nomic-io/nomic) - Rust implementation of the Nomic Bitcoin sidechain
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
@@ -2731,6 +2734,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
+- [editor-js/embed](https://github.com/editor-js/embed) - Embed Tool for Editor.js
 - [efstajas/versioned-parser](https://github.com/efstajas/versioned-parser) - 🤓 A TypeScript-first utility for managing multiple versions of parse functions.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
