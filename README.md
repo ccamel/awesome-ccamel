@@ -769,6 +769,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [inconshreveable/mousetrap](https://github.com/inconshreveable/mousetrap) - Detect starting from Windows explorer
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+- [initia-labs/OPinit](https://github.com/initia-labs/OPinit) - 
 - [initia-labs/minievm](https://github.com/initia-labs/minievm) - minitia with EVM
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [ipfs/go-metrics-prometheus](https://github.com/ipfs/go-metrics-prometheus) - Prometheus bindings for go-metrics-interface
