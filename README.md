@@ -422,6 +422,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Shyp/generate-tls-cert](https://github.com/Shyp/generate-tls-cert) - Generating self signed certificates
 - [SimonSchneider/traefik-jwt-decode](https://github.com/SimonSchneider/traefik-jwt-decode) - Traefik forward auth implementation for JWT tokens
 - [Synternet/data-layer-sdk](https://github.com/Synternet/data-layer-sdk) - 
+- [Synternet/pubsub-go](https://github.com/Synternet/pubsub-go) - 
 - [Synternet/syntropy-agent](https://github.com/Synternet/syntropy-agent) - Syntropy Platform Agent
 - [TERITORI/teritori-chain](https://github.com/TERITORI/teritori-chain) - Teritori chain repository based on Cosmos SDK
 - [TIBCOSoftware/flogo-contrib](https://github.com/TIBCOSoftware/flogo-contrib) - Flogo Contribution repo. Contains activities, triggers, models and actions.
@@ -438,7 +439,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [abice/gencheck](https://github.com/abice/gencheck) - Code Generated Validation for Go
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go
 - [achiku/planter](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
-- [aerogo/aero](https://github.com/aerogo/aero) - :bullettrain_side: High-performance web server for Go (2016). New alpha (2024) with even better performance is currently in development at https://git.akyoto.dev/go/web (not production ready yet)
+- [aerogo/aero](https://github.com/aerogo/aero) - :bullettrain_side: High-performance web server for Go (2016). New alpha (2024) with even better performance is currently in development at https://git.akyoto.dev/go/web
 - [aevea/commitsar](https://github.com/aevea/commitsar) - Tool to check that commits comply with conventional commit standard
 - [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs+parallel)
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
@@ -1266,6 +1267,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - A specification for an HTTP API used to issue and verify Verifiable Credentials.
 - [w3c/dxwg](https://github.com/w3c/dxwg) - Data Catalog Vocabulary (DCAT)
 - [w3c/vc-data-model](https://github.com/w3c/vc-data-model) - W3C Verifiable Credentials Working Group — VC Data Model and Representations specification
+- [w3c/vc-di-eddsa](https://github.com/w3c/vc-di-eddsa) - EdDSA Data Integrity Cryptosuites Specification
 - [w3c/wot](https://github.com/w3c/wot) - Web of Things
 - [w3c/wot-architecture](https://github.com/w3c/wot-architecture) - Web of Things (WoT) Architecture
 - [w3c/wot-thing-description](https://github.com/w3c/wot-thing-description) - Web of Things (WoT) Thing Description
@@ -1932,6 +1934,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [aziz/SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3
 - [benjefferies/branch-protection-bot](https://github.com/benjefferies/branch-protection-bot) - A bot tool to disable and re-enable "Include administrators" option in branch protection
+- [benmoran56/esper](https://github.com/benmoran56/esper) - An ECS (Entity Component System) for Python
 - [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss) - 
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [brouberol/marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr: 
@@ -1953,7 +1956,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Automated README file generator, powered by large language model APIs.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by large language model APIs 👾
 - [etalab-ia/albert](https://github.com/etalab-ia/albert) - Backend ressources for Albert. Albert is a conversational agent that uses official French data sources to answer administrative agents questions.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
