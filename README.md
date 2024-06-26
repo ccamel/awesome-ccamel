@@ -1669,6 +1669,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [pixijs/pixi-react](https://github.com/pixijs/pixi-react) - Write PIXI apps using React declarative style
 - [please-openit/token-leak-extension](https://github.com/please-openit/token-leak-extension) - Chrome extension to analyse oauth2 authentication process
+- [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
@@ -1998,6 +1999,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+- [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - Infinity is a high-throughput, low-latency REST API for serving vector embeddings, supporting a wide range of text-embedding models and frameworks.
 - [mikethebeer/graphql-crate](https://github.com/mikethebeer/graphql-crate) - Graphql Demo using Crate
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -2522,6 +2524,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories
 - [brson/rust-anthology](https://github.com/brson/rust-anthology) - Learn Rust from the best
 - [clemensgg/dydx-networks](https://github.com/clemensgg/dydx-networks) - 
+- [coinhall/yacar](https://github.com/coinhall/yacar) - Yet Another Cosmos Asset Registry
 - [creyD/prettier_action](https://github.com/creyD/prettier_action) - GitHub action for running prettier on your projects pull requests
 - [cyberomanov/status](https://github.com/cyberomanov/status) - status & alarm log with bash and telegram bot.
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
@@ -3221,7 +3224,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ping-pub/ping.pub](https://github.com/ping-pub/ping.pub) - The deployment of ping.pub, submit your chain config here
 - [piotr-roslaniec/awesome-metamask-snaps](https://github.com/piotr-roslaniec/awesome-metamask-snaps) - A curated list of awesome MetaMask Snaps related resources
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
-- [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [qwikverse/awesome-qwik](https://github.com/qwikverse/awesome-qwik) - A curated list of awesome things related to Resumable Framework 
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [ralphtheninja/open-funding](https://github.com/ralphtheninja/open-funding) - A guide for researching ways of funding open source projects.
