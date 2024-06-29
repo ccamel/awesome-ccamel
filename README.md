@@ -28,6 +28,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -1294,6 +1295,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tfausak/rampart](https://github.com/tfausak/rampart) - :european_castle: Determine how intervals relate to each other.
 - [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
 
+## JSON
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Java
 
 - [AKSW/RDFUnit](https://github.com/AKSW/RDFUnit) - An RDF Unit Testing Suite
@@ -1350,7 +1355,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [benwatson528/kafka-streams-drools](https://github.com/benwatson528/kafka-streams-drools) - A demo combining Kafka Streams and Drools to create a lightweight real-time rules engine.
 - [berndruecker/flowing-retail](https://github.com/berndruecker/flowing-retail) - Sample application demonstrating an order fulfillment system decomposed into multiple independant components (e.g. microservices). Showing concrete implementation alternatives using e.g. Java, Spring Boot, Apache Kafka, Camunda, Zeebe, ...
 - [brettwooldridge/SansOrm](https://github.com/brettwooldridge/SansOrm) - A "No-ORM" sane SQL ←→ Java object mapping library
-- [camunda/camunda](https://github.com/camunda/camunda) - Distributed Workflow Engine for Microservices Orchestration
+- [camunda/camunda](https://github.com/camunda/camunda) - Process Orchestration Framework
 - [camunda/camunda-engine-dmn](https://github.com/camunda/camunda-engine-dmn) - Lightweight Execution Engine for DMN (Decision Model and Notation) written in Java.
 - [cassandre-tech/cassandre-trading-bot](https://github.com/cassandre-tech/cassandre-trading-bot) - Create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
 - [classgraph/classgraph](https://github.com/classgraph/classgraph) - An uber-fast parallelized Java classpath scanner and module scanner.
@@ -1854,7 +1859,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [axone-protocol/status](https://github.com/axone-protocol/status) - 🟩 Uptime and historical data of the Axone services
 - [okp4/slips](https://github.com/okp4/slips) - SatoshiLabs Improvement Proposals
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Mustache
 
