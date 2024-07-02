@@ -365,7 +365,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AsaiYusuke/jsonpath](https://github.com/AsaiYusuke/jsonpath) - A query library for retrieving part of JSON based on JSONPath syntax.
 - [B23admin/nifi-stateless-operator](https://github.com/B23admin/nifi-stateless-operator) - An Operator for scheduling and executing NiFi Flows as Jobs on Kubernetes
 - [BoltApp/sleet](https://github.com/BoltApp/sleet) - Payment abstraction library - one interface for multiple payment processors ( inspired by Ruby's ActiveMerchant )
-- [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library that offers functional programming in Go using generics
+- [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library of iterators to augment the standard library
 - [BrianWill/pigeon](https://github.com/BrianWill/pigeon) - Compiler of Pigeon (my educational programming language) to Golang.
 - [C2FO/vfs](https://github.com/C2FO/vfs) - Pluggable, extensible virtual file system for Go
 - [Chainflow/cosmos-validator-mission-control](https://github.com/Chainflow/cosmos-validator-mission-control) - Cosmos validator mission control monitoring and alerting tool.
@@ -567,6 +567,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/rosetta](https://github.com/cosmos/rosetta) - Rosetta implementation for cosmos zones
 - [cosmos/sdk-tutorials](https://github.com/cosmos/sdk-tutorials) - Tutorials for building modules for the Cosmos SDK
 - [cosmosregistry/chain-minimal](https://github.com/cosmosregistry/chain-minimal) - Mini - A minimal Cosmos SDK chain template
+- [cosmosregistry/example](https://github.com/cosmosregistry/example) - Cosmos SDK Module Template
 - [couchbase/gocb](https://github.com/couchbase/gocb) - The Couchbase Go SDK
 - [couchbase/gocbcore](https://github.com/couchbase/gocbcore) - The IO component of gocb
 - [craigpastro/nungwi](https://github.com/craigpastro/nungwi) - Nungwi is a PoC authorization service inspired by Google Zanzibar, written in Ichiban Prolog.
@@ -1110,7 +1111,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [subosito/gotenv](https://github.com/subosito/gotenv) - Load environment variables from `.env` or `io.Reader` in Go.
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-- [taubyte/tau](https://github.com/taubyte/tau) - 🔥🔥🔥 Open-source Cloud Computing Platform On Autopilot.
+- [taubyte/tau](https://github.com/taubyte/tau) - The Only Git-Native CDN PaaS ☁️ You Can Run Locally 💻 and Even Write Tests For 🧪
 - [taylorchu/work](https://github.com/taylorchu/work) - gocraft/work v2 prototype
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel 
 - [tcnksm/go-httpstat](https://github.com/tcnksm/go-httpstat) - Tracing golang HTTP request latency
@@ -1267,6 +1268,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vasturiano/3d-force-graph-vr](https://github.com/vasturiano/3d-force-graph-vr) - 3D force-directed graph component in VR
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - A specification for an HTTP API used to issue and verify Verifiable Credentials.
+- [w3c/controller-document](https://github.com/w3c/controller-document) - Controller Documents
 - [w3c/dxwg](https://github.com/w3c/dxwg) - Data Catalog Vocabulary (DCAT)
 - [w3c/vc-data-model](https://github.com/w3c/vc-data-model) - W3C Verifiable Credentials Working Group — VC Data Model and Representations specification
 - [w3c/vc-di-eddsa](https://github.com/w3c/vc-di-eddsa) - EdDSA Data Integrity Cryptosuites Specification
@@ -1655,8 +1657,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - :star2:  Create IoT applications. Wire devices together regardless their brand or technology.
 - [neutron-org/neutron-docs](https://github.com/neutron-org/neutron-docs) - 
-- [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - 😋 NFT.Storage Classic (classic.nft.storage) offers free decentralized storage and bandwidth for NFTs on IPFS and Filecoin. April 2024 Update: Existing NFT.Storage Classic account holders can add data through their Classic accounts. New account holders can transition to the new version at NFT.Storage that preserves data in Filecoin for a small fee.
-- [nftstorage/nftup](https://github.com/nftstorage/nftup) - 🆙 App to easily upload NFTs to IPFS on NFT.Storage with no-code, from the comfort of your laptop computer machine. April 2024 Update: Existing NFT.Storage Classic account holders can add data through their Classic accounts. New account holders can transition to the new version at NFT.Storage that preserves data in Filecoin for a small one-time fee
+- [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - **Notice: Uploads Decommissioned - Existing Data is Safe!**      NFT.Storage Classic (classic.nft.storage) offers free decentralized storage and bandwidth for NFTs on IPFS and Filecoin.  June 2024 Update: No new uploads, but all existing data is safe. Try the new NFT.Storage, which preserves data in long term Filecoin storage. Go to app.nft.storage
+- [nftstorage/nftup](https://github.com/nftstorage/nftup) - **Notice: Uploads Decommissioned - Existing Data is Safe!**      NFTUp enables you to upload NFT data to IPFS & Filecoin with no-code using a downloadable web app.  June 2024 Update: No new uploads, but all existing data is safe. Try the new NFT.Storage, which preserves data in long term Filecoin storage for a small fee. Go to app.nft.storage
 - [normen/homebridge-landroid](https://github.com/normen/homebridge-landroid) - Homebridge plugin to control Worx Landroid robo mowers through the Worx Cloud
 - [notional-labs/multisig-ui](https://github.com/notional-labs/multisig-ui) - UI for multisignature tool
 - [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Framework and Observable notebooks
@@ -1912,6 +1914,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - 
+- [Mekire/pygame-samples](https://github.com/Mekire/pygame-samples) - Basic pygame samples illustrating various concepts.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
 - [OnToology/oops-report](https://github.com/OnToology/oops-report) - Generate oops report as a beautiful HTML
