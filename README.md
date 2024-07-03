@@ -2333,6 +2333,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [provenance-io/provwasm](https://github.com/provenance-io/provwasm) - This crate provides Rust bindings to enable CosmWasm smart contracts to interact with custom modules in the Provenance Blockchain.
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
 - [public-awesome/cw-ics721](https://github.com/public-awesome/cw-ics721) - CosmWasm IBC NFT Transfers
+- [public-awesome/cw-nfts](https://github.com/public-awesome/cw-nfts) - Examples and helpers to build NFT contracts on CosmWasm
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
 - [public-awesome/marketplace](https://github.com/public-awesome/marketplace) - Stargaze Marketplace and Live Auctions smart contracts
 - [pysel/dolev-strong](https://github.com/pysel/dolev-strong) - Implementation of Dolev-Strong protocol 
@@ -2409,7 +2410,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [voidpumpkin/fallout-ui](https://github.com/voidpumpkin/fallout-ui) - 
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
-- [webmaster128/cw-nfts](https://github.com/webmaster128/cw-nfts) - Examples and helpers to build NFT contracts on CosmWasm
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [zwilias/elm-json](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
 
