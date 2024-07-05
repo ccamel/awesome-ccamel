@@ -2771,7 +2771,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [enricopolanski/functional-programming](https://github.com/enricopolanski/functional-programming) - Introduction to Functional Programming using TypeScript and fp-ts.
 - [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [etherspot/etherspot-sdk](https://github.com/etherspot/etherspot-sdk) - Etherspot - Account Abstraction SDK
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown.
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures 
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [fathyb/parcel-plugin-angular](https://github.com/fathyb/parcel-plugin-angular) - Complete Angular support for Parcel
