@@ -39,6 +39,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Move](#move)
 - [Mustache](#mustache)
 - [OCaml](#ocaml)
 - [PHP](#php)
@@ -1584,6 +1585,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [editor-js/raw](https://github.com/editor-js/raw) - Raw HTML tool for Editor.js
 - [elm/virtual-dom](https://github.com/elm/virtual-dom) - The foundation of HTML and SVG in Elm.
 - [elwin013/parcel-plugin-static-files-copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - ParcelJS plugin to copy static files
+- [elwin013/parcel-reporter-static-files-copy](https://github.com/elwin013/parcel-reporter-static-files-copy) - ParcelJS v2 plugin to copy static files
 - [epsylon/ufonet](https://github.com/epsylon/ufonet) - UFONet - Denial of Service Toolkit
 - [ept/avrodoc](https://github.com/ept/avrodoc) - Documentation tool for Avro schemas
 - [etalab/guides.etalab.gouv.fr](https://github.com/etalab/guides.etalab.gouv.fr) - Les guides d'Etalab : bonnes pratiques relatives aux données, algorithmes et codes sources
@@ -1612,6 +1614,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [guigrpa/storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories
+- [hariroshan/parcel-transformer-elm-assets](https://github.com/hariroshan/parcel-transformer-elm-assets) - 
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [hhru/react-d3-chart-graphs](https://github.com/hhru/react-d3-chart-graphs) - 
@@ -1864,6 +1867,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [axone-protocol/status](https://github.com/axone-protocol/status) - 🟩 Uptime and historical data of the Axone services
 - [okp4/slips](https://github.com/okp4/slips) - SatoshiLabs Improvement Proposals
+
+## Move
+
+- [initia-labs/movevm](https://github.com/initia-labs/movevm) - 
 
 ## Mustache
 
