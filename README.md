@@ -257,6 +257,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [elm-community/random-extra](https://github.com/elm-community/random-extra) - Extra functions for the core Random library.
 - [elm-community/typed-svg](https://github.com/elm-community/typed-svg) - Typed SVG library written for Elm
 - [elm-explorations/markdown](https://github.com/elm-explorations/markdown) - Markdown parser available for historical reasons. Will be replaced when we have an Elm implementation!
+- [elm-land/elm-land](https://github.com/elm-land/elm-land) - A production-ready framework for building Elm applications.
 - [elm/browser](https://github.com/elm/browser) - Create Elm programs that run in browsers!
 - [elm/bytes](https://github.com/elm/bytes) - Work with bytes and implement network protocols
 - [elm/core](https://github.com/elm/core) - Elm's core libraries
@@ -273,6 +274,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eskimoblood/elm-color-extra](https://github.com/eskimoblood/elm-color-extra) - :art: Additional color handling for Elm
 - [evancz/guide.elm-lang.org](https://github.com/evancz/guide.elm-lang.org) - My book introducing you to Elm!
 - [exercism/elm](https://github.com/exercism/elm) - Exercism exercises in Elm.
+- [fapian/elm-html-aria](https://github.com/fapian/elm-html-aria) - Aria attributes for html
 - [fredcy/elm-parseint](https://github.com/fredcy/elm-parseint) - Elm function for converting a String value to Int
 - [gacallea/elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Vite, TailwindCSS and daisyUI.
 - [gampleman/elm-visualization](https://github.com/gampleman/elm-visualization) - A data visualization library for Elm
@@ -290,6 +292,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jah2488/elm-companies](https://github.com/jah2488/elm-companies) - 🌲 A list of companies using Elm in production.
 - [jfmengels/elm-review](https://github.com/jfmengels/elm-review) - Analyzes Elm projects, to help find mistakes before your users find them.
 - [joakin/elm-canvas](https://github.com/joakin/elm-canvas) - A canvas drawing library for Elm
+- [jouderianjr/bitcoin-br-chrome-extension](https://github.com/jouderianjr/bitcoin-br-chrome-extension) - Chrome extension in elm that shows the latest currency bitcoins from Brazilian exchanges
 - [kevgathuku/parcel-elm](https://github.com/kevgathuku/parcel-elm) - Boilerplate for a new Elm app using Parcel
 - [kraklin/elm-readiness](https://github.com/kraklin/elm-readiness) - Keep track of transition state of your dependencies in your own Elm app to Elm 0.19
 - [lindsaykwardell/vite-elm-spa](https://github.com/lindsaykwardell/vite-elm-spa) - A default template for building Elm SPA applications using Vite.
@@ -984,6 +987,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pjebs/optimus-go](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+- [pokt-network/pocket-core](https://github.com/pokt-network/pocket-core) - Official implementation of the Pocket Network Protocol
 - [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint) - A source code linter that can be used to find code that will cause problems with Go's error wrapping scheme
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
@@ -1917,7 +1921,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
 - [ActivityWatch/contributor-stats](https://github.com/ActivityWatch/contributor-stats) - Generating contributor stats for the ActivityWatch project
-- [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
 - [Anil-matcha/Chatbase-Alternative](https://github.com/Anil-matcha/Chatbase-Alternative) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
 - [BlueFox2718/Solveur-Mini-Cactpot-FFXIV](https://github.com/BlueFox2718/Solveur-Mini-Cactpot-FFXIV) - 
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
@@ -1975,6 +1978,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by large language model APIs 👾
+- [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [etalab-ia/albert](https://github.com/etalab-ia/albert) - Backend ressources for Albert. Albert is a conversational agent that uses official French data sources to answer administrative agents questions.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
@@ -3116,6 +3120,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [celestiaorg/CIPs](https://github.com/celestiaorg/CIPs) - 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [chokermaxx/zkjson](https://github.com/chokermaxx/zkjson) - JSON parser written in Lurk
+- [cmbesnier/portofolio](https://github.com/cmbesnier/portofolio) - 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [cosmos/awesome-cosmos](https://github.com/cosmos/awesome-cosmos) - Collection of Cosmos related resources
 - [cosmos/did-cosmos](https://github.com/cosmos/did-cosmos) - 
