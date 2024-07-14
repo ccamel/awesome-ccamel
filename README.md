@@ -777,6 +777,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hukkin/cosmosvanity](https://github.com/hukkin/cosmosvanity) - CLI tool for generating Cosmos vanity addresses
 - [hyperboloide/lk](https://github.com/hyperboloide/lk) - Simple licensing library for golang.
 - [ichiban/prolog](https://github.com/ichiban/prolog) - The only reasonable scripting engine for Go.
+- [iden3/go-iden3-crypto](https://github.com/iden3/go-iden3-crypto) - Go implementation of some cryptographic primitives (that fit inside the SNARK field) and compatible with circomlib
 - [ignite-hq/installer](https://github.com/ignite-hq/installer) - One-liner for installing binaries from Github releases
 - [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
@@ -2177,6 +2178,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Restioson/xtra](https://github.com/Restioson/xtra) - 🎭 A tiny actor framework
 - [Snedashkovsky/cw-on-chain-registry](https://github.com/Snedashkovsky/cw-on-chain-registry) - on-chain registry contract
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
