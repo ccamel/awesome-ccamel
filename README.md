@@ -154,6 +154,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [j-jorge/codesignal](https://github.com/j-jorge/codesignal) - My solutions to CodeSignal's puzzles
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
+- [mamedev/mame](https://github.com/mamedev/mame) - MAME
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
@@ -323,6 +324,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vendrinc/elm-gql](https://github.com/vendrinc/elm-gql) - 
 - [wsowens/term](https://github.com/wsowens/term) - An Elm package for making web-based terminals
 - [yujota/elm-collision-detection](https://github.com/yujota/elm-collision-detection) - Collision detection library for elm.
+- [zegalur/elm-calc](https://github.com/zegalur/elm-calc) - TI-30Xa calculator made in Elm
 
 ## Emacs Lisp
 
@@ -1518,6 +1520,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
 - [Wervice/Codelink](https://github.com/Wervice/Codelink) - Codelink is a family of open source applications for programming and collaboration.
+- [WolfDan/elm-ssr](https://github.com/WolfDan/elm-ssr) - Elm server side rendering with Razzle
 - [YellowLabTools/YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) - WebPerf and front-end quality testing tool
 - [Yomguithereal/baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 - [adobe/jsonschema2md](https://github.com/adobe/jsonschema2md) - Convert Complex JSON Schemas into Markdown Documentation
@@ -2352,6 +2355,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [preiter93/wireman](https://github.com/preiter93/wireman) - A TUI gRPC client
+- [privacy-scaling-explorations/halo2curves](https://github.com/privacy-scaling-explorations/halo2curves) - 
 - [privacy-scaling-explorations/sonobe](https://github.com/privacy-scaling-explorations/sonobe) - Experimental folding schemes library
 - [provenance-io/provwasm](https://github.com/provenance-io/provwasm) - This crate provides Rust bindings to enable CosmWasm smart contracts to interact with custom modules in the Provenance Blockchain.
 - [public-awesome/badges](https://github.com/public-awesome/badges) - Monorepo for the Badges project
@@ -3162,6 +3166,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [faddat/loki](https://github.com/faddat/loki) - Information, reviews, and recipes for Loki, the drink
 - [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
+- [gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries](https://github.com/gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries) - Extensive List of CSS Frameworks and UI Libraries.
 - [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
