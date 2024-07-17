@@ -131,6 +131,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Orange-OpenSource/keepass-vault-sync-plugin](https://github.com/Orange-OpenSource/keepass-vault-sync-plugin) - Keepass plugin to synchronize Hashicorp Vault secrets
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [akash-network/awesome-akash](https://github.com/akash-network/awesome-akash) - Awesome List of Akash Deployment Examples
+- [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 - [github/gh-valet](https://github.com/github/gh-valet) - Valet helps facilitate the migration of Azure DevOps, CircleCI, GitLab CI, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [plantuml-stdlib/EIP-PlantUML](https://github.com/plantuml-stdlib/EIP-PlantUML) - EIP-PlantUML adds Enterprise Integrations Patterns elements to PlantUML to provide easy support of designing EIP architectures for both, up-front design as well as development-time automated documentation generation.
 
@@ -258,6 +259,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [elm-community/basics-extra](https://github.com/elm-community/basics-extra) - Additional basic functions for Elm.
 - [elm-community/html-extra](https://github.com/elm-community/html-extra) - Additional functions for working with Html.
 - [elm-community/js-integration-examples](https://github.com/elm-community/js-integration-examples) - Examples of common uses of ports and web components
+- [elm-community/json-extra](https://github.com/elm-community/json-extra) - Convenience functions for working with Json.
 - [elm-community/list-extra](https://github.com/elm-community/list-extra) - Convenience functions for working with List.
 - [elm-community/random-extra](https://github.com/elm-community/random-extra) - Extra functions for the core Random library.
 - [elm-community/typed-svg](https://github.com/elm-community/typed-svg) - Typed SVG library written for Elm
@@ -276,6 +278,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [elm/svg](https://github.com/elm/svg) - Fast SVG in Elm
 - [elm/time](https://github.com/elm/time) - A simplified approach to working with dates, times, and time zones.
 - [elm/url](https://github.com/elm/url) - Build and parse URLs. Useful for HTTP and "routing" in single-page apps (SPAs)
+- [emilianobovetti/elm-toast](https://github.com/emilianobovetti/elm-toast) - 
 - [eskimoblood/elm-color-extra](https://github.com/eskimoblood/elm-color-extra) - :art: Additional color handling for Elm
 - [evancz/guide.elm-lang.org](https://github.com/evancz/guide.elm-lang.org) - My book introducing you to Elm!
 - [exercism/elm](https://github.com/exercism/elm) - Exercism exercises in Elm.
@@ -314,6 +317,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ohanhi/keyboard](https://github.com/ohanhi/keyboard) - Nice handling for keyboard inputs in Elm
 - [rlopzc/elm-webpack-starter](https://github.com/rlopzc/elm-webpack-starter) - Elm 0.19 webpack 4 starter template to build SPA
 - [rogeriochaves/spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
+- [rtfeldman/elm-iso8601-date-strings](https://github.com/rtfeldman/elm-iso8601-date-strings) - Convert between ISO-8601 date strings and Time.Posix
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 - [ryan-haskell/elm-storybook-example](https://github.com/ryan-haskell/elm-storybook-example) - An example of how you can build a design system with Elm + Storybook!
 - [simonh1000/elm-colorpicker](https://github.com/simonh1000/elm-colorpicker) - Elm library to implement a color picker tool
@@ -406,7 +410,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ImVexed/fasturl](https://github.com/ImVexed/fasturl) - A fast URL parser for Go
 - [InjectiveLabs/sdk-go](https://github.com/InjectiveLabs/sdk-go) - Tools to work with the Injective Chain, Injective EVM and EIP712.
 - [Iwark/spreadsheet](https://github.com/Iwark/spreadsheet) - Google Go (golang) library for reading and writing spreadsheet files on Google Docs.
-- [JackalLabs/canine-chain](https://github.com/JackalLabs/canine-chain) - The Jackal Protocol blockchain binary
+- [JackalLabs/canine-chain](https://github.com/JackalLabs/canine-chain) - The Jackal Protocol blockchain node binary
 - [JackalLabs/jackalgo](https://github.com/JackalLabs/jackalgo) - A Jackal Interaction Library written in Golang
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
@@ -741,6 +745,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
+- [goyek/goyek](https://github.com/goyek/goyek) - Task automation Go library
 - [gqlc/gqlc](https://github.com/gqlc/gqlc) - GraphQL IDL Compiler
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -788,6 +793,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [initia-labs/OPinit](https://github.com/initia-labs/OPinit) - 
 - [initia-labs/minievm](https://github.com/initia-labs/minievm) - minitia with EVM
+- [initia-labs/miniwasm](https://github.com/initia-labs/miniwasm) - minitia with wasmvm 
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [ipfs/go-metrics-prometheus](https://github.com/ipfs/go-metrics-prometheus) - Prometheus bindings for go-metrics-interface
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
@@ -1255,6 +1261,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ad2ien/ad2ien.github.io](https://github.com/ad2ien/ad2ien.github.io) - Just my résumé
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [bfirsh/docker-redoc](https://github.com/bfirsh/docker-redoc) - A Docker image which serves ReDoc documentation
+- [canonical/vanilla-framework](https://github.com/canonical/vanilla-framework) - From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [cosmos/cosmos-sdk-docs](https://github.com/cosmos/cosmos-sdk-docs) - 
@@ -1286,6 +1293,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - A specification for an HTTP API used to issue and verify Verifiable Credentials.
 - [w3c/controller-document](https://github.com/w3c/controller-document) - Controller Documents
 - [w3c/dxwg](https://github.com/w3c/dxwg) - Data Catalog Vocabulary (DCAT)
+- [w3c/json-ld-api](https://github.com/w3c/json-ld-api) - JSON-LD 1.1 Processing Algorithms and API Specification
 - [w3c/vc-data-model](https://github.com/w3c/vc-data-model) - W3C Verifiable Credentials Working Group — VC Data Model and Representations specification
 - [w3c/vc-di-eddsa](https://github.com/w3c/vc-di-eddsa) - EdDSA Data Integrity Cryptosuites Specification
 - [w3c/vc-jose-cose](https://github.com/w3c/vc-jose-cose) - Verifiable Credentials Working Group — VC JSON Web Tokens specification
@@ -1936,6 +1944,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Anil-matcha/Chatbase-Alternative](https://github.com/Anil-matcha/Chatbase-Alternative) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
 - [BlueFox2718/Solveur-Mini-Cactpot-FFXIV](https://github.com/BlueFox2718/Solveur-Mini-Cactpot-FFXIV) - 
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
+- [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabilities of a large language model with practical file system operations and web search functionality.
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [LoicPandul/Dictionnaire-de-Bitcoin](https://github.com/LoicPandul/Dictionnaire-de-Bitcoin) - Tout le vocabulaire technique de Bitcoin
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
@@ -2379,7 +2388,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ricott1/sshattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH
 - [riker-rs/riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
-- [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+- [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [rosedblabs/rust-practice](https://github.com/rosedblabs/rust-practice) - some tiny learning projects in Rust
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
