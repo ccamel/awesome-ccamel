@@ -2112,6 +2112,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Ruby
 
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
 - [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms) - REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals. 
@@ -2906,7 +2907,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nextui-org/next-app-template](https://github.com/nextui-org/next-app-template) - A Next.js 14 with app directory template  pre-configured with NextUI (v2) and Tailwind CSS.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
-- [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.
+- [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4 / GPT-4o. Port of OpenAI's tiktoken with additional features.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
