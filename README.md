@@ -49,6 +49,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -316,7 +317,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oakesja/elm-news](https://github.com/oakesja/elm-news) - All elm news in one place
 - [ohanhi/keyboard](https://github.com/ohanhi/keyboard) - Nice handling for keyboard inputs in Elm
 - [rlopzc/elm-webpack-starter](https://github.com/rlopzc/elm-webpack-starter) - Elm 0.19 webpack 4 starter template to build SPA
+- [robinheghan/murmur3](https://github.com/robinheghan/murmur3) - Elm implementation of murmur3 hash function
 - [rogeriochaves/spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
+- [rtfeldman/elm-css](https://github.com/rtfeldman/elm-css) - Typed CSS in Elm.
+- [rtfeldman/elm-hex](https://github.com/rtfeldman/elm-hex) - Work with Hexadecimal numbers in Elm.
 - [rtfeldman/elm-iso8601-date-strings](https://github.com/rtfeldman/elm-iso8601-date-strings) - Convert between ISO-8601 date strings and Time.Posix
 - [rtfeldman/elm-spa-example](https://github.com/rtfeldman/elm-spa-example) - A Single Page Application written in Elm
 - [ryan-haskell/elm-storybook-example](https://github.com/ryan-haskell/elm-storybook-example) - An example of how you can build a design system with Elm + Storybook!
@@ -326,6 +330,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [timjs/elm-collage](https://github.com/timjs/elm-collage) - Create interactive vector graphics and position them relative to each other
 - [ultrox/elm-parcel-ts-tmp](https://github.com/ultrox/elm-parcel-ts-tmp) - Parcel + ELM + TS template
 - [vendrinc/elm-gql](https://github.com/vendrinc/elm-gql) - 
+- [vladimirlogachev/elm-land-docker-example](https://github.com/vladimirlogachev/elm-land-docker-example) - Assets caching, Docker setup, app configured at runtime
 - [wsowens/term](https://github.com/wsowens/term) - An Elm package for making web-based terminals
 - [yujota/elm-collision-detection](https://github.com/yujota/elm-collision-detection) - Collision detection library for elm.
 - [zegalur/elm-calc](https://github.com/zegalur/elm-calc) - TI-30Xa calculator made in Elm
@@ -979,6 +984,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 - [osmosis-labs/assetlists](https://github.com/osmosis-labs/assetlists) - 
 - [osmosis-labs/fee-abstraction](https://github.com/osmosis-labs/fee-abstraction) - Enable users on any Cosmos chain with IBC connections to pay fee using IBC tokens.
+- [osmosis-labs/mesh-security-sdk](https://github.com/osmosis-labs/mesh-security-sdk) - 
 - [osmosis-labs/osmosis](https://github.com/osmosis-labs/osmosis) - The AMM Laboratory
 - [outscale/cloud-provider-osc](https://github.com/outscale/cloud-provider-osc) - 
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
@@ -993,6 +999,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pelletier/go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML file format
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - The most accurate natural language detection library for Go, suitable for short text and mixed-language text
 - [persistenceOne/persistenceCore](https://github.com/persistenceOne/persistenceCore) - Project implementing an application for the Persistence Core chain that all the other chains in the ecosystem connect to as a raised and open moderator for interoperability, shared security, and as a gateway to other ecosystems and chains.
+- [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 - [petrgazarov/salami](https://github.com/petrgazarov/salami) - Infrastructure as Natural Language
 - [phayes/freeport](https://github.com/phayes/freeport) - Get a free and open tcp port that is ready to use
 - [phcollignon/Go-Template](https://github.com/phcollignon/Go-Template) - Go Template examples and code generator
@@ -1002,6 +1009,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [pokt-network/pocket-core](https://github.com/pokt-network/pocket-core) - Official implementation of the Pocket Network Protocol
+- [pokt-network/smt](https://github.com/pokt-network/smt) - A Go library that implements a Sparse Merkle Trie for a key-value map.
 - [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint) - A source code linter that can be used to find code that will cause problems with Go's error wrapping scheme
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
@@ -1304,6 +1312,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Handlebars
 
+- [celestiaorg/CIPs](https://github.com/celestiaorg/CIPs) - 
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 
 ## Haskell
@@ -1322,6 +1331,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [tfausak/rampart](https://github.com/tfausak/rampart) - :european_castle: Determine how intervals relate to each other.
 - [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
+- [vladimirlogachev/elm-package-insights](https://github.com/vladimirlogachev/elm-package-insights) - Detects broken Elm packages
 
 ## JSON
 
@@ -1494,7 +1504,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [Agoric/dapp-oracle](https://github.com/Agoric/dapp-oracle) - A generic blockchain oracle implementation
 - [AlbertHernandez/branch-name-action](https://github.com/AlbertHernandez/branch-name-action) - Check if the branch name is following a convention name
-- [AmbireTech/wallet](https://github.com/AmbireTech/wallet) - Ambire Wallet: A full featured self-custodial DeFi wallet superapp focused on UX using account abstraction
+- [AmbireTech/wallet](https://github.com/AmbireTech/wallet) - Ambire Wallet: making self-custody easy and secure for the EVM ecosystem
 - [AshKyd/ui95](https://github.com/AshKyd/ui95) - 🖥 WIP: A preact implementation of Windows 95/98/ME style components and apps. See it in action on my personal site at https://ash.ms
 - [BitCannaCommunity/cosmos-faucet](https://github.com/BitCannaCommunity/cosmos-faucet) - Cosmos-faucet is a simple alternative to the tendermint/faucet GoLang script. This is an idea adapted for  Bitcanna and can be used for any project using cosmos.
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
@@ -1991,7 +2001,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [cosmos/chain-registry](https://github.com/cosmos/chain-registry) - 
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
-- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
 - [derrian-distro/LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts) - A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy
@@ -2108,6 +2117,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [krzjoa/awesome-r-dataviz](https://github.com/krzjoa/awesome-r-dataviz) - Curated resources about Data Visualization, Drawing & Publishing in R
 - [r-arduino/arduinor](https://github.com/r-arduino/arduinor) - An easy way to get arduino data into R
 - [r-lib/lintr](https://github.com/r-lib/lintr) - Static Code Analysis for R
+
+## Roff
+
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 
 ## Ruby
 
@@ -2362,6 +2375,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [oxigraph/rio](https://github.com/oxigraph/rio) - RDF parsers library
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a fully private proof-of-stake network and decentralized exchange for the Cosmos ecosystem.
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
@@ -2437,6 +2451,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [timewave-computer/covenants](https://github.com/timewave-computer/covenants) - 
 - [tlsnotary/tlsn](https://github.com/tlsnotary/tlsn) - Rust implementation of the TLSNotary protocol
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
+- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
@@ -2798,7 +2813,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
@@ -2886,6 +2901,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [lavanet/lava-sdk-providers](https://github.com/lavanet/lava-sdk-providers) - Lava SDK providers
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
+- [loiclaudet/block-explorer](https://github.com/loiclaudet/block-explorer) - Ethereum blocks, transactions and accounts explorer
 - [loiclaudet/threejs-journey](https://github.com/loiclaudet/threejs-journey) - 
 - [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 - [madeintracker/okp4_web_interface](https://github.com/madeintracker/okp4_web_interface) - Invoke the power of Dagda
@@ -3146,7 +3162,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ccamel/amimart](https://github.com/ccamel/amimart) - :octocat: About me
 - [ccamel/awesome-ccamel](https://github.com/ccamel/awesome-ccamel) - A collection of awesome things for me, myself and I.
 - [ccamel/ccamel](https://github.com/ccamel/ccamel) - My :octocat: profile 
-- [celestiaorg/CIPs](https://github.com/celestiaorg/CIPs) - 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [cmbesnier/portofolio](https://github.com/cmbesnier/portofolio) - 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
