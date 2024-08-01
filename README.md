@@ -750,6 +750,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [goraz/onion](https://github.com/goraz/onion) - Layer based configuration for golang
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
 - [goyek/goyek](https://github.com/goyek/goyek) - Task automation Go library
 - [gqlc/gqlc](https://github.com/gqlc/gqlc) - GraphQL IDL Compiler
@@ -1115,7 +1116,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
-- [sourcenetwork/defradb](https://github.com/sourcenetwork/defradb) - DefraDB is a Peer-to-Peer Edge Database. It's the core data storage system for the Source Network Ecosystem, built with IPFS/IPLD, LibP2P, CRDTs, and Semantic open web properties.
+- [sourcenetwork/defradb](https://github.com/sourcenetwork/defradb) - DefraDB is a Peer-to-Peer Edge Database. It's the core data storage system for the Source Network Ecosystem, built with IPLD, LibP2P, CRDTs, and Semantic open web properties.
 - [soypat/gitaligned](https://github.com/soypat/gitaligned) - Find out where you fall on the Open-Source Character Alignment Chart
 - [soypat/rebed](https://github.com/soypat/rebed) - Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type.
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
@@ -1302,6 +1303,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vasturiano/3d-force-graph-vr](https://github.com/vasturiano/3d-force-graph-vr) - 3D force-directed graph component in VR
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [w3c-ccg/vc-api](https://github.com/w3c-ccg/vc-api) - A specification for an HTTP API used to issue and verify Verifiable Credentials.
+- [w3c-ccg/vc-barcodes](https://github.com/w3c-ccg/vc-barcodes) - Securing optical barcodes using Verifiable Credentials.
 - [w3c/controller-document](https://github.com/w3c/controller-document) - Controller Documents
 - [w3c/dxwg](https://github.com/w3c/dxwg) - Data Catalog Vocabulary (DCAT)
 - [w3c/json-ld-api](https://github.com/w3c/json-ld-api) - JSON-LD 1.1 Processing Algorithms and API Specification
@@ -1602,6 +1604,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [davidbau/seedrandom](https://github.com/davidbau/seedrandom) - seeded random number generator for Javascript
 - [davidferguson/pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
+- [dcast-media/d-sponsor-Dashboard](https://github.com/dcast-media/d-sponsor-Dashboard) - DSponsor frontend - Administration & Marketplace for tokenized ad spaces
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [dgarijo/Widoco](https://github.com/dgarijo/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
@@ -1687,6 +1690,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ltearno/pom-explorer](https://github.com/ltearno/pom-explorer) - A tool to aid managing lots of maven projects
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) - LaTeX block support for EditorJS
@@ -1792,6 +1796,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
+- [w3c/vc-data-model-2.0-test-suite](https://github.com/w3c/vc-data-model-2.0-test-suite) - W3C Verifiable Credentials v2.0 test suite
 - [wearerequired/lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and auto-fixing lint errors
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
@@ -1960,6 +1965,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BlueFox2718/Solveur-Mini-Cactpot-FFXIV](https://github.com/BlueFox2718/Solveur-Mini-Cactpot-FFXIV) - 
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabilities of a large language model with practical file system operations and web search functionality.
+- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [LoicPandul/Dictionnaire-de-Bitcoin](https://github.com/LoicPandul/Dictionnaire-de-Bitcoin) - Tout le vocabulaire technique de Bitcoin
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
@@ -2075,6 +2081,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [openai/grok](https://github.com/openai/grok) - 
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
 - [openfaas/workshop](https://github.com/openfaas/workshop) - Learn Serverless for Kubernetes with OpenFaaS
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [patdaburu/cookiecutter-click](https://github.com/patdaburu/cookiecutter-click) - A Python cookiecutter template to help you start a Click project.
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
@@ -2185,7 +2192,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DA0-DA0/polytone](https://github.com/DA0-DA0/polytone) - An account on every blockchain for every smart contract.
 - [DanielKeep/cargo-script](https://github.com/DanielKeep/cargo-script) - Cargo script subcommand
 - [Derricks-DApps/contracts](https://github.com/Derricks-DApps/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects) - Featured Dioxus projects on how to build clean user interfaces in Rust
 - [Electron-Labs/cw-eth2-lc](https://github.com/Electron-Labs/cw-eth2-lc) - Eth2 light client implementation as a cosmwasm smart contract
 - [EntropicLabs/cw-rewards](https://github.com/EntropicLabs/cw-rewards) - 
@@ -2277,6 +2284,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [duncanlutz/ruxt.rs](https://github.com/duncanlutz/ruxt.rs) - An Actix-based Rust framework for building HTMX sites.
+- [eigerco/lumina](https://github.com/eigerco/lumina) - Wasm friendly Celestia light node implementation in Rust
 - [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -2751,6 +2759,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months. 
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
+- [alexlafroscia/vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Vite support for Handlebars
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
@@ -2957,6 +2966,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [patrickmichalina/typescript-monads](https://github.com/patrickmichalina/typescript-monads) - 📚Write safer TypeScript using Maybe, List, Result, and Either monads.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
+- [penumbra-zone/cuiloa](https://github.com/penumbra-zone/cuiloa) - Third party block explorer built with NextJS for the Penumbra Zone network
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
