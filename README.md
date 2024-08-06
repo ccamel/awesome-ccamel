@@ -281,6 +281,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [elm/time](https://github.com/elm/time) - A simplified approach to working with dates, times, and time zones.
 - [elm/url](https://github.com/elm/url) - Build and parse URLs. Useful for HTTP and "routing" in single-page apps (SPAs)
 - [emilianobovetti/elm-toast](https://github.com/emilianobovetti/elm-toast) - 
+- [erkal/erkal.github.io](https://github.com/erkal/erkal.github.io) - 
 - [eskimoblood/elm-color-extra](https://github.com/eskimoblood/elm-color-extra) - :art: Additional color handling for Elm
 - [evancz/guide.elm-lang.org](https://github.com/evancz/guide.elm-lang.org) - My book introducing you to Elm!
 - [exercism/elm](https://github.com/exercism/elm) - Exercism exercises in Elm.
@@ -496,6 +497,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) - Go linter for forbidding identifiers
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
+- [astriaorg/astria-cli-go](https://github.com/astriaorg/astria-cli-go) - Astria Go CLI
 - [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [axelarnetwork/axelar-core](https://github.com/axelarnetwork/axelar-core) - Axelar: A Decentralized Blockchain Interoperability Network
@@ -983,12 +985,14 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) - A management framework for extending Kubernetes with Operators
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [opus-domini/fast-shot](https://github.com/opus-domini/fast-shot) - Hit your API targets with rapid-fire precision using Go's fastest and simple HTTP Client.
+- [oraichain/orai](https://github.com/oraichain/orai) - Monolithic repository of everything Oraichain
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 - [osmosis-labs/assetlists](https://github.com/osmosis-labs/assetlists) - 
 - [osmosis-labs/fee-abstraction](https://github.com/osmosis-labs/fee-abstraction) - Enable users on any Cosmos chain with IBC connections to pay fee using IBC tokens.
 - [osmosis-labs/mesh-security-sdk](https://github.com/osmosis-labs/mesh-security-sdk) - 
 - [osmosis-labs/osmosis](https://github.com/osmosis-labs/osmosis) - The AMM Laboratory
+- [osmosis-labs/sqs](https://github.com/osmosis-labs/sqs) - Sidecar Query Server
 - [outscale/cloud-provider-osc](https://github.com/outscale/cloud-provider-osc) - 
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
@@ -1079,7 +1083,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sboehler/knut](https://github.com/sboehler/knut) - knut is an efficient plain text accounting tool with support for multiple currencies and valuation.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [seborama/fuego](https://github.com/seborama/fuego) - Functional Experiment in Golang
-- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure SDK/vault for personal records/PII built to comply with GDPR
+- [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure Vault for Customer PII/PHI/PCI/KYC Records
 - [sedaprotocol/seda-chain](https://github.com/sedaprotocol/seda-chain) - SEDA chain network
 - [sedaprotocol/seda-networks](https://github.com/sedaprotocol/seda-networks) - 
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
@@ -1425,6 +1429,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin) - A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
 - [fewlaps/quitnow-email-suggester](https://github.com/fewlaps/quitnow-email-suggester) - 📧 Correct typos in email addresses like hello@gmail.con
 - [filip26/carbon-decentralized-identifiers](https://github.com/filip26/carbon-decentralized-identifiers) - Decentralized Identifiers (DIDs) API
+- [filip26/iridium-cbor-ld](https://github.com/filip26/iridium-cbor-ld) - A CBOR-based Processor for Linked Data
 - [filip26/iron-verifiable-credentials](https://github.com/filip26/iron-verifiable-credentials) - A Verifiable Credentials Processor & API
 - [filip26/titanium-json-ld](https://github.com/filip26/titanium-json-ld) - A JSON-LD 1.1 Processor & API
 - [flapdoodle-oss/de.flapdoodle.embed.mongo](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo) - ...will provide a platform neutral way for running mongodb in unittests.
@@ -1691,12 +1696,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ltearno/pom-explorer](https://github.com/ltearno/pom-explorer) - A tool to aid managing lots of maven projects
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) - LaTeX block support for EditorJS
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - Template for PixiJS using Typescript and Webpack https://stackblitz.com/github/miltoncandelero/pixi-hotwire 
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -1779,6 +1783,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 - [tau-prolog/notebook](https://github.com/tau-prolog/notebook) - A web-based notebook environment for Tau Prolog
 - [tau-prolog/tau-prolog](https://github.com/tau-prolog/tau-prolog) - An open source Prolog interpreter in JavaScript
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks all of the hyperlinks in a markdown text to determine if they are alive or dead
@@ -2927,8 +2932,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 - [madeintracker/okp4_web_interface](https://github.com/madeintracker/okp4_web_interface) - Invoke the power of Dagda
 - [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
-- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [mars-protocol/networks](https://github.com/mars-protocol/networks) - Genesis data for Mars Hub mainnet and testnets
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -2981,7 +2987,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [public-awesome/stargaze-tools](https://github.com/public-awesome/stargaze-tools) - Tools for launching NFT projects on Stargaze
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [r-wasm/webr](https://github.com/r-wasm/webr) - The statistical language R compiled to WebAssembly via Emscripten, for use in web browsers and Node.
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [react-component/select](https://github.com/react-component/select) - React Select
@@ -3162,6 +3168,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [amimart/amimart](https://github.com/amimart/amimart) - :octocat: About me
 - [amirrezaask/Goify](https://github.com/amirrezaask/Goify) - Goify is My Vision of clean code in golang
 - [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [antoninab4/OKP4](https://github.com/antoninab4/OKP4) - Пошаговая установка ноды OKP4
 - [apiaryio/mson](https://github.com/apiaryio/mson) - Markdown Syntax for Object Notation
@@ -3256,6 +3263,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook) - A collection of awesome resources about @storybookjs ecosystem 🎨
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+- [leptos-rs/awesome-leptos](https://github.com/leptos-rs/awesome-leptos) - A collection of awesome libraries in the Leptos ecosystem.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [llaisdy/beam_languages](https://github.com/llaisdy/beam_languages) - Languages, and about languages, on the BEAM
 - [lolottetheclash/lolottetheclash](https://github.com/lolottetheclash/lolottetheclash) - About me 
