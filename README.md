@@ -1314,6 +1314,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [w3c/controller-document](https://github.com/w3c/controller-document) - Controller Documents
 - [w3c/dxwg](https://github.com/w3c/dxwg) - Data Catalog Vocabulary (DCAT)
 - [w3c/json-ld-api](https://github.com/w3c/json-ld-api) - JSON-LD 1.1 Processing Algorithms and API Specification
+- [w3c/vc-data-integrity](https://github.com/w3c/vc-data-integrity) - W3C Data Integrity Specification
 - [w3c/vc-data-model](https://github.com/w3c/vc-data-model) - W3C Verifiable Credentials v2.0 Specification
 - [w3c/vc-di-eddsa](https://github.com/w3c/vc-di-eddsa) - EdDSA Data Integrity Cryptosuites Specification
 - [w3c/vc-jose-cose](https://github.com/w3c/vc-jose-cose) - Verifiable Credentials Working Group — VC JSON Web Tokens specification
