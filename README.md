@@ -402,6 +402,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmosContracts/juno](https://github.com/CosmosContracts/juno) - Open Source Platform for Interoperable Smart Contracts
 - [DecentralCardGame/Cardchain](https://github.com/DecentralCardGame/Cardchain) - Cosmos based blockchain for handling card ownership, card creation and voting on cards.
 - [DefiantLabs/cosmos-indexer](https://github.com/DefiantLabs/cosmos-indexer) - An opensource cosmos indexer!  Please feel free to use this to build other awesome apps like https://app.sycamore.tax and https://elections.atomaccelerator.com
+- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [Djarvur/go-err113](https://github.com/Djarvur/go-err113) -   Golang linter to check the errors handling expressions
 - [DoWithLogic/golang-clean-architecture](https://github.com/DoWithLogic/golang-clean-architecture) - implementation clean architecture with SOLID Principles
 - [EmpowerPlastic/cosmos-chain-reporting](https://github.com/EmpowerPlastic/cosmos-chain-reporting) - 
@@ -546,7 +547,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ccamel/kynaptik](https://github.com/ccamel/kynaptik) - λ Fission Function which evaluates incoming stimulus (event/message) and determines an appropriate (configured) action (http, graphQL, ...)
 - [ccamel/playground-protoactor.go](https://github.com/ccamel/playground-protoactor.go) -  :balloon: My playground for playing with protoactor (the next gen Actor Model framework) in go, following DDD, Event Sourcing & CQRS paradigms.
 - [ccbrown/api-fu](https://github.com/ccbrown/api-fu) - A collection of Go packages for creating robust GraphQL APIs
+- [celestiaorg/celestia-core](https://github.com/celestiaorg/celestia-core) - A fork of CometBFT
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes
+- [celestiaorg/nmt](https://github.com/celestiaorg/nmt) - Namespaced Merkle Tree
 - [census-instrumentation/opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -1610,7 +1613,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [cosmos/developer-portal](https://github.com/cosmos/developer-portal) - 
-- [cosmos/ics23](https://github.com/cosmos/ics23) - Building generic merkle proof format for IBC
 - [cosmostation/cosmosjs](https://github.com/cosmostation/cosmosjs) - :star: CosmosJS - Cosmos JavaScript Library
 - [cryppadotta/dotta-license](https://github.com/cryppadotta/dotta-license) - ERC721-based Software Licensing Framework
 - [cryptocrew-validators/relayer-feegrant-wg](https://github.com/cryptocrew-validators/relayer-feegrant-wg) - 
@@ -2055,6 +2057,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [grafana/github-traffic](https://github.com/grafana/github-traffic) - Github Traffic Insights as Prometheus metrics.
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
@@ -2131,7 +2134,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [secretanalytics/secret-sdk-python](https://github.com/secretanalytics/secret-sdk-python) - Python library to interact with Secret Network on Cosmos
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
-- [skip-mev/skip-go-cosmwasm-contracts](https://github.com/skip-mev/skip-go-cosmwasm-contracts) - CosmWasm Contracts for Skip Go
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
 - [stefano/wasm-forth](https://github.com/stefano/wasm-forth) - A Forth implementation compiling to WebAssembly.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -2262,6 +2264,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [andresilva/rust-okasaki](https://github.com/andresilva/rust-okasaki) - Purely Functional Data Structures in Rust
 - [andromedaprotocol/andromeda-core](https://github.com/andromedaprotocol/andromeda-core) - Operating System and ADO Smart Contracts
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
+- [anoma/namada-indexer](https://github.com/anoma/namada-indexer) - Namada indexer to be used in conjunction with the namada interface
 - [antouhou/rs-merkle](https://github.com/antouhou/rs-merkle) - The most advanced Merkle tree library for Rust
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
 - [archid-protocol/archid-registry](https://github.com/archid-protocol/archid-registry) - ArchID is a name service for Archway Network, supporting domains, subdomains, and web2 identity verification.
@@ -2305,6 +2308,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [cosmos/ibc-proto-rs](https://github.com/cosmos/ibc-proto-rs) - Rust Protobuf definitions and gRPC clients for interacting with Cosmos SDK, IBC and Interchain Security
 - [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
+- [cosmos/ics23](https://github.com/cosmos/ics23) - Building generic merkle proof format for IBC
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
@@ -2481,6 +2485,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sideprotocol/mesh-liquidity-wasm](https://github.com/sideprotocol/mesh-liquidity-wasm) - Cosmwasm implementation of ICS-101 
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
+- [skip-mev/skip-go-cosmwasm-contracts](https://github.com/skip-mev/skip-go-cosmwasm-contracts) - CosmWasm Contracts for Skip Go
 - [spruceid/didkit](https://github.com/spruceid/didkit) - A cross-platform toolkit for decentralized identity.
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
 - [stellar/slingshot](https://github.com/stellar/slingshot) -  A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety
@@ -3247,6 +3252,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 - [dharmeshkakadia/awesome-kafka](https://github.com/dharmeshkakadia/awesome-kafka) - Everything about Apache Kafka
 - [drobakowski/awesome-erlang](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things.
+- [dymensionxyz/chain-registry](https://github.com/dymensionxyz/chain-registry) - 
 - [eco-stake/validator-registry](https://github.com/eco-stake/validator-registry) - Cosmos Validator Registry
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness
