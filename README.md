@@ -44,6 +44,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [OCaml](#ocaml)
 - [PHP](#php)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Prolog](#prolog)
 - [PureScript](#purescript)
 - [Python](#python)
@@ -163,6 +164,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [parcel-bundler/watcher](https://github.com/parcel-bundler/watcher) - 👀 A native C++ Node module for querying and subscribing to filesystem events
 - [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Monitor and observe the availability of end-user services atop of Kubernetes, Zabbix and Nagios. Define and track SLA/SLO targets through Prometheus metrics and built-in dashboards.
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [sosolimited/Entity-Component-Samples](https://github.com/sosolimited/Entity-Component-Samples) - Cinder block for EntityX and a brief ECS tutorial.
 - [strickyak/jsonnet_cgo](https://github.com/strickyak/jsonnet_cgo) - Golang CGo Wrapper around JSonnet VM
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -268,6 +270,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [elm-community/random-extra](https://github.com/elm-community/random-extra) - Extra functions for the core Random library.
 - [elm-community/typed-svg](https://github.com/elm-community/typed-svg) - Typed SVG library written for Elm
 - [elm-explorations/markdown](https://github.com/elm-explorations/markdown) - Markdown parser available for historical reasons. Will be replaced when we have an Elm implementation!
+- [elm-explorations/webgl](https://github.com/elm-explorations/webgl) - Functional rendering with WebGL in Elm
 - [elm-land/elm-land](https://github.com/elm-land/elm-land) - A production-ready framework for building Elm applications.
 - [elm/browser](https://github.com/elm/browser) - Create Elm programs that run in browsers!
 - [elm/bytes](https://github.com/elm/bytes) - Work with bytes and implement network protocols
@@ -431,6 +434,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [KiFoundation/ki-tools](https://github.com/KiFoundation/ki-tools) - Tools for the Kichain
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
 - [Konstantin8105/f4go](https://github.com/Konstantin8105/f4go) - Transpiling fortran code to golang code
+- [Lagrange-Labs/lsc-client-cli](https://github.com/Lagrange-Labs/lsc-client-cli) - 
 - [LambdaIM/lambdavm](https://github.com/LambdaIM/lambdavm) - docs: https://docs.lambda.im/
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
@@ -439,6 +443,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [OmniFlix/omniflixhub](https://github.com/OmniFlix/omniflixhub) - OmniFlix Hub is the root chain of the OmniFlix Network. Sovereign chains and DAOs build on top of or connect to the OmniFlix Hub to manage their web2 & web3 media operations to mint, manage, distribute & monetize NFTs enabled with community interactions.
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [Orange-OpenSource/nifikop](https://github.com/Orange-OpenSource/nifikop) - The NiFiKop NiFi Kubernetes operator makes it easy to run Apache NiFi on Kubernetes. Apache NiFI is a free, open-source solution that support powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
+- [PeggyJV/sommelier](https://github.com/PeggyJV/sommelier) - Sommelier Chain
 - [Pisush/chatGPT-plugin-template](https://github.com/Pisush/chatGPT-plugin-template) - For Gophers
 - [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [QuokkaStake/cosmos-proposals-checker](https://github.com/QuokkaStake/cosmos-proposals-checker) - A tool to notify you if you miss a proposal vote on any cosmos-sdk chain
@@ -448,6 +453,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Reecepbcups/cosmos-submit-tx-client](https://github.com/Reecepbcups/cosmos-submit-tx-client) - Submit a Cosmos Tx in Go (via gRPC)
 - [Shyp/generate-tls-cert](https://github.com/Shyp/generate-tls-cert) - Generating self signed certificates
 - [SimonSchneider/traefik-jwt-decode](https://github.com/SimonSchneider/traefik-jwt-decode) - Traefik forward auth implementation for JWT tokens
+- [Stride-Labs/stride](https://github.com/Stride-Labs/stride) - Stride: Multichain Liquid Staking
 - [Synternet/data-layer-sdk](https://github.com/Synternet/data-layer-sdk) - 
 - [Synternet/pubsub-go](https://github.com/Synternet/pubsub-go) - 
 - [Synternet/syntropy-agent](https://github.com/Synternet/syntropy-agent) - Syntropy Platform Agent
@@ -1970,6 +1976,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mludvig/smtp-cli](https://github.com/mludvig/smtp-cli) - The ultimate command line SMTP client
 - [zonemaster/zonemaster](https://github.com/zonemaster/zonemaster) - The Zonemaster Project
 
+## PowerShell
+
+- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
+
 ## Prolog
 
 - [AdrienLemaire/okp4_buider_templates](https://github.com/AdrienLemaire/okp4_buider_templates) - OKP4 Nemeton Program step 5: Purpose a governance template (Prolog code)
@@ -2443,7 +2453,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [readysettech/proptest-stateful](https://github.com/readysettech/proptest-stateful) - Library for building stateful property tests using the proptest crate
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [richardanaya/wasm-service](https://github.com/richardanaya/wasm-service) - HTMX, WebAssembly, Rust, ServiceWorkers
@@ -2651,6 +2661,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [karancode/kustomize-github-action](https://github.com/karancode/kustomize-github-action) - :european_castle: Github action for kustomize
 - [kj89/testnet_manuals](https://github.com/kj89/testnet_manuals) - 
+- [lavanet/lava-config](https://github.com/lavanet/lava-config) - Lava config files repo
 - [lensesio/lenses-docker](https://github.com/lensesio/lenses-docker) - ❤for real-time DataOps - where the application and data fabric blends - Lenses
 - [linagora/linshare](https://github.com/linagora/linshare) - LinShare
 - [lindt/docker_plantuml](https://github.com/lindt/docker_plantuml) - docker container for plantuml
@@ -3049,6 +3060,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
 - [scrtlabs/dash.scrt.network](https://github.com/scrtlabs/dash.scrt.network) - Secret Dashboard is an entry point for new users into Secret Network.
 - [scrtlabs/secret-template](https://github.com/scrtlabs/secret-template) - Quickstart template to get started writing your own cosmwasm contracts
+- [scrtlabs/secret.js](https://github.com/scrtlabs/secret.js) - The JavaScript SDK for Secret Network
 - [segmentio/analytics-react-native](https://github.com/segmentio/analytics-react-native) - The hassle-free way to add analytics to your React-Native app.
 - [sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain) - 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
