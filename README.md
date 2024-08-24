@@ -2012,6 +2012,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
 - [OnToology/oops-report](https://github.com/OnToology/oops-report) - Generate oops report as a beautiful HTML
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Efficient retrieval augmented generation framework
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
 - [RDFLib/rdflib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
@@ -2052,6 +2053,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 - [derrian-distro/LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts) - A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy
 - [diego-vicente/som-tsp](https://github.com/diego-vicente/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
