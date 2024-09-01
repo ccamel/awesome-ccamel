@@ -765,7 +765,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [goplus/c2go](https://github.com/goplus/c2go) - Convert C to Go
-- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world.
+- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the future.
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 - [goraz/onion](https://github.com/goraz/onion) - Layer based configuration for golang
@@ -2511,6 +2511,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
 - [skip-mev/skip-go-cosmwasm-contracts](https://github.com/skip-mev/skip-go-cosmwasm-contracts) - CosmWasm Contracts for Skip Go
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time | Proof of SQL
 - [spruceid/didkit](https://github.com/spruceid/didkit) - A cross-platform toolkit for decentralized identity.
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
@@ -2820,6 +2821,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [adevinta/spark](https://github.com/adevinta/spark) - ✨ Simple, Modular & Accessible UI Components for your React Applications
 - [adhrinae/ts-react-parcel](https://github.com/adhrinae/ts-react-parcel) - Typescript with React, using parcel bundler
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). Unopinionated and heavily updated fork of react-signature-pad
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
