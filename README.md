@@ -1973,6 +1973,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## PHP
 
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) - Converts CSS styles into inline style attributes in your HTML code.
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Trismegiste/Prolog](https://github.com/Trismegiste/Prolog) - Warren Abstract Machine - A embedded Prolog compiler and virtual machine for PHP
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [cerbero90/json-parser](https://github.com/cerbero90/json-parser) - 🧩 Zero-dependencies lazy parser to read JSON of any dimension and from any source in a memory-efficient way.
@@ -2534,6 +2535,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/musli](https://github.com/udoprog/musli) - Müsli is a flexible and generic binary serialization framework
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [utkarshkukreti/draco](https://github.com/utkarshkukreti/draco) - Draco is a Rust library for building client side web applications with Web Assembly.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
