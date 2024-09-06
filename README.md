@@ -408,7 +408,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmosContracts/juno](https://github.com/CosmosContracts/juno) - Open Source Platform for Interoperable Smart Contracts
 - [DecentralCardGame/Cardchain](https://github.com/DecentralCardGame/Cardchain) - Cosmos based blockchain for handling card ownership, card creation and voting on cards.
 - [DefiantLabs/cosmos-indexer](https://github.com/DefiantLabs/cosmos-indexer) - An opensource cosmos indexer!  Please feel free to use this to build other awesome apps like https://app.sycamore.tax and https://elections.atomaccelerator.com
-- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database hyper-optimized for building real-time applications with SQL-based real-time reactivity baked in.
 - [Djarvur/go-err113](https://github.com/Djarvur/go-err113) -   Golang linter to check the errors handling expressions
 - [DoWithLogic/golang-clean-architecture](https://github.com/DoWithLogic/golang-clean-architecture) - implementation clean architecture with SOLID Principles
 - [EmpowerPlastic/cosmos-chain-reporting](https://github.com/EmpowerPlastic/cosmos-chain-reporting) - 
@@ -487,6 +487,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [alpeb/go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
+- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [anthdm/slick](https://github.com/anthdm/slick) - 
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [antsankov/go-live](https://github.com/antsankov/go-live) - 🗂️ go-live is an ultra-light server utility that serves files, HTML or anything else, over HTTP.
@@ -707,7 +708,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [githubexporter/github-exporter](https://github.com/githubexporter/github-exporter) - :octocat: Prometheus exporter for github metrics
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gjongenelen/eh-mongodb](https://github.com/gjongenelen/eh-mongodb) - Improved MongoDB driver for Event Horizon
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [go-chat-bot/bot](https://github.com/go-chat-bot/bot) - IRC, Slack, Telegram and RocketChat bot written in go
@@ -725,6 +725,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
+- [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [go-validator/validator](https://github.com/go-validator/validator) - Package validator implements struct field validations
@@ -765,7 +766,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [goplus/c2go](https://github.com/goplus/c2go) - Convert C to Go
-- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the future.
+- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world.
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 - [goraz/onion](https://github.com/goraz/onion) - Layer based configuration for golang
@@ -1064,6 +1065,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures
 - [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+- [raphoester/chaos](https://github.com/raphoester/chaos) - A simple library for generating deterministic chaotic values.
 - [raviqqe/gherkin2markdown](https://github.com/raviqqe/gherkin2markdown) - Gherkin to Markdown converter
 - [rchakode/hugo-mx-gateway](https://github.com/rchakode/hugo-mx-gateway) - :mailbox_with_no_mail: :scroll: Contact/demo form handler for static websites. Deploy in minutes on Google App Engine, Kubernetes, or Docker. Tested with Hugo static site generator.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -2467,7 +2469,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [public-awesome/launchpad](https://github.com/public-awesome/launchpad) - Stargaze NFT and Launchpad smart contracts
 - [public-awesome/marketplace](https://github.com/public-awesome/marketplace) - Stargaze Marketplace and Live Auctions smart contracts
 - [pysel/dolev-strong](https://github.com/pysel/dolev-strong) - Implementation of Dolev-Strong protocol 
-- [pythops/tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
+- [pythops/tenere](https://github.com/pythops/tenere) - 🤖 TUI interface for LLMs written in Rust
 - [quasar-finance/quasar](https://github.com/quasar-finance/quasar) - Quasar is an application-specific capital management blockchain in the Cosmos ecosystem that runs self-governed vault-based investment strategies.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
@@ -2766,7 +2768,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BitCannaGlobal/bcna](https://github.com/BitCannaGlobal/bcna) - BitCanna Blockchain based on Cosmos SDK
 - [BlockTrainBuilders/BlockTrain](https://github.com/BlockTrainBuilders/BlockTrain) - 
 - [BowlingX/geschichte](https://github.com/BowlingX/geschichte) - zustand and immer based hook to manage query parameters
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  
 - [BuilderIO/gpt-assistant](https://github.com/BuilderIO/gpt-assistant) - An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [CosmWasm/CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS) - Source of the cosmwasm npm package
@@ -2941,6 +2943,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gcanti/retry-ts](https://github.com/gcanti/retry-ts) - Retry combinators for monadic actions that may fail
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitroomhq/trending-list](https://github.com/gitroomhq/trending-list) - Know when you are trending on GitHub
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
