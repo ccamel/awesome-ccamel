@@ -1236,6 +1236,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vektah/gqlparser](https://github.com/vektah/gqlparser) - A port of the parser from graphql-js into golang
 - [viant/toolbox](https://github.com/viant/toolbox) - Toolbox - go utility library
 - [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation.
+- [vitwit/cada](https://github.com/vitwit/cada) - Cada is a cosmos module, connects cosmos chains with Avail. Using this any cosmos chain or rollapp use Avail as DA layer.
 - [vitwit/validator-alertbot](https://github.com/vitwit/validator-alertbot) - Validator alertbot for cosmos ecosystem
 - [vladimirvivien/automi](https://github.com/vladimirvivien/automi) - A stream processing API for Go (alpha)
 - [vladimirvivien/go-plugin-example](https://github.com/vladimirvivien/go-plugin-example) - Playing around with Go 1.8 plugin system
@@ -1311,6 +1312,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [dominictarr/sentimental-versioning](https://github.com/dominictarr/sentimental-versioning) - version numbers with meaning
 - [eclipse-tractusx/sldt-semantic-models](https://github.com/eclipse-tractusx/sldt-semantic-models) - sldt-semantic-models
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
@@ -1655,7 +1657,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eco-stake/cosmos-directory](https://github.com/eco-stake/cosmos-directory) - ⚛️ · 📖
 - [eco-stake/restake](https://github.com/eco-stake/restake) - Auto-compounder script for Cosmos Validators using REStake
 - [eddy-guo/validator-monitor](https://github.com/eddy-guo/validator-monitor) - Discord bot to monitor Jackal validator uptime status (and other Cosmos blockchains).
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [editor-js/raw](https://github.com/editor-js/raw) - Raw HTML tool for Editor.js
 - [elm-explorations/linear-algebra](https://github.com/elm-explorations/linear-algebra) - Fast linear algebra for Elm
 - [elm/virtual-dom](https://github.com/elm/virtual-dom) - The foundation of HTML and SVG in Elm.
@@ -2072,7 +2073,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 - [derrian-distro/LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts) - A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy
 - [diego-vicente/som-tsp](https://github.com/diego-vicente/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -2522,6 +2523,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time | Proof of SQL
 - [spruceid/didkit](https://github.com/spruceid/didkit) - A cross-platform toolkit for decentralized identity.
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
+- [starknet-io/types-rs](https://github.com/starknet-io/types-rs) -  🐺  Starknet Rust types 🦀
 - [stellar/slingshot](https://github.com/stellar/slingshot) -  A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [swc-project/plugins](https://github.com/swc-project/plugins) - Plugins for swc, written in rust
@@ -2673,6 +2675,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [brson/rust-anthology](https://github.com/brson/rust-anthology) - Learn Rust from the best
 - [clemensgg/dydx-networks](https://github.com/clemensgg/dydx-networks) - 
 - [coinhall/yacar](https://github.com/coinhall/yacar) - Yet Another Cosmos Asset Registry
+- [cosmos/testnets](https://github.com/cosmos/testnets) - Cosmos Testnets
 - [creyD/prettier_action](https://github.com/creyD/prettier_action) - GitHub action for running prettier on your projects pull requests
 - [cyberomanov/status](https://github.com/cyberomanov/status) - status & alarm log with bash and telegram bot.
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
@@ -3072,7 +3075,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [react-tags/react-tags](https://github.com/react-tags/react-tags) - A fantastically simple tagging component for your projects
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
-- [regen-network/regen-server](https://github.com/regen-network/regen-server) - :seedling: Regen web server and database
 - [regen-network/regen-web](https://github.com/regen-network/regen-web) - :seedling: Website and marketplace application
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
