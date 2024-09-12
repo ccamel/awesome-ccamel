@@ -2299,7 +2299,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [ad2ien/ideal-wages-calculator](https://github.com/ad2ien/ideal-wages-calculator) - A webassembly project using trunk and yew to point out injustices in range of wages
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
-- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
 - [andresilva/rust-okasaki](https://github.com/andresilva/rust-okasaki) - Purely Functional Data Structures in Rust
 - [andromedaprotocol/andromeda-core](https://github.com/andromedaprotocol/andromeda-core) - Operating System and ADO Smart Contracts
