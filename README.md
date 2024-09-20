@@ -520,6 +520,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axone-protocol/axone-sdk](https://github.com/axone-protocol/axone-sdk) - The Axone SDK to build applications on top of the Axone protocol
 - [axone-protocol/axoned](https://github.com/axone-protocol/axoned) - ⛓️ Axone blockchain 💫
 - [axone-protocol/prolog](https://github.com/axone-protocol/prolog) - The only reasonable scripting engine for Go.
+- [axone-protocol/s3-auth-proxy](https://github.com/axone-protocol/s3-auth-proxy) - 🛡️ S3 auth proxy to the Axone protocol
 - [aybabtme/logzalgo](https://github.com/aybabtme/logzalgo) - Logrus formatter invoking the P͉̫o̳̼̊w̖͈̰͎e̬͔̭͂r͚̼̹̲ ̫͓͉̳͈ō̠͕͖̚f̝͍̠ ͕̲̞͖͑Z̖̫̤̫ͪa͉̬͈̗l͖͎g̳̥o̰̥̅!̣͔̲̻͊̄ ̙̘̦̹̦
 - [baarde/cert-manager-webhook-ovh](https://github.com/baarde/cert-manager-webhook-ovh) - OVH Webhook for Cert Manager
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -542,7 +543,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bsm/sarama-cluster](https://github.com/bsm/sarama-cluster) - Cluster extensions for Sarama, the Go client library for Apache Kafka 0.9 [DEPRECATED]
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
 - [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter) - Database-agnostic SQL Exporter for Prometheus
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord
 - [bykof/gostradamus](https://github.com/bykof/gostradamus) - Gostradamus: Better DateTimes for Go 🕰️
@@ -603,7 +604,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/ibc-apps](https://github.com/cosmos/ibc-apps) - IBC applications and middleware for Cosmos SDK chains.
 - [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication Protocol (IBC) implementation in Golang.
 - [cosmos/interchain-accounts-demo](https://github.com/cosmos/interchain-accounts-demo) - ICA 
-- [cosmos/interchain-security](https://github.com/cosmos/interchain-security) - Replicated security (aka interchain security V1) is an open sourced IBC application which allows cosmos blockchains to lease their proof-of-stake security to one another.
+- [cosmos/interchain-security](https://github.com/cosmos/interchain-security) - Interchain Security is an open sourced IBC application which allows cosmos blockchains to lease their proof-of-stake security to one another.
 - [cosmos/ledger-cosmos-go](https://github.com/cosmos/ledger-cosmos-go) - 
 - [cosmos/mainnet](https://github.com/cosmos/mainnet) - It's happening!
 - [cosmos/modules](https://github.com/cosmos/modules) - 
@@ -996,7 +997,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/go-bitsong](https://github.com/okp4/go-bitsong) - :rocket: Official BitSong Blockchain Implementation in Go
 - [okp4/nemeton-leaderboard](https://github.com/okp4/nemeton-leaderboard) - 🧙‍♂️ The Nemeton program leaderboard service 🏆
 - [okp4/osmosis](https://github.com/okp4/osmosis) - The AMM Laboratory
-- [okp4/s3-auth-proxy](https://github.com/okp4/s3-auth-proxy) - 🛡️ S3 auth proxy to the OKP4 protocol
 - [okp4/template-go](https://github.com/okp4/template-go) - 🖨 Template for Golang projects @okp4.
 - [okp4/tendermint](https://github.com/okp4/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
@@ -1014,7 +1014,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [opus-domini/fast-shot](https://github.com/opus-domini/fast-shot) - Hit your API targets with rapid-fire precision using Go's fastest and simple HTTP Client.
 - [oraichain/orai](https://github.com/oraichain/orai) - Monolithic repository of everything Oraichain
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
+- [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
 - [osmosis-labs/assetlists](https://github.com/osmosis-labs/assetlists) - 
 - [osmosis-labs/fee-abstraction](https://github.com/osmosis-labs/fee-abstraction) - Enable users on any Cosmos chain with IBC connections to pay fee using IBC tokens.
 - [osmosis-labs/mesh-security-sdk](https://github.com/osmosis-labs/mesh-security-sdk) - 
@@ -1458,7 +1458,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) - Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 - [dvoraka/av-service](https://github.com/dvoraka/av-service) - Network file service with replication and anti-virus checking
 - [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector) - EDC core services including data plane and control plane
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [eventuate-examples/eventuate-examples-java-customers-and-orders](https://github.com/eventuate-examples/eventuate-examples-java-customers-and-orders) - Java version of the Customers and Orders event sourcing example from my presentations
 - [evertrue/monotone](https://github.com/evertrue/monotone) - A 64 bit monotonically increasing Id generator for distributed databases
 - [feaster83/quarkus-axonframework-extension](https://github.com/feaster83/quarkus-axonframework-extension) - Quarkus Axon Framework extension
@@ -1598,6 +1598,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alecglassford/commit-msg-must-use-emoji](https://github.com/alecglassford/commit-msg-must-use-emoji) - 💌 Easy-to-add Git hook that forces you to start every commit message with an emoji
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec
 - [angusjf/astro-integration-elm](https://github.com/angusjf/astro-integration-elm) - Server side rendering with hydration for Elm
+- [antelle/argon2-browser](https://github.com/antelle/argon2-browser) - Argon2 library compiled for browser runtime
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [anvaka/git-also](https://github.com/anvaka/git-also) - For a `file` in your git repository, prints other files that are most often committed together
 - [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
@@ -2035,6 +2036,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
 - [OnToology/oops-report](https://github.com/OnToology/oops-report) - Generate oops report as a beautiful HTML
+- [P-OPSTeam/cosmos-governance-alerter](https://github.com/P-OPSTeam/cosmos-governance-alerter) - Cosmos Governance vote alerter
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Efficient retrieval augmented generation framework
@@ -2415,6 +2417,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [left-curve/grug](https://github.com/left-curve/grug) - Grug
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+- [liamzebedee/tendermint-rs](https://github.com/liamzebedee/tendermint-rs) - A minimal reimplementation of Tendermint in Rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
@@ -2836,7 +2839,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - HTML5 web component for editing/viewing RDF data that conform to SHACL shapes
 - [Urigo/graphql-scalars](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
 - [VisionsOfficial/Human-Centric-Rulebook](https://github.com/VisionsOfficial/Human-Centric-Rulebook) - Service Registry project description (TBD)
-- [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
 - [Zondax/ledger-cosmos-js](https://github.com/Zondax/ledger-cosmos-js) - 
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [actions/attest](https://github.com/actions/attest) - Action for generating attestations for workflow artifacts
@@ -3018,6 +3020,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [lavanet/lava-sdk-providers](https://github.com/lavanet/lava-sdk-providers) - Lava SDK providers
+- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 - [loiclaudet/block-explorer](https://github.com/loiclaudet/block-explorer) - Ethereum blocks, transactions and accounts explorer
 - [loiclaudet/threejs-journey](https://github.com/loiclaudet/threejs-journey) - 
@@ -3090,6 +3093,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [regen-network/regen-web](https://github.com/regen-network/regen-web) - :seedling: Website and marketplace application
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
@@ -3098,7 +3102,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rubensworks/GraphQL-LD.js](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL
 - [ryardley/ts-bus](https://github.com/ryardley/ts-bus) - A lightweight JavaScript/TypeScript event bus to help manage your application architecture.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
-- [safe-global/safe-wallet-web](https://github.com/safe-global/safe-wallet-web) - Safe{Wallet} – smart contract wallet for Ethereum (ex-Gnosis Safe multisig)
+- [safe-global/safe-wallet-web](https://github.com/safe-global/safe-wallet-web) - Safe{Wallet} – multisig EVM wallet
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
 - [scrtlabs/dash.scrt.network](https://github.com/scrtlabs/dash.scrt.network) - Secret Dashboard is an entry point for new users into Secret Network.
 - [scrtlabs/secret-template](https://github.com/scrtlabs/secret-template) - Quickstart template to get started writing your own cosmwasm contracts
