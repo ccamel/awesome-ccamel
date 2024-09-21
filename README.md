@@ -2795,6 +2795,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/testnets](https://github.com/CosmWasm/testnets) - Information on all public CosmWasm testnets
 - [CosmWasm/ts-codegen](https://github.com/CosmWasm/ts-codegen) - Convert your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.
 - [CurlGPT/CurlGPT](https://github.com/CurlGPT/CurlGPT) - ChatGPT in your favourite terminal
+- [DA0-DA0/dao-dao-indexer](https://github.com/DA0-DA0/dao-dao-indexer) - A state-based indexer and API builder for the Cosmos SDK built by and for DAO DAO.
 - [DA0-DA0/dao-dao-ui](https://github.com/DA0-DA0/dao-dao-ui) - InterChain DAO tooling UI.
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
 - [DocusaurusCommunity/website](https://github.com/DocusaurusCommunity/website) - Docusaurus.community - Collecting knowledge, tips and tricks for Docusaurus.
