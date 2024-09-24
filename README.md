@@ -794,6 +794,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [guregu/hammertime](https://github.com/guregu/hammertime) - alternative WASI for wasmtime-go
 - [guregu/intertube](https://github.com/guregu/intertube) - music storage locker
 - [guregu/into](https://github.com/guregu/into) - coercion convenience for Go
+- [guregu/predicates](https://github.com/guregu/predicates) - various predicates for ichiban/prolog
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go
 - [harmony-development/protocol](https://github.com/harmony-development/protocol) - The schemas for the Harmony protocol
