@@ -1357,6 +1357,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [w3c/json-ld-api](https://github.com/w3c/json-ld-api) - JSON-LD 1.1 Processing Algorithms and API Specification
 - [w3c/vc-data-integrity](https://github.com/w3c/vc-data-integrity) - W3C Data Integrity Specification
 - [w3c/vc-data-model](https://github.com/w3c/vc-data-model) - W3C Verifiable Credentials v2.0 Specification
+- [w3c/vc-di-ecdsa](https://github.com/w3c/vc-di-ecdsa) - Data Integrity specification for ECDSA using NIST-compliant curves
 - [w3c/vc-di-eddsa](https://github.com/w3c/vc-di-eddsa) - EdDSA Data Integrity Cryptosuites Specification
 - [w3c/vc-jose-cose](https://github.com/w3c/vc-jose-cose) - Verifiable Credentials Working Group — VC JSON Web Tokens specification
 - [w3c/wot](https://github.com/w3c/wot) - Web of Things
@@ -1943,7 +1944,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [CosmWasm/docs](https://github.com/CosmWasm/docs) - 
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [dydxprotocol/v4-documentation](https://github.com/dydxprotocol/v4-documentation) - 
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
 - [sei-protocol/sei-docs](https://github.com/sei-protocol/sei-docs) - 
@@ -2907,6 +2907,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [chainapsis/keplr-chain-registry](https://github.com/chainapsis/keplr-chain-registry) - Protocol for Integrating Non-Native Chains to Keplr
 - [chainapsis/keplr-example](https://github.com/chainapsis/keplr-example) - 
 - [chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet) - The most powerful wallet for the Cosmos ecosystem and the Interchain
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [cheqd/validator-status](https://github.com/cheqd/validator-status) - Network-wide validator status alerting API for cheqd mainnet. Designed to work for any Cosmos SDK network
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus v2.
