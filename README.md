@@ -2190,7 +2190,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [tartiflette/tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project.
 - [tehmaze/diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters and fancy colors
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [victordibia/data2vis](https://github.com/victordibia/data2vis) - Data2Vis: Automatic Generation of Data Visualizations Using Sequence to Sequence Recurrent Neural Networks
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [vmware-archive/functions](https://github.com/vmware-archive/functions) - Functions Repository for Kubeless
@@ -2277,7 +2277,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DA0-DA0/polytone](https://github.com/DA0-DA0/polytone) - An account on every blockchain for every smart contract.
 - [DanielKeep/cargo-script](https://github.com/DanielKeep/cargo-script) - Cargo script subcommand
 - [Derricks-DApps/contracts](https://github.com/Derricks-DApps/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects) - Featured Dioxus projects on how to build clean user interfaces in Rust
 - [Electron-Labs/cw-eth2-lc](https://github.com/Electron-Labs/cw-eth2-lc) - Eth2 light client implementation as a cosmwasm smart contract
 - [EntropicLabs/cw-rewards](https://github.com/EntropicLabs/cw-rewards) - 
