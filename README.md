@@ -372,6 +372,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
 - [rabbitmq/aten](https://github.com/rabbitmq/aten) - An adaptive accrual node failure detection library for Elixir and Erlang
 - [sile/jsone](https://github.com/sile/jsone) - Erlang JSON library
+- [tomas-abrahamsson/gpb](https://github.com/tomas-abrahamsson/gpb) - A Google Protobuf implementation for Erlang
 - [uwiger/sext](https://github.com/uwiger/sext) - Sortable Erlang Term Serialization
 
 ## F#
@@ -524,7 +525,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axone-protocol/axone-contract-schema](https://github.com/axone-protocol/axone-contract-schema) - 🚀 Client libraries (for different languages) simplifying Axone chain interactions.
 - [axone-protocol/axone-sdk](https://github.com/axone-protocol/axone-sdk) - The Axone SDK to build applications on top of the Axone protocol
 - [axone-protocol/axoned](https://github.com/axone-protocol/axoned) - ⛓️ Axone blockchain 💫
-- [axone-protocol/prolog](https://github.com/axone-protocol/prolog) - Forked and customized prolog engine from ichiban/prolog
+- [axone-protocol/prolog](https://github.com/axone-protocol/prolog) - 🧠 Forked and customized prolog engine from ichiban/prolog
 - [axone-protocol/s3-auth-proxy](https://github.com/axone-protocol/s3-auth-proxy) - 🛡️ S3 auth proxy to the Axone protocol
 - [aybabtme/logzalgo](https://github.com/aybabtme/logzalgo) - Logrus formatter invoking the P͉̫o̳̼̊w̖͈̰͎e̬͔̭͂r͚̼̹̲ ̫͓͉̳͈ō̠͕͖̚f̝͍̠ ͕̲̞͖͑Z̖̫̤̫ͪa͉̬͈̗l͖͎g̳̥o̰̥̅!̣͔̲̻͊̄ ̙̘̦̹̦
 - [baarde/cert-manager-webhook-ovh](https://github.com/baarde/cert-manager-webhook-ovh) - OVH Webhook for Cert Manager
@@ -566,6 +567,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [celestiaorg/celestia-core](https://github.com/celestiaorg/celestia-core) - A fork of CometBFT
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes
 - [celestiaorg/nmt](https://github.com/celestiaorg/nmt) - Namespaced Merkle Tree
+- [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
 - [census-instrumentation/opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -1498,7 +1500,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
 - [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 - [kagkarlsson/db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, n8n, RunDeck, Camunda, Jenkins...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate code in any language, run anywhere, 500+ plugins. Alternative to Airflow, n8n, Rundeck, Camunda, Jenkins...
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [leangen/graphql-spqr](https://github.com/leangen/graphql-spqr) - Build a GraphQL service in seconds
 - [linked-solutions/fuseki-oidc](https://github.com/linked-solutions/fuseki-oidc) - 
@@ -2096,7 +2098,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by large language model APIs 👾
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [etalab-ia/albert](https://github.com/etalab-ia/albert) - Backend ressources for Albert. Albert is a conversational agent that uses official French data sources to answer administrative agents questions.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
@@ -2570,6 +2572,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [turbofish-org/orga](https://github.com/turbofish-org/orga) - Deterministic state machine engine written in Rust
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [twolodzko/prolog-rs](https://github.com/twolodzko/prolog-rs) - Minimal Prolog implemented in Rust
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/musli](https://github.com/udoprog/musli) - Müsli is a flexible and generic binary serialization framework
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
@@ -2586,6 +2589,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.                                               
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+- [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties. 
 - [axone-protocol/docs](https://github.com/axone-protocol/docs) - 📜 Axone documentation portal (built with Docusaurus).
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
@@ -3021,7 +3025,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ingvaar/beauf-net-front](https://github.com/ingvaar/beauf-net-front) - A simple quote website frontend built using React
 - [inrupt/solid-client-vc-js](https://github.com/inrupt/solid-client-vc-js) - Client library to ease working with Verifiable Credentials in Solid
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [iroiro/iroiro](https://github.com/iroiro/iroiro) - 
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest + Testing Library + Playwright + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS ✨
