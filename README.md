@@ -164,6 +164,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [parcel-bundler/watcher](https://github.com/parcel-bundler/watcher) - 👀 A native C++ Node module for querying and subscribing to filesystem events
 - [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Monitor and observe the availability of end-user services atop of Kubernetes, Zabbix and Nagios. Define and track SLA/SLO targets through Prometheus metrics and built-in dashboards.
@@ -198,7 +199,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stripe-samples/checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
 - [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple and Minimal Line Icons
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
-- [w3c/verifiable-credentials](https://github.com/w3c/verifiable-credentials) - W3C Verifiable Credentials Working Group
 
 ## CUE
 
@@ -356,6 +356,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Erlang
 
 - [adoptingerlang/service_discovery](https://github.com/adoptingerlang/service_discovery) - Adopting Erlang service discovery project
+- [aeternity/aeternity](https://github.com/aeternity/aeternity) - æternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens
 - [aeternity/mnesia_rocksdb](https://github.com/aeternity/mnesia_rocksdb) - A RocksDB backend plugin for mnesia, based on mnesia_eleveldb
 - [basho/riak_cs](https://github.com/basho/riak_cs) - Riak CS is simple, available cloud storage built on Riak.
 - [benoitc/hooks](https://github.com/benoitc/hooks) - generic plugin & hook system for Erlang applications
@@ -458,6 +459,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [QuokkaStake/tmtop](https://github.com/QuokkaStake/tmtop) - A top-like chain consensus and chain info visualizer for all Tendermint chains.
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [Reecepbcups/cosmos-submit-tx-client](https://github.com/Reecepbcups/cosmos-submit-tx-client) - Submit a Cosmos Tx in Go (via gRPC)
+- [Rhymond/go-money](https://github.com/Rhymond/go-money) - Go implementation of Fowler's Money pattern
 - [Shyp/generate-tls-cert](https://github.com/Shyp/generate-tls-cert) - Generating self signed certificates
 - [SimonSchneider/traefik-jwt-decode](https://github.com/SimonSchneider/traefik-jwt-decode) - Traefik forward auth implementation for JWT tokens
 - [Stride-Labs/stride](https://github.com/Stride-Labs/stride) - Stride: Multichain Liquid Staking
@@ -871,6 +873,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kak-tus/nan](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers
 - [kamilsk/retry](https://github.com/kamilsk/retry) - ♻️ The most advanced interruptible mechanism to perform actions repetitively until successful.
 - [kannon-email/kannon](https://github.com/kannon-email/kannon) - ✉️  Cloud-Native massive mail sender for Kubernetes!
+- [karamaru-alpha/copyloopvar](https://github.com/karamaru-alpha/copyloopvar) - copyloopvar is a linter detects places where loop variables are copied.
 - [kataras/sheets](https://github.com/kataras/sheets) - :bar_chart: (Unofficial) A Lightweight Google Spreadsheets Client written in Go
 - [kcmvp/gob](https://github.com/kcmvp/gob) - Golang project boot
 - [kelindar/binary](https://github.com/kelindar/binary) - Generic and fast binary serializer for Go
@@ -912,7 +915,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [liggitt/audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs
 - [lingrino/go-fault](https://github.com/lingrino/go-fault) - fault injection library in go using standard http middleware
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs
+- [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs
 - [livefir/fir](https://github.com/livefir/fir) - Build reactive html apps in Go
 - [llgcode/draw2d](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf, svg)
 - [lmittmann/tint](https://github.com/lmittmann/tint) - 🌈 slog.Handler that writes tinted (colorized) logs
@@ -1009,7 +1012,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
 - [oliamb/cutter](https://github.com/oliamb/cutter) - Crop images in Golang
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
@@ -1270,6 +1272,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wesovilabs/koazee](https://github.com/wesovilabs/koazee) - A StreamLike, Immutable, Lazy Loading and smart Golang Library to deal with slices.
 - [whyrusleeping/ipfs-key](https://github.com/whyrusleeping/ipfs-key) - A program to generate ipfs private keys
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
+- [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
 - [wormholes-org/wormholes](https://github.com/wormholes-org/wormholes) - a project of public blockchain, support rich functionality for NFT
 - [wrouesnel/badgeserv](https://github.com/wrouesnel/badgeserv) - No-Nonsense badge generator service. Ideal for on-premises hosting!
 - [xitonix/trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka
@@ -1361,6 +1364,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [w3c/vc-di-ecdsa](https://github.com/w3c/vc-di-ecdsa) - Data Integrity specification for ECDSA using NIST-compliant curves
 - [w3c/vc-di-eddsa](https://github.com/w3c/vc-di-eddsa) - EdDSA Data Integrity Cryptosuites Specification
 - [w3c/vc-jose-cose](https://github.com/w3c/vc-jose-cose) - Verifiable Credentials Working Group — VC JSON Web Tokens specification
+- [w3c/verifiable-credentials](https://github.com/w3c/verifiable-credentials) - W3C Verifiable Credentials Working Group
 - [w3c/wot](https://github.com/w3c/wot) - Web of Things
 - [w3c/wot-architecture](https://github.com/w3c/wot-architecture) - Web of Things (WoT) Architecture
 - [w3c/wot-thing-description](https://github.com/w3c/wot-thing-description) - Web of Things (WoT) Thing Description
@@ -1500,7 +1504,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
 - [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 - [kagkarlsson/db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate code in any language, run anywhere, 500+ plugins. Alternative to Airflow, n8n, Rundeck, Camunda, Jenkins...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [leangen/graphql-spqr](https://github.com/leangen/graphql-spqr) - Build a GraphQL service in seconds
 - [linked-solutions/fuseki-oidc](https://github.com/linked-solutions/fuseki-oidc) - 
@@ -1646,6 +1650,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [classic-terra/core](https://github.com/classic-terra/core) - GO implementation of the Terra Classic Protocol
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [cosmos/developer-portal](https://github.com/cosmos/developer-portal) - 
 - [cosmostation/cosmosjs](https://github.com/cosmostation/cosmosjs) - :star: CosmosJS - Cosmos JavaScript Library
 - [cryppadotta/dotta-license](https://github.com/cryppadotta/dotta-license) - ERC721-based Software Licensing Framework
@@ -1714,7 +1719,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [inblocks/precedence](https://github.com/inblocks/precedence) - precedence brings secure blockchain-powered traceability features to your already existing legacy information system
 - [iot-schema-collab/iotschema](https://github.com/iot-schema-collab/iotschema) - 
 - [ipfs-shipyard/ipfs-provider](https://github.com/ipfs-shipyard/ipfs-provider) - Connect to IPFS via an available provider
-- [ipfs-shipyard/ipfs-share-files](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files via IPFS
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [irisnet/irishub](https://github.com/irisnet/irishub) - A BPoS blockchain that enables cross-chain interoperability through a unified service model -- built with Cosmos-SDK
@@ -2113,7 +2117,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python) - Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation for building decentralized identity applications and services running in non-mobile environments.
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - ECS pattern (Entity Component System) for creating games on python
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [jetporch/jetporch](https://github.com/jetporch/jetporch) - Read-only mirror: see https://www.jetporch.com/community/sourcehut
@@ -2160,6 +2163,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [openai/grok](https://github.com/openai/grok) - 
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
 - [openfaas/workshop](https://github.com/openfaas/workshop) - Learn Serverless for Kubernetes with OpenFaaS
+- [openwallet-foundation/acapy](https://github.com/openwallet-foundation/acapy) - Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation for building decentralized identity applications and services running in non-mobile environments.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [patdaburu/cookiecutter-click](https://github.com/patdaburu/cookiecutter-click) - A Python cookiecutter template to help you start a Click project.
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
@@ -2430,6 +2434,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [larry0x/cw-template](https://github.com/larry0x/cw-template) - Template for multi-contract CosmWasm projects
 - [left-curve/left-curve](https://github.com/left-curve/left-curve) - Left curve monorepo
+- [lemunozm/message-io](https://github.com/lemunozm/message-io) - Fast and easy-to-use event-driven network library.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [liamzebedee/tendermint-rs](https://github.com/liamzebedee/tendermint-rs) - A minimal reimplementation of Tendermint in Rust
@@ -2621,6 +2626,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [VledicFranco/purity](https://github.com/VledicFranco/purity) - A set of FP goodies to help you create pure, type-safe code easily in Scala
 - [WhatsApp/eqwalizer](https://github.com/WhatsApp/eqwalizer) - A type-checker for Erlang
 - [akka-js/akka.js](https://github.com/akka-js/akka.js) - Akka, for Scala.js
+- [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 - [akka/akka-quickstart-scala.g8](https://github.com/akka/akka-quickstart-scala.g8) - A minimal seed template for an Akka with Scala build 
 - [almond-sh/almond](https://github.com/almond-sh/almond) - A Scala kernel for Jupyter
 - [alwins0n/pmsm](https://github.com/alwins0n/pmsm) - Poor Man's State Management - Scala.js
@@ -2630,7 +2636,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ccamel/poc-piper-worker-flink](https://github.com/ccamel/poc-piper-worker-flink) - :alembic:  An experiment to make flink a worker for the workflow engine piper
 - [conduktor/kafka-security-manager](https://github.com/conduktor/kafka-security-manager) - Manage your Kafka ACL at scale
 - [cornerman/sloth](https://github.com/cornerman/sloth) - Type safe RPC in scala
-- [crealytics/spark-excel](https://github.com/crealytics/spark-excel) - A Spark plugin for reading and writing Excel files
 - [criteo/cuttle](https://github.com/criteo/cuttle) - An embedded job scheduler.
 - [davenverse/fuuid](https://github.com/davenverse/fuuid) - Functional UUID's for Scala
 - [endpoints4s/endpoints4s](https://github.com/endpoints4s/endpoints4s) - Describe HTTP endpoints in Scala and derive clients, servers, and documentation
@@ -2645,6 +2650,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kahliburke/html-binding-example](https://github.com/kahliburke/html-binding-example) - Demonstrates various usage scenarios for @html binding macro.
 - [kailuowang/henkan](https://github.com/kailuowang/henkan) - A small library for converting between case classes.
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+- [nightscape/spark-excel](https://github.com/nightscape/spark-excel) - A Spark plugin for reading and writing Excel files
 - [outr/youi](https://github.com/outr/youi) - Next generation user interface and application development in Scala and Scala.js for web, mobile, and desktop.
 - [outwatch/outwatch](https://github.com/outwatch/outwatch) - The Functional and Reactive Web-Frontend Library for Scala.js
 - [pauliamgiant/sounds-of-scala](https://github.com/pauliamgiant/sounds-of-scala) - A sound library for scalaJs using Web Audio Api
@@ -2821,7 +2827,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [DomParfitt/graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [EmpowerPlastic/empowerchain](https://github.com/EmpowerPlastic/empowerchain) - Empowerchain is a global platform to revolutionize waste management and recycling, creating a transparent and efficient circular economy.
 - [Finschia/finschia-js](https://github.com/Finschia/finschia-js) - finschia-js is javascript sdk for Finschia
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
@@ -3026,6 +3032,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [inrupt/solid-client-vc-js](https://github.com/inrupt/solid-client-vc-js) - Client library to ease working with Verifiable Credentials in Solid
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
+- [ipfs-shipyard/ipfs-share-files](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files via IPFS
 - [iroiro/iroiro](https://github.com/iroiro/iroiro) - 
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest + Testing Library + Playwright + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS ✨
@@ -3299,6 +3306,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apollographql/apollo-feature-requests](https://github.com/apollographql/apollo-feature-requests) - 🧑‍🚀 Apollo Client Feature Requests | (no 🐛 please).
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appieasahbie/okp4-kelpr](https://github.com/appieasahbie/okp4-kelpr) - 
+- [atomone-hub/genesis](https://github.com/atomone-hub/genesis) - genesis for AtomOne
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [axone-protocol/.github](https://github.com/axone-protocol/.github) - 🏢 Axone GitHub Organization-wide files 
 - [axone-protocol/brand-kit](https://github.com/axone-protocol/brand-kit) - 🎨 Axone Protocol Brand Kit: Unleash creative branding with all necessary elements in one place! 
@@ -3365,7 +3373,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/network](https://github.com/hazae41/network) - An anonymous PoW token to monetize the web
 - [himynameisdave/git-label-faces](https://github.com/himynameisdave/git-label-faces) - :stuck_out_tongue_winking_eye: Label your issues with face labels!
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
+- [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with GitHub's integration for Slack
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [ishantanu/awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) - Curated list of kubectl plugins
 - [jacc/awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
