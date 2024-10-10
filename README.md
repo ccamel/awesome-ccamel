@@ -164,7 +164,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [networknt/microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark) - Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [parcel-bundler/watcher](https://github.com/parcel-bundler/watcher) - 👀 A native C++ Node module for querying and subscribing to filesystem events
 - [rchakode/realopinsight](https://github.com/rchakode/realopinsight) - :heavy_check_mark: Monitor and observe the availability of end-user services atop of Kubernetes, Zabbix and Nagios. Define and track SLA/SLO targets through Prometheus metrics and built-in dashboards.
@@ -256,7 +255,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [andre-dietrich/elm-conditional](https://github.com/andre-dietrich/elm-conditional) - Conditional application of functions to simplify piping.
 - [arowM/elm-atomic-design-example](https://github.com/arowM/elm-atomic-design-example) - An example Elm project in the manner of atomic design.
 - [avh4/elm-color](https://github.com/avh4/elm-color) - Standard representation of colors, encouraging sharing between packages.  (This replaces elm-lang/core#Color from Elm 0.18.)
-- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Explore and optimize any database
+- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Explore, document and optimize any database
 - [bigardone/elm-dynamic-base-path](https://github.com/bigardone/elm-dynamic-base-path) - Example Elm SPA with dynamic base path
 - [billstclair/elm-websocket-client](https://github.com/billstclair/elm-websocket-client) - Websockets for Elm 0.19, using ports
 - [ccamel/playground-elm](https://github.com/ccamel/playground-elm) -  :balloon: My playground for playing with elm-lang
@@ -413,7 +412,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmosContracts/juno](https://github.com/CosmosContracts/juno) - Open Source Platform for Interoperable Smart Contracts
 - [DecentralCardGame/Cardchain](https://github.com/DecentralCardGame/Cardchain) - Cosmos based blockchain for handling card ownership, card creation and voting on cards.
 - [DefiantLabs/cosmos-indexer](https://github.com/DefiantLabs/cosmos-indexer) - An opensource cosmos indexer!  Please feel free to use this to build other awesome apps like https://app.sycamore.tax and https://elections.atomaccelerator.com
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and building and scaling truly real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
 - [Djarvur/go-err113](https://github.com/Djarvur/go-err113) -   Golang linter to check the errors handling expressions
 - [DoWithLogic/golang-clean-architecture](https://github.com/DoWithLogic/golang-clean-architecture) - implementation clean architecture with SOLID Principles
 - [EmpowerPlastic/cosmos-chain-reporting](https://github.com/EmpowerPlastic/cosmos-chain-reporting) - 
@@ -546,6 +545,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and MQTT
 - [bozd4g/go-http-client](https://github.com/bozd4g/go-http-client) - An enhanced and lightweight http client for Golang
+- [brendandburns/caddy-wasm](https://github.com/brendandburns/caddy-wasm) - WebAssembly (WASM) extension for the caddy2 web server.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 - [bsm/sarama-cluster](https://github.com/bsm/sarama-cluster) - Cluster extensions for Sarama, the Go client library for Apache Kafka 0.9 [DEPRECATED]
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
@@ -880,6 +880,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kevinpollet/serve](https://github.com/kevinpollet/serve) - Simple and secure Go HTTP server to serve static sites or files from the command-line.
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
+- [kilnfi/cosmos-validator-watcher](https://github.com/kilnfi/cosmos-validator-watcher) - Real-time Cosmos-based chains monitoring
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
@@ -1012,6 +1013,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
 - [oliamb/cutter](https://github.com/oliamb/cutter) - Crop images in Golang
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
@@ -2460,6 +2462,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [neutron-org/neutron-dao](https://github.com/neutron-org/neutron-dao) - 
 - [neutron-org/neutron-dev-contracts](https://github.com/neutron-org/neutron-dev-contracts) - 
 - [neutron-org/neutron-sdk](https://github.com/neutron-org/neutron-sdk) - 
+- [nginxinc/ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust binding for NGINX
 - [nomic-io/nomic](https://github.com/nomic-io/nomic) - Decentralized Custody Engine for Bitcoin
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
