@@ -253,6 +253,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [JesterXL/simple-game](https://github.com/JesterXL/simple-game) - 
 - [MacCASOutreach/graphicsvg](https://github.com/MacCASOutreach/graphicsvg) - Graphics library authored by Chris Schankula and Dr. Christopher Anand
 - [andre-dietrich/elm-conditional](https://github.com/andre-dietrich/elm-conditional) - Conditional application of functions to simplify piping.
+- [andreacfromtheapp/elm_vite_tailwind_template](https://github.com/andreacfromtheapp/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Vite, TailwindCSS and daisyUI.
 - [arowM/elm-atomic-design-example](https://github.com/arowM/elm-atomic-design-example) - An example Elm project in the manner of atomic design.
 - [avh4/elm-color](https://github.com/avh4/elm-color) - Standard representation of colors, encouraging sharing between packages.  (This replaces elm-lang/core#Color from Elm 0.18.)
 - [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Explore, document and optimize any database
@@ -295,7 +296,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [exercism/elm](https://github.com/exercism/elm) - Exercism exercises in Elm.
 - [fapian/elm-html-aria](https://github.com/fapian/elm-html-aria) - Aria attributes for html
 - [fredcy/elm-parseint](https://github.com/fredcy/elm-parseint) - Elm function for converting a String value to Int
-- [gacallea/elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Vite, TailwindCSS and daisyUI.
 - [gampleman/elm-visualization](https://github.com/gampleman/elm-visualization) - A data visualization library for Elm
 - [gdotdesign/elm-ui](https://github.com/gdotdesign/elm-ui) - UI library for making web applications with Elm
 - [harmboschloo/elm-dict-intersect](https://github.com/harmboschloo/elm-dict-intersect) - Provides intersections of multiple dictionaries
@@ -505,6 +505,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [application-research/estuary](https://github.com/application-research/estuary) - A custom IPFS/Filecoin node that makes it easy to pin IPFS content and make Filecoin deals.
 - [araddon/qlbridge](https://github.com/araddon/qlbridge) - A golang expression evaluator & Library to build SQL query engine based functionality. 
 - [arafatkatze/DataViz](https://github.com/arafatkatze/DataViz) - Build and Visualize data structures in Golang
+- [arch-go/arch-go](https://github.com/arch-go/arch-go) - Architecture checks for Go projects
 - [archway-network/archway](https://github.com/archway-network/archway) - Archway Network
 - [archway-network/cosmologger](https://github.com/archway-network/cosmologger) - Cosmologger listens to the NewBlock and TX events of a cosmos based network and logs the acquire information in a database for further usage.
 - [argoproj-labs/argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
@@ -1475,6 +1476,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dvoraka/av-service](https://github.com/dvoraka/av-service) - Network file service with replication and anti-virus checking
 - [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector) - EDC core services including data plane and control plane
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [eventuate-examples/eventuate-examples-java-customers-and-orders](https://github.com/eventuate-examples/eventuate-examples-java-customers-and-orders) - Java version of the Customers and Orders event sourcing example from my presentations
 - [evertrue/monotone](https://github.com/evertrue/monotone) - A 64 bit monotonically increasing Id generator for distributed databases
 - [feaster83/quarkus-axonframework-extension](https://github.com/feaster83/quarkus-axonframework-extension) - Quarkus Axon Framework extension
@@ -2233,7 +2235,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [demarches-simplifiees/demarches-simplifiees.fr](https://github.com/demarches-simplifiees/demarches-simplifiees.fr) - Dématérialiser et simplifier les démarches administratives 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [fabric8io/fluent-plugin-kubernetes_metadata_filter](https://github.com/fabric8io/fluent-plugin-kubernetes_metadata_filter) - Enrich your fluentd events with Kubernetes metadata
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [fxn/i-told-you-it-was-private](https://github.com/fxn/i-told-you-it-was-private) - 
