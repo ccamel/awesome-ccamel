@@ -882,6 +882,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [kilnfi/cosmos-validator-watcher](https://github.com/kilnfi/cosmos-validator-watcher) - Real-time Cosmos-based chains monitoring
+- [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
@@ -2262,7 +2263,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
 - [Byron/cargo-smart-release](https://github.com/Byron/cargo-smart-release) - Release complex cargo-workspaces automatically with changelog generation, used by `gitoxide`
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [ByteSudoer/Dependust](https://github.com/ByteSudoer/Dependust) - A Rust tool to check for unused dependencies for your crate in your Cargo.toml
 - [Callum-A/cosmwasm-zero-to-hero](https://github.com/Callum-A/cosmwasm-zero-to-hero) - 
 - [Callum-A/whoami-paths](https://github.com/Callum-A/whoami-paths) - 
@@ -2292,6 +2292,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EntropicLabs/cw-rewards](https://github.com/EntropicLabs/cw-rewards) - 
 - [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [Handfish/confetty_rs](https://github.com/Handfish/confetty_rs) - Rust port of maaslalani/confetty
 - [Hyle-org/hyle](https://github.com/Hyle-org/hyle) - A sequencing and settlement layer to help you build provable apps that are minimally, yet sufficiently, onchain.
 - [InjectiveLabs/cw-injective](https://github.com/InjectiveLabs/cw-injective) - 
@@ -2542,6 +2543,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [rxRust/rxRust](https://github.com/rxRust/rxRust) - Rust implementation of Reactive Extensions. 
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
+- [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [scroll-tech/poseidon-circuit](https://github.com/scroll-tech/poseidon-circuit) - Poseidon hash circuit
 - [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) - 𝕊 The Secret Network
@@ -3022,6 +3024,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/result](https://github.com/hazae41/result) - Rust-like Result for TypeScript
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [hongaar/semantic-release-yarn](https://github.com/hongaar/semantic-release-yarn) - 🧶 A semantic-release plugin to publish npm packages with Yarn. Comes with built-in support for monorepos.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - This action runs your docker-compose file and clean up before action finished
