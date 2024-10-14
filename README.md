@@ -447,7 +447,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NibiruChain/nibiru](https://github.com/NibiruChain/nibiru) - Nibiru Chain: The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more.
 - [ODIN-PROTOCOL/odin-core](https://github.com/ODIN-PROTOCOL/odin-core) - Odin blockchain reference implementation
 - [OmniFlix/omniflixhub](https://github.com/OmniFlix/omniflixhub) - OmniFlix Hub is the root chain of the OmniFlix Network. Sovereign chains and DAOs build on top of or connect to the OmniFlix Hub to manage their web2 & web3 media operations to mint, manage, distribute & monetize NFTs enabled with community interactions.
-- [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [Orange-OpenSource/nifikop](https://github.com/Orange-OpenSource/nifikop) - The NiFiKop NiFi Kubernetes operator makes it easy to run Apache NiFi on Kubernetes. Apache NiFI is a free, open-source solution that support powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
 - [Orchestra-Labs/symphony](https://github.com/Orchestra-Labs/symphony) - Truly decentralized RWAs
 - [PeggyJV/sommelier](https://github.com/PeggyJV/sommelier) - Sommelier Chain
@@ -521,6 +520,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 - [astriaorg/astria-cli-go](https://github.com/astriaorg/astria-cli-go) - Astria Go CLI
 - [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
+- [atomone-hub/atomone](https://github.com/atomone-hub/atomone) - AtomOne chain software
 - [aura-nw/aura](https://github.com/aura-nw/aura) - Aura Network Daemon
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [axelarnetwork/axelar-core](https://github.com/axelarnetwork/axelar-core) - Axelar: A Decentralized Blockchain Interoperability Network
@@ -1063,6 +1063,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [project-flogo/core](https://github.com/project-flogo/core) - Flogo Core is the core flogo library used create and extend Flogo applications.
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [prometheus/OpenMetrics](https://github.com/prometheus/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries.
@@ -1363,6 +1364,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [w3c/did-resolution](https://github.com/w3c/did-resolution) - RELEASED DRAFT: Decentralized Identifier Resolution (DID Resolution) 0.2 Specification
 - [w3c/dxwg](https://github.com/w3c/dxwg) - Data Catalog Vocabulary (DCAT)
 - [w3c/json-ld-api](https://github.com/w3c/json-ld-api) - JSON-LD 1.1 Processing Algorithms and API Specification
+- [w3c/sparql-query](https://github.com/w3c/sparql-query) - 
 - [w3c/vc-data-integrity](https://github.com/w3c/vc-data-integrity) - W3C Data Integrity Specification
 - [w3c/vc-data-model](https://github.com/w3c/vc-data-model) - W3C Verifiable Credentials v2.0 Specification
 - [w3c/vc-di-ecdsa](https://github.com/w3c/vc-di-ecdsa) - Data Integrity specification for ECDSA using NIST-compliant curves
@@ -1817,6 +1819,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sedaprotocol/seda-chain](https://github.com/sedaprotocol/seda-chain) - SEDA chain network
 - [segment-integrations/analytics.js-integration-piwik](https://github.com/segment-integrations/analytics.js-integration-piwik) - The Piwik analytics.js integration.
 - [segmentio/analytics.js](https://github.com/segmentio/analytics.js) - The hassle-free way to integrate analytics into any web application.
+- [semantic-release/changelog](https://github.com/semantic-release/changelog) - :blue_book: semantic-release plugin to create or update a changelog file
 - [semantic-release/git](https://github.com/semantic-release/git) - :twisted_rightwards_arrows: semantic-release plugin to commit release assets to the project's git repository
 - [semantic-release/github](https://github.com/semantic-release/github) - :octocat:  semantic-release plugin to publish a GitHub release and comment on released Pull Requests/Issues
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
@@ -2038,6 +2041,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Python
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
 - [ActivityWatch/contributor-stats](https://github.com/ActivityWatch/contributor-stats) - Generating contributor stats for the ActivityWatch project
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -2872,6 +2876,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Urigo/graphql-scalars](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
 - [VisionsOfficial/Human-Centric-Rulebook](https://github.com/VisionsOfficial/Human-Centric-Rulebook) - Service Registry project description (TBD)
 - [Zondax/ledger-cosmos-js](https://github.com/Zondax/ledger-cosmos-js) - 
+- [abirismyname/create-discussion](https://github.com/abirismyname/create-discussion) - Create a new GitHub Discussion with GitHub Actions
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [actions/attest](https://github.com/actions/attest) - Action for generating attestations for workflow artifacts
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
@@ -3003,6 +3008,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [graphql-compose/graphql-compose-elasticsearch](https://github.com/graphql-compose/graphql-compose-elasticsearch) - Hide Elastic Search REST API behind GraphQL.
+- [graphql-hive/platform](https://github.com/graphql-hive/platform) - GraphQL platform - Schema registry, analytics and gateway for GraphQL federation and other GraphQL APIs
 - [graphql-kit/graphql-lodash](https://github.com/graphql-kit/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
@@ -3050,7 +3056,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [joonhocho/graphql-scalar](https://github.com/joonhocho/graphql-scalar) - Configurable custom GraphQL Scalars (string, number, date, etc) with sanitization / validation / transformation in TypeScript.
 - [jpoehnelt/semantic-release-replace-plugin](https://github.com/jpoehnelt/semantic-release-replace-plugin) - A semantic-release plugin for replacing text in files with the current release version.
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
-- [kamilkisiela/graphql-hive](https://github.com/kamilkisiela/graphql-hive) - GraphQL Hive is a schema registry and observability
 - [kamilkisiela/graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [kitze/mobx-router](https://github.com/kitze/mobx-router) - A simple router for MobX + React apps
 - [koala819/StarterPack](https://github.com/koala819/StarterPack) - A comprehensive web development kit for swift site creation, featuring responsive design, contact form, NextUI components, and Google Analytics integration.
@@ -3156,6 +3161,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge tinkerer's notebook
 - [skiff-org/skiff-ui](https://github.com/skiff-org/skiff-ui) - React components for the Skiff UI Design System
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [solana-labs/example-helloworld](https://github.com/solana-labs/example-helloworld) - Hello world on Solana
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
