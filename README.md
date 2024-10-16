@@ -3418,6 +3418,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [llaisdy/beam_languages](https://github.com/llaisdy/beam_languages) - Languages, and about languages, on the BEAM
 - [lolottetheclash/lolottetheclash](https://github.com/lolottetheclash/lolottetheclash) - About me 
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
+- [lutzh/awesome-event-driven-architecture](https://github.com/lutzh/awesome-event-driven-architecture) - A curated list of resources on event-driven architecture.
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources
 - [magnetikonline/action-golang-cache](https://github.com/magnetikonline/action-golang-cache) - GitHub Action bringing together actions/setup-go and actions/cache.
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
