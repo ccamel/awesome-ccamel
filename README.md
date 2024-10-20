@@ -526,6 +526,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axelarnetwork/axelar-core](https://github.com/axelarnetwork/axelar-core) - Axelar: A Decentralized Blockchain Interoperability Network
 - [axone-protocol/axone-contract-schema](https://github.com/axone-protocol/axone-contract-schema) - 🚀 Client libraries (for different languages) simplifying Axone chain interactions.
 - [axone-protocol/axone-sdk](https://github.com/axone-protocol/axone-sdk) - The Axone SDK to build applications on top of the Axone protocol
+- [axone-protocol/axoned](https://github.com/axone-protocol/axoned) - ⛓️ Axone blockchain 💫
 - [axone-protocol/prolog](https://github.com/axone-protocol/prolog) - 🧠 Forked and customized prolog engine from ichiban/prolog
 - [axone-protocol/s3-auth-proxy](https://github.com/axone-protocol/s3-auth-proxy) - 🛡️ S3 auth proxy to the Axone protocol
 - [aybabtme/logzalgo](https://github.com/aybabtme/logzalgo) - Logrus formatter invoking the P͉̫o̳̼̊w̖͈̰͎e̬͔̭͂r͚̼̹̲ ̫͓͉̳͈ō̠͕͖̚f̝͍̠ ͕̲̞͖͑Z̖̫̤̫ͪa͉̬͈̗l͖͎g̳̥o̰̥̅!̣͔̲̻͊̄ ̙̘̦̹̦
@@ -3375,7 +3376,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [faddat/loki](https://github.com/faddat/loki) - Information, reviews, and recipes for Loki, the drink
 - [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-- [gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries](https://github.com/gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries) - Extensive List of CSS Frameworks and UI Libraries.
+- [gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries](https://github.com/gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries) - Extensive List of CSS Frameworks and UI/Components Libraries.
 - [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
