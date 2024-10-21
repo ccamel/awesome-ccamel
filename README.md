@@ -1127,6 +1127,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [seborama/fuego](https://github.com/seborama/fuego) - Functional Experiment in Golang
 - [securitybunker/databunker](https://github.com/securitybunker/databunker) - Secure Vault for Customer PII/PHI/PCI/KYC Records
+- [sedaprotocol/seda-chain](https://github.com/sedaprotocol/seda-chain) - SEDA chain network
 - [sedaprotocol/seda-networks](https://github.com/sedaprotocol/seda-networks) - 
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
@@ -1660,6 +1661,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [cosmos/developer-portal](https://github.com/cosmos/developer-portal) - 
+- [cosmostation/chainlist](https://github.com/cosmostation/chainlist) - 📚 Chain Resource Managed By Cosmostation
 - [cosmostation/cosmosjs](https://github.com/cosmostation/cosmosjs) - :star: CosmosJS - Cosmos JavaScript Library
 - [cryppadotta/dotta-license](https://github.com/cryppadotta/dotta-license) - ERC721-based Software Licensing Framework
 - [cryptocrew-validators/relayer-feegrant-wg](https://github.com/cryptocrew-validators/relayer-feegrant-wg) - 
@@ -1817,7 +1819,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sammarks/cloudformation-zenhub-github-label](https://github.com/sammarks/cloudformation-zenhub-github-label) - Automatically updates Github issues represented in ZenHub with their pipeline as a label.
 - [samsarahq/thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
 - [scrtlabs/dNetflix](https://github.com/scrtlabs/dNetflix) - 
-- [sedaprotocol/seda-chain](https://github.com/sedaprotocol/seda-chain) - SEDA chain network
 - [segment-integrations/analytics.js-integration-piwik](https://github.com/segment-integrations/analytics.js-integration-piwik) - The Piwik analytics.js integration.
 - [segmentio/analytics.js](https://github.com/segmentio/analytics.js) - The hassle-free way to integrate analytics into any web application.
 - [semantic-release/changelog](https://github.com/semantic-release/changelog) - :blue_book: semantic-release plugin to create or update a changelog file
@@ -3347,7 +3348,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cmbesnier/portofolio](https://github.com/cmbesnier/portofolio) - 
 - [cosmos/awesome-cosmos](https://github.com/cosmos/awesome-cosmos) - Collection of Cosmos related resources
 - [cosmos/did-cosmos](https://github.com/cosmos/did-cosmos) - 
-- [cosmostation/chainlist](https://github.com/cosmostation/chainlist) - 📚 Chain Resource Managed By Cosmostation
 - [coteries/cedille-ai](https://github.com/coteries/cedille-ai) - ✒️ Cedille is a large French language model (6B), released under an open-source license
 - [cryptobtcbuyer/Testnet_guides](https://github.com/cryptobtcbuyer/Testnet_guides) - 
 - [danger/awesome-danger](https://github.com/danger/awesome-danger) - An awesome list of all things Danger
