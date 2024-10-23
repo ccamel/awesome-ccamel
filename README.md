@@ -57,6 +57,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -531,6 +532,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axone-protocol/s3-auth-proxy](https://github.com/axone-protocol/s3-auth-proxy) - 🛡️ S3 auth proxy to the Axone protocol
 - [aybabtme/logzalgo](https://github.com/aybabtme/logzalgo) - Logrus formatter invoking the P͉̫o̳̼̊w̖͈̰͎e̬͔̭͂r͚̼̹̲ ̫͓͉̳͈ō̠͕͖̚f̝͍̠ ͕̲̞͖͑Z̖̫̤̫ͪa͉̬͈̗l͖͎g̳̥o̰̥̅!̣͔̲̻͊̄ ̙̘̦̹̦
 - [baarde/cert-manager-webhook-ovh](https://github.com/baarde/cert-manager-webhook-ovh) - OVH Webhook for Cert Manager
+- [babylonchain/babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [benbjohnson/immutable](https://github.com/benbjohnson/immutable) - Immutable collections for Go
 - [beorn7/perks](https://github.com/beorn7/perks) - Effective Computation of Things
@@ -858,6 +860,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jeremyhuiskamp/golang-docker-scratch](https://github.com/jeremyhuiskamp/golang-docker-scratch) - Recipe for go binary in scratch docker container with up-to-date tls certs and timezone data
 - [jexia/semaphore](https://github.com/jexia/semaphore) - Take control of your data, connect with anything, and expose it anywhere through protocols such as HTTP, GraphQL, and gRPC.
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
+- [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [jiuyunyue/valsta](https://github.com/jiuyunyue/valsta) - For cosmos blockchain validator to collect validator information
 - [jluccisano/syno-cli](https://github.com/jluccisano/syno-cli) - Command-line interface for Synology DiskStations. Allows batch-unlocking encrypted volumes.
 - [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by simply defining an interface
@@ -1602,7 +1605,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Mayank1791989/gql-language-server](https://github.com/Mayank1791989/gql-language-server) - 
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MtPelerin/bridge-v2](https://github.com/MtPelerin/bridge-v2) - New version of Mt Pelerin DeFi middleware
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [ReachFive/fake-smtp-server](https://github.com/ReachFive/fake-smtp-server) - Fake SMTP Server for email testing
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [SchumacherFM/blog-cs](https://github.com/SchumacherFM/blog-cs) - My blog at https://cyrillschumacher.com - You may submit pull requests :-)
@@ -2072,6 +2074,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [Reecepbcups/airdrop-tools](https://github.com/Reecepbcups/airdrop-tools) - A suite of tools to airdrop under a variety of edge cases for the Cosmos Interchain
 - [Reecepbcups/cosmos-state-exporter](https://github.com/Reecepbcups/cosmos-state-exporter) - A CosmosSDK chain scheduled state exporter
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [SimplyStaking/panic](https://github.com/SimplyStaking/panic) - PANIC Monitoring and Alerting For Blockchains
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -2788,6 +2791,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [monaparty/helm-ipfs-cluster](https://github.com/monaparty/helm-ipfs-cluster) - A Helm chart for IPFS clusters.
 - [nextcloud/helm](https://github.com/nextcloud/helm) - A community maintained helm chart for deploying Nextcloud on Kubernetes.
 
+## Solidity
+
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+
 ## Svelte
 
 - [Azoyalabs/pocket-druid](https://github.com/Azoyalabs/pocket-druid) - A knowledge explorer for the OKP4 blockchain - Dagda challenge
@@ -2902,6 +2909,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [antho31/okp4-ui-boilerplate](https://github.com/antho31/okp4-ui-boilerplate) - 🖥️ Vite starter for the OKP4 protocol
+- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [apicollective/graphql-rest-proxy](https://github.com/apicollective/graphql-rest-proxy) - 
