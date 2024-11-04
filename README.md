@@ -411,7 +411,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Chainflow/cosmos-validator-mission-control](https://github.com/Chainflow/cosmos-validator-mission-control) - Cosmos validator mission control monitoring and alerting tool.
 - [ChihuahuaChain/chihuahua](https://github.com/ChihuahuaChain/chihuahua) - chihuahuad binary repository
 - [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
-- [ComposableFi/composable-cosmos](https://github.com/ComposableFi/composable-cosmos) - The home of IBC
+- [ComposableFi/picasso](https://github.com/ComposableFi/picasso) - Cross-chain IBC Hub
 - [CosmWasm/cosmwasm-go](https://github.com/CosmWasm/cosmwasm-go) - Enabling CosmWasm smart contracts in Go using TinyGo
 - [CosmWasm/wasmd](https://github.com/CosmWasm/wasmd) - Basic cosmos-sdk app with web assembly smart contracts
 - [CosmWasm/wasmvm](https://github.com/CosmWasm/wasmvm) - Go bindings to the CosmWasm VM
@@ -636,6 +636,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [craigpastro/nungwi](https://github.com/craigpastro/nungwi) - Nungwi is a PoC authorization service inspired by Google Zanzibar, written in Ichiban Prolog.
 - [creasty/defaults](https://github.com/creasty/defaults) - Initialize structs with default values
 - [crescent-network/crescent](https://github.com/crescent-network/crescent) - ⛓️ Crescent Network, Expanding DeFi capabilities through InterBlockchain Technology 🌙
+- [cristalhq/aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
 - [crucibuild/cookiecutter-agent-go](https://github.com/crucibuild/cookiecutter-agent-go) - A cookiecutter template to create new Crucibuild Agents in Go following best practices.
 - [crucibuild/sdk-agent-go](https://github.com/crucibuild/sdk-agent-go) - Go library wrapping common tools to make Crucibuild agents
 - [cruise-automation/k-rail](https://github.com/cruise-automation/k-rail) - Kubernetes security tool for policy enforcement
@@ -735,6 +736,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [go-easygen/easygen](https://github.com/go-easygen/easygen) - Easy to use universal code/text generator
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang.
 - [go-ffmt/ffmt](https://github.com/go-ffmt/ffmt) - Golang beautify data display for Humans
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [go-gremlins/gremlins](https://github.com/go-gremlins/gremlins) - A mutation testing tool for Go.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go
@@ -2142,6 +2144,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [h9-tect/pdf-to-podcast](https://github.com/h9-tect/pdf-to-podcast) - 
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - ECS pattern (Entity Component System) for creating games on python
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
@@ -2390,6 +2393,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [cloudpeers/tlfs](https://github.com/cloudpeers/tlfs) - The Local-First SDK
 - [codeninja819/cw721-nft-staking](https://github.com/codeninja819/cw721-nft-staking) - CW721 NFT Staking smart contract in CosmWasm
+- [commonwarexyz/monorepo](https://github.com/commonwarexyz/monorepo) - Commonware Library Primitives and Examples
 - [concoct-rs/concoct](https://github.com/concoct-rs/concoct) - A reactive runtime for embedded systems in Rust
 - [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Example IBC enabled contracts along with full stack integration tests
 - [confio/poe-contracts](https://github.com/confio/poe-contracts) - Tgrade PoE smart contracts
@@ -2595,6 +2599,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
+- [tee-he-he/err_err_ttyl](https://github.com/tee-he-he/err_err_ttyl) - 
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
 - [timewave-computer/covenants](https://github.com/timewave-computer/covenants) - 
@@ -2980,7 +2985,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.
-- [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter - Storybook on https://jupyter-ui-storybook.datalayer.tech
+- [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter https://jupyter-ui-storybook.datalayer.tech
 - [davidfig/pixi-viewport](https://github.com/davidfig/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [dbcls/grasp](https://github.com/dbcls/grasp) - Grasp: A bridge between GraphQL and SPARQL
@@ -3102,6 +3107,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [mars-protocol/networks](https://github.com/mars-protocol/networks) - Genesis data for Mars Hub mainnet and testnets
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
@@ -3314,7 +3320,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [International-Data-Spaces-Association/idsa](https://github.com/International-Data-Spaces-Association/idsa) - This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and useful information on IDS Landscape.
 - [JanetMo/governance-activity-of-airdrop-recipients](https://github.com/JanetMo/governance-activity-of-airdrop-recipients) - Master thesis University of Mittweida
 - [Kolot86/Snapshots-StateSync](https://github.com/Kolot86/Snapshots-StateSync) - 
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [LinaMahrouch/vitepress-template](https://github.com/LinaMahrouch/vitepress-template) - A software documentation Template made with Vitepress
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
