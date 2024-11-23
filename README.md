@@ -190,7 +190,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
 - [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 - [blockpane/tenderduty](https://github.com/blockpane/tenderduty) - Notification tool for Cosmos/Tendermint validators, sends alerts when missing pre-commits
-- [delaneyj/datastar](https://github.com/delaneyj/datastar) - 
 - [jeblister/kube](https://github.com/jeblister/kube) - Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
@@ -407,6 +406,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AppsFlyer/go-sundheit](https://github.com/AppsFlyer/go-sundheit) - A library built to provide support for defining service health for golang services. It allows you to register async health checks for your dependencies and the service itself, provides a health endpoint that exposes their status, and health metrics.
 - [AsaiYusuke/jsonpath](https://github.com/AsaiYusuke/jsonpath) - A query library for retrieving part of JSON based on JSONPath syntax.
 - [B23admin/nifi-stateless-operator](https://github.com/B23admin/nifi-stateless-operator) - An Operator for scheduling and executing NiFi Flows as Jobs on Kubernetes
+- [BitCannaGlobal/bcna](https://github.com/BitCannaGlobal/bcna) - BitCanna Blockchain based on Cosmos SDK
 - [BoltApp/sleet](https://github.com/BoltApp/sleet) - Payment abstraction library - one interface for multiple payment processors ( inspired by Ruby's ActiveMerchant )
 - [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library of iterators to augment the standard library
 - [BrianWill/pigeon](https://github.com/BrianWill/pigeon) - Compiler of Pigeon (my educational programming language) to Golang.
@@ -420,7 +420,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/wasmvm](https://github.com/CosmWasm/wasmvm) - Go bindings to the CosmWasm VM
 - [CosmosContracts/juno](https://github.com/CosmosContracts/juno) - Open Source Platform for Interoperable Smart Contracts
 - [DecentralCardGame/Cardchain](https://github.com/DecentralCardGame/Cardchain) - Cosmos based blockchain for handling card ownership, card creation and voting on cards.
-- [DefiantLabs/cosmos-indexer](https://github.com/DefiantLabs/cosmos-indexer) - An opensource cosmos indexer!  Please feel free to use this to build other awesome apps like https://app.sycamore.tax and https://elections.atomaccelerator.com
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [Djarvur/go-err113](https://github.com/Djarvur/go-err113) -   Golang linter to check the errors handling expressions
 - [DoWithLogic/golang-clean-architecture](https://github.com/DoWithLogic/golang-clean-architecture) - implementation clean architecture with SOLID Principles
@@ -537,7 +536,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axone-protocol/axone-contract-schema](https://github.com/axone-protocol/axone-contract-schema) - 🚀 Client libraries (for different languages) simplifying Axone chain interactions.
 - [axone-protocol/axone-sdk](https://github.com/axone-protocol/axone-sdk) - 💻 The Axone SDK for the Go programming language to build applications on top of the Axone protocol
 - [axone-protocol/axoned](https://github.com/axone-protocol/axoned) - ⛓️ Axone blockchain 💫
-- [axone-protocol/prolog](https://github.com/axone-protocol/prolog) - 🧠 Forked and customized prolog engine from ichiban/prolog
+- [axone-protocol/prolog](https://github.com/axone-protocol/prolog) - 🧠 The Axone Prolog VM
 - [axone-protocol/s3-auth-proxy](https://github.com/axone-protocol/s3-auth-proxy) - 🛡️ S3 auth proxy to the Axone protocol
 - [aybabtme/logzalgo](https://github.com/aybabtme/logzalgo) - Logrus formatter invoking the P͉̫o̳̼̊w̖͈̰͎e̬͔̭͂r͚̼̹̲ ̫͓͉̳͈ō̠͕͖̚f̝͍̠ ͕̲̞͖͑Z̖̫̤̫ͪa͉̬͈̗l͖͎g̳̥o̰̥̅!̣͔̲̻͊̄ ̙̘̦̹̦
 - [baarde/cert-manager-webhook-ovh](https://github.com/baarde/cert-manager-webhook-ovh) - OVH Webhook for Cert Manager
@@ -559,6 +558,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bozd4g/go-http-client](https://github.com/bozd4g/go-http-client) - An enhanced and lightweight http client for Golang
 - [brendandburns/caddy-wasm](https://github.com/brendandburns/caddy-wasm) - WebAssembly (WASM) extension for the caddy2 web server.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
+- [bryanlabs/cosmos-indexer-sdk](https://github.com/bryanlabs/cosmos-indexer-sdk) - An opensource cosmos indexer!  Please feel free to use this to build other awesome apps like https://app.sycamore.tax and https://elections.atomaccelerator.com
 - [bsm/sarama-cluster](https://github.com/bsm/sarama-cluster) - Cluster extensions for Sarama, the Go client library for Apache Kafka 0.9 [DEPRECATED]
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
@@ -1342,6 +1342,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AuthenticID-Labs/real-id-snap](https://github.com/AuthenticID-Labs/real-id-snap) - 
 - [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
 - [Cumulo-pro/OKP4](https://github.com/Cumulo-pro/OKP4) - 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [Funny-OpenSource-Projects/image-to-xls](https://github.com/Funny-OpenSource-Projects/image-to-xls) - A simple tool to make ascii art from an image using excel colored cells.
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
@@ -1778,6 +1779,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 - [lambdamusic/Ontodocs](https://github.com/lambdamusic/Ontodocs) - [DISCONTINUED] Generate ontology documentation in HTML and Markdown. Quick and easy. 
 - [lambdamusic/Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models aka ontologies.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [lavanet/docs](https://github.com/lavanet/docs) - The open-source repo for docs.lavanet.xyz
 - [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 - [lensesio/kafka-topics-ui](https://github.com/lensesio/kafka-topics-ui) - Web Tool for Kafka Topics  | 
@@ -2188,7 +2190,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral). 
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [laurentb/weboob](https://github.com/laurentb/weboob) - mirror of git://git.p.engu.in/laurentb/weboob
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
@@ -2887,7 +2888,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [Bendat/autometa](https://github.com/Bendat/autometa) - 
-- [BitCannaGlobal/bcna](https://github.com/BitCannaGlobal/bcna) - BitCanna Blockchain based on Cosmos SDK
 - [BlockTrainBuilders/BlockTrain](https://github.com/BlockTrainBuilders/BlockTrain) - 
 - [BowlingX/geschichte](https://github.com/BowlingX/geschichte) - zustand and immer based hook to manage query parameters
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  
@@ -3241,6 +3241,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [solana-labs/example-helloworld](https://github.com/solana-labs/example-helloworld) - Hello world on Solana
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
+- [starfederation/datastar](https://github.com/starfederation/datastar) - A real-time hypermedia framework.
 - [stationmoney/station](https://github.com/stationmoney/station) - 🛰️ Station wallet
 - [stolenng/react-hooks-mobx](https://github.com/stolenng/react-hooks-mobx) - React Hooks + MobX guide
 - [storybookjs/native](https://github.com/storybookjs/native) - 📱 Storybook for Native: iOS, Android, Flutter
@@ -3351,9 +3352,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Distributed-Validators-Synctems/Self-Identity](https://github.com/Distributed-Validators-Synctems/Self-Identity) - Why "Synctems" not "Systems"?
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice) - Repo for you to raise a Pull Request for practice
-- [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of open source boilerplates and starter templates to kickstart your next project.
+- [EinGuterWaran/awesome-opensource-boilerplates](https://github.com/EinGuterWaran/awesome-opensource-boilerplates) - A curated list of production-ready SaaS boilerplates, free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [FLock-io/FLock](https://github.com/FLock-io/FLock) - 
 - [FabienTregan/DDDTranslation](https://github.com/FabienTregan/DDDTranslation) - 
@@ -3362,6 +3362,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [International-Data-Spaces-Association/idsa](https://github.com/International-Data-Spaces-Association/idsa) - This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and useful information on IDS Landscape.
 - [JanetMo/governance-activity-of-airdrop-recipients](https://github.com/JanetMo/governance-activity-of-airdrop-recipients) - Master thesis University of Mittweida
 - [Kolot86/Snapshots-StateSync](https://github.com/Kolot86/Snapshots-StateSync) - 
+- [Lesterpaintstheworld/terminal-velocity](https://github.com/Lesterpaintstheworld/terminal-velocity) - A novel created autonomously by 10 teams of 10 AI agents
 - [LinaMahrouch/vitepress-template](https://github.com/LinaMahrouch/vitepress-template) - A software documentation Template made with Vitepress
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
