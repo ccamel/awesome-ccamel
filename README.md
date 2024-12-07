@@ -1791,7 +1791,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 - [lambdamusic/Ontodocs](https://github.com/lambdamusic/Ontodocs) - [DISCONTINUED] Generate ontology documentation in HTML and Markdown. Quick and easy. 
 - [lambdamusic/Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models aka ontologies.
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [lavanet/docs](https://github.com/lavanet/docs) - The open-source repo for docs.lavanet.xyz
 - [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 - [lensesio/kafka-topics-ui](https://github.com/lensesio/kafka-topics-ui) - Web Tool for Kafka Topics  | 
@@ -2206,6 +2205,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral). 
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [laurentb/weboob](https://github.com/laurentb/weboob) - mirror of git://git.p.engu.in/laurentb/weboob
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
 - [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) - 📠  A Self-Updating Public Profile for GitHub
@@ -2870,6 +2870,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Solidity
 
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [skip-mev/go-fast-contracts](https://github.com/skip-mev/go-fast-contracts) - 
 
 ## Starlark
 
@@ -2983,7 +2984,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). Unopinionated and heavily updated fork of react-signature-pad
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
-- [ai16z/eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
+- [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months. 
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
