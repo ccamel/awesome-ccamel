@@ -35,6 +35,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [LLVM](#llvm)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -52,6 +53,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
+- [Reason](#reason)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -510,6 +512,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alpeb/go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+- [andromedaprotocol/andromedad](https://github.com/andromedaprotocol/andromedad) - 
 - [anthdm/hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang
 - [anthdm/slick](https://github.com/anthdm/slick) - 
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -1385,6 +1388,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [james-fry/home-assistant-mdi](https://github.com/james-fry/home-assistant-mdi) - Index of Material Design Icons for Home Assistant
 - [jlin27/docusaurus-plugin-jupyter-notebook](https://github.com/jlin27/docusaurus-plugin-jupyter-notebook) - [WIP] Jupyter notebook plugin for docusaurus
 - [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org) - JSON for Linked Data's documentation and playground site
+- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo: 
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
@@ -1579,6 +1583,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [networknt/light-4j](https://github.com/networknt/light-4j) - A fast, lightweight and more productive microservices framework
 - [nibi79/worxlandroid](https://github.com/nibi79/worxlandroid) - openHAB Binding for Worx Landroid 
 - [nimarion/promcord](https://github.com/nimarion/promcord) - 📊 Analyze your entire discord guild in grafana using prometheus. Message, User, Game and Voice statistics...
+- [objectionary/eo](https://github.com/objectionary/eo) - EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-calculus
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 - [okp4/Widoco](https://github.com/okp4/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.
 - [okp4/owl-cli](https://github.com/okp4/owl-cli) - Command line tool for ontology engineering
@@ -1764,7 +1769,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gridiron-zone/bonds](https://github.com/gridiron-zone/bonds) - The Bonds module is a custom Cosmos SDK module that provides universal token bonding curve functions to mint, burn or swap any token in a Cosmos blockchain.  In the future, once the Cosmos Inter-Blockchain Communication (IBC) protocol is available, this should enable cross-network exchanges of tokens at algorithmically-determined prices.
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-- [grucloud/bau](https://github.com/grucloud/bau) - Reactive library and components for building web user interface
 - [guigrpa/storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories
 - [hariroshan/parcel-transformer-elm-assets](https://github.com/hariroshan/parcel-transformer-elm-assets) - 
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
@@ -1793,7 +1797,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jsreport/jsreport-core](https://github.com/jsreport/jsreport-core) - The minimalist jsreport rendering core 
 - [julie-ng/lowercase-linter](https://github.com/julie-ng/lowercase-linter) - GitHub Action to ensure files are lower case only. Suggests valid names in kebab-case format.
 - [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
-- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 - [lambdamusic/Ontodocs](https://github.com/lambdamusic/Ontodocs) - [DISCONTINUED] Generate ontology documentation in HTML and Markdown. Quick and easy. 
@@ -1996,6 +1999,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xmlking/microservices-observability](https://github.com/xmlking/microservices-observability) - 🎉 Microservices Observability - Log Aggregation, Distributed Tracking,  Metrics
 - [zsmb13/VillageDSL](https://github.com/zsmb13/VillageDSL) - Examples of Kotlin DSL design
 
+## LLVM
+
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
 ## Lua
 
 - [Kong/kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus) - Prometheus plugin for Kong - this plugin has been moved into https://github.com/Kong/kong, please open issues and PRs in that repo 
@@ -2141,6 +2148,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [Wenzel/oswatcher](https://github.com/Wenzel/oswatcher) - A framework to track the evolution of Operating Systems over time
+- [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [actions-automation/pull-request-responsibility](https://github.com/actions-automation/pull-request-responsibility) - Keep pull requests moving -- from opening to merge.
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
@@ -2298,6 +2306,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [r-arduino/arduinor](https://github.com/r-arduino/arduinor) - An easy way to get arduino data into R
 - [r-lib/lintr](https://github.com/r-lib/lintr) - Static Code Analysis for R
 
+## Reason
+
+- [melange-re/melange-for-react-devs](https://github.com/melange-re/melange-for-react-devs) - A project-based, guided introduction to Melange and its ecosystem for React developers.
+
 ## Ruby
 
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -2417,6 +2429,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [archid-protocol/archid-registry](https://github.com/archid-protocol/archid-registry) - ArchID is a name service for Archway Network, supporting domains, subdomains, and web2 identity verification.
 - [arendjr/rust-for-ts-devs](https://github.com/arendjr/rust-for-ts-devs) - Rust courses for TypeScript developers
 - [argumentcomputer/sphinx](https://github.com/argumentcomputer/sphinx) - An observatory fork of SP1 (contact: @huitseeker)
+- [argumentcomputer/zk-light-clients](https://github.com/argumentcomputer/zk-light-clients) - A collection of ZK light client libraries for various blockchains
 - [arkworks-rs/algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic
 - [arkworks-rs/crypto-primitives](https://github.com/arkworks-rs/crypto-primitives) - Interfaces and implementations of cryptographic primitives, along with R1CS constraints for them 
 - [arkworks-rs/curves](https://github.com/arkworks-rs/curves) - Implementations of popular elliptic curves 
@@ -3055,6 +3068,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [cheqd/validator-status](https://github.com/cheqd/validator-status) - Network-wide validator status alerting API for cheqd mainnet. Designed to work for any Cosmos SDK network
+- [citizenweb3/validatorinfo](https://github.com/citizenweb3/validatorinfo) - Multichain, POW and POS blockchain explorer, dashboard and aggregator. Providing analytics and real-time metrics on networks, validators, mining pools and tokens.
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus v2.
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [condorheroblog/html-export-pdf-cli](https://github.com/condorheroblog/html-export-pdf-cli) - Render HTML to PDF(with outline) using Puppeteer.
@@ -3137,6 +3151,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [graz-sh/graz](https://github.com/graz-sh/graz) - React hooks for Cosmos 🪐
+- [grucloud/bau](https://github.com/grucloud/bau) - Reactive library and components for building web user interface
 - [guigrpa/docx-templates](https://github.com/guigrpa/docx-templates) - Template-based docx report creation
 - [guregu/trealla-js](https://github.com/guregu/trealla-js) - Trealla Prolog for the web
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
@@ -3218,7 +3233,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4 / GPT-4o / GPT-o1. Port of OpenAI's tiktoken with additional features.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Dataverse Portal for the OKP4 network. 
@@ -3283,6 +3298,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [scrtlabs/secret-template](https://github.com/scrtlabs/secret-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [scrtlabs/secret.js](https://github.com/scrtlabs/secret.js) - The JavaScript SDK for Secret Network
 - [segmentio/analytics-react-native](https://github.com/segmentio/analytics-react-native) - The hassle-free way to add analytics to your React-Native app.
+- [sei-protocol/sei-js](https://github.com/sei-protocol/sei-js) - SeiJS is a monorepo that contains multiple NPM libraries for writing applications that interact with the Sei network.
 - [semantic-release-plus/semantic-release-plus](https://github.com/semantic-release-plus/semantic-release-plus) - semantic-release-plus monorepo to build and publish all semantic-release related repositories
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [shakyShane/actor-js](https://github.com/shakyShane/actor-js) - Exploring the potential benefits of implementing APIs in the style of the Actor Model, even in single-threaded programming environments such as Javascript.
