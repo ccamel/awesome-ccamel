@@ -99,6 +99,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## C
 
+- [Blockstream/Jade](https://github.com/Blockstream/Jade) - Jade hardware wallet
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel) - SWI-Prolog Main development repository
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -144,7 +145,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [akash-network/awesome-akash](https://github.com/akash-network/awesome-akash) - Awesome List of Akash Deployment Examples
 - [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
-- [epicchainlabs/epicchain](https://github.com/epicchainlabs/epicchain) - Discover the core repository of EpicChain—a groundbreaking blockchain protocol designed to empower developers, revolutionize industries.
+- [epicchainlabs/epicchain](https://github.com/epicchainlabs/epicchain) - The core of EpicChain blockchain protocol designed to empower developers, revolutionize industries.
 - [github/gh-valet](https://github.com/github/gh-valet) - Valet helps facilitate the migration of Azure DevOps, CircleCI, GitLab CI, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [plantuml-stdlib/EIP-PlantUML](https://github.com/plantuml-stdlib/EIP-PlantUML) - EIP-PlantUML adds Enterprise Integrations Patterns elements to PlantUML to provide easy support of designing EIP architectures for both, up-front design as well as development-time automated documentation generation.
 
@@ -263,6 +264,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Chadtech/elm-vector](https://github.com/Chadtech/elm-vector) - Collection types of a fixed length
 - [JesterXL/simple-game](https://github.com/JesterXL/simple-game) - 
 - [MacCASOutreach/graphicsvg](https://github.com/MacCASOutreach/graphicsvg) - Graphics library authored by Chris Schankula and Dr. Christopher Anand
+- [amblafont/graph-editor-web](https://github.com/amblafont/graph-editor-web) - An online graph editor written in Elm
 - [andre-dietrich/elm-conditional](https://github.com/andre-dietrich/elm-conditional) - Conditional application of functions to simplify piping.
 - [andreacfromtheapp/elm_vite_tailwind_template](https://github.com/andreacfromtheapp/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Vite, TailwindCSS and daisyUI.
 - [arowM/elm-atomic-design-example](https://github.com/arowM/elm-atomic-design-example) - An example Elm project in the manner of atomic design.
@@ -312,6 +314,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gampleman/elm-review-derive](https://github.com/gampleman/elm-review-derive) - Generate code for json encoders/decoders, codecs, fuzzers, generators, and more
 - [gampleman/elm-visualization](https://github.com/gampleman/elm-visualization) - A data visualization library for Elm
 - [gdotdesign/elm-ui](https://github.com/gdotdesign/elm-ui) - UI library for making web applications with Elm
+- [geeksforsocialchange/the-trans-dimension](https://github.com/geeksforsocialchange/the-trans-dimension) - The Trans Dimension is an online community hub connecting trans communities in the UK.
+- [go-vela/ui](https://github.com/go-vela/ui) - Web UI for Vela (Target's official Pipeline Automation Framework) 
 - [harmboschloo/elm-dict-intersect](https://github.com/harmboschloo/elm-dict-intersect) - Provides intersections of multiple dictionaries
 - [harmboschloo/elm-ecs](https://github.com/harmboschloo/elm-ecs) - Using the entity-component-system (ECS) pattern in elm.
 - [ianmackenzie/elm-1d-parameter](https://github.com/ianmackenzie/elm-1d-parameter) - Generate evenly spaced interpolated values in Elm
@@ -331,6 +335,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lindsaykwardell/vite-elm-spa](https://github.com/lindsaykwardell/vite-elm-spa) - A default template for building Elm SPA applications using Vite.
 - [lindsaykwardell/vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications using Vite.
 - [lucamug/elm-parcel-example](https://github.com/lucamug/elm-parcel-example) - 
+- [lucamug/functional-pacman](https://github.com/lucamug/functional-pacman) - 
 - [lukewestby/elm-string-interpolate](https://github.com/lukewestby/elm-string-interpolate) - Inject values from a list into a template. Useful for i18n and templated copy.
 - [mdgriffith/elm-codegen](https://github.com/mdgriffith/elm-codegen) - 
 - [mdgriffith/elm-gql-github-example](https://github.com/mdgriffith/elm-gql-github-example) - An example repo for elm-gql that uses the Github GraphQL API
@@ -587,7 +592,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [cadence-workflow/cadence-go-client](https://github.com/cadence-workflow/cadence-go-client) - Framework for authoring workflows and activities running on top of the Cadence orchestration engine.
 - [cadence-workflow/cadence-samples](https://github.com/cadence-workflow/cadence-samples) - 
-- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - command argument completion generator for spf13/cobra
+- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go
 - [cbarraford/cosmos-multisig](https://github.com/cbarraford/cosmos-multisig) - Multi-signature Wallet for the Cosmos Blockchain
@@ -1668,7 +1673,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and compress) GLSL shader files :electric_plug:
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
-- [Wervice/Codelink](https://github.com/Wervice/Codelink) - Codelink is a family of open source applications for programming and collaboration.
+- [Wervice/Codelink](https://github.com/Wervice/Codelink) - [DEVELOPMENT IS PAUSED] | Codelink is a family of open source applications for programming and collaboration.
 - [WolfDan/elm-ssr](https://github.com/WolfDan/elm-ssr) - Elm server side rendering with Razzle
 - [YellowLabTools/YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) - WebPerf and front-end quality testing tool
 - [Yomguithereal/baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
@@ -2048,6 +2053,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axone-protocol/status](https://github.com/axone-protocol/status) - 🟩 Uptime and historical data of the Axone services
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 - [okp4/slips](https://github.com/okp4/slips) - SatoshiLabs Improvement Proposals
 
@@ -2065,6 +2071,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## OCaml
 
+- [LexiFi/ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
 - [exercism/ocaml](https://github.com/exercism/ocaml) - Exercism exercises in OCaml.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
@@ -2185,7 +2192,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [cosmos/chain-registry](https://github.com/cosmos/chain-registry) - 
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
-- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly (con)text to paste into any LLM
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
@@ -2406,6 +2413,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
 - [ProvableHQ/leo](https://github.com/ProvableHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
+- [Rafaeltheraven/extendable-data](https://github.com/Rafaeltheraven/extendable-data) - A set of rust macros that allows you to specify data that can be "extended" or inherited from. 
 - [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
 - [RedStoneCoin/redstone-rs](https://github.com/RedStoneCoin/redstone-rs) - Redstone Project is a p2p custom blockchain implementation, comprised of a network of interconnected sub-chains for better speed and scalability.
 - [Restioson/xtra](https://github.com/Restioson/xtra) - 🎭 A tiny actor framework
@@ -2616,7 +2624,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
-- [preiter93/wireman](https://github.com/preiter93/wireman) - A TUI gRPC client
+- [preiter93/wireman](https://github.com/preiter93/wireman) - A gRPC client for the terminal
 - [privacy-scaling-explorations/halo2curves](https://github.com/privacy-scaling-explorations/halo2curves) - 
 - [privacy-scaling-explorations/sonobe](https://github.com/privacy-scaling-explorations/sonobe) - Experimental folding schemes library
 - [provenance-io/provwasm](https://github.com/provenance-io/provwasm) - This crate provides Rust bindings to enable CosmWasm smart contracts to interact with custom modules in the Provenance Blockchain.
@@ -2696,7 +2704,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [tickbh/rbtree-rs](https://github.com/tickbh/rbtree-rs) - The rbtree for Rust
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
-- [timewave-computer/covenants](https://github.com/timewave-computer/covenants) - 
+- [timewave-computer/covenants](https://github.com/timewave-computer/covenants) - Cross-chain protocol-owned liquidity agreements
 - [timothee-haudebourg/json-ld](https://github.com/timothee-haudebourg/json-ld) - JSON-LD implementation for Rust
 - [tlsnotary/tlsn](https://github.com/tlsnotary/tlsn) - Rust implementation of the TLSNotary protocol
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
@@ -2715,7 +2723,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [voidpumpkin/fallout-ui](https://github.com/voidpumpkin/fallout-ui) - 
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
@@ -3242,6 +3250,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
+- [notional-labs/dig](https://github.com/notional-labs/dig) - Dig: Governance
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
@@ -3519,7 +3528,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
 - [edn-format/edn](https://github.com/edn-format/edn) - Extensible Data Notation
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [emersion/stability-badges](https://github.com/emersion/stability-badges) - SVG badges for Go projects
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
