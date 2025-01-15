@@ -133,7 +133,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [seanpringle/reforth](https://github.com/seanpringle/reforth) - Rethinking Forth
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager 
 - [timescale/pg_prometheus](https://github.com/timescale/pg_prometheus) - PostgreSQL extension for Prometheus data
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [trealla-prolog/trealla](https://github.com/trealla-prolog/trealla) - A compact, efficient Prolog interpreter written in plain-old C.
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 
@@ -1259,7 +1259,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [taylorchu/work](https://github.com/taylorchu/work) - gocraft/work v2 prototype
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel 
 - [tcnksm/go-httpstat](https://github.com/tcnksm/go-httpstat) - Tracing golang HTTP request latency
-- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [teambenny/goetl](https://github.com/teambenny/goetl) - 
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [tellor-io/layer](https://github.com/tellor-io/layer) - tellor chain - a cosmos sdk chain for reporting and validating arbitrary data
@@ -1561,7 +1560,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [filip26/carbon-decentralized-identifiers](https://github.com/filip26/carbon-decentralized-identifiers) - Decentralized Identifiers (DIDs) API
 - [filip26/iridium-cbor-ld](https://github.com/filip26/iridium-cbor-ld) - A CBOR-based Processor for Linked Data
 - [filip26/iron-verifiable-credentials](https://github.com/filip26/iron-verifiable-credentials) - A Verifiable Credentials Processor & API
-- [filip26/linked-tree](https://github.com/filip26/linked-tree) -  An abstract data model to process Linked Data. Graphs are cool. Trees are easy. Think in graphs, work with trees.
+- [filip26/linked-tree](https://github.com/filip26/linked-tree) - An abstract data model for processing Linked Data. Graphs are powerful; trees are intuitive. Think in graphs, work with trees.
 - [filip26/titanium-json-ld](https://github.com/filip26/titanium-json-ld) - A JSON-LD 1.1 Processor & API
 - [flapdoodle-oss/de.flapdoodle.embed.mongo](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo) - ...will provide a platform neutral way for running mongodb in unittests.
 - [gavlyukovskiy/spring-boot-data-source-decorator](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator) - Spring Boot integration with p6spy, datasource-proxy, flexy-pool and spring-cloud-sleuth
@@ -1923,6 +1922,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tau-prolog/notebook](https://github.com/tau-prolog/notebook) - A web-based notebook environment for Tau Prolog
 - [tau-prolog/tau-prolog](https://github.com/tau-prolog/tau-prolog) - An open source Prolog interpreter in JavaScript
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks all of the hyperlinks in a markdown text to determine if they are alive or dead
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [terra-money/classic-core](https://github.com/terra-money/classic-core) - GO implementation of the Terra Protocol 
 - [tomayac/local-reverse-geocoder](https://github.com/tomayac/local-reverse-geocoder) - Local reverse geocoder for Node.js based on GeoNames data
 - [traveldevel/iot-hub-ingestion-rest](https://github.com/traveldevel/iot-hub-ingestion-rest) - Ingestion REST api that writes to a Kafka topic
@@ -2030,6 +2030,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [penso/kickstart.nvim](https://github.com/penso/kickstart.nvim) - My neovim configuration based from kickstart.nvim
 - [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
 - [pravin-raha/kong-plugin-cookies-to-headers](https://github.com/pravin-raha/kong-plugin-cookies-to-headers) - A Kong plugin that will add Authorization header from cookie
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [yciabaud/kong-plugin-prometheus](https://github.com/yciabaud/kong-plugin-prometheus) - Prometheus metrics exporter for Kong API management
 
 ## MDX
@@ -2094,7 +2095,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MyIntervals/emogrifier](https://github.com/MyIntervals/emogrifier) - Converts CSS styles into inline style attributes in your HTML code.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Trismegiste/Prolog](https://github.com/Trismegiste/Prolog) - Warren Abstract Machine - A embedded Prolog compiler and virtual machine for PHP
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [cerbero90/json-parser](https://github.com/cerbero90/json-parser) - 🧩 Zero-dependencies lazy parser to read JSON of any dimension and from any source in a memory-efficient way.
 - [d8ahazard/Phlex](https://github.com/d8ahazard/Phlex) - A super-sexy voice interface for the Plex HTPC
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
@@ -2143,6 +2144,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [Keeper-Security/Commander](https://github.com/Keeper-Security/Commander) - Keeper Commander is a python-based CLI and SDK interface to the Keeper Security platform. Provides administrative controls, reporting, import/export and vault management.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
@@ -2300,7 +2302,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rchakode/kube-opex-analytics](https://github.com/rchakode/kube-opex-analytics) - 🎨 Kubernetes Usage Analytics and Accounting for Cost Allocation and Capacity Planning - Hourly Trends, Daily and Monthly Accounting - Prometheus Exporter - Built-in & Grafana Dashboards.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [run-llama/llamabot](https://github.com/run-llama/llamabot) - 
 - [saubury/kafka-serialization](https://github.com/saubury/kafka-serialization) - Experiments and demonstrations of AVRO, Protobuf serialisation
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
@@ -2372,6 +2374,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [0glabs/0g-storage-node](https://github.com/0glabs/0g-storage-node) - 
 - [0xAlcibiades/miniref](https://github.com/0xAlcibiades/miniref) - An example of a notes app implemented with leptos
+- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 - [AbstractSDK/abstract](https://github.com/AbstractSDK/abstract) - The ultimate CosmWasm framework for modular Interchain applications.
 - [AbstractSDK/cw-orchestrator](https://github.com/AbstractSDK/cw-orchestrator) -  All-in-one Rust-based CosmWasm testing, scripting, and deployment tool.
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
@@ -2605,7 +2608,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [neutron-org/neutron-dev-contracts](https://github.com/neutron-org/neutron-dev-contracts) - 
 - [neutron-org/neutron-sdk](https://github.com/neutron-org/neutron-sdk) - 
 - [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
-- [nginxinc/ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust binding for NGINX
+- [nginx/ngx-rust](https://github.com/nginx/ngx-rust) - Rust binding for NGINX
 - [nomic-io/nomic](https://github.com/nomic-io/nomic) - Decentralized Custody Engine for Bitcoin
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -2710,6 +2713,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
 - [skip-mev/skip-go-cosmwasm-contracts](https://github.com/skip-mev/skip-go-cosmwasm-contracts) - CosmWasm Contracts for Skip Go
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [snarkify/sirius](https://github.com/snarkify/sirius) - A Plonkish folding framework for Incrementally Verifiable Computation (IVC).
 - [spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time | Proof of SQL
 - [spruceid/didkit](https://github.com/spruceid/didkit) - A cross-platform toolkit for decentralized identity.
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
@@ -2880,6 +2884,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cyberomanov/status](https://github.com/cyberomanov/status) - status & alarm log with bash and telegram bot.
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
+- [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [gythialy/golang-cross](https://github.com/gythialy/golang-cross) - golang cross compiler with CGO
@@ -3081,6 +3086,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axone-protocol/faucet-web](https://github.com/axone-protocol/faucet-web) - 🚰 Token faucet web app for the Axone testnets.
 - [axone-protocol/hub](https://github.com/axone-protocol/hub) - 🔭 The Axone Hub.
 - [axone-protocol/hub-backend](https://github.com/axone-protocol/hub-backend) - 
+- [axone-protocol/keplr-chain-registry](https://github.com/axone-protocol/keplr-chain-registry) - Protocol for Integrating Non-Native Chains to Keplr
 - [axone-protocol/website](https://github.com/axone-protocol/website) - 🌐 Axone web site 
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
@@ -3184,7 +3190,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gracefullight/docusaurus-plugins](https://github.com/gracefullight/docusaurus-plugins) - Enhance your Docusaurus website with this collection of script plugins. This monorepo contains easy-to-install and configure plugins that will help you get the most out of your website. 📚🦖
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [graphql-compose/graphql-compose-elasticsearch](https://github.com/graphql-compose/graphql-compose-elasticsearch) - Hide Elastic Search REST API behind GraphQL.
-- [graphql-hive/console](https://github.com/graphql-hive/console) - Hive Console is a GraphQL platform: schema registry, analytics and gateway for GraphQL federation and other GraphQL APIs
+- [graphql-hive/console](https://github.com/graphql-hive/console) - Hive is a GraphQL platform: schema registry, analytics and gateway for GraphQL federation and other GraphQL APIs
 - [graphql-kit/graphql-lodash](https://github.com/graphql-kit/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
 - [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
@@ -3463,6 +3469,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmosContracts/docs](https://github.com/CosmosContracts/docs) - Documentation - Juno 
 - [Cour-de-cassation/moteurNER](https://github.com/Cour-de-cassation/moteurNER) - communication sur le moteur de pseudonymisation de la Cour de Cassation
 - [DGKSK8LIFE/go-copilot](https://github.com/DGKSK8LIFE/go-copilot) - Github Copilot examples with Go
+- [DREwX-code/DINOcheat](https://github.com/DREwX-code/DINOcheat) - An incredible script for dino chrome with several unique functions.
 - [Dimokus88/OkP4](https://github.com/Dimokus88/OkP4) - Node OkP4 on Akash Network | Нода OkP4 на Akash Network
 - [Distributed-Validators-Synctems/Self-Identity](https://github.com/Distributed-Validators-Synctems/Self-Identity) - Why "Synctems" not "Systems"?
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
