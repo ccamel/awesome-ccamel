@@ -1476,6 +1476,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [tfausak/rampart](https://github.com/tfausak/rampart) - :european_castle: Determine how intervals relate to each other.
 - [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
+- [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [vladimirlogachev/elm-package-insights](https://github.com/vladimirlogachev/elm-package-insights) - Detects broken Elm packages
 
 ## JSON
@@ -2601,7 +2602,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [many-things/cw-hyperlane](https://github.com/many-things/cw-hyperlane) - 
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
 - [mars-protocol/contracts](https://github.com/mars-protocol/contracts) - Smart contracts for Mars Protocol
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -2619,6 +2620,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
 - [nginx/ngx-rust](https://github.com/nginx/ngx-rust) - Rust binding for NGINX
 - [nomic-io/nomic](https://github.com/nomic-io/nomic) - Decentralized Custody Engine for Bitcoin
+- [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust. 
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [nymlab/vectis](https://github.com/nymlab/vectis) - The Foundation for Compliant Self-sovereign Wallets
@@ -3497,6 +3499,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Kolot86/Snapshots-StateSync](https://github.com/Kolot86/Snapshots-StateSync) - 
 - [LinaMahrouch/vitepress-template](https://github.com/LinaMahrouch/vitepress-template) - A software documentation Template made with Vitepress
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
+- [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
 - [ScalablyTyped/Distribution](https://github.com/ScalablyTyped/Distribution) - The Javascript ecosystem for Scala.js!
