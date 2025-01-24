@@ -200,6 +200,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
 - [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 - [blockpane/tenderduty](https://github.com/blockpane/tenderduty) - Notification tool for Cosmos/Tendermint validators, sends alerts when missing pre-commits
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures 
 - [jeblister/kube](https://github.com/jeblister/kube) - Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
@@ -1659,7 +1660,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AmbireTech/wallet](https://github.com/AmbireTech/wallet) - Ambire Wallet: making self-custody easy and secure for the EVM ecosystem
 - [AshKyd/ui95](https://github.com/AshKyd/ui95) - 🖥 WIP: A preact implementation of Windows 95/98/ME style components and apps. See it in action on my personal site at https://ash.ms
 - [BitCannaCommunity/cosmos-faucet](https://github.com/BitCannaCommunity/cosmos-faucet) - Cosmos-faucet is a simple alternative to the tendermint/faucet GoLang script. This is an idea adapted for  Bitcanna and can be used for any project using cosmos.
-- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [ChristophP/elm-esm](https://github.com/ChristophP/elm-esm) - Turn Elm compiler output into modern ES Modules
 - [CosmWasm/docs-deprecated](https://github.com/CosmWasm/docs-deprecated) - Updated documentation repo
 - [David-Kunz/derive-type](https://github.com/David-Kunz/derive-type) - Derive types dynamically by running tests to capture value combinations
@@ -1706,6 +1706,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [assemblee-virtuelle/Semantic-Bus](https://github.com/assemblee-virtuelle/Semantic-Bus) - object flow treatment,  data transformation
 - [atmoner/cosmos-faucet](https://github.com/atmoner/cosmos-faucet) - 💧 Cosmos-faucet is a simple alternative to the tendermint/faucet script
 - [atomone-hub/atom.one](https://github.com/atomone-hub/atom.one) - Home of the atom.one website
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [axept/open-parse](https://github.com/axept/open-parse) - Get RESTful API to your data store, schemas, users and security management and bring up your own BaaS in a few minutes
 - [badgen/badgen](https://github.com/badgen/badgen) - Fast handcraft svg badge generator.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -2736,7 +2737,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
-- [tee-he-he/err_err_ttyl](https://github.com/tee-he-he/err_err_ttyl) - 
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 - [tickbh/rbtree-rs](https://github.com/tickbh/rbtree-rs) - The rbtree for Rust
 - [tikv/rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications
@@ -2869,6 +2869,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [2-alchemists/krossboard](https://github.com/2-alchemists/krossboard) - 📊 Krossboard is a Multi-cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
 - [88Mikhail88/My_Testnets](https://github.com/88Mikhail88/My_Testnets) - 
 - [AlexsJones/kubernetes-nifi-cluster](https://github.com/AlexsJones/kubernetes-nifi-cluster) - Apache Nifi cluster running in kubernetes
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [CosmWasm/advisories](https://github.com/CosmWasm/advisories) - To publicly communicate advisories about serious bugs in CosmWasm, wasmvm, and wasmd
 - [DP-3T/documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
 - [Dimokus88/Akash-Nodes-Lab](https://github.com/Dimokus88/Akash-Nodes-Lab) - Deploy nodes on Akash Network ! | Разворачивай ноды на Акаш!
@@ -3166,7 +3167,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [enricopolanski/functional-programming](https://github.com/enricopolanski/functional-programming) - Introduction to Functional Programming using TypeScript and fp-ts.
 - [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [etherspot/etherspot-sdk](https://github.com/etherspot/etherspot-sdk) - Etherspot - Account Abstraction SDK
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures 
 - [f5nodes/wiki](https://github.com/f5nodes/wiki) - from validators to validators with love.
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
@@ -3255,12 +3255,12 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jpoehnelt/semantic-release-replace-plugin](https://github.com/jpoehnelt/semantic-release-replace-plugin) - A semantic-release plugin for replacing text in files with the current release version.
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [kamilkisiela/graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [kitze/mobx-router](https://github.com/kitze/mobx-router) - A simple router for MobX + React apps
 - [koala819/StarterPack](https://github.com/koala819/StarterPack) - A comprehensive web development kit for swift site creation, featuring responsive design, contact form, NextUI components, and Google Analytics integration.
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [lavanet/lava-sdk-providers](https://github.com/lavanet/lava-sdk-providers) - Lava SDK providers
-- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [left-curve/left-curve](https://github.com/left-curve/left-curve) - The Left Curve Stack
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
@@ -3288,6 +3288,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [my-badges/my-badges](https://github.com/my-badges/my-badges) - Google's Moma Badges for GitHub
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
+- [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
 - [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4 / GPT-4o / GPT-o1. Port of OpenAI's tiktoken with additional features.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -3354,6 +3355,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ryardley/ts-bus](https://github.com/ryardley/ts-bus) - A lightweight JavaScript/TypeScript event bus to help manage your application architecture.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [safe-global/safe-wallet-monorepo](https://github.com/safe-global/safe-wallet-monorepo) - Safe{Wallet} – smart account wallet
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
 - [scrtlabs/dash.scrt.network](https://github.com/scrtlabs/dash.scrt.network) - Secret Dashboard is an entry point for new users into Secret Network.
 - [scrtlabs/secret-template](https://github.com/scrtlabs/secret-template) - Quickstart template to get started writing your own cosmwasm contracts
@@ -3463,6 +3465,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Zig
 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [lukewilliamboswell/roc-wasm4](https://github.com/lukewilliamboswell/roc-wasm4) - Build wasm4 games using Roc
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
@@ -3520,6 +3523,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ajvb/awesome-tor](https://github.com/ajvb/awesome-tor) - A list of awesome Tor related projects, articles, papers, etc
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+- [aldi/awesome-bulma](https://github.com/aldi/awesome-bulma) - 🎉 A curated list of awesome things related to Bulma CSS Framework
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [aliesbelik/awesome-gatling](https://github.com/aliesbelik/awesome-gatling) - A collection of resources covering different aspects of Gatling load testing tool usage.
 - [amimart/amimart](https://github.com/amimart/amimart) - :octocat: About me
