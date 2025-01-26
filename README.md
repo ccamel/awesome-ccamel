@@ -201,6 +201,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 - [blockpane/tenderduty](https://github.com/blockpane/tenderduty) - Notification tool for Cosmos/Tendermint validators, sends alerts when missing pre-commits
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures 
+- [hazae41/labase](https://github.com/hazae41/labase) - The Tailwind framework for monochrome apps
 - [jeblister/kube](https://github.com/jeblister/kube) - Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
@@ -3185,7 +3186,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gcanti/fp-ts-codegen](https://github.com/gcanti/fp-ts-codegen) - TypeScript code generation from a haskell-like syntax for ADT. Playground:
 - [gcanti/monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle
 - [gcanti/retry-ts](https://github.com/gcanti/retry-ts) - Retry combinators for monadic actions that may fail
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes [In Beta]
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No-Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes.
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -3307,6 +3308,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/subql](https://github.com/okp4/subql) - 
 - [okp4/subql-okp4](https://github.com/okp4/subql-okp4) - 🔄 Subquery repository for OKP4 protocol
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
 - [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
@@ -3510,6 +3512,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SmartStake/relayers](https://github.com/SmartStake/relayers) - A repository of all interchain relayers (IBC). Data stored in this repository is used to build https://relayers.smartstake.io
 - [SonnevilleDamien/SonnevilleDamien](https://github.com/SonnevilleDamien/SonnevilleDamien) - My profile. 
 - [Symbitic/awesome-babylonjs](https://github.com/Symbitic/awesome-babylonjs) - A curated list of awesome things related to Babylon.js
+- [Synternet/awesome-synternet](https://github.com/Synternet/awesome-synternet) - Welcome to the Syntropy Data Layer Awesome List – your ultimate gateway to a universe of cutting-edge technologies and resources! 🚀
 - [Thyb0rg/Cosmos-Validators-League](https://github.com/Thyb0rg/Cosmos-Validators-League) - 
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [TurpinT/TurpinT](https://github.com/TurpinT/TurpinT) - 
@@ -3548,6 +3551,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bipinvaylu/awesome-kotlin-multiplatform](https://github.com/bipinvaylu/awesome-kotlin-multiplatform) - A curated list of Kotlin Multiplatform libraries & resources.
 - [blyxyas/no-rust-policy-change](https://github.com/blyxyas/no-rust-policy-change) - Say NO to the Rust Trademark policy change!
 - [bot-anik/bot-anik](https://github.com/bot-anik/bot-anik) - :octocat: About me
+- [botcrypto-io/awesome-crypto-trading-bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots) - Awesome crypto trading bots
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [bryanhunter/cqrs-with-erlang](https://github.com/bryanhunter/cqrs-with-erlang) - Resources for the CQRS with Erlang talk
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
