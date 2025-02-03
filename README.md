@@ -446,7 +446,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmosContracts/juno](https://github.com/CosmosContracts/juno) - Open Source Platform for Interoperable Smart Contracts
 - [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [DecentralCardGame/Cardchain](https://github.com/DecentralCardGame/Cardchain) - Cosmos based blockchain for handling card ownership, card creation and voting on cards.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open source, reactive, scalable, highly-available, unified cache optimized for modern hardware.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory database with query subscriptions.
 - [Djarvur/go-err113](https://github.com/Djarvur/go-err113) -   Golang linter to check the errors handling expressions
 - [DoWithLogic/golang-clean-architecture](https://github.com/DoWithLogic/golang-clean-architecture) - implementation clean architecture with SOLID Principles
 - [EmpowerPlastic/cosmos-chain-reporting](https://github.com/EmpowerPlastic/cosmos-chain-reporting) - 
@@ -690,6 +690,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [decred/dcrwallet](https://github.com/decred/dcrwallet) - A secure Decred wallet daemon written in Go (golang).
 - [dedalqq/omg.jsonparser](https://github.com/dedalqq/omg.jsonparser) - The simple JSON parser with validation by condition
+- [deiu/rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF (includes parser/serializer for Turtle and JSON-LD)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [descope/go-sdk](https://github.com/descope/go-sdk) - Go library used to integrate with Descope
 - [desmos-labs/desmos](https://github.com/desmos-labs/desmos) - Improving the well-being of users on social networks through the blockchain technology.
@@ -719,7 +720,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [e154/smart-home](https://github.com/e154/smart-home) - software package for automation
 - [eBay/akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers
-- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
+- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [elliotchance/pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 - [elys-network/elys](https://github.com/elys-network/elys) - Elys Network is the first All-In-One DEFI platform to join the Atom Economic Zone, backed by Informal Systems and the Cosmos Hub. Built on Cosmos and CometBFT, leveraging the latest blockchain technologies to provide a premier user experience. Visit our official site at https://elys.network
 - [emicklei/mora](https://github.com/emicklei/mora) - MongoDB generic REST server in Go
@@ -790,7 +791,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [go-oauth2/redis](https://github.com/go-oauth2/redis) - Redis storage for OAuth 2.0
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
+- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
 - [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -883,7 +884,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [huandu/xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go.
 - [hukkin/cosmosvanity](https://github.com/hukkin/cosmosvanity) - CLI tool for generating Cosmos vanity addresses
 - [hyperboloide/lk](https://github.com/hyperboloide/lk) - Simple licensing library for golang.
-- [hyperweb-io/starship](https://github.com/hyperweb-io/starship) - A k8s based unified development environment for Cosmos Ecosystem (and beyond)
+- [hyperweb-io/starship](https://github.com/hyperweb-io/starship) - Unified Testing and Development for the Interchain (and beyond)
 - [ichiban/prolog](https://github.com/ichiban/prolog) - The only reasonable scripting engine for Go.
 - [iden3/go-iden3-crypto](https://github.com/iden3/go-iden3-crypto) - Go implementation of some cryptographic primitives (that fit inside the SNARK field) and compatible with circomlib
 - [ignite-hq/installer](https://github.com/ignite-hq/installer) - One-liner for installing binaries from Github releases
@@ -1078,8 +1079,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
 - [oliamb/cutter](https://github.com/oliamb/cutter) - Crop images in Golang
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
+- [onomyprotocol/onomy](https://github.com/onomyprotocol/onomy) - Onomy Network Provider Chain Software
 - [onomyprotocol/reserve](https://github.com/onomyprotocol/reserve) - Onomy Reserve Stablecoin Issuance Protocol
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
@@ -1116,6 +1118,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [phcollignon/Go-Template](https://github.com/phcollignon/Go-Template) - Go Template examples and code generator
 - [pierods/pluginator](https://github.com/pierods/pluginator) - pluginator is a plugin manager for scripted go, with plugins on filesystem or consul
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+- [piprate/json-gold](https://github.com/piprate/json-gold) - A JSON-LD processor for Go
 - [pjebs/optimus-go](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
@@ -1180,7 +1183,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [rumlang/rum](https://github.com/rumlang/rum) - Functional language, easily extensible and possible (Lua features with LISP dialect and functional) to be embarked on software Go!
-- [runabol/tork](https://github.com/runabol/tork) - Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers, eliminating the need for specialized code.
+- [runabol/tork](https://github.com/runabol/tork) - Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.
 - [ryboe/q](https://github.com/ryboe/q) - Quick and dirty debugging output for tired Go programmers
 - [rylans/getlang](https://github.com/rylans/getlang) - Natural language detection package in pure Go
 - [sagikazarmark/locafero](https://github.com/sagikazarmark/locafero) - Finder library for Afero
@@ -2069,6 +2072,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
+- [axone-protocol/slips](https://github.com/axone-protocol/slips) - SatoshiLabs Improvement Proposals
 - [axone-protocol/status](https://github.com/axone-protocol/status) - 🟩 Uptime and historical data of the Axone services
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -2219,6 +2223,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 - [derrian-distro/LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts) - A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy
 - [diego-vicente/som-tsp](https://github.com/diego-vicente/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
@@ -2326,6 +2331,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tartiflette/tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project.
 - [tehmaze/diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters and fancy colors
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
+- [vhanla/deepseek-r1-unthink](https://github.com/vhanla/deepseek-r1-unthink) - Ollama's API proxy server that captures /api/chat responses and removes &lt;think&gt;&lt;/think&gt; streamed content
 - [victordibia/data2vis](https://github.com/victordibia/data2vis) - Data2Vis: Automatic Generation of Data Visualizations Using Sequence to Sequence Recurrent Neural Networks
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [vmware-archive/functions](https://github.com/vmware-archive/functions) - Functions Repository for Kubeless
@@ -2421,6 +2427,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DioxusLabs/example-projects](https://github.com/DioxusLabs/example-projects) - Featured Dioxus projects on how to build clean user interfaces in Rust
 - [Electron-Labs/cw-eth2-lc](https://github.com/Electron-Labs/cw-eth2-lc) - Eth2 light client implementation as a cosmwasm smart contract
 - [EntropicLabs/cw-rewards](https://github.com/EntropicLabs/cw-rewards) - 
+- [EspressoSystems/hyperplonk](https://github.com/EspressoSystems/hyperplonk) - 
 - [FindoraNetwork/tendermint-rs](https://github.com/FindoraNetwork/tendermint-rs) - 
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -2434,13 +2441,14 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 - [LeTurt333/LeBundler](https://github.com/LeTurt333/LeBundler) - CosmWasm query bundler + Example usage of Raw Queries
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
+- [MANTRA-Chain/mantra-contracts-claimdrop](https://github.com/MANTRA-Chain/mantra-contracts-claimdrop) - Contract to foster widespread token distribution, incentivize participation, and drive network adoption. 
 - [MegaRockLabs/cw-extra](https://github.com/MegaRockLabs/cw-extra) - Experimental CosmWasm based contracts, packages and protocols
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) -  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
 - [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal
 - [ProvableHQ/leo](https://github.com/ProvableHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
-- [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
+- [ProvableHQ/snarkVM](https://github.com/ProvableHQ/snarkVM) - A zkVM for Decentralized Private Computations (DPC)
 - [Rafaeltheraven/extendable-data](https://github.com/Rafaeltheraven/extendable-data) - A set of rust macros that allows you to specify data that can be "extended" or inherited from. 
 - [Ralith/hecs](https://github.com/Ralith/hecs) - A handy ECS
 - [RedStoneCoin/redstone-rs](https://github.com/RedStoneCoin/redstone-rs) - Redstone Project is a p2p custom blockchain implementation, comprised of a network of interconnected sub-chains for better speed and scalability.
@@ -2449,6 +2457,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [RyanWelly/lisp-in-rs-macros](https://github.com/RyanWelly/lisp-in-rs-macros) - A Lisp interpreter written fully in rust macros. 
 - [Snedashkovsky/cw-on-chain-registry](https://github.com/Snedashkovsky/cw-on-chain-registry) - on-chain registry contract
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
+- [Synternet/pubsub-rust](https://github.com/Synternet/pubsub-rust) - 
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
@@ -2494,6 +2503,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [bitswired/rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
+- [block/goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick!
 - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
@@ -2520,7 +2530,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template for setting up new Rust 2021 Edition projects with cargo-make/rustfmt/rust-clippy.
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [cosmos/ibc-proto-rs](https://github.com/cosmos/ibc-proto-rs) - Rust Protobuf definitions and gRPC clients for interacting with Cosmos SDK, IBC and Interchain Security
-- [cosmos/ibc-rs](https://github.com/cosmos/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
 - [cosmos/ics23](https://github.com/cosmos/ics23) - Building generic merkle proof format for IBC
 - [cosmos/solidity-ibc-eureka](https://github.com/cosmos/solidity-ibc-eureka) - This is a work-in-progress solidity implementation of IBC Eureka.
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
@@ -2576,6 +2585,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [informalsystems/basecoin-rs](https://github.com/informalsystems/basecoin-rs) - An example ABCI application making use of tendermint-rs and ibc-rs
 - [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk) - 
+- [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
 - [informalsystems/sovereign-ibc](https://github.com/informalsystems/sovereign-ibc) - Implementation of IBC modules by `ibc-rs` that can run with Sovereign SDK rollups
 - [informalsystems/tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [intendednull/yewdux](https://github.com/intendednull/yewdux) - Ergonomic state management for Yew applications
@@ -2604,6 +2614,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [many-things/cw-hyperlane](https://github.com/many-things/cw-hyperlane) - 
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
 - [mars-protocol/contracts](https://github.com/mars-protocol/contracts) - Smart contracts for Mars Protocol
+- [mars-protocol/cw-asset](https://github.com/mars-protocol/cw-asset) - A unified representation of various types of Cosmos fungible assets, and helper functions for interacting with them
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
@@ -2969,6 +2980,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [Azoyalabs/pocket-druid](https://github.com/Azoyalabs/pocket-druid) - A knowledge explorer for the OKP4 blockchain - Dagda challenge
 - [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder) - Issue-Crawler for GitHub based on Sveltekit
+- [albttx/horcrux-mnemonic](https://github.com/albttx/horcrux-mnemonic) - Split your mnemonic in multiple shares like an Hocrux
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [sveltejs/community-legacy](https://github.com/sveltejs/community-legacy) -  Svelte community meetups, packages, resources, recipes, showcase websites, and more
 
@@ -3025,6 +3037,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [EmpowerPlastic/empowerchain](https://github.com/EmpowerPlastic/empowerchain) - Empowerchain is a global platform to revolutionize waste management and recycling, creating a transparent and efficient circular economy.
 - [ErikssonJoakim/hexagonal-user-application](https://github.com/ErikssonJoakim/hexagonal-user-application) - 
+- [Fairblock/fairyring](https://github.com/Fairblock/fairyring) - 
 - [Finschia/finschia-js](https://github.com/Finschia/finschia-js) - finschia-js is javascript sdk for Finschia
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
@@ -3139,7 +3152,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/snap](https://github.com/cosmos/snap) - Packages That Add Cosmos Support Into Metamask. The Cosmos is Expanding!
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter https://jupyter-ui-storybook.datalayer.tech
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
@@ -3186,7 +3199,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gcanti/fp-ts-codegen](https://github.com/gcanti/fp-ts-codegen) - TypeScript code generation from a haskell-like syntax for ADT. Playground:
 - [gcanti/monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle
 - [gcanti/retry-ts](https://github.com/gcanti/retry-ts) - Retry combinators for monadic actions that may fail
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No-Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes.
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-source no-code web data extraction platform. Turn websites to APIs & spreadsheets with no-code robots in minutes.
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -3232,7 +3245,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hyperweb-io/cosmwasm-as](https://github.com/hyperweb-io/cosmwasm-as) - CosmWasm contracts in AssemblyScript (experiment) 
 - [hyperweb-io/create-cosmos-app](https://github.com/hyperweb-io/create-cosmos-app) - Set up a modern Cosmos app by running one command ⚛️
 - [hyperweb-io/cw-simulate-ui](https://github.com/hyperweb-io/cw-simulate-ui) - 
-- [hyperweb-io/telescope](https://github.com/hyperweb-io/telescope) - A TypeScript Transpiler for Cosmos Protobufs ⚛️
+- [hyperweb-io/interchain-ui](https://github.com/hyperweb-io/interchain-ui) - Cross-framework UI Kit for Crafting dApps in the Interchain
+- [hyperweb-io/telescope](https://github.com/hyperweb-io/telescope) - Your InterchainJS Companion: A TypeScript Transpiler for Cosmos SDK Protobufs ⚛️
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!
 - [ignite/web](https://github.com/ignite/web) - Monorepo for packages used by Ignite CLI, including a template, component library and a set of Vuex modules
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
@@ -3267,6 +3281,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 - [loiclaudet/block-explorer](https://github.com/loiclaudet/block-explorer) - Ethereum blocks, transactions and accounts explorer
 - [loiclaudet/threejs-journey](https://github.com/loiclaudet/threejs-journey) - 
+- [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 - [madeintracker/okp4_web_interface](https://github.com/madeintracker/okp4_web_interface) - Invoke the power of Dagda
 - [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage
@@ -3557,7 +3572,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [ccamel/amimart](https://github.com/ccamel/amimart) - :octocat: About me
-- [ccamel/awesome-ccamel](https://github.com/ccamel/awesome-ccamel) - A collection of awesome things for me, myself and I.
+- [ccamel/awesome-ccamel](https://github.com/ccamel/awesome-ccamel) - 🔖 A collection of awesome things for me, myself and I.
 - [ccamel/ccamel](https://github.com/ccamel/ccamel) - My :octocat: profile 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [cmbesnier/portofolio](https://github.com/cmbesnier/portofolio) - 
@@ -3721,7 +3736,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [subquery/documentation](https://github.com/subquery/documentation) - 
 - [swyxio/devtools-angels](https://github.com/swyxio/devtools-angels) - active angel investors in developer tools!
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [teambit/reusable-components-styleguide](https://github.com/teambit/reusable-components-styleguide) - Tips and tricks for making components shareable across different projects (framework agnostic)
