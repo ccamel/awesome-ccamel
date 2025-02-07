@@ -228,7 +228,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [FundingCircle/jackdaw](https://github.com/FundingCircle/jackdaw) - A Clojure library for the Apache Kafka distributed streaming platform.
 - [francoisroyer/clj-cqrs](https://github.com/francoisroyer/clj-cqrs) - A reference implementation of CQRS and Event Sourcing in Clojure.
 - [francoisroyer/clj-xai](https://github.com/francoisroyer/clj-xai) - A repository of AI/ML algorithms in Clojure, with a focus on interpretability and explainability.
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [raystubbs/zero](https://github.com/raystubbs/zero) - Build Web UIs in ClojureScript
 - [stain/owl2jsonld](https://github.com/stain/owl2jsonld) - Convert RDFS/OWL ontology to JSON-LD context
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -696,7 +696,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [desmos-labs/desmos](https://github.com/desmos-labs/desmos) - Improving the well-being of users on social networks through the blockchain technology.
 - [dghubble/gologin](https://github.com/dghubble/gologin) - Go login handlers for authentication providers (OAuth1, OAuth2)
 - [dghubble/sling](https://github.com/dghubble/sling) - A Go HTTP client library for creating and sending API requests
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [discord/zorkian-kafka](https://github.com/discord/zorkian-kafka) - Go driver for Kafka
 - [divan/depscheck](https://github.com/divan/depscheck) - Dependency checker for Golang (Go) packages. Prints stats and suggests to remove small LeftPad-like imports if any.
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
@@ -884,6 +883,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [huandu/xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go.
 - [hukkin/cosmosvanity](https://github.com/hukkin/cosmosvanity) - CLI tool for generating Cosmos vanity addresses
 - [hyperboloide/lk](https://github.com/hyperboloide/lk) - Simple licensing library for golang.
+- [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
 - [hyperweb-io/starship](https://github.com/hyperweb-io/starship) - Unified Testing and Development for the Interchain (and beyond)
 - [ichiban/prolog](https://github.com/ichiban/prolog) - The only reasonable scripting engine for Go.
 - [iden3/go-iden3-crypto](https://github.com/iden3/go-iden3-crypto) - Go implementation of some cryptographic primitives (that fit inside the SNARK field) and compatible with circomlib
@@ -1851,7 +1851,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - :star2:  Create IoT applications. Wire devices together regardless their brand or technology.
 - [neutron-org/neutron-docs](https://github.com/neutron-org/neutron-docs) - 
 - [nfrasser/linkifyjs](https://github.com/nfrasser/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
-- [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - **Notice: Uploads Decommissioned - Existing Data is Safe!**      NFT.Storage Classic (classic.nft.storage) offers free decentralized storage and bandwidth for NFTs on IPFS and Filecoin.  June 2024 Update: No new uploads, but all existing data is safe. Try the new NFT.Storage, which preserves data in long term Filecoin storage. Go to app.nft.storage
+- [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - **Notice: Uploads Decommissioned - Existing Data is Safe!**     
 - [nftstorage/nftup](https://github.com/nftstorage/nftup) - **Notice: Uploads Decommissioned - Existing Data is Safe!**      NFTUp enables you to upload NFT data to IPFS & Filecoin with no-code using a downloadable web app.  June 2024 Update: No new uploads, but all existing data is safe. Try the new NFT.Storage, which preserves data in long term Filecoin storage for a small fee. Go to app.nft.storage
 - [normen/homebridge-landroid](https://github.com/normen/homebridge-landroid) - Homebridge plugin to control Worx Landroid robo mowers through the Worx Cloud
 - [notional-labs/multisig-ui](https://github.com/notional-labs/multisig-ui) - UI for multisignature tool
@@ -2047,7 +2047,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## MDX
 
-- [CosmWasm/docs](https://github.com/CosmWasm/docs) - 
+- [CosmWasm/docs](https://github.com/CosmWasm/docs) - Documentation for the CosmWasm smart contracting framework
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [dydxprotocol/v4-documentation](https://github.com/dydxprotocol/v4-documentation) - 
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
@@ -2221,6 +2221,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -3166,7 +3167,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
@@ -3339,7 +3340,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [penumbra-zone/dex-explorer](https://github.com/penumbra-zone/dex-explorer) - Web app for visualization the state of the Penumbra DEX
 - [penumbra-zone/web](https://github.com/penumbra-zone/web) - 
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
-- [pixi-viewport/pixi-viewport](https://github.com/pixi-viewport/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
+- [pixijs-userland/pixi-viewport](https://github.com/pixijs-userland/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -3726,6 +3727,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [skip-mev/skip-go-registry](https://github.com/skip-mev/skip-go-registry) - 
 - [slashdotdash/awesome-elixir-cqrs](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) resources.
 - [sn127/tackler](https://github.com/sn127/tackler) - Moved to: https://gitlab.com/e257/accounting/tackler 
 - [snipsco/awesome-snips](https://github.com/snipsco/awesome-snips) - A curated list of awesome Snips projects
