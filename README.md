@@ -136,6 +136,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [timescale/pg_prometheus](https://github.com/timescale/pg_prometheus) - PostgreSQL extension for Prometheus data
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [trealla-prolog/trealla](https://github.com/trealla-prolog/trealla) - A compact, efficient Prolog interpreter written in plain-old C.
+- [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 
 ## C#
@@ -154,7 +155,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [28msec/gridfs-fuse](https://github.com/28msec/gridfs-fuse) - 
 - [4Lang/4](https://github.com/4Lang/4) - A completely emoji-based programming language
-- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [KDE/kwallet](https://github.com/KDE/kwallet) - KWallet: Credential Storage
 - [PabloMK7/citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
@@ -186,7 +186,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
+- [wled-dev/WLED](https://github.com/wled-dev/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [xaos-project/XaoS](https://github.com/xaos-project/XaoS) - Real-time interactive fractal zoomer
 - [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
@@ -1840,7 +1840,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ltearno/pom-explorer](https://github.com/ltearno/pom-explorer) - A tool to aid managing lots of maven projects
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) - LaTeX block support for EditorJS
@@ -2572,7 +2571,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gnprice/toml-cli](https://github.com/gnprice/toml-cli) - 
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
-- [google/zerocopy](https://github.com/google/zerocopy) - 
+- [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write unsafe so you don’t have to.
 - [grantshandy/fdg](https://github.com/grantshandy/fdg) - A Force Directed Graph Drawing Library
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [hackbg/fadroma](https://github.com/hackbg/fadroma) - Magical flying bulldozer for the Cosmosverse. Contains clients for Tendermint-based chains in various degrees of completeness, and a mini build system for deploying systems of multiple interdependent smart contracts from source.
@@ -2748,6 +2747,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [swc-project/plugins](https://github.com/swc-project/plugins) - Plugins for swc, written in rust
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [sycamore-rs/sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly
 - [taiki-e/cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage (-C instrument-coverage).
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
@@ -2956,6 +2956,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [void-linux/void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
 - [xu-cheng/latex-docker](https://github.com/xu-cheng/latex-docker) - :whale: Docker Image of TeXLive
+- [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action) - :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
 - [yvoronoy/shell-boilerplate](https://github.com/yvoronoy/shell-boilerplate) - Bash Boilerplate
 
 ## Shen
@@ -3286,12 +3287,14 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 - [madeintracker/okp4_web_interface](https://github.com/madeintracker/okp4_web_interface) - Invoke the power of Dagda
 - [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [mars-protocol/networks](https://github.com/mars-protocol/networks) - Genesis data for Mars Hub mainnet and testnets
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [mfinelli/setup-imagemagick](https://github.com/mfinelli/setup-imagemagick) - github action to install imagemagick
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -3623,6 +3626,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/network](https://github.com/hazae41/network) - An anonymous PoW token to monetize the web
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [himynameisdave/git-label-faces](https://github.com/himynameisdave/git-label-faces) - :stuck_out_tongue_winking_eye: Label your issues with face labels!
+- [hspazio/vim-advanced-cheatsheet](https://github.com/hspazio/vim-advanced-cheatsheet) - Personally curated list of advanced Vim tricks
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with GitHub's integration for Slack
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
