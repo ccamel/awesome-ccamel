@@ -440,6 +440,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ChihuahuaChain/chihuahua](https://github.com/ChihuahuaChain/chihuahua) - chihuahuad binary repository
 - [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 - [ComposableFi/picasso](https://github.com/ComposableFi/picasso) - Cross-chain IBC Hub
+- [Confidenceman02/scion-tools](https://github.com/Confidenceman02/scion-tools) - Elm inspired functional programming in Go
 - [CosmWasm/cosmwasm-go](https://github.com/CosmWasm/cosmwasm-go) - Enabling CosmWasm smart contracts in Go using TinyGo
 - [CosmWasm/wasmd](https://github.com/CosmWasm/wasmd) - Basic cosmos-sdk app with web assembly smart contracts
 - [CosmWasm/wasmvm](https://github.com/CosmWasm/wasmvm) - Go bindings to the CosmWasm VM
@@ -683,7 +684,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Developer-friendly minimalism Cron/Airflow alternative, but with much more capabilities. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
 - [dataux/dataux](https://github.com/dataux/dataux) - Federated mysql compatible proxy to elasticsearch, mongo, cassandra, big-table, google datastore
@@ -2235,6 +2236,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [etalab-ia/franceservices-backend](https://github.com/etalab-ia/franceservices-backend) - Backend ressources for Albert. Albert is a conversational agent that uses official French data sources to answer administrative agents questions.
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -2503,7 +2505,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [bitswired/rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
-- [block/goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick!
 - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
@@ -3170,6 +3172,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
+- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
@@ -3384,7 +3387,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [segmentio/analytics-react-native](https://github.com/segmentio/analytics-react-native) - The hassle-free way to add analytics to your React-Native app.
 - [sei-protocol/sei-js](https://github.com/sei-protocol/sei-js) - SeiJS is a monorepo that contains multiple NPM libraries for writing applications that interact with the Sei network.
 - [semantic-release-plus/semantic-release-plus](https://github.com/semantic-release-plus/semantic-release-plus) - semantic-release-plus monorepo to build and publish all semantic-release related repositories
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [shakyShane/actor-js](https://github.com/shakyShane/actor-js) - Exploring the potential benefits of implementing APIs in the style of the Actor Model, even in single-threaded programming environments such as Javascript.
 - [shivanshubisht/chatgpt](https://github.com/shivanshubisht/chatgpt) - ChatGPT built with Next.js 13 app directory and Tailwind CSS using OpenAI's API sdk v4 and GPT-4 and SSR streaming for data with edge functions.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -3455,6 +3458,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Vim Script
 
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
+- [andreasvc/vim-256noir](https://github.com/andreasvc/vim-256noir) - A dark 256-color colorscheme for vim
 - [codeindulgence/vim-tig](https://github.com/codeindulgence/vim-tig) - Do a tig in your vim
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
@@ -3533,7 +3537,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Symbitic/awesome-babylonjs](https://github.com/Symbitic/awesome-babylonjs) - A curated list of awesome things related to Babylon.js
 - [Synternet/awesome-synternet](https://github.com/Synternet/awesome-synternet) - Welcome to the Syntropy Data Layer Awesome List – your ultimate gateway to a universe of cutting-edge technologies and resources! 🚀
 - [Thyb0rg/Cosmos-Validators-League](https://github.com/Thyb0rg/Cosmos-Validators-League) - 
-- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
+- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [TurpinT/TurpinT](https://github.com/TurpinT/TurpinT) - 
 - [Voronenko/awesome-plantuml](https://github.com/Voronenko/awesome-plantuml) - 
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
