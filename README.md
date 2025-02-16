@@ -350,6 +350,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mdgriffith/elm-codegen](https://github.com/mdgriffith/elm-codegen) - 
 - [mdgriffith/elm-gql-github-example](https://github.com/mdgriffith/elm-gql-github-example) - An example repo for elm-gql that uses the Github GraphQL API
 - [mdgriffith/elm-ui](https://github.com/mdgriffith/elm-ui) - What if you never had to write CSS again?
+- [morrna/fractal-play](https://github.com/morrna/fractal-play) - 
 - [mpizenberg/elm-pointer-events](https://github.com/mpizenberg/elm-pointer-events) - Mouse, Touch, Pointer, Wheel and Drag events in elm
 - [myrho/elm-round](https://github.com/myrho/elm-round) - Round floats (mathematically/commercially) to a given number of decimal places
 - [noahzgordon/elm-color-extra](https://github.com/noahzgordon/elm-color-extra) - :art: Additional color handling for Elm
@@ -481,7 +482,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [NathanBaulch/protoc-gen-cobra](https://github.com/NathanBaulch/protoc-gen-cobra) - Cobra command line tool generator for gRPC clients
-- [NibiruChain/nibiru](https://github.com/NibiruChain/nibiru) - Nibiru Chain: The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more.
+- [NibiruChain/nibiru](https://github.com/NibiruChain/nibiru) - The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more.
 - [NicoNex/echotron](https://github.com/NicoNex/echotron) - An elegant and concurrent library for the Telegram bot API in Go.
 - [ODIN-PROTOCOL/odin-core](https://github.com/ODIN-PROTOCOL/odin-core) - Odin blockchain reference implementation
 - [OmniFlix/omniflixhub](https://github.com/OmniFlix/omniflixhub) - OmniFlix Hub is the root chain of the OmniFlix Network. Sovereign chains and DAOs build on top of or connect to the OmniFlix Hub to manage their web2 & web3 media operations to mint, manage, distribute & monetize NFTs enabled with community interactions.
@@ -556,7 +557,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
 - [ashanbrown/forbidigo](https://github.com/ashanbrown/forbidigo) - Go linter for forbidding identifiers
 - [asobti/kube-monkey](https://github.com/asobti/kube-monkey) - An implementation of Netflix's Chaos Monkey for Kubernetes clusters
-- [astriaorg/astria-cli-go](https://github.com/astriaorg/astria-cli-go) - Astria Go CLI
+- [astriaorg/astria-cli-go](https://github.com/astriaorg/astria-cli-go) - The Astria Go CLI: A lightweight tool for developing rollups built on top of the Astria Sequencer Network
 - [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [atomone-hub/atomone](https://github.com/atomone-hub/atomone) - AtomOne chain software
 - [aura-nw/aura](https://github.com/aura-nw/aura) - Aura Network Daemon
@@ -2302,7 +2303,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [openwallet-foundation/acapy](https://github.com/openwallet-foundation/acapy) - ACA-Py is a foundation for building decentralized identity applications and services running in non-mobile environments.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [patdaburu/cookiecutter-click](https://github.com/patdaburu/cookiecutter-click) - A Python cookiecutter template to help you start a Click project.
-- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: This project now includes Plotly Express!
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [powerfulseal/powerfulseal](https://github.com/powerfulseal/powerfulseal) - A powerful testing tool for Kubernetes clusters.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -2530,6 +2531,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Example IBC enabled contracts along with full stack integration tests
 - [confio/poe-contracts](https://github.com/confio/poe-contracts) - Tgrade PoE smart contracts
 - [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template for setting up new Rust 2021 Edition projects with cargo-make/rustfmt/rust-clippy.
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [cosmos/ibc-proto-rs](https://github.com/cosmos/ibc-proto-rs) - Rust Protobuf definitions and gRPC clients for interacting with Cosmos SDK, IBC and Interchain Security
 - [cosmos/ics23](https://github.com/cosmos/ics23) - Building generic merkle proof format for IBC
@@ -2622,6 +2624,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
+- [mjovanc/numru](https://github.com/mjovanc/numru) - A high-performance numeric computation library.
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) - Command line tool to show clear git graphs arranged for your branching model
 - [mortendahl/rust-paillier](https://github.com/mortendahl/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
 - [move-language/move](https://github.com/move-language/move) - 
@@ -2996,6 +2999,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## TeX
 
+- [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP) - The Dao of Functional Programming
 - [cosmos/cosmos](https://github.com/cosmos/cosmos) - Internet of Blockchains ⚛  
 - [cosmos/ibc](https://github.com/cosmos/ibc) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
@@ -3091,7 +3095,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
-- [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). Unopinionated and heavily updated fork of react-signature-pad
+- [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). 100% test coverage, types, examples, & more. Unopinionated and heavily updated fork of react-signature-pad
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months. 
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
@@ -3281,7 +3285,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [lavanet/lava-sdk-providers](https://github.com/lavanet/lava-sdk-providers) - Lava SDK providers
-- [left-curve/left-curve](https://github.com/left-curve/left-curve) - The Left Curve Stack
+- [left-curve/left-curve](https://github.com/left-curve/left-curve) - Left curve monorepo
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 - [loiclaudet/block-explorer](https://github.com/loiclaudet/block-explorer) - Ethereum blocks, transactions and accounts explorer
@@ -3318,7 +3322,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [notional-labs/dig](https://github.com/notional-labs/dig) - Dig: Governance
-- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
+- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Dataverse Portal for the OKP4 network. 
@@ -3387,7 +3391,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [segmentio/analytics-react-native](https://github.com/segmentio/analytics-react-native) - The hassle-free way to add analytics to your React-Native app.
 - [sei-protocol/sei-js](https://github.com/sei-protocol/sei-js) - SeiJS is a monorepo that contains multiple NPM libraries for writing applications that interact with the Sei network.
 - [semantic-release-plus/semantic-release-plus](https://github.com/semantic-release-plus/semantic-release-plus) - semantic-release-plus monorepo to build and publish all semantic-release related repositories
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [shakyShane/actor-js](https://github.com/shakyShane/actor-js) - Exploring the potential benefits of implementing APIs in the style of the Actor Model, even in single-threaded programming environments such as Javascript.
 - [shivanshubisht/chatgpt](https://github.com/shivanshubisht/chatgpt) - ChatGPT built with Next.js 13 app directory and Tailwind CSS using OpenAI's API sdk v4 and GPT-4 and SSR streaming for data with edge functions.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
