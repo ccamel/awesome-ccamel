@@ -600,7 +600,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
 - [bytesingsong/0chain](https://github.com/bytesingsong/0chain) - Züs (formerly 0Chain) is a decentralized blockchain-based storage platform with no vendor lock-in and a 3-layer security - fragmentation, proxy re-encryption, and immutability. It has close to wire speed data performance, free reads, and is ideal for apps as well as backups, AI data, disaster recovery.
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util
+- [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [cadence-workflow/cadence-go-client](https://github.com/cadence-workflow/cadence-go-client) - Framework for authoring workflows and activities running on top of the Cadence orchestration engine.
@@ -2513,6 +2513,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bocarw121/tailwind-yew-cli](https://github.com/bocarw121/tailwind-yew-cli) - Sets up the latest tailwindcss version in your existing yew project.
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [bounce-rs/bounce](https://github.com/bounce-rs/bounce) - The uncomplicated Yew State management library
+- [bram209/leptosfmt](https://github.com/bram209/leptosfmt) - A formatter for the leptos view! macro
 - [burnt-labs/contracts](https://github.com/burnt-labs/contracts) - 
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
@@ -3019,6 +3020,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AbstractSDK/templates](https://github.com/AbstractSDK/templates) - Templates for building Abstract modules.
 - [AdrienLemaire/okp4_web_interface](https://github.com/AdrienLemaire/okp4_web_interface) - 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [Arindam200/logo-ai](https://github.com/Arindam200/logo-ai) - AI Powered Logo Generator | Powered by Nebius AI
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [AudiusProject/hedgehog](https://github.com/AudiusProject/hedgehog) - 🦔 Build DApps like Apps -- A Metamask alternative that empowers you to build good UX
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) - GitHub Action for installing Kubectl
