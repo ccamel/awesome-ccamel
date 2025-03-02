@@ -165,6 +165,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [duckie/mongo_smasher](https://github.com/duckie/mongo_smasher) - A small tool to generate randomized datasets
+- [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -683,7 +684,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [customerio/esdb](https://github.com/customerio/esdb) - Event-stream flat file database - Immutable storage for timestamped event streams
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -1437,7 +1438,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [scala/make-release-notes](https://github.com/scala/make-release-notes) - The project that generates Scala release notes.
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy
 - [starbelly/erlang-companies](https://github.com/starbelly/erlang-companies) - A list of companies currently using Erlang in production.
-- [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - Introduction to modern Prolog
+- [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - The Power of Prolog: Introduction to modern Prolog
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [vasturiano/3d-force-graph-vr](https://github.com/vasturiano/3d-force-graph-vr) - 3D force-directed graph component in VR
@@ -1870,7 +1871,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
-- [pixijs/pixi-react](https://github.com/pixijs/pixi-react) - Write PIXI apps using React declarative style
 - [please-openit/token-leak-extension](https://github.com/please-openit/token-leak-extension) - Chrome extension to analyse oauth2 authentication process
 - [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
@@ -1980,7 +1980,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - LLM-based ontological extraction tools, including SPIRES
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 
 ## Kotlin
 
@@ -2159,6 +2159,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations From Text. 
 - [Keeper-Security/Commander](https://github.com/Keeper-Security/Commander) - Keeper Commander is a python-based CLI and SDK interface to the Keeper Security platform. Provides administrative controls, reporting, import/export and vault management.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
@@ -2219,6 +2220,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [cosmos/chain-registry](https://github.com/cosmos/chain-registry) - 
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+- [cucumber/tag-expressions](https://github.com/cucumber/tag-expressions) - Cucumber tag expression parser
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -2339,7 +2341,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [vmware-archive/functions](https://github.com/vmware-archive/functions) - Functions Repository for Kubeless
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
-- [wileewang/TransPixar](https://github.com/wileewang/TransPixar) - 
+- [wileewang/TransPixar](https://github.com/wileewang/TransPixar) - CVPR2025
 - [wintoncode/winton-kafka-streams](https://github.com/wintoncode/winton-kafka-streams) - A Python implementation of Apache Kafka Streams
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount) - Beancount tips and tricks
@@ -2514,6 +2516,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [bounce-rs/bounce](https://github.com/bounce-rs/bounce) - The uncomplicated Yew State management library
 - [bram209/leptosfmt](https://github.com/bram209/leptosfmt) - A formatter for the leptos view! macro
+- [brndnmtthws/genserver](https://github.com/brndnmtthws/genserver) - Elixir inspired async actor library for Rust
 - [burnt-labs/contracts](https://github.com/burnt-labs/contracts) - 
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
@@ -2626,7 +2629,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
-- [mjovanc/numru](https://github.com/mjovanc/numru) - A high-performance numeric computation library.
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) - Command line tool to show clear git graphs arranged for your branching model
 - [mortendahl/rust-paillier](https://github.com/mortendahl/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
 - [move-language/move](https://github.com/move-language/move) - 
@@ -2767,6 +2769,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tlsnotary/tlsn](https://github.com/tlsnotary/tlsn) - Rust implementation of the TLSNotary protocol
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
@@ -3154,7 +3157,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [cheqd/validator-status](https://github.com/cheqd/validator-status) - Network-wide validator status alerting API for cheqd mainnet. Designed to work for any Cosmos SDK network
-- [citizenweb3/validatorinfo](https://github.com/citizenweb3/validatorinfo) - Multichain, POW and POS blockchain explorer, dashboard and aggregator. Providing analytics and real-time metrics on networks, validators, mining pools and tokens.
+- [citizenweb3/validatorinfo](https://github.com/citizenweb3/validatorinfo) - Web3 Explorer. Blockchain Validator, Mining Pool and Network Interactive Dashboard, Real-Time Token Analytics and Metrics
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus.
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [condorheroblog/html-export-pdf-cli](https://github.com/condorheroblog/html-export-pdf-cli) - Render HTML to PDF(with outline) using Puppeteer.
@@ -3248,7 +3251,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/result](https://github.com/hazae41/result) - Rust-like Result for TypeScript
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [heroui-inc/next-app-template](https://github.com/heroui-inc/next-app-template) - A Next.js 14 with app directory template  pre-configured with HeroUI (v2) and Tailwind CSS.
-- [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
+- [heyverse/hey](https://github.com/heyverse/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [hongaar/semantic-release-yarn](https://github.com/hongaar/semantic-release-yarn) - 🧶 A semantic-release plugin to publish npm packages with Yarn. Comes with built-in support for monorepos.
@@ -3361,6 +3364,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [penumbra-zone/web](https://github.com/penumbra-zone/web) - 
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [pixijs-userland/pixi-viewport](https://github.com/pixijs-userland/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
+- [pixijs/pixi-react](https://github.com/pixijs/pixi-react) - Write PIXI apps using React declarative style
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
