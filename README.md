@@ -3072,7 +3072,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NodesGuru/casper-world](https://github.com/NodesGuru/casper-world) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [NodesGuru/casper-world-backend](https://github.com/NodesGuru/casper-world-backend) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
-- [Protofy-xyz/Protofy](https://github.com/Protofy-xyz/Protofy) - The fastest way to create and scale agent networks 🚀🚀
+- [Protofy-xyz/Protofy](https://github.com/Protofy-xyz/Protofy) - AI Driven Machine Automation Platform 🚀🚀
 - [QuantGeekDev/lmaolang](https://github.com/QuantGeekDev/lmaolang) - 👏🏼A👏🏼brand👏🏼new👏🏼way👏🏼to👏🏼write👏🏼HTML👏🏼
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) - The game-changing wallet for Ethereum and all EVM chains
