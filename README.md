@@ -1097,7 +1097,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [opus-domini/fast-shot](https://github.com/opus-domini/fast-shot) - Hit your API targets with rapid-fire precision using Go's fastest and simple HTTP Client.
 - [oraichain/orai](https://github.com/oraichain/orai) - Monolithic repository of everything Oraichain
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
-- [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.
 - [ory/keto](https://github.com/ory/keto) - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
 - [osmosis-labs/assetlists](https://github.com/osmosis-labs/assetlists) - 
 - [osmosis-labs/fee-abstraction](https://github.com/osmosis-labs/fee-abstraction) - Enable users on any Cosmos chain with IBC connections to pay fee using IBC tokens.
@@ -1428,7 +1428,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo: 
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
-- [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [node101-io/klein](https://github.com/node101-io/klein) - Klein
 - [okp4/w3id.org](https://github.com/okp4/w3id.org) - Website source code for w3id.org.
 - [parakeet-nest/parakeet](https://github.com/parakeet-nest/parakeet) - 🦜🪺 Parakeet is a GoLang library, made to simplify the development of small generative AI applications with Ollama 🦙.
@@ -1849,6 +1848,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) - LaTeX block support for EditorJS
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - Template for PixiJS using Typescript and Webpack https://stackblitz.com/github/miltoncandelero/pixi-hotwire 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - :star2:  Create IoT applications. Wire devices together regardless their brand or technology.
@@ -1974,6 +1974,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [CedrickArmel/kaggle-amex-default-prediction](https://github.com/CedrickArmel/kaggle-amex-default-prediction) - 
+- [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
 - [Snedashkovsky/on-chain-registry](https://github.com/Snedashkovsky/on-chain-registry) - metadata oracle: asset list of all cosmos-sdk chains
 - [dannywillems/zkacademy](https://github.com/dannywillems/zkacademy) - A place to learn ZK with Jupyter
 - [darkhemic/stable-diffusion-cpuonly](https://github.com/darkhemic/stable-diffusion-cpuonly) - a fork that installs runs on pytorch cpu-only
@@ -2170,7 +2171,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - 
 - [Mekire/pygame-samples](https://github.com/Mekire/pygame-samples) - Basic pygame samples illustrating various concepts.
-- [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
 - [OnToology/oops-report](https://github.com/OnToology/oops-report) - Generate oops report as a beautiful HTML
@@ -2615,6 +2615,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [liamzebedee/tendermint-rs](https://github.com/liamzebedee/tendermint-rs) - A minimal reimplementation of Tendermint in Rust
+- [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
 - [lita-xyz/rust-examples](https://github.com/lita-xyz/rust-examples) - 
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [lunatic-solutions/lunatic-rs](https://github.com/lunatic-solutions/lunatic-rs) - This library contains higher level Rust wrappers for low level Lunatic syscalls.
@@ -2643,6 +2644,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [neutron-org/neutron-sdk](https://github.com/neutron-org/neutron-sdk) - 
 - [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
 - [nginx/ngx-rust](https://github.com/nginx/ngx-rust) - Rust binding for NGINX
+- [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [nomic-io/nomic](https://github.com/nomic-io/nomic) - Decentralized Custody Engine for Bitcoin
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust. 
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
@@ -2751,6 +2753,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [snarkify/sirius](https://github.com/snarkify/sirius) - A Plonkish folding framework for Incrementally Verifiable Computation (IVC).
+- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time | Proof of SQL
 - [spruceid/didkit](https://github.com/spruceid/didkit) - A cross-platform toolkit for decentralized identity.
 - [spruceid/kepler](https://github.com/spruceid/kepler) - Decentralized storage based on permissioned data overlays called orbits.
@@ -2782,6 +2785,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [udoprog/musli](https://github.com/udoprog/musli) - Müsli is a flexible and efficient serialization framework
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+- [use-ink/ink](https://github.com/use-ink/ink) - Polkadot's ink! to write smart contracts.
+- [use-ink/ink-examples](https://github.com/use-ink/ink-examples) - A set of examples for ink! smart contract language. Happy hacking!
 - [utkarshkukreti/draco](https://github.com/utkarshkukreti/draco) - Draco is a Rust library for building client side web applications with Web Assembly.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -3135,7 +3140,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axone-protocol/keplr-chain-registry](https://github.com/axone-protocol/keplr-chain-registry) - Protocol for Integrating Non-Native Chains to Keplr
 - [axone-protocol/website](https://github.com/axone-protocol/website) - 🌐 Axone web site 
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
+- [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [bcherny/undux](https://github.com/bcherny/undux) - ⚡️ Dead simple state for React. Now with Hooks support.
 - [berendsliedrecht/did-ts](https://github.com/berendsliedrecht/did-ts) - 
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -3568,6 +3573,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time 
 - [abinoda/awesome-baas](https://github.com/abinoda/awesome-baas) - Awesome list of Backend as a Service ("BaaS") services
 - [adairrr/awesome-archway](https://github.com/adairrr/awesome-archway) - A curated list of awesome Archway Network resources.
+- [agnt-gg/slop](https://github.com/agnt-gg/slop) - The place for SLOP
 - [ajvb/awesome-tor](https://github.com/ajvb/awesome-tor) - A list of awesome Tor related projects, articles, papers, etc
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
