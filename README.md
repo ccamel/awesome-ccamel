@@ -2276,6 +2276,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jlonge4/local_llama](https://github.com/jlonge4/local_llama) - This repo is to showcase how you can run a model locally and offline, free of OpenAI dependencies.
 - [jluccisano/raspberry-scripts](https://github.com/jluccisano/raspberry-scripts) - Some python scripts to play with Raspberry PI
 - [jluccisano/rpi-sprinkler-control](https://github.com/jluccisano/rpi-sprinkler-control) - 
+- [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [jpigree/k8s-101-presentation](https://github.com/jpigree/k8s-101-presentation) - My Kubernetes presentation for Tahiti DevOps 
 - [jupyter-naas/naas](https://github.com/jupyter-naas/naas) - Low-code Python library to safely use notebooks in production: schedule workflows, generate assets, trigger webhooks, send notifications, build pipelines, manage secrets (Cloud-only)
