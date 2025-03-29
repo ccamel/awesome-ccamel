@@ -288,6 +288,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dillonkearns/elm-pages](https://github.com/dillonkearns/elm-pages) - Hybrid Elm framework with full-stack and static routes.
 - [dillonkearns/elm-ts-json](https://github.com/dillonkearns/elm-ts-json) - 
 - [dwayne/elm-conduit](https://github.com/dwayne/elm-conduit) - Conduit, an Elm SPA for RealWorld's Medium.com clone.
+- [dwayne/elm-trs2](https://github.com/dwayne/elm-trs2) - The Reasoned Schemer (2nd Edition) in Elm.
 - [ellie-app/ellie](https://github.com/ellie-app/ellie) - The Elm Live Editor
 - [elm-athlete/athlete](https://github.com/elm-athlete/athlete) - 💪 type safe elm-html-css-builder aka athlete
 - [elm-community/basics-extra](https://github.com/elm-community/basics-extra) - Additional basic functions for Elm.
@@ -510,7 +511,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [Tochemey/ego](https://github.com/Tochemey/ego) - [Go]Minimal event sourcing/CQRS library using protocol buffers for commands, events and states.
 - [Tochemey/goakt](https://github.com/Tochemey/goakt) - [Go] Fast and Distributed Actor framework using protocol buffers as message for Golang
-- [UnUniFi/chain](https://github.com/UnUniFi/chain) - 
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [Xe/olin](https://github.com/Xe/olin) - Webassembly + Event Sourcing
 - [Yamashou/gqlgenc](https://github.com/Yamashou/gqlgenc) - This is Go library for building GraphQL client with gqlgen
@@ -777,6 +777,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [githubexporter/github-exporter](https://github.com/githubexporter/github-exporter) - :octocat: Prometheus exporter for github metrics
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [gjongenelen/eh-mongodb](https://github.com/gjongenelen/eh-mongodb) - Improved MongoDB driver for Event Horizon
+- [gluon-zone/chain](https://github.com/gluon-zone/chain) - 
 - [gnolang/gno](https://github.com/gnolang/gno) - Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [go-chat-bot/bot](https://github.com/go-chat-bot/bot) - IRC, Slack, Telegram and RocketChat bot written in go
@@ -1242,7 +1243,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [solarlabsteam/missed-blocks-checker](https://github.com/solarlabsteam/missed-blocks-checker) - Tool to monitor missed blocks for Cosmos-chain validators
 - [solarlabsteam/tendermint-exporter](https://github.com/solarlabsteam/tendermint-exporter) - Scrape some fancy stuff from a Tendermint node
 - [somatic-labs/meteorite](https://github.com/somatic-labs/meteorite) - Load testing tool for cosmos blockchains
-- [sonr-io/sonr](https://github.com/sonr-io/sonr) - A Decentralized Identity Network built for the InterChain 🌐
+- [sonr-io/snrd](https://github.com/sonr-io/snrd) - A Decentralized Identity Network built for the InterChain 🌐
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
@@ -1698,12 +1699,13 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [Mayank1791989/gql-language-server](https://github.com/Mayank1791989/gql-language-server) - 
 - [MtPelerin/bridge-v2](https://github.com/MtPelerin/bridge-v2) - New version of Mt Pelerin DeFi middleware
+- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Neuro-Symbolic AI with Knowledge Graph | "True Reasoning" through data and logic 🌿🌱🐋🌍
 - [ReachFive/fake-smtp-server](https://github.com/ReachFive/fake-smtp-server) - Fake SMTP Server for email testing
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [SchumacherFM/blog-cs](https://github.com/SchumacherFM/blog-cs) - My blog at https://cyrillschumacher.com - You may submit pull requests :-)
 - [Schweigi/assembler-simulator](https://github.com/Schweigi/assembler-simulator) - Simple 8-bit Assembler Simulator with Angular.js
 - [Ubleam/eslint-config-ubleam](https://github.com/Ubleam/eslint-config-ubleam) - 📜 ESLint shareable config used @Ubleam
-- [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and compress) GLSL shader files :electric_plug:
+- [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and minify) GLSL/WGSL shader files :electric_plug:
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
 - [Wervice/Codelink](https://github.com/Wervice/Codelink) - [DEVELOPMENT IS PAUSED] | Codelink is a family of open source applications for programming and collaboration.
@@ -1991,6 +1993,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Snedashkovsky/on-chain-registry](https://github.com/Snedashkovsky/on-chain-registry) - metadata oracle: asset list of all cosmos-sdk chains
 - [dannywillems/zkacademy](https://github.com/dannywillems/zkacademy) - A place to learn ZK with Jupyter
 - [darkhemic/stable-diffusion-cpuonly](https://github.com/darkhemic/stable-diffusion-cpuonly) - a fork that installs runs on pytorch cpu-only
+- [faisalsayed10/no-ghibli](https://github.com/faisalsayed10/no-ghibli) - No Ghibli on Twitter
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - LLM-based ontological extraction tools, including SPIRES
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
@@ -2815,6 +2818,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [valida-xyz/valida](https://github.com/valida-xyz/valida) - A STARK-based VM focused on code reuse, performance, and modularity
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vivax3794/cargo_bounds](https://github.com/vivax3794/cargo_bounds) - Checking that your dependency requirements are sound
 - [voidpumpkin/fallout-ui](https://github.com/voidpumpkin/fallout-ui) - 
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
@@ -2970,7 +2974,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lensesio/lenses-docker](https://github.com/lensesio/lenses-docker) - ❤for real-time DataOps - where the application and data fabric blends - Lenses
 - [linagora/linshare](https://github.com/linagora/linshare) - LinShare - Secure File Sharing
 - [lindt/docker_plantuml](https://github.com/lindt/docker_plantuml) - docker container for plantuml
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 - [mrjohannchang/git-fast-forward-all-branches](https://github.com/mrjohannchang/git-fast-forward-all-branches) - 
 - [noble-assets/networks](https://github.com/noble-assets/networks) - 
 - [nodejumper-org/cosmos-scripts](https://github.com/nodejumper-org/cosmos-scripts) - Useful utils for cosmos chains
@@ -3247,7 +3251,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gcanti/fp-ts-codegen](https://github.com/gcanti/fp-ts-codegen) - TypeScript code generation from a haskell-like syntax for ADT. Playground:
 - [gcanti/monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle
 - [gcanti/retry-ts](https://github.com/gcanti/retry-ts) - Retry combinators for monadic actions that may fail
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-source no-code web data extraction platform. Turn websites to APIs & spreadsheets with no-code robots in minutes.
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
