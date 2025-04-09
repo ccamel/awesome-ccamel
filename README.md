@@ -634,6 +634,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
+- [chatmcp/mcprouter](https://github.com/chatmcp/mcprouter) - api router for MCP Servers
 - [cheqd/cheqd-node](https://github.com/cheqd/cheqd-node) - Ledger/node software for cheqd's decentralised identity network. Built using the Cosmos SDK blockchain framework.
 - [chop-dbhi/prometheus-sql](https://github.com/chop-dbhi/prometheus-sql) - Service that exposes Prometheus metrics for a SQL result set.
 - [christian-korneck/docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - "Docker Push Readme" - a Docker CLI plugin to update container repo docs
@@ -780,6 +781,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [githubexporter/github-exporter](https://github.com/githubexporter/github-exporter) - :octocat: Prometheus exporter for github metrics
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [gjongenelen/eh-mongodb](https://github.com/gjongenelen/eh-mongodb) - Improved MongoDB driver for Event Horizon
@@ -1077,6 +1079,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nuts-foundation/go-did](https://github.com/nuts-foundation/go-did) - Golang library for parsing Decentralized Identifiers (DIDs)
 - [nymtech/nyxd](https://github.com/nymtech/nyxd) - Fork of https://github.com/CosmWasm/wasmd for Nyx validators
 - [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
+- [o1egl/paseto](https://github.com/o1egl/paseto) - Platform-Agnostic Security Tokens implementation in GO (Golang)
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [ojo-network/contracts](https://github.com/ojo-network/contracts) - 
 - [ojo-network/ojo](https://github.com/ojo-network/ojo) - 
@@ -1178,6 +1181,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [redpanda-data/kminion](https://github.com/redpanda-data/kminion) - KMinion is a feature-rich Prometheus exporter for Apache Kafka written in Go. It is lightweight and highly configurable so that it will meet your requirements.
 - [regen-network/regen-ledger](https://github.com/regen-network/regen-ledger) - :seedling: Blockchain for planetary regeneration
 - [reiver/go-rfc2396](https://github.com/reiver/go-rfc2396) - Package rfc2396 is an implementation of (parts of) IETF RFC-2396 (Uniform Resource Identifiers (URI): Generic Syntax), for the Go programming language.
+- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
@@ -2822,6 +2826,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
+- [trueagi-io/hyperon-experimental](https://github.com/trueagi-io/hyperon-experimental) - MeTTa programming language implementation
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [turbofish-org/orga](https://github.com/turbofish-org/orga) - Deterministic state machine engine written in Rust
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -3221,7 +3226,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
-- [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter https://jupyter-ui-storybook.datalayer.tech
+- [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - 🪐 ⚛️ React.js components 💯% compatible with 🪐 Jupyter https://jupyter-ui-storybook.datalayer.tech
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [dbcls/grasp](https://github.com/dbcls/grasp) - Grasp: A bridge between GraphQL and SPARQL
 - [deanrad/omnibus-rxjs](https://github.com/deanrad/omnibus-rxjs) - An 8Kb Event Bus made with RxJS. Like Redux Middleware, without Redux
@@ -3271,7 +3276,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gcanti/fp-ts-codegen](https://github.com/gcanti/fp-ts-codegen) - TypeScript code generation from a haskell-like syntax for ADT. Playground:
 - [gcanti/monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle
 - [gcanti/retry-ts](https://github.com/gcanti/retry-ts) - Retry combinators for monadic actions that may fail
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -3375,6 +3380,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [mobxjs/mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - Lightweight React bindings for MobX based on React 16.8 and Hooks
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [moonbeam-foundation/moonbeam](https://github.com/moonbeam-foundation/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [mtwn105/GitHubWrapped](https://github.com/mtwn105/GitHubWrapped) - GitHub Wrapped - Your Year in Code
