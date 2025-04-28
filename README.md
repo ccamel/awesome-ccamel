@@ -498,7 +498,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Orchestra-Labs/symphony](https://github.com/Orchestra-Labs/symphony) - Truly decentralized RWAs
 - [PeggyJV/sommelier](https://github.com/PeggyJV/sommelier) - Sommelier Chain
 - [Pisush/chatGPT-plugin-template](https://github.com/Pisush/chatGPT-plugin-template) - For Gophers
-- [Praqma/helmsman](https://github.com/Praqma/helmsman) - Helm Charts as Code
 - [QuokkaStake/cosmos-proposals-checker](https://github.com/QuokkaStake/cosmos-proposals-checker) - A tool to notify you if you miss a proposal vote on any cosmos-sdk chain
 - [QuokkaStake/cosmos-validators-exporter](https://github.com/QuokkaStake/cosmos-validators-exporter) - A Prometheus exporter to fetch data about your validators in Cosmos-based blockchains.
 - [QuokkaStake/tmtop](https://github.com/QuokkaStake/tmtop) - A top-like chain consensus and chain info visualizer for all Tendermint chains.
@@ -1048,6 +1047,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mitchellh/go-homedir](https://github.com/mitchellh/go-homedir) - Go library for detecting and expanding the user's home directory without cgo.
 - [mitchellh/ioprogress](https://github.com/mitchellh/ioprogress) - Go (golang) package for progress bars around io.Reader/Writers.
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
+- [mkubaczyk/helmsman](https://github.com/mkubaczyk/helmsman) - Helm Charts as Code
 - [mmalcek/bafi](https://github.com/mmalcek/bafi) - Universal JSON, BSON, YAML, CSV, XML, mt940 converter with templates
 - [mndrix/golog](https://github.com/mndrix/golog) - Prolog interpreter in Go
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
@@ -1852,6 +1852,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [hhru/react-d3-chart-graphs](https://github.com/hhru/react-d3-chart-graphs) - 
 - [hoodrunio/cosmos-governance](https://github.com/hoodrunio/cosmos-governance) - Governance proposals notification/alert bot for Cosmos-based chains
+- [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [inblocks/precedence](https://github.com/inblocks/precedence) - precedence brings secure blockchain-powered traceability features to your already existing legacy information system
 - [iot-schema-collab/iotschema](https://github.com/iot-schema-collab/iotschema) - 
@@ -2350,6 +2351,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali
+- [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [mikethebeer/graphql-crate](https://github.com/mikethebeer/graphql-crate) - Graphql Demo using Crate
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -2410,7 +2412,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [vmware-archive/functions](https://github.com/vmware-archive/functions) - Functions Repository for Kubeless
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
-- [wileewang/TransPixar](https://github.com/wileewang/TransPixar) - CVPR2025
+- [wileewang/TransPixeler](https://github.com/wileewang/TransPixeler) - CVPR2025
 - [wintoncode/winton-kafka-streams](https://github.com/wintoncode/winton-kafka-streams) - A Python implementation of Apache Kafka Streams
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount) - Beancount tips and tricks
@@ -2452,8 +2454,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fxn/i-told-you-it-was-private](https://github.com/fxn/i-told-you-it-was-private) - 
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 The neobank built for nonprofits.
 - [isalevine/event-sourcing-user-app](https://github.com/isalevine/event-sourcing-user-app) - dev.to demo code for Event Sourcing system built around a User model
+- [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [mojombo/bert](https://github.com/mojombo/bert) - BERT (Binary ERlang Term) serialization library for Ruby.
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [ruby-rdf/rdf-turtle](https://github.com/ruby-rdf/rdf-turtle) - Turtle reader/writer for Ruby
@@ -2629,7 +2632,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [ericseppanen/cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - An easy to configure wrapper for Rust's clippy
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [fanzeyi/cargo-play](https://github.com/fanzeyi/cargo-play) - A local Rust playground
@@ -3267,7 +3270,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
