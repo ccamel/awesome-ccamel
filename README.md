@@ -1198,6 +1198,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [regen-network/regen-ledger](https://github.com/regen-network/regen-ledger) - :seedling: Blockchain for planetary regeneration
 - [reiver/go-rfc2396](https://github.com/reiver/go-rfc2396) - Package rfc2396 is an implementation of (parts of) IETF RFC-2396 (Uniform Resource Identifiers (URI): Generic Syntax), for the Go programming language.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [risor-io/risor](https://github.com/risor-io/risor) - Fast and flexible scripting for Go developers and DevOps.
@@ -2293,7 +2294,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [brouberol/marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr: 
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
 - [cadmiumkitty/rdfpandas](https://github.com/cadmiumkitty/rdfpandas) - RdfPandas is a module providing RDF support for Pandas
 - [cbirajdar/properties-to-yaml-converter](https://github.com/cbirajdar/properties-to-yaml-converter) - Python utility to convert key=value based properties/ini config files into YAML format
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
@@ -3059,6 +3060,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lindt/docker_plantuml](https://github.com/lindt/docker_plantuml) - docker container for plantuml
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 - [mrjohannchang/git-fast-forward-all-branches](https://github.com/mrjohannchang/git-fast-forward-all-branches) - 
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [noble-assets/networks](https://github.com/noble-assets/networks) - 
 - [nodejumper-org/cosmos-scripts](https://github.com/nodejumper-org/cosmos-scripts) - Useful utils for cosmos chains
 - [notional-labs/cosmosia](https://github.com/notional-labs/cosmosia) - Cosmos Infrastructure Automation
@@ -3170,7 +3172,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ErikssonJoakim/hexagonal-user-application](https://github.com/ErikssonJoakim/hexagonal-user-application) - 
 - [Fairblock/fairyring](https://github.com/Fairblock/fairyring) - 
 - [Finschia/finschia-js](https://github.com/Finschia/finschia-js) - finschia-js is javascript sdk for Finschia
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [JackalLabs/jackal-mcp](https://github.com/JackalLabs/jackal-mcp) - Jackal's native Agentic AI built with Anthropic MCP 
@@ -3273,7 +3275,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [chainapsis/keplr-chain-registry](https://github.com/chainapsis/keplr-chain-registry) - Protocol for Integrating Non-Native Chains to Keplr
 - [chainapsis/keplr-example](https://github.com/chainapsis/keplr-example) - 
 - [chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet) - The most powerful wallet for the Cosmos ecosystem and the Interchain
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [cheqd/validator-status](https://github.com/cheqd/validator-status) - Network-wide validator status alerting API for cheqd mainnet. Designed to work for any Cosmos SDK network
 - [citizenweb3/validatorinfo](https://github.com/citizenweb3/validatorinfo) - Web3 Blockchain Explorer. Validator, Mining Pool, Token and Network Real-time Metrics. Interactive Onchain Dashboard
@@ -3470,7 +3472,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/subql](https://github.com/okp4/subql) - 
 - [okp4/subql-okp4](https://github.com/okp4/subql-okp4) - 🔄 Subquery repository for OKP4 protocol
 - [okp4/ui](https://github.com/okp4/ui) - 🎨 Implementation of OKP4 UI components in React, TypeScript, and SASS.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
 - [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -3767,6 +3769,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ethanfrey/ethanfrey](https://github.com/ethanfrey/ethanfrey) - 
 - [faddat/loki](https://github.com/faddat/loki) - Information, reviews, and recipes for Loki, the drink
 - [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
+- [fenio/k3s-synology](https://github.com/fenio/k3s-synology) - k3s (lightweight kubernetes) on Synology DS216+
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries](https://github.com/gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries) - Extensive List of CSS Frameworks and UI/Components Libraries.
 - [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
