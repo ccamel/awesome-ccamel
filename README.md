@@ -521,6 +521,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [Tochemey/ego](https://github.com/Tochemey/ego) - [Go]Minimal event sourcing/CQRS library using protocol buffers for commands, events and states.
 - [Tochemey/goakt](https://github.com/Tochemey/goakt) - [Go] Distributed Actor framework using protocol buffers as message for Golang
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [Xe/olin](https://github.com/Xe/olin) - Webassembly + Event Sourcing
 - [Yamashou/gqlgenc](https://github.com/Yamashou/gqlgenc) - This is Go library for building GraphQL client with gqlgen
@@ -1567,6 +1568,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd) - Tiny, easily embeddable HTTP server in Java.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [OPSILab/Idra](https://github.com/OPSILab/Idra) - Idra - Open Data Federation Platform 
+- [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 - [Pragmatists/eventsourcing-java-example](https://github.com/Pragmatists/eventsourcing-java-example) - A simplified (in memory) example of Event Sourcing implementation for banking domain. 
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -2434,6 +2436,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [run-llama/llamabot](https://github.com/run-llama/llamabot) - 
+- [satomic/copilot-usage-advanced-dashboard](https://github.com/satomic/copilot-usage-advanced-dashboard) - 
 - [saubury/kafka-serialization](https://github.com/saubury/kafka-serialization) - Experiments and demonstrations of AVRO, Protobuf serialisation
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [seanluong/cookiecutter-python-cli](https://github.com/seanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
@@ -2787,6 +2790,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/template-rust](https://github.com/okp4/template-rust) - 🖨 Template for Rust applications & smart contracts @okp4.
 - [omallassi/adrust](https://github.com/omallassi/adrust) - ADRust: a tool in Rust to manage (Architecture) Decision Records
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [oraichain/cw-bitcoin](https://github.com/oraichain/cw-bitcoin) - Bitcoin trustless bridge implemented in CosmWasm contract facilitating taproot bitcoin script
 - [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
@@ -3052,6 +3056,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [appieasahbie/okp4](https://github.com/appieasahbie/okp4) - 
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories
 - [brson/rust-anthology](https://github.com/brson/rust-anthology) - Learn Rust from the best
+- [buanet/docker.watchdog](https://github.com/buanet/docker.watchdog) - A simple watchdog container to automatically restart unhealthy containers.
 - [clemensgg/dydx-networks](https://github.com/clemensgg/dydx-networks) - 
 - [coinhall/yacar](https://github.com/coinhall/yacar) - Yet Another Cosmos Asset Registry
 - [creyD/prettier_action](https://github.com/creyD/prettier_action) - GitHub action for running prettier on your projects pull requests
@@ -3203,6 +3208,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [Mastermindzh/react-cookie-consent](https://github.com/Mastermindzh/react-cookie-consent) - A small, simple and customizable cookie consent bar for use in React applications.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/metamask-sdk](https://github.com/MetaMask/metamask-sdk) - The simplest yet most secure way to connect your blockchain-based applications to millions of MetaMask Wallet users.
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
 - [MyDidCom/mydid-auth](https://github.com/MyDidCom/mydid-auth) - 
@@ -3497,7 +3503,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
 - [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [opsmanager1/Axone](https://github.com/opsmanager1/Axone) - 
