@@ -103,7 +103,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## C
 
 - [Blockstream/Jade](https://github.com/Blockstream/Jade) - Jade hardware wallet
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
 - [SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel) - SWI-Prolog Main development repository
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
@@ -1474,6 +1474,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dwyl/learn-elm](https://github.com/dwyl/learn-elm) - :rainbow: discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 - [eclipse-tractusx/sldt-semantic-models](https://github.com/eclipse-tractusx/sldt-semantic-models) - sldt-semantic-models
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [james-fry/home-assistant-mdi](https://github.com/james-fry/home-assistant-mdi) - Index of Material Design Icons for Home Assistant
@@ -1854,7 +1855,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [evanw/polywasm](https://github.com/evanw/polywasm) - A JavaScript polyfill for WebAssembly
 - [evoluteur/meet-the-fans](https://github.com/evoluteur/meet-the-fans) - Query and visualize the network graph of your GitHub repositories, followers, stargazers, and forks (using GraphQL and D3).
 - [exogen/graphql-markdown](https://github.com/exogen/graphql-markdown) - The easiest way to document your GraphQL schema.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
@@ -1924,6 +1924,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) - LaTeX block support for EditorJS
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - Template for PixiJS using Typescript and Webpack https://stackblitz.com/github/miltoncandelero/pixi-hotwire 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - :star2:  Create IoT applications. Wire devices together regardless their brand or technology.
@@ -2409,7 +2410,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [mormahr/pdf-service](https://github.com/mormahr/pdf-service) - A dockerized HTTP service, that generates PDF files from HTML using Weasyprint.
 - [multiformats/multicodec](https://github.com/multiformats/multicodec) - Compact self-describing codecs. Save space by using predefined multicodec tables.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
@@ -3374,6 +3374,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fathyb/tolosa](https://github.com/fathyb/tolosa) - 🚀✍️ An ambitious, ultra-fast, functional and declarative web framework (WIP)
 - [feedbackone/elmstronaut](https://github.com/feedbackone/elmstronaut) - Render Elm modules as Astro components
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots
 - [foo-software/lighthouse-check-action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running @GoogleChromeLabs Lighthouse audits with all the bells and whistles 🔔 Multiple audits, Slack notifications, and more!
 - [forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos) - 
@@ -3386,7 +3387,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gcanti/fp-ts-codegen](https://github.com/gcanti/fp-ts-codegen) - TypeScript code generation from a haskell-like syntax for ADT. Playground:
 - [gcanti/monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle
 - [gcanti/retry-ts](https://github.com/gcanti/retry-ts) - Retry combinators for monadic actions that may fail
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡️ Open Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes ⚡️
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -3646,6 +3647,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xiguaxigua/docusaurus-plugin-drawio](https://github.com/xiguaxigua/docusaurus-plugin-drawio) - drawio render for docusaurus
 - [yutailang0119/action-ktlint](https://github.com/yutailang0119/action-ktlint) - GitHub Action for ktlint
 - [yysun/apprun](https://github.com/yysun/apprun) - AppRun is a JavaScript library for developing high-performance and reliable web applications using the elm inspired architecture, events and components.
+- [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server.
 - [zenopie/totp-auth-contract](https://github.com/zenopie/totp-auth-contract) - 
 
 ## V
