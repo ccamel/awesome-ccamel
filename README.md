@@ -1299,7 +1299,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sourcenetwork/lens](https://github.com/sourcenetwork/lens) - LensVM is a WASM based data transformation engine utilizing bi-direction lenses
 - [soypat/gitaligned](https://github.com/soypat/gitaligned) - Find out where you fall on the Open-Source Character Alignment Chart
 - [soypat/rebed](https://github.com/soypat/rebed) - Recreates directory and files from embedded filesystem using Go 1.16 embed.FS type.
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+- [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go 
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [spf13/pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
@@ -1655,6 +1655,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [graphql-java/graphql-java-subscription-example](https://github.com/graphql-java/graphql-java-subscription-example) - An example of graphql-java and subscriptions
 - [graphql-java/java-dataloader](https://github.com/graphql-java/java-dataloader) - A Java 11 port of Facebook DataLoader
+- [green-code-initiative/creedengo-rules-specifications](https://github.com/green-code-initiative/creedengo-rules-specifications) - Reduce the environmental footprint of your software programs with SonarQube
 - [hpgrahsl/kafka-connect-mongodb](https://github.com/hpgrahsl/kafka-connect-mongodb) - **Unofficial / Community** Kafka Connect MongoDB Sink Connector -&gt; integrated 2019 into the official MongoDB Kafka Connector here: https://www.mongodb.com/kafka-connector
 - [hypergraphql/hypergraphql](https://github.com/hypergraphql/hypergraphql) - GraphQL interface for querying and serving linked data on the Web.
 - [ignatov/intellij-erlang](https://github.com/ignatov/intellij-erlang) - Erlang IDE
@@ -1758,7 +1759,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [Mayank1791989/gql-language-server](https://github.com/Mayank1791989/gql-language-server) - 
 - [MtPelerin/bridge-v2](https://github.com/MtPelerin/bridge-v2) - New version of Mt Pelerin DeFi middleware
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) -  Flexible, minimal, data-oriented ECS library for Typescript
 - [ReachFive/fake-smtp-server](https://github.com/ReachFive/fake-smtp-server) - Fake SMTP Server for email testing
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [SchumacherFM/blog-cs](https://github.com/SchumacherFM/blog-cs) - My blog at https://cyrillschumacher.com - You may submit pull requests :-)
@@ -1886,6 +1886,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [guigrpa/storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories
+- [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [hariroshan/parcel-transformer-elm-assets](https://github.com/hariroshan/parcel-transformer-elm-assets) - 
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
@@ -2047,7 +2048,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wikimedia/eventgate](https://github.com/wikimedia/eventgate) - Library and HTTP Service for validating JSONSchema events and producing them (to Kafka or elsewhere)
 - [wip/app](https://github.com/wip/app) - The WIP GitHub App
 - [yelouafi/petit-dom](https://github.com/yelouafi/petit-dom) - minimalist virtual dom library
-- [yisar/asta](https://github.com/yisar/asta) - Resumable SSR framework
 
 ## Jinja
 
@@ -2145,6 +2145,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## MDX
 
 - [CosmWasm/docs](https://github.com/CosmWasm/docs) - Documentation for the CosmWasm smart contracting framework
+- [Developer-DAO/academy-turbo](https://github.com/Developer-DAO/academy-turbo) - D_D Academy is an open-source education platform created by and for Developer DAO.
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [dydxprotocol/v4-documentation](https://github.com/dydxprotocol/v4-documentation) - 
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
@@ -2501,7 +2502,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Ruby
 
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
@@ -2510,6 +2510,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
 - [ansoni/fluent-plugin-json-schema-filter](https://github.com/ansoni/fluent-plugin-json-schema-filter) - Fluentd plugin to ensure that an inbound record validates to a well-defined schema
 - [axone-protocol/explore](https://github.com/axone-protocol/explore) - Community-curated topic and collection pages on GitHub
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [benjamin-thomas/hot_elm](https://github.com/benjamin-thomas/hot_elm) - Rails integration with Elm + Hotwire + Stimulus demo
 - [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
@@ -2666,6 +2667,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
+- [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [celestia-island/hikari](https://github.com/celestia-island/hikari) - The Frontend of Everything
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
@@ -2691,6 +2693,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 - [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [cybercongress/cw-cybergift](https://github.com/cybercongress/cw-cybergift) - Contracts for cyberGift execution
+- [dali-benothmen/cronflow](https://github.com/dali-benothmen/cronflow) - The fastest code-first workflow automation engine. TypeScript-native, AI-ready, 98% faster than n8n/Zapier. Built with Rust + Bun.
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [debris/tiny-keccak](https://github.com/debris/tiny-keccak) - An implementation of Keccak derived functions specified in FIPS-202, SP800-185 and KangarooTwelve
 - [defstream/kickable-rs](https://github.com/defstream/kickable-rs) - Can you kick it?
@@ -2824,7 +2827,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oraichain/cw-bitcoin](https://github.com/oraichain/cw-bitcoin) - Bitcoin trustless bridge implemented in CosmWasm contract facilitating taproot bitcoin script
 - [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
-- [orhun/tuitar](https://github.com/orhun/tuitar) - Learning how to play guitar with Ratatui and embedded Rust (ESP32)
+- [orhun/tuitar](https://github.com/orhun/tuitar) - Learning how to play guitar with Ratatui and embedded Rust
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [orpheuslummis/cosmwasm-babysteps](https://github.com/orpheuslummis/cosmwasm-babysteps) - 
 - [orpheuslummis/hackmos2023](https://github.com/orpheuslummis/hackmos2023) - 
@@ -2963,6 +2966,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
+- [yisar/pak](https://github.com/yisar/pak) - Tiny but beautiful JavaScript bundler
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [zwilias/elm-json](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
@@ -3252,6 +3256,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MetaMask/metamask-sdk](https://github.com/MetaMask/metamask-sdk) - The simplest yet most secure way to connect your blockchain-based applications to millions of MetaMask Wallet users.
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
 - [MyDidCom/mydid-auth](https://github.com/MyDidCom/mydid-auth) - 
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) -  Flexible, minimal, data-oriented ECS library for Typescript
 - [NodesGuru/casper-world](https://github.com/NodesGuru/casper-world) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [NodesGuru/casper-world-backend](https://github.com/NodesGuru/casper-world-backend) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Neuro-Symbolic AI with Knowledge Graph | "True Reasoning" through data and logic 🌿🌱🐋🌍
@@ -3358,7 +3363,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
-- [dali-benothmen/cronflow](https://github.com/dali-benothmen/cronflow) - The fastest code-first workflow automation engine. TypeScript-native, AI-ready, 98% faster than n8n/Zapier. Built with Rust + Bun.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter.
@@ -3375,6 +3379,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
@@ -3497,8 +3502,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kitze/mobx-router](https://github.com/kitze/mobx-router) - A simple router for MobX + React apps
 - [koala819/StarterPack](https://github.com/koala819/StarterPack) - A comprehensive web development kit for swift site creation, featuring responsive design, contact form, NextUI components, and Google Analytics integration.
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
-- [larnakid/block-explorer](https://github.com/larnakid/block-explorer) - Ethereum blocks, transactions and accounts explorer
-- [larnakid/threejs-journey](https://github.com/larnakid/threejs-journey) - 
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI
 - [lavanet/lava-sdk-providers](https://github.com/lavanet/lava-sdk-providers) - Lava SDK providers
@@ -3506,6 +3509,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [loiclaudet/block-explorer](https://github.com/loiclaudet/block-explorer) - Ethereum blocks, transactions and accounts explorer
+- [loiclaudet/threejs-journey](https://github.com/loiclaudet/threejs-journey) - 
 - [lostintangent/gistpad-mcp](https://github.com/lostintangent/gistpad-mcp) - 📓 An MCP server for managing your personal knowledge, daily notes, and re-usable prompts via GitHub Gists
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
@@ -3521,7 +3526,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
-- [metorial/mcp-containers](https://github.com/metorial/mcp-containers) - Containerized versions of hundreds of MCP servers 📡 🧠
+- [metorial/mcp-containers](https://github.com/metorial/mcp-containers) - Metorial MCP Containers - Containerized versions of hundreds of MCP servers 📡 🧠
 - [mfinelli/setup-imagemagick](https://github.com/mfinelli/setup-imagemagick) - github action to install imagemagick
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
