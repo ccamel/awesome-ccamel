@@ -1103,6 +1103,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [neutron-org/neutron](https://github.com/neutron-org/neutron) - The integrated blockchain purpose-built for finance
+- [nickname76/telegrambot](https://github.com/nickname76/telegrambot) - Telegram Bot API library in Go, but with more clean code
 - [nikolaydubina/go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) - 🔥 Fast, simple sklearn-like feature processing for Go
 - [nikolaydubina/jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) - 🏝 JSONL Graph Tools
 - [noble-assets/noble](https://github.com/noble-assets/noble) - 
@@ -1133,7 +1134,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
 - [oliamb/cutter](https://github.com/oliamb/cutter) - Crop images in Golang
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [olric-data/olric](https://github.com/olric-data/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
 - [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [onomyprotocol/onomy](https://github.com/onomyprotocol/onomy) - Onomy Network Provider Chain Software
@@ -1341,6 +1342,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [terpnetwork/terp-core](https://github.com/terpnetwork/terp-core) - The Official Repository For Terp-Network, A Decentralized Smart-Contract Platform For Terp Culture.
 - [terra-money/alliance](https://github.com/terra-money/alliance) - 🤝 Alliance chain with x/alliance module
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [textileio/go-did-resolver](https://github.com/textileio/go-did-resolver) - Universal did-resolver for Go environments
 - [tgres/tgres](https://github.com/tgres/tgres) - Time Series in Go and PostgreSQL
@@ -1601,7 +1603,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
 - [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
 - [apollographql/federation-jvm](https://github.com/apollographql/federation-jvm) - JVM support for Apollo Federation
 - [asc-lab/java-cqrs-intro](https://github.com/asc-lab/java-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach
@@ -2024,7 +2026,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tau-prolog/tau-prolog](https://github.com/tau-prolog/tau-prolog) - An open source Prolog interpreter in JavaScript
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks all of the hyperlinks in a markdown text to determine if they are alive or dead
 - [terra-money/classic-core](https://github.com/terra-money/classic-core) - GO implementation of the Terra Protocol 
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [tomayac/local-reverse-geocoder](https://github.com/tomayac/local-reverse-geocoder) - Local reverse geocoder for Node.js based on GeoNames data
 - [traveldevel/iot-hub-ingestion-rest](https://github.com/traveldevel/iot-hub-ingestion-rest) - Ingestion REST api that writes to a Kafka topic
 - [untu/comedy](https://github.com/untu/comedy) - Node.js actor framework.
@@ -2379,7 +2380,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - ECS pattern (Entity Component System) for creating games on python
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [jetporch/jetporch](https://github.com/jetporch/jetporch) - Read-only mirror: see https://www.jetporch.com/community/sourcehut
 - [jlonge4/local_llama](https://github.com/jlonge4/local_llama) - This repo is to showcase how you can run a model locally and offline, free of OpenAI dependencies.
@@ -3246,6 +3246,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [HyperbolicLabs/hyperbolic-mcp](https://github.com/HyperbolicLabs/hyperbolic-mcp) - MCP Server for Claude
 - [JackalLabs/jackal-mcp](https://github.com/JackalLabs/jackal-mcp) - Jackal's native Agentic AI built with Anthropic MCP 
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+- [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [KYVENetwork/docs](https://github.com/KYVENetwork/docs) - 
 - [KYVENetwork/kyvejs](https://github.com/KYVENetwork/kyvejs) - Tools for building applications on KYVE
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
@@ -3379,7 +3380,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
@@ -3479,6 +3480,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [improbable-eng/ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.
 - [incetarik/fp-ts-stream](https://github.com/incetarik/fp-ts-stream) - Providing Transducers/Streams based on fp-ts library.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [ingvaar/beauf-net-back](https://github.com/ingvaar/beauf-net-back) - A simple quote website backend built using NestJS
 - [ingvaar/beauf-net-front](https://github.com/ingvaar/beauf-net-front) - A simple quote website frontend built using React
@@ -3710,6 +3712,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [danilo-augusto/vim-afterglow](https://github.com/danilo-augusto/vim-afterglow) - Vim adaptation of the Afterglow colorscheme
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
+- [gregsexton/Atom](https://github.com/gregsexton/Atom) - Vim color scheme designed to be very readable in both light and dark environments.
 - [jdsimcoe/abstract.vim](https://github.com/jdsimcoe/abstract.vim) - A Vim color scheme based on https://www.abstractapp.com/
 - [liuchengxu/space-vim-dark](https://github.com/liuchengxu/space-vim-dark) - :purple_heart: A dark colorscheme for space-vim, see space-vim-theme for light background support!
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -3928,7 +3931,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lolottetheclash/lolottetheclash](https://github.com/lolottetheclash/lolottetheclash) - About me 
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 - [lukasmasuch/best-of-crypto](https://github.com/lukasmasuch/best-of-crypto) - 🏆 A ranked list of awesome open-source crypto projects. Updated weekly.
-- [lutzh/awesome-event-driven-architecture](https://github.com/lutzh/awesome-event-driven-architecture) - A curated list of resources on event-driven architecture.
+- [lutzh/awesome-event-driven-architecture](https://github.com/lutzh/awesome-event-driven-architecture) - Mirror of https://codeberg.org/lutzh/awesome-event-driven-architecture
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources
 - [magnetikonline/action-golang-cache](https://github.com/magnetikonline/action-golang-cache) - GitHub Action bringing together actions/setup-go and actions/cache.
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
