@@ -95,6 +95,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Astro
 
 - [mationai/astro-rescript](https://github.com/mationai/astro-rescript) - Astro with ReScript
+- [webtui/webtui](https://github.com/webtui/webtui) - 
 
 ## Bikeshed
 
@@ -2151,7 +2152,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dydxprotocol/v4-documentation](https://github.com/dydxprotocol/v4-documentation) - 
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
 - [sei-protocol/sei-docs](https://github.com/sei-protocol/sei-docs) - 
-- [webtui/webtui](https://github.com/webtui/webtui) - 
 
 ## Makefile
 
@@ -2519,8 +2519,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-- [fabric8io/fluent-plugin-kubernetes_metadata_filter](https://github.com/fabric8io/fluent-plugin-kubernetes_metadata_filter) - Enrich your fluentd events with Kubernetes metadata
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter](https://github.com/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter) - Enrich your fluentd events with Kubernetes metadata
 - [fxn/i-told-you-it-was-private](https://github.com/fxn/i-told-you-it-was-private) - 
 - [gjtorikian/html-proofer](https://github.com/gjtorikian/html-proofer) - Test your rendered HTML files to make sure they're accurate.
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.
@@ -2693,7 +2693,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 - [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [cybercongress/cw-cybergift](https://github.com/cybercongress/cw-cybergift) - Contracts for cyberGift execution
-- [dali-benothmen/cronflow](https://github.com/dali-benothmen/cronflow) - The fastest code-first workflow automation engine. TypeScript-native, AI-ready, 98% faster than n8n/Zapier. Built with Rust + Bun.
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [debris/tiny-keccak](https://github.com/debris/tiny-keccak) - An implementation of Keccak derived functions specified in FIPS-202, SP800-185 and KangarooTwelve
 - [defstream/kickable-rs](https://github.com/defstream/kickable-rs) - Can you kick it?
@@ -2966,7 +2965,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-- [yisar/pak](https://github.com/yisar/pak) - Tiny but beautiful JavaScript bundler
+- [yisar/xjc](https://github.com/yisar/xjc) - Xtreme JavaScript Compiler
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [zwilias/elm-json](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
@@ -3281,6 +3280,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - HTML5 web component for editing/viewing RDF data that conform to SHACL shapes
 - [VisionsOfficial/Human-Centric-Rulebook](https://github.com/VisionsOfficial/Human-Centric-Rulebook) - Service Registry project description (TBD)
+- [VolkovLabs/business-text](https://github.com/VolkovLabs/business-text) - The Business Text panel plugin allows you to construct a text visualization template from the values of a dataset returned by a data source query.
 - [Zehelein/pg-transactional-outbox](https://github.com/Zehelein/pg-transactional-outbox) - A library to implement the transactional outbox pattern for PostgreSQL, a message broker or event stream, and TypeScript.
 - [Zondax/ledger-cosmos-js](https://github.com/Zondax/ledger-cosmos-js) - 
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
@@ -3364,7 +3364,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
+- [dali-benothmen/cronflow](https://github.com/dali-benothmen/cronflow) - The fastest code-first workflow automation engine. TypeScript-native, AI-ready, 98% faster than n8n/Zapier. Built with Rust + Bun.
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter.
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
