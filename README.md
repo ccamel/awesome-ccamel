@@ -1446,7 +1446,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Groovy
 
 - [BreizhBeans/InTheMood4Life](https://github.com/BreizhBeans/InTheMood4Life) - Geek against mood disorders
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [ascrus/getl](https://github.com/ascrus/getl) - A tool for developing and testing ETL and ELT processes for automating the capture, delivery and processing of information in data warehouses on the MicroFocus Vertica platform.
 - [cTwospoons/camel-spock-test](https://github.com/cTwospoons/camel-spock-test) - A simple project to show how to use Spock to unit test Camel routes.
 - [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) - a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation
@@ -1607,6 +1606,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [antoine-aumjaud/api-synology-chatbot](https://github.com/antoine-aumjaud/api-synology-chatbot) - API - Synology chatbot
 - [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
@@ -1657,6 +1657,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [filip26/titanium-json-ld](https://github.com/filip26/titanium-json-ld) - A JSON-LD 1.1 Processor & API
 - [flamingock/mongock](https://github.com/flamingock/mongock) - Lightweight Java based migration tool
 - [flapdoodle-oss/de.flapdoodle.embed.mongo](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo) - ...will provide a platform neutral way for running mongodb in unittests.
+- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [gavlyukovskiy/spring-boot-data-source-decorator](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator) - Spring Boot integration with p6spy, datasource-proxy, flexy-pool and spring-cloud-sleuth
 - [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI
 - [gluonhq/substrate](https://github.com/gluonhq/substrate) - Create native Java(FX) apps for desktop, mobile and embedded
@@ -1893,6 +1894,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [gocli/go-cli](https://github.com/gocli/go-cli) - Create and use boilerplates with ease
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
+- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [gridiron-zone/bonds](https://github.com/gridiron-zone/bonds) - The Bonds module is a custom Cosmos SDK module that provides universal token bonding curve functions to mint, burn or swap any token in a Cosmos blockchain.  In the future, once the Cosmos Inter-Blockchain Communication (IBC) protocol is available, this should enable cross-network exchanges of tokens at algorithmically-determined prices.
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
@@ -2378,6 +2380,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [etalab-ia/franceservices-backend](https://github.com/etalab-ia/franceservices-backend) - Backend ressources for Albert. Albert is a conversational agent that uses official French data sources to answer administrative agents questions.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
@@ -2407,7 +2410,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [jpigree/k8s-101-presentation](https://github.com/jpigree/k8s-101-presentation) - My Kubernetes presentation for Tahiti DevOps 
-- [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
+- [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation and documentation
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [kensho-technologies/graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries.
 - [keyestudio/KS0559-KS0559F-Keyestudio-4WD-BT-Multi-purpose-Car-V2.0-Arduino](https://github.com/keyestudio/KS0559-KS0559F-Keyestudio-4WD-BT-Multi-purpose-Car-V2.0-Arduino) - 
@@ -3131,7 +3134,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [gythialy/golang-cross](https://github.com/gythialy/golang-cross) - golang cross compiler with CGO
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [ibiqlik/action-yamllint](https://github.com/ibiqlik/action-yamllint) - GitHub Action - Yaml Lint
@@ -3509,7 +3511,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [improbable-eng/ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.
 - [incetarik/fp-ts-stream](https://github.com/incetarik/fp-ts-stream) - Providing Transducers/Streams based on fp-ts library.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [ingvaar/beauf-net-back](https://github.com/ingvaar/beauf-net-back) - A simple quote website backend built using NestJS
 - [ingvaar/beauf-net-front](https://github.com/ingvaar/beauf-net-front) - A simple quote website frontend built using React
