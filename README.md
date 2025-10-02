@@ -15,6 +15,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CUE](#cue)
 - [Clarity](#clarity)
 - [Clojure](#clojure)
+- [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -244,6 +245,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stain/owl2jsonld](https://github.com/stain/owl2jsonld) - Convert RDFS/OWL ontology to JSON-LD context
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML
+
+## CoffeeScript
+
+- [Kiruse/cw-pipeline](https://github.com/Kiruse/cw-pipeline) - Kiru's tools for CosmWasm Developers
 
 ## Common Lisp
 
@@ -546,7 +551,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go
 - [achiku/planter](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [aerogo/aero](https://github.com/aerogo/aero) - :bullettrain_side: High-performance web server for Go (2016). New alpha (2024) with even better performance is currently in development at https://git.akyoto.dev/go/web
+- [aerogo/aero](https://github.com/aerogo/aero) - :bullettrain_side: High-performance web server for Go (2016). New alpha (2024) with even better performance is currently in development at https://git.urbach.dev/go/web
 - [aevea/commitsar](https://github.com/aevea/commitsar) - Tool to check that commits comply with conventional commit standard
 - [ahmetb/kubectl-foreach](https://github.com/ahmetb/kubectl-foreach) - Run kubectl commands in all/some contexts in parallel (similar to GNU xargs+parallel)
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
@@ -722,8 +727,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [customerio/esdb](https://github.com/customerio/esdb) - Event-stream flat file database - Immutable storage for timestamped event streams
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
+- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight Workflow Engine Alternative to Airflow & Cron. It natively supports running containers and executing commands over SSH.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight and powerful workflow engine for enterprise & small teams. Single binary with Web UI. It natively supports running containers and executing commands over SSH. Offline or air-gapped environment ready.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
 - [dataux/dataux](https://github.com/dataux/dataux) - Federated mysql compatible proxy to elasticsearch, mongo, cassandra, big-table, google datastore
@@ -743,6 +749,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [dmarkham/enumer](https://github.com/dmarkham/enumer) - A Go tool to auto generate methods for your enums
 - [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+- [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry 
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [dpapathanasiou/go-recaptcha](https://github.com/dpapathanasiou/go-recaptcha) - A package for handling reCaptcha (http://www.google.com/recaptcha) form submissions in Go (http://golang.org/).
@@ -1302,6 +1310,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [sj14/dbbench](https://github.com/sj14/dbbench) - 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts
 - [skip-mev/block-sdk](https://github.com/skip-mev/block-sdk) - 🎨 Programmable Block Builder for Cosmos Chains
+- [skip-mev/connect](https://github.com/skip-mev/connect) - A general purpose oracle leveraging ABCI++
 - [skip-mev/feemarket](https://github.com/skip-mev/feemarket) - Plug-and-play fee market module for Cosmos SDK chains
 - [skip-mev/pob](https://github.com/skip-mev/pob) - Skip's protocol-owned MEV builder implementation
 - [skx/go.vm](https://github.com/skx/go.vm) - A simple virtual machine - compiler & interpreter - written in golang
@@ -1675,7 +1684,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [filip26/iron-verifiable-credentials](https://github.com/filip26/iron-verifiable-credentials) - A Verifiable Credentials Processor & API
 - [filip26/linked-tree](https://github.com/filip26/linked-tree) - An abstract data model for processing Linked Data. Graphs are powerful; trees are intuitive. Think in graphs, work with trees.
 - [filip26/titanium-json-ld](https://github.com/filip26/titanium-json-ld) - A JSON-LD 1.1 Processor & API
-- [flamingock/mongock](https://github.com/flamingock/mongock) - Lightweight Java based migration tool
+- [flamingock/flamingock-java](https://github.com/flamingock/flamingock-java) - Java client library for Flamingock — Change-as-Code for auditable and synchronized system evolution. Includes the core, Community Edition modules, runners, templates, and extensions.
 - [flapdoodle-oss/de.flapdoodle.embed.mongo](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo) - ...will provide a platform neutral way for running mongodb in unittests.
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [gavlyukovskiy/spring-boot-data-source-decorator](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator) - Spring Boot integration with p6spy, datasource-proxy, flexy-pool and spring-cloud-sleuth
@@ -1700,7 +1709,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
 - [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 - [kagkarlsson/db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [leangen/graphql-spqr](https://github.com/leangen/graphql-spqr) - Build a GraphQL service in seconds
 - [linked-solutions/fuseki-oidc](https://github.com/linked-solutions/fuseki-oidc) - 
@@ -1916,6 +1925,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gocli/go-cli](https://github.com/gocli/go-cli) - Create and use boilerplates with ease
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
+- [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
 - [gridiron-zone/bonds](https://github.com/gridiron-zone/bonds) - The Bonds module is a custom Cosmos SDK module that provides universal token bonding curve functions to mint, burn or swap any token in a Cosmos blockchain.  In the future, once the Cosmos Inter-Blockchain Communication (IBC) protocol is available, this should enable cross-network exchanges of tokens at algorithmically-determined prices.
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
@@ -1976,6 +1986,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nfrasser/linkifyjs](https://github.com/nfrasser/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - **Notice: Uploads Decommissioned - Existing Data is Safe!**     
 - [nftstorage/nftup](https://github.com/nftstorage/nftup) - **Notice: Uploads Decommissioned - Existing Data is Safe!**      NFTUp enables you to upload NFT data to IPFS & Filecoin with no-code using a downloadable web app.  June 2024 Update: No new uploads, but all existing data is safe. Try the new NFT.Storage, which preserves data in long term Filecoin storage for a small fee. Go to app.nft.storage
+- [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [normen/homebridge-landroid](https://github.com/normen/homebridge-landroid) - Homebridge plugin to control Worx Landroid robo mowers through the Worx Cloud
 - [notional-labs/multisig-ui](https://github.com/notional-labs/multisig-ui) - UI for multisignature tool
 - [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Framework and Observable notebooks
@@ -2105,6 +2116,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [darkhemic/stable-diffusion-cpuonly](https://github.com/darkhemic/stable-diffusion-cpuonly) - a fork that installs runs on pytorch cpu-only
 - [faisalsayed10/no-ghibli](https://github.com/faisalsayed10/no-ghibli) - No Ghibli on Twitter
 - [groundlight/r1_vlm](https://github.com/groundlight/r1_vlm) - Build your own visual reasoning model
+- [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 
 - [microsoft/github-copilot-for-data-science](https://github.com/microsoft/github-copilot-for-data-science) - Apply useful GitHub Copilot workflows and patterns in Data Science
@@ -2475,7 +2487,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [mikethebeer/graphql-crate](https://github.com/mikethebeer/graphql-crate) - Graphql Demo using Crate
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics and Knowledge Engine for RAG over large-scale, heterogeneous data. - The only MCP Server you'll ever need
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [mormahr/pdf-service](https://github.com/mormahr/pdf-service) - A dockerized HTTP service, that generates PDF files from HTML using Weasyprint.
@@ -2494,6 +2506,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [openfaas/workshop](https://github.com/openfaas/workshop) - Learn Serverless for Kubernetes with OpenFaaS
 - [openwallet-foundation/acapy](https://github.com/openwallet-foundation/acapy) - ACA-Py is a foundation for building decentralized identity applications and services running in non-mobile environments.
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [patdaburu/cookiecutter-click](https://github.com/patdaburu/cookiecutter-click) - A Python cookiecutter template to help you start a Click project.
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
@@ -2515,6 +2528,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rchakode/kube-opex-analytics](https://github.com/rchakode/kube-opex-analytics) - 🎨 Kubernetes Usage Analytics Engine & Dashboards for Cost Allocation and Capacity Planning - Hourly Trends, Daily and Monthly Accounting. Actively tested against AKS, EKS, GCP, OKE, and OpenShift. 
 - [reecepbcups/airdrop-tools](https://github.com/reecepbcups/airdrop-tools) - A suite of tools to airdrop under a variety of edge cases for the Cosmos Interchain
 - [reecepbcups/cosmos-state-exporter](https://github.com/reecepbcups/cosmos-state-exporter) - A CosmosSDK chain scheduled state exporter
+- [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard) - A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats.
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [run-llama/llamabot](https://github.com/run-llama/llamabot) - 
@@ -2746,14 +2760,14 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [cloudpeers/tlfs](https://github.com/cloudpeers/tlfs) - The Local-First SDK
 - [cnyvz96/knowledge-network](https://github.com/cnyvz96/knowledge-network) - Prolog solution for complex calculations.
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [codeninja819/cw721-nft-staking](https://github.com/codeninja819/cw721-nft-staking) - CW721 NFT Staking smart contract in CosmWasm
 - [cometbft/tendermint-rs](https://github.com/cometbft/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [commonwarexyz/monorepo](https://github.com/commonwarexyz/monorepo) - Commonware Library Primitives and Examples
 - [concoct-rs/concoct](https://github.com/concoct-rs/concoct) - A reactive runtime for embedded systems in Rust
 - [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Example IBC enabled contracts along with full stack integration tests
 - [confio/poe-contracts](https://github.com/confio/poe-contracts) - Tgrade PoE smart contracts
-- [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template for setting up new Rust 2021 Edition projects with cargo-make/rustfmt/rust-clippy.
+- [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template for setting up new Rust 2024 Edition projects with cargo-make/rustfmt/rust-clippy.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [cosmos/ibc-proto-rs](https://github.com/cosmos/ibc-proto-rs) - Rust Protobuf definitions and gRPC clients for interacting with Cosmos SDK, IBC and Interchain Security
@@ -2800,6 +2814,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [gnosisguild/enclave](https://github.com/gnosisguild/enclave) - Enclave is an open-source protocol for Encrypted Execution Environments (E3).
 - [gnprice/toml-cli](https://github.com/gnprice/toml-cli) - 
+- [gold-silver-copper/soft_ratatui](https://github.com/gold-silver-copper/soft_ratatui) - Software renderer for ratatui
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [grantshandy/fdg](https://github.com/grantshandy/fdg) - A Force Directed Graph Drawing Library
@@ -2856,6 +2871,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [maplibre/martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
 - [mars-protocol/contracts](https://github.com/mars-protocol/contracts) - Smart contracts for Mars Protocol
 - [mars-protocol/cw-asset](https://github.com/mars-protocol/cw-asset) - A unified representation of various types of Cosmos fungible assets, and helper functions for interacting with them
+- [mcandre/unmake](https://github.com/mcandre/unmake) - a makefile linter
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
@@ -3157,7 +3173,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [88Mikhail88/My_Testnets](https://github.com/88Mikhail88/My_Testnets) - 
 - [AlexsJones/kubernetes-nifi-cluster](https://github.com/AlexsJones/kubernetes-nifi-cluster) - Apache Nifi cluster running in kubernetes
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
-- [CosmWasm/advisories](https://github.com/CosmWasm/advisories) - To publicly communicate advisories about serious bugs in CosmWasm, wasmvm, and wasmd
 - [DP-3T/documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
 - [Dimokus88/Akash-Nodes-Lab](https://github.com/Dimokus88/Akash-Nodes-Lab) - Deploy nodes on Akash Network ! | Разворачивай ноды на Акаш!
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
@@ -3421,7 +3436,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [berendsliedrecht/did-ts](https://github.com/berendsliedrecht/did-ts) - 
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [betula/use-between](https://github.com/betula/use-between) - Sharing state between React components
-- [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) - Code search analysys MCP
+- [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
 - [bitsongofficial/bitsong-faucet](https://github.com/bitsongofficial/bitsong-faucet) - 
 - [blofin/blofin-ui](https://github.com/blofin/blofin-ui) - UI library for crypto exchange.
 - [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
@@ -3492,7 +3507,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [etsd-tech/mcp-pointer](https://github.com/etsd-tech/mcp-pointer) - MCP tool: let you point at DOM elements for your favorite agentic coding tool. Let AI see what you see.
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [f5nodes/wiki](https://github.com/f5nodes/wiki) - from validators to validators with love.
+- [f5nodes/wiki](https://github.com/f5nodes/wiki) - Wiki brings together everything blockchain developers and validators need — reliable endpoints, tools and infrastructure, snapshots, guides, tips, and resources — all in one place.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
@@ -3593,6 +3608,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [joonhocho/graphql-scalar](https://github.com/joonhocho/graphql-scalar) - Configurable custom GraphQL Scalars (string, number, date, etc) with sanitization / validation / transformation in TypeScript.
 - [jpoehnelt/semantic-release-replace-plugin](https://github.com/jpoehnelt/semantic-release-replace-plugin) - A semantic-release plugin for replacing text in files with the current release version.
 - [juehang/vscode-mcp-server](https://github.com/juehang/vscode-mcp-server) - MCP server to expose VS Code editing features to an LLM for AI coding
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [kentaro-m/auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
@@ -3619,7 +3635,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [mars-protocol/networks](https://github.com/mars-protocol/networks) - Genesis data for Mars Hub mainnet and testnets
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [metorial/mcp-containers](https://github.com/metorial/mcp-containers) - Metorial MCP Containers - Containerized versions of hundreds of MCP servers 📡 🧠
@@ -3860,6 +3876,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BccNodes/okp4-nemeton-testnet](https://github.com/BccNodes/okp4-nemeton-testnet) - 
 - [BlockApex/resources](https://github.com/BlockApex/resources) - List of BlockApex public resources like audit readiness checklists, methodologies, pitch decks, company branding, etc.
 - [CedrickArmel/ml-template](https://github.com/CedrickArmel/ml-template) - 
+- [CosmWasm/advisories](https://github.com/CosmWasm/advisories) - To publicly communicate advisories about serious bugs in CosmWasm, wasmvm and wasmd
 - [CosmWasm/awesome-cosmwasm](https://github.com/CosmWasm/awesome-cosmwasm) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
 - [CosmWasm/book](https://github.com/CosmWasm/book) - CosmWasm book
 - [CosmosContracts/docs](https://github.com/CosmosContracts/docs) - Documentation - Juno 
@@ -3885,7 +3902,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [LuisThiamNye/ButteryTaskbar2](https://github.com/LuisThiamNye/ButteryTaskbar2) - Hide the taskbar completely when the Start Menu is not open. 
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [MicrosoftDocs/azure-docs-cli](https://github.com/MicrosoftDocs/azure-docs-cli) - Repository for Azure CLI command documentation published on learn.microsoft.com
-- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - 
+- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
