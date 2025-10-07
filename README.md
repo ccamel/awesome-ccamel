@@ -1756,7 +1756,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [runabol/piper](https://github.com/runabol/piper) - piper - a distributed workflow engine
 - [senx/warp10-platform](https://github.com/senx/warp10-platform) - The Most Advanced Time Series Platform
 - [shzlw/poli](https://github.com/shzlw/poli) - An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
-- [smartloli/EFAK](https://github.com/smartloli/EFAK) - A easy and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.
+- [smartloli/EFAK](https://github.com/smartloli/EFAK) - A AI-Driven, Distributed and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.
 - [sparna-git/skos-play](https://github.com/sparna-git/skos-play) - SKOS-Play allows to print SKOS files in HTML or PDF. It also embeds xls2rdf to generate RDF from Excel.
 - [spockframework/spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
@@ -2118,7 +2118,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [faisalsayed10/no-ghibli](https://github.com/faisalsayed10/no-ghibli) - No Ghibli on Twitter
 - [groundlight/r1_vlm](https://github.com/groundlight/r1_vlm) - Build your own visual reasoning model
 - [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 
 - [microsoft/github-copilot-for-data-science](https://github.com/microsoft/github-copilot-for-data-science) - Apply useful GitHub Copilot workflows and patterns in Data Science
 - [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - LLM-based ontological extraction tools, including SPIRES
@@ -2468,6 +2467,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [lasso-security/mcp-gateway](https://github.com/lasso-security/mcp-gateway) - A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
