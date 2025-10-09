@@ -511,6 +511,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [LambdaIM/lambdavm](https://github.com/LambdaIM/lambdavm) - docs: https://docs.lambda.im/
 - [MANTRA-Chain/mantrachain](https://github.com/MANTRA-Chain/mantrachain) - MANTRA is a purpose-built RWA Layer 1 Blockchain, capable of adherence to real world regulatory requirements.
 - [Macmod/godap](https://github.com/Macmod/godap) - A complete terminal user interface (TUI) for LDAP.
+- [MacroPower/kclipper](https://github.com/MacroPower/kclipper) - KCL + Helm = kclipper
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [NathanBaulch/protoc-gen-cobra](https://github.com/NathanBaulch/protoc-gen-cobra) - Cobra command line tool generator for gRPC clients
@@ -628,7 +629,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bozd4g/go-http-client](https://github.com/bozd4g/go-http-client) - An enhanced and lightweight http client for Golang
 - [brendandburns/caddy-wasm](https://github.com/brendandburns/caddy-wasm) - WebAssembly (WASM) extension for the caddy2 web server.
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
-- [bryanlabs/cosmos-indexer-sdk](https://github.com/bryanlabs/cosmos-indexer-sdk) - An opensource cosmos indexer!  Please feel free to use this to build other awesome apps like https://app.sycamore.tax and https://elections.atomaccelerator.com
+- [bryanlabs/cosmos-indexer-sdk](https://github.com/bryanlabs/cosmos-indexer-sdk) - An opensource cosmos indexer!
 - [bsm/sarama-cluster](https://github.com/bsm/sarama-cluster) - Cluster extensions for Sarama, the Go client library for Apache Kafka 0.9 [DEPRECATED]
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
@@ -1067,7 +1068,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lum-network/chain](https://github.com/lum-network/chain) - Core Lum Network blockchain protocol implementation.
 - [m3ng9i/ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go
 - [machinebox/graphql](https://github.com/machinebox/graphql) - Simple low-level GraphQL HTTP client for Go
-- [maddyblue/esc](https://github.com/maddyblue/esc) - A simple file embedder for Go
+- [madelynnblue/esc](https://github.com/madelynnblue/esc) - A simple file embedder for Go
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [magiconair/properties](https://github.com/magiconair/properties) - Java properties scanner for Go
 - [mailgun/gubernator](https://github.com/mailgun/gubernator) - High Performance Rate Limiting MicroService and Library
@@ -1240,6 +1241,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures
 - [rakyll/gotest](https://github.com/rakyll/gotest) - go test with colors
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+- [rancher/k3k](https://github.com/rancher/k3k) - Kubernetes in Kubernetes
 - [raphoester/chaos](https://github.com/raphoester/chaos) - A simple library for generating deterministic chaotic values.
 - [rare-magma/github-exporter](https://github.com/rare-magma/github-exporter) - CLI tool that uploads the Github traffic and statistics API data to InfluxDB on a daily basis 
 - [raviqqe/gherkin2markdown](https://github.com/raviqqe/gherkin2markdown) - Gherkin to Markdown converter
@@ -1701,7 +1703,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hypergraphql/hypergraphql](https://github.com/hypergraphql/hypergraphql) - GraphQL interface for querying and serving linked data on the Web.
 - [ignatov/intellij-erlang](https://github.com/ignatov/intellij-erlang) - Erlang IDE
 - [igr/nomen-est-omen](https://github.com/igr/nomen-est-omen) - Random names generator, with a style.
-- [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects.
+- [immutables/immutables](https://github.com/immutables/immutables) - Java annotation processor to create immutable objects and builders. Sweeps boilerplate code under the rug since 2013!
 - [j-easy/easy-states](https://github.com/j-easy/easy-states) - The simple, stupid state machine for Java
 - [jasongoodwin/better-java-monads](https://github.com/jasongoodwin/better-java-monads) - 
 - [javajon/kubernetes-observability](https://github.com/javajon/kubernetes-observability) - Tutorial on Kubernetes monitoring techniques with microservices.
@@ -2513,6 +2515,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [patdaburu/cookiecutter-click](https://github.com/patdaburu/cookiecutter-click) - A Python cookiecutter template to help you start a Click project.
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [powerfulseal/powerfulseal](https://github.com/powerfulseal/powerfulseal) - A powerful testing tool for Kubernetes clusters.
