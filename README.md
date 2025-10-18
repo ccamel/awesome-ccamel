@@ -1839,6 +1839,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [axept/open-parse](https://github.com/axept/open-parse) - Get RESTful API to your data store, schemas, users and security management and bring up your own BaaS in a few minutes
 - [axone-protocol/Axone-OpenShare-dApp](https://github.com/axone-protocol/Axone-OpenShare-dApp) - 
+- [axone-protocol/contracts](https://github.com/axone-protocol/contracts) - 📜 Smart contracts for the Axone protocol (powered by CosmWasm)
 - [badgen/badgen](https://github.com/badgen/badgen) - Fast handcraft svg badge generator.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [baruchvlz/resq](https://github.com/baruchvlz/resq) - React Element Selector Query (RESQ) - Query React components and children by component name or HTML selector
@@ -2741,7 +2742,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 - [autonomys/subspace](https://github.com/autonomys/subspace) - Subspace Protocol reference implementation
-- [axone-protocol/contracts](https://github.com/axone-protocol/contracts) - 📜 Smart contracts for the Axone protocol (powered by CosmWasm)
 - [azerpas/bourso-api](https://github.com/azerpas/bourso-api) - Boursorama / BoursoBank unofficial API and CLI
 - [babylonlabs-io/cosmos-bsn-contracts](https://github.com/babylonlabs-io/cosmos-bsn-contracts) - CosmWasm smart contracts for Babylon integration
 - [balpan-rs/balpan](https://github.com/balpan-rs/balpan) - Simple CLI Tool that supports your onboarding for a journey on source code.
@@ -3347,7 +3347,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/CosmWasmJS](https://github.com/CosmWasm/CosmWasmJS) - Source of the cosmwasm npm package
 - [CosmWasm/mesh-security-ui](https://github.com/CosmWasm/mesh-security-ui) - Basic UI to try out mesh security
 - [CosmWasm/testnets](https://github.com/CosmWasm/testnets) - Information on all public CosmWasm testnets
-- [CurlGPT/CurlGPT](https://github.com/CurlGPT/CurlGPT) - ChatGPT in your favourite terminal
 - [DA0-DA0/dao-dao-ui](https://github.com/DA0-DA0/dao-dao-ui) - InterChain DAO tooling UI.
 - [DariuszDepta/cosmwasmsaurus](https://github.com/DariuszDepta/cosmwasmsaurus) - CosmWasm documentation site developed using Docusaurus
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
@@ -4140,7 +4139,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rofrol/elm-ui-cookbook](https://github.com/rofrol/elm-ui-cookbook) - 
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [s-tikhomirov/smart-contract-languages](https://github.com/s-tikhomirov/smart-contract-languages) - A curated collection of resources on smart contract programming languages
-- [samayun/devbooks](https://github.com/samayun/devbooks) - 12 Node.js Design Patterns Design and implement , Mastering-Node.js , Practical Node.js 
 - [scrtlabs/Grants](https://github.com/scrtlabs/Grants) - Repository for grant proposal submissions
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengine) - A curated list of awesome Ebitengine frameworks, libraries and software 
