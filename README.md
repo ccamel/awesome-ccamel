@@ -51,6 +51,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Perl](#perl)
+- [Pkl](#pkl)
 - [PlantUML](#plantuml)
 - [PowerShell](#powershell)
 - [Processing](#processing)
@@ -1523,7 +1524,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dominictarr/sentimental-versioning](https://github.com/dominictarr/sentimental-versioning) - version numbers with meaning
 - [dwyl/learn-elm](https://github.com/dwyl/learn-elm) - :rainbow: discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 - [eclipse-tractusx/sldt-semantic-models](https://github.com/eclipse-tractusx/sldt-semantic-models) - sldt-semantic-models
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
@@ -2130,6 +2130,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 
 - [microsoft/github-copilot-for-data-science](https://github.com/microsoft/github-copilot-for-data-science) - Apply useful GitHub Copilot workflows and patterns in Data Science
 - [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - LLM-based ontological extraction tools, including SPIRES
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 
@@ -2299,6 +2300,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mludvig/smtp-cli](https://github.com/mludvig/smtp-cli) - The ultimate command line SMTP client
 - [zonemaster/zonemaster](https://github.com/zonemaster/zonemaster) - The Zonemaster Project
 
+## Pkl
+
+- [JLarky/gha-ts](https://github.com/JLarky/gha-ts) - Type-safe GitHub Action workflows
+
 ## PlantUML
 
 - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
@@ -2432,6 +2437,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [derrian-distro/LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts) - A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy
 - [diego-vicente/som-tsp](https://github.com/diego-vicente/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
 - [eli-shen08/Sql-Kafka](https://github.com/eli-shen08/Sql-Kafka) - Sql to Kafka to json pipeline
