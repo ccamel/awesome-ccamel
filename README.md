@@ -544,7 +544,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [Tochemey/ego](https://github.com/Tochemey/ego) - [Go]Minimal event sourcing/CQRS library using protocol buffers for commands, events and states.
-- [Tochemey/goakt](https://github.com/Tochemey/goakt) - [Go] Distributed Actor framework using protocol buffers as message for Golang
+- [Tochemey/goakt](https://github.com/Tochemey/goakt) - [Go] Distributed Actor/Grain framework using protocol buffers as message for Golang
 - [TorchAIKC/nifi-stateless-operator](https://github.com/TorchAIKC/nifi-stateless-operator) - An Operator for scheduling and executing NiFi Flows as Jobs on Kubernetes
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
@@ -1275,7 +1275,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
 - [rollchains/spawn](https://github.com/rollchains/spawn) - The best development platform for building custom modular Cosmos-SDK blockchains
 - [rollchains/tiablob](https://github.com/rollchains/tiablob) - Cosmos SDK Module for Celestia DA
-- [rom8726/floxy](https://github.com/rom8726/floxy) - Lightweight workflow engine for GoLang with built-in compensation, rollback, and retry policies.
+- [rom8726/floxy](https://github.com/rom8726/floxy) - Lightweight workflow engine for GoLang with Saga rollback mechanism
 - [rs/jaggr](https://github.com/rs/jaggr) - JSON Aggregation CLI
 - [rs/jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
@@ -3636,7 +3636,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ipfs-shipyard/ipfs-share-files](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files directly from the browser using IPFS.
 - [iroiro/iroiro](https://github.com/iroiro/iroiro) - 
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest + Testing Library + Playwright + Storybook + Commitlint + VSCode + Sentry + PostCSS + Tailwind CSS ✨
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 16 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest + Testing Library + Playwright + Storybook + Commitlint + VSCode + Sentry + PostCSS + Tailwind CSS ✨
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
