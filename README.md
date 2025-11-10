@@ -52,6 +52,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Perl](#perl)
+- [Pkl](#pkl)
 - [PlantUML](#plantuml)
 - [PowerShell](#powershell)
 - [Processing](#processing)
@@ -733,6 +734,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [crucibuild/sdk-agent-go](https://github.com/crucibuild/sdk-agent-go) - Go library wrapping common tools to make Crucibuild agents
 - [cruise-automation/k-rail](https://github.com/cruise-automation/k-rail) - Kubernetes security tool for policy enforcement
 - [crypto-org-chain/chain-main](https://github.com/crypto-org-chain/chain-main) - Cronos POS Chain⛓: Croeseid Testnet and beyond development
+- [ctrlplanedev/ctrlplane](https://github.com/ctrlplanedev/ctrlplane) - :rocket: A deployment orchestration tool that simplifies multi-cloud, multi-region, and multi-service deployments.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [customerio/esdb](https://github.com/customerio/esdb) - Event-stream flat file database - Immutable storage for timestamped event streams
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
@@ -968,7 +970,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ignite/apps](https://github.com/ignite/apps) - Ignite Apps
 - [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [in-toto/in-toto-golang](https://github.com/in-toto/in-toto-golang) - A Go implementation of in-toto. in-toto is a framework to protect software supply chain integrity.
 - [inconshreveable/mousetrap](https://github.com/inconshreveable/mousetrap) - Detect starting from Windows explorer
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
@@ -2329,6 +2331,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mludvig/smtp-cli](https://github.com/mludvig/smtp-cli) - The ultimate command line SMTP client
 - [zonemaster/zonemaster](https://github.com/zonemaster/zonemaster) - The Zonemaster Project
 
+## Pkl
+
+- [JLarky/gha-ts](https://github.com/JLarky/gha-ts) - Type-safe GitHub Action workflows
+
 ## PlantUML
 
 - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
@@ -2457,7 +2463,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cucumber/tag-expressions](https://github.com/cucumber/tag-expressions) - Cucumber tag expression parser
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [darthnorse/dockmon](https://github.com/darthnorse/dockmon) - DockMon - Modern Docker container monitoring with auto-restart and alerts
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
@@ -2493,6 +2498,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - ECS pattern (Entity Component System) for creating games on python
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec, Compliance/Audit Management, Privacy and supporting +100 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, CyFun, AirCyber, NCSC, ECC, SCF and so much more
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [jetporch/jetporch](https://github.com/jetporch/jetporch) - Read-only mirror: see https://www.jetporch.com/community/sourcehut
@@ -3289,6 +3295,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/easysetup](https://github.com/okp4/easysetup) - Contains resources related to OKP4 environment and tutorials
 - [pgexperts/pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
 - [ping-pub/ping.pub](https://github.com/ping-pub/ping.pub) - The deployment of ping.pub, submit your chain config here
+- [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
 - [plantuml-stdlib/plantuml-kubernetes-sprites](https://github.com/plantuml-stdlib/plantuml-kubernetes-sprites) - PlantUML sprites generated from the kubernetes-icons
 - [please-openit/oidc-bash-client](https://github.com/please-openit/oidc-bash-client) - a bash openid connect client
 - [rewseRE/cosmos-validator-monitoring](https://github.com/rewseRE/cosmos-validator-monitoring) - Simple shell script for monitoring Cosmos-SDK based networks validators.
@@ -3406,7 +3413,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [HyperbolicLabs/hyperbolic-mcp](https://github.com/HyperbolicLabs/hyperbolic-mcp) - MCP Server for Claude
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-- [JLarky/gha-ts](https://github.com/JLarky/gha-ts) - Type-safe GitHub Action workflows
 - [JackalLabs/jackal-mcp](https://github.com/JackalLabs/jackal-mcp) - Jackal's native Agentic AI built with Anthropic MCP 
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
@@ -3531,10 +3537,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/snap](https://github.com/cosmos/snap) - Packages That Add Cosmos Support Into Metamask. The Cosmos is Expanding!
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
-- [ctrlplanedev/ctrlplane](https://github.com/ctrlplanedev/ctrlplane) - :rocket: A deployment orchestration tool that simplifies multi-cloud, multi-region, and multi-service deployments.
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
+- [darthnorse/dockmon](https://github.com/darthnorse/dockmon) - DockMon - Modern Docker container monitoring with auto-restart and alerts
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter.
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [dbcls/grasp](https://github.com/dbcls/grasp) - Grasp: A bridge between GraphQL and SPARQL
@@ -3655,7 +3661,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [improbable-eng/ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.
 - [incetarik/fp-ts-stream](https://github.com/incetarik/fp-ts-stream) - Providing Transducers/Streams based on fp-ts library.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [ingvaar/beauf-net-back](https://github.com/ingvaar/beauf-net-back) - A simple quote website backend built using NestJS
 - [ingvaar/beauf-net-front](https://github.com/ingvaar/beauf-net-front) - A simple quote website frontend built using React
@@ -3686,7 +3691,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI
 - [lavanet/lava-sdk-providers](https://github.com/lavanet/lava-sdk-providers) - Lava SDK providers
 - [leboncoin/spark-web](https://github.com/leboncoin/spark-web) - ✨ Simple, Modular & Accessible UI Components for your React Applications
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [loiclaudet/block-explorer](https://github.com/loiclaudet/block-explorer) - Ethereum blocks, transactions and accounts explorer
@@ -3733,7 +3738,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [notional-labs/dig](https://github.com/notional-labs/dig) - Dig: Governance
 - [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Dataverse Portal for the OKP4 network. 
 - [okp4/follow-contributor-action](https://github.com/okp4/follow-contributor-action) - Github action to follow a contributor.
@@ -3849,7 +3854,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [tonai/storybook-addon-themes](https://github.com/tonai/storybook-addon-themes) - 
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [trackawesomelist/trackawesomelist-source](https://github.com/trackawesomelist/trackawesomelist-source) - Track Awesome List Source Code, build with Deno.
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
