@@ -172,6 +172,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [VCVRack/Rack](https://github.com/VCVRack/Rack) - The virtual Eurorack studio
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [category-labs/monad](https://github.com/category-labs/monad) - 
@@ -681,6 +682,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [chatmcp/mcprouter](https://github.com/chatmcp/mcprouter) - api router for MCP Servers
 - [checkmake/checkmake](https://github.com/checkmake/checkmake) - Linter/analyzer for Makefiles
@@ -828,6 +830,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fission/fission-workflows](https://github.com/fission/fission-workflows) - Workflows for Fission: Fast, reliable and lightweight function composition for serverless functions
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [flimzy/donewriter](https://github.com/flimzy/donewriter) - DoneWriter provides an http.ResponseWriter which can report if a response has been sent or not.
+- [floxy-project/floxy](https://github.com/floxy-project/floxy) - Lightweight workflow engine for GoLang with Saga rollback mechanism
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [forbole/callisto](https://github.com/forbole/callisto) - Callisto (formerly BDJuno) is the official Juno implementation for Big Dipper, the open-source block explorer for Cosmos
 - [forbole/juno](https://github.com/forbole/juno) - A Cosmos Hub data aggregator and exporter.
@@ -1230,7 +1233,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pointlander/peg](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 - [pokt-network/pocket-core](https://github.com/pokt-network/pocket-core) - Official implementation of the Pocket Network Protocol
 - [pokt-network/smt](https://github.com/pokt-network/smt) - A Go library that implements a Sparse Merkle Trie for a key-value map.
-- [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint) - A source code linter that can be used to find code that will cause problems with Go's error wrapping scheme
+- [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint) - Moved to https://codeberg.org/polyfloyd/go-errorlint
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes
 - [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) - Portainer MCP server
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
@@ -1287,7 +1290,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
 - [rollchains/spawn](https://github.com/rollchains/spawn) - The best development platform for building custom modular Cosmos-SDK blockchains
 - [rollchains/tiablob](https://github.com/rollchains/tiablob) - Cosmos SDK Module for Celestia DA
-- [rom8726/floxy](https://github.com/rom8726/floxy) - Lightweight workflow engine for GoLang with Saga rollback mechanism
 - [rs/jaggr](https://github.com/rs/jaggr) - JSON Aggregation CLI
 - [rs/jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
@@ -2380,8 +2382,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
 - [Keeper-Security/Commander](https://github.com/Keeper-Security/Commander) - Keeper Commander is a python-based CLI and SDK interface to the Keeper Security platform. Provides administrative controls, reporting, import/export and vault management.
+- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
-- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [LoicPandul/Dictionnaire-de-Bitcoin](https://github.com/LoicPandul/Dictionnaire-de-Bitcoin) - Tout le vocabulaire technique de Bitcoin
 - [ML-KULeuven/deepproblog](https://github.com/ML-KULeuven/deepproblog) - DeepProbLog is an extension of ProbLog that integrates Probabilistic Logic Programming with deep learning by introducing the neural predicate.
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
@@ -2720,6 +2722,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [InjectiveLabs/test-tube](https://github.com/InjectiveLabs/test-tube) - Enables testing CosmWasm contracts against Injective chain without mocks!
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
+- [JayanAXHF/filessh](https://github.com/JayanAXHF/filessh) - A fast and convenient TUI file browser for remote servers
 - [Jesterhearts/ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) - A wgpu based rendering backend for ratatui.
 - [Keats/kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
@@ -2790,6 +2793,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [balpan-rs/balpan](https://github.com/balpan-rs/balpan) - Simple CLI Tool that supports your onboarding for a journey on source code.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [bitswired/rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick!
@@ -2882,6 +2886,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hashedone/sylvia](https://github.com/hashedone/sylvia) - CosmWasm smart contract framework
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [hoodrunio/explorer-backend](https://github.com/hoodrunio/explorer-backend) - Backend app for Cosmos ecosystem explorer.
+- [htin1/toktop](https://github.com/htin1/toktop) - llm usage monitor in terminal
 - [hyli-org/hyli](https://github.com/hyli-org/hyli) - Hyli is a high-performance blockchain with built-in privacy.
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
@@ -3042,7 +3047,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x Faster than MinIO for 4K Small Files.  RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [rxRust/rxRust](https://github.com/rxRust/rxRust) - Rust implementation of Reactive Extensions. 
