@@ -227,6 +227,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nathansmith/unsemantic](https://github.com/nathansmith/unsemantic) - Fluid grid for mobile, tablet, and desktop.
 - [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui) - Cyberpunk-inspired web UI made easy. Get augmented.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 - [stripe-samples/checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
 - [thepushkaraj/TechCreators](https://github.com/thepushkaraj/TechCreators) - A website to list tech twitter creators, across the world.
 - [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple and Minimal Line Icons
@@ -1055,7 +1056,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal)
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Lightweight real-time logging dashboard for Kubernetes. Use in a terminal or a browser, on your desktop or in your cluster.
 - [kylelemons/godebug](https://github.com/kylelemons/godebug) - Debugging helper utilities for Go
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [lacion/iothub](https://github.com/lacion/iothub) - IoT Hub for things
@@ -2449,7 +2450,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [cbirajdar/properties-to-yaml-converter](https://github.com/cbirajdar/properties-to-yaml-converter) - Python utility to convert key=value based properties/ini config files into YAML format
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-- [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The no-nonsense RAG library
+- [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines
 - [chris104957/maildown](https://github.com/chris104957/maildown) - A super simple CLI for sending emails
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
@@ -2500,7 +2501,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - ECS pattern (Entity Component System) for creating games on python
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec, Compliance/Audit Management, Privacy and supporting +100 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, CyFun, AirCyber, NCSC, ECC, SCF and so much more
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [jetporch/jetporch](https://github.com/jetporch/jetporch) - Read-only mirror: see https://www.jetporch.com/community/sourcehut
@@ -3666,6 +3666,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [improbable-eng/ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.
 - [incetarik/fp-ts-stream](https://github.com/incetarik/fp-ts-stream) - Providing Transducers/Streams based on fp-ts library.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [ingvaar/beauf-net-back](https://github.com/ingvaar/beauf-net-back) - A simple quote website backend built using NestJS
 - [ingvaar/beauf-net-front](https://github.com/ingvaar/beauf-net-front) - A simple quote website frontend built using React
