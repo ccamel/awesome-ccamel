@@ -647,6 +647,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [buger/jsonparser](https://github.com/buger/jsonparser) - One of the fastest alternative JSON parser for Go that does not require schema
 - [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter) - Database-agnostic SQL Exporter for Prometheus
+- [burnt-labs/xion](https://github.com/burnt-labs/xion) - 
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord
 - [bykof/gostradamus](https://github.com/bykof/gostradamus) - Gostradamus: Better DateTimes for Go 🕰️
 - [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
@@ -2489,6 +2490,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -2692,7 +2694,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Callum-A/whoami-paths](https://github.com/Callum-A/whoami-paths) - 
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [ChristianSchott/boris](https://github.com/ChristianSchott/boris) - Visualizing Ownership and Borrowing in Rust Programs
-- [CompeyDev/ssh-portfolio](https://github.com/CompeyDev/ssh-portfolio) - introducing a portfolio as a tui app served over ssh! (mirror of https://git.devcomp.xyz/DevComp/ssh-portfolio)
+- [CompeyDev/ssh-portfolio](https://github.com/CompeyDev/ssh-portfolio) - introducing a portfolio as a tui app served over ssh!
 - [ComposableFi/composable-ibc](https://github.com/ComposableFi/composable-ibc) - A trustless, cross-chain bridging protocol.
 - [ComposableFi/emulated-light-client](https://github.com/ComposableFi/emulated-light-client) - run a chain inside a chain
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - WebAssembly Smart Contracts for the Cosmos SDK
@@ -3270,7 +3272,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [gythialy/golang-cross](https://github.com/gythialy/golang-cross) - golang cross compiler with CGO
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [ibiqlik/action-yamllint](https://github.com/ibiqlik/action-yamllint) - GitHub Action - Yaml Lint
