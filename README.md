@@ -834,6 +834,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [flimzy/donewriter](https://github.com/flimzy/donewriter) - DoneWriter provides an http.ResponseWriter which can report if a response has been sent or not.
 - [floxy-project/floxy](https://github.com/floxy-project/floxy) - Lightweight workflow engine for GoLang with Saga rollback mechanism
+- [floxy-project/floxy-pro](https://github.com/floxy-project/floxy-pro) - A Pro version of Core Floxy library.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [forbole/callisto](https://github.com/forbole/callisto) - Callisto (formerly BDJuno) is the official Juno implementation for Big Dipper, the open-source block explorer for Cosmos
 - [forbole/juno](https://github.com/forbole/juno) - A Cosmos Hub data aggregator and exporter.
@@ -1034,7 +1035,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kevinpollet/serve](https://github.com/kevinpollet/serve) - Simple and secure Go HTTP server to serve static sites or files from the command-line.
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
-- [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI  & Web service providing ability to send messages or alerts to multiple messaging platforms.
+- [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms
 - [kilnfi/cosmos-validator-watcher](https://github.com/kilnfi/cosmos-validator-watcher) - Real-time Cosmos-based chains monitoring
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go
@@ -2932,6 +2933,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [liamzebedee/tendermint-rs](https://github.com/liamzebedee/tendermint-rs) - A minimal reimplementation of Tendermint in Rust
 - [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
 - [lita-xyz/rust-examples](https://github.com/lita-xyz/rust-examples) - 
+- [lue-bird/elm-language-server-rs](https://github.com/lue-bird/elm-language-server-rs) - language server for elm, in rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [lunatic-solutions/lunatic-rs](https://github.com/lunatic-solutions/lunatic-rs) - This library contains higher level Rust wrappers for low level Lunatic syscalls.
 - [lusingander/cargo-sort-derives](https://github.com/lusingander/cargo-sort-derives) - Cargo subcommand to sort derive attributes 📦
@@ -3057,7 +3059,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x Faster than MinIO for 4K Small Files.  RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [rxRust/rxRust](https://github.com/rxRust/rxRust) - Rust implementation of Reactive Extensions. 
@@ -3643,6 +3645,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
+- [hazae41/bobine](https://github.com/hazae41/bobine) - Your neighbor's chain of compute
 - [hazae41/cadenas](https://github.com/hazae41/cadenas) - Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [hazae41/chemin](https://github.com/hazae41/chemin) - Create infinite virtual subpaths for your React webapp
 - [hazae41/decibel](https://github.com/hazae41/decibel) - Queriable in-memory database for TypeScript
@@ -3680,7 +3683,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ingvaar/beauf-net-back](https://github.com/ingvaar/beauf-net-back) - A simple quote website backend built using NestJS
 - [ingvaar/beauf-net-front](https://github.com/ingvaar/beauf-net-front) - A simple quote website frontend built using React
 - [inrupt/solid-client-vc-js](https://github.com/inrupt/solid-client-vc-js) - Client library to ease working with Verifiable Credentials in Solid
-- [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
+- [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - Powerful and lightweight inversion of control container. Moved to https://github.com/inversify/monorepo
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [ipfs-shipyard/ipfs-share-files](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files directly from the browser using IPFS.
 - [iroiro/iroiro](https://github.com/iroiro/iroiro) - 
@@ -4089,6 +4092,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [fenio/k3s-synology](https://github.com/fenio/k3s-synology) - k3s (lightweight kubernetes) on Synology DS216+
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
+- [folpe/atlas](https://github.com/folpe/atlas) - Liste vivante d’outils IA (LLM, agents, RAG, no-code) & prompts en français.
 - [gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries](https://github.com/gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries) - Extensive List of CSS Frameworks and UI/Components Libraries.
 - [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
