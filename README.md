@@ -745,7 +745,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A dead simple, local-first workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing commands over SSH. Offline or air-gapped environment ready.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A powerful, portable, local-first workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing commands over SSH. Offline or air-gapped environment ready.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
 - [dataux/dataux](https://github.com/dataux/dataux) - Federated mysql compatible proxy to elasticsearch, mongo, cassandra, big-table, google datastore
@@ -1038,6 +1038,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms
 - [kilnfi/cosmos-validator-watcher](https://github.com/kilnfi/cosmos-validator-watcher) - Real-time Cosmos-based chains monitoring
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
+- [knadh/tinyauth](https://github.com/knadh/tinyauth) - Tiny, opinionated authentication library for Go. Work in progress and not usable right now.
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go
 - [knative-extensions/eventing-rabbitmq](https://github.com/knative-extensions/eventing-rabbitmq) - RabbitMQ eventing components. Knative Source and Broker.
 - [knative/eventing](https://github.com/knative/eventing) - Event-driven application platform for Kubernetes
@@ -1786,6 +1787,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [senx/warp10-platform](https://github.com/senx/warp10-platform) - The Most Advanced Time Series Platform
 - [shzlw/poli](https://github.com/shzlw/poli) - An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 - [smartloli/EFAK](https://github.com/smartloli/EFAK) - A AI-Driven, Distributed and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.
+- [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
 - [sparna-git/skos-play](https://github.com/sparna-git/skos-play) - SKOS-Play allows to print SKOS files in HTML or PDF. It also embeds xls2rdf to generate RDF from Excel.
 - [spockframework/spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
@@ -2395,13 +2397,13 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - Build apps and run Doom on a pharmacy cross!
 - [Mekire/pygame-samples](https://github.com/Mekire/pygame-samples) - Basic pygame samples illustrating various concepts.
-- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Neuro-Symbolic AI with Knowledge Graph | "True Reasoning" through data and logic 🌿🌱🐋🌍
+- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - AI Logic Language | "True Reasoning" through data and logic 🌿🌱🐋🌍
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
 - [OnToology/oops-report](https://github.com/OnToology/oops-report) - Generate oops report as a beautiful HTML
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [P-OPSTeam/cosmos-governance-alerter](https://github.com/P-OPSTeam/cosmos-governance-alerter) - Cosmos Governance vote alerter
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. 
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
@@ -3453,6 +3455,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NodesGuru/casper-world](https://github.com/NodesGuru/casper-world) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [NodesGuru/casper-world-backend](https://github.com/NodesGuru/casper-world-backend) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
+- [PackmindHub/packmind](https://github.com/PackmindHub/packmind) - Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [Protofy-xyz/Vento](https://github.com/Protofy-xyz/Vento) - Build & connect intelligent objects using AI. Vento is your playground for building with AI, code and hardware — no limits, just creation.🚀🚀
 - [QuantGeekDev/lmaolang](https://github.com/QuantGeekDev/lmaolang) - 👏🏼A👏🏼brand👏🏼new👏🏼way👏🏼to👏🏼write👏🏼HTML👏🏼
