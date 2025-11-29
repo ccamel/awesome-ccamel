@@ -2802,7 +2802,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) - Astroport DEX core contracts
-- [atoma-network/atoma-node](https://github.com/atoma-network/atoma-node) - Welcome to the compute digital revolution! Here, you'll discover everything you need to deploy an Atoma node and join the future of decentralized AI.
+- [atoma-ai-labs/atoma-node](https://github.com/atoma-ai-labs/atoma-node) - Core infrastructure for confidential computing AI inference
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 - [autonomys/subspace](https://github.com/autonomys/subspace) - Subspace Protocol reference implementation
