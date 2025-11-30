@@ -2697,6 +2697,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [AtlasDA0/app-contracts](https://github.com/AtlasDA0/app-contracts) - Cosmwasm implementation of non-custodial NFT loans,  on-chain raffles & P2P trading
+- [AtomaAI/atoma-node](https://github.com/AtomaAI/atoma-node) - Core infrastructure for confidential computing AI inference
 - [Big-Bytes-Labs/fisher-rs](https://github.com/Big-Bytes-Labs/fisher-rs) - A fast, powerful, flexible and easy to use open source data analysis and manipulation tool written in Rust
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -2802,7 +2803,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) - Astroport DEX core contracts
-- [atoma-ai-labs/atoma-node](https://github.com/atoma-ai-labs/atoma-node) - Core infrastructure for confidential computing AI inference
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 - [autonomys/subspace](https://github.com/autonomys/subspace) - Subspace Protocol reference implementation
