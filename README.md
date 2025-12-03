@@ -919,7 +919,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [goplus/c2go](https://github.com/goplus/c2go) - Convert C to Go
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosystem. Our vision is to enable everyone to become a builder of the world.
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [goravel/goravel](https://github.com/goravel/goravel) - A full-featured Golang Development Framework.
 - [goraz/onion](https://github.com/goraz/onion) - Layer based configuration for golang
@@ -3014,7 +3014,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oxigraph/rio](https://github.com/oxigraph/rio) - RDF parsers library
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust performance debug toolkit. Live profiling for allocations, timings, threads, and channel/stream data flows.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust performance debug toolkit. Live profiling for allocations, timings, threads, and channel/stream/futures data flow.
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a privacy-preserving decentralized exchange for all of crypto
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
