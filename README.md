@@ -3299,6 +3299,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 - [gythialy/golang-cross](https://github.com/gythialy/golang-cross) - golang cross compiler with CGO
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [ibiqlik/action-yamllint](https://github.com/ibiqlik/action-yamllint) - GitHub Action - Yaml Lint
@@ -3676,7 +3677,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/next-as-immutable](https://github.com/hazae41/next-as-immutable) - An immutable Next.js webapp starter
 - [hazae41/piscine](https://github.com/hazae41/piscine) - Create async pools with automatic retry
 - [hazae41/result-and-option](https://github.com/hazae41/result-and-option) - Rust-like Result for TypeScript
-- [hazae41/starter](https://github.com/hazae41/starter) - Start a cool webapp with React and Tailwind
+- [hazae41/starter](https://github.com/hazae41/starter) - Start a secure webapp with React and Tailwind
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [heroui-inc/next-app-template](https://github.com/heroui-inc/next-app-template) - A Next.js 15 with app directory template  pre-configured with HeroUI (v2) and Tailwind CSS (v4).
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
@@ -3796,6 +3797,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
+- [opensouls/opensouls](https://github.com/opensouls/opensouls) - The framework for AI souls
 - [opsmanager1/Axone](https://github.com/opsmanager1/Axone) - 
 - [optimistex/xlsx-template-ex](https://github.com/optimistex/xlsx-template-ex) - The template engine for generate xlsx documents
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
@@ -4119,7 +4121,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [folpe/atlas](https://github.com/folpe/atlas) - Liste vivante d’outils IA (LLM, agents, RAG, no-code) & prompts en français.
 - [gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries](https://github.com/gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries) - Extensive List of CSS Frameworks and UI/Components Libraries.
 - [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
