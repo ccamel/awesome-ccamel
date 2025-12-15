@@ -1120,7 +1120,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform Azure DevOps provider
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [mikespook/gorbac](https://github.com/mikespook/gorbac) - goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.
 - [miku/zek](https://github.com/miku/zek) - Generate a Go struct from XML.
 - [mingderwang/did](https://github.com/mingderwang/did) - x/did module for the Cosmos SDK framework with a “self-sovereign" digital identity (DID) support
@@ -2862,6 +2862,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [cosmos/ibc-proto-rs](https://github.com/cosmos/ibc-proto-rs) - Rust Protobuf definitions and gRPC clients for interacting with Cosmos SDK, IBC and Interchain Security
 - [cosmos/ics23](https://github.com/cosmos/ics23) - Building generic merkle proof format for IBC
+- [cosmos/solidity-ibc-eureka](https://github.com/cosmos/solidity-ibc-eureka) - This is a solidity implementation of IBC v2.
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
 - [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
@@ -3374,7 +3375,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Solidity
 
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [cosmos/solidity-ibc-eureka](https://github.com/cosmos/solidity-ibc-eureka) - This is a solidity implementation of IBC v2.
 - [skip-mev/go-fast-contracts](https://github.com/skip-mev/go-fast-contracts) - 
 
 ## Svelte
@@ -3679,6 +3679,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/piscine](https://github.com/hazae41/piscine) - Create async pools with automatic retry
 - [hazae41/result-and-option](https://github.com/hazae41/result-and-option) - Rust-like Result for TypeScript
 - [hazae41/starter](https://github.com/hazae41/starter) - Start a secure webapp with React and Tailwind
+- [hazae41/stdbob](https://github.com/hazae41/stdbob) - Standard libraries for Bobine WebAssembly VM
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [heroui-inc/next-app-template](https://github.com/heroui-inc/next-app-template) - A Next.js 15 with app directory template  pre-configured with HeroUI (v2) and Tailwind CSS (v4).
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
