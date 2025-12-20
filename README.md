@@ -1079,7 +1079,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
 - [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 - [liggitt/audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs
-- [lingrino/go-fault](https://github.com/lingrino/go-fault) - fault injection library in go using standard http middleware
+- [lingrino/go-fault](https://github.com/lingrino/go-fault) - go fault injection library
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [lithammer/shortuuid](https://github.com/lithammer/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs
 - [livefir/fir](https://github.com/livefir/fir) - Build reactive html apps in Go
@@ -3480,7 +3480,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [PackmindHub/packmind](https://github.com/PackmindHub/packmind) - Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-- [Protofy-xyz/Vento](https://github.com/Protofy-xyz/Vento) - Build & connect smart devices using AI. Vento is your playground for building with AI, code and hardware — no limits, just creation.🚀🚀
 - [QuantGeekDev/lmaolang](https://github.com/QuantGeekDev/lmaolang) - 👏🏼A👏🏼brand👏🏼new👏🏼way👏🏼to👏🏼write👏🏼HTML👏🏼
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) - The game-changing wallet for Ethereum and all EVM chains
@@ -4040,6 +4039,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
 - [PabloMK7/citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
+- [Protofy-xyz/Vento](https://github.com/Protofy-xyz/Vento) - Build & connect smart devices using AI. Vento is your playground for building with AI, code and hardware — no limits, just creation.🚀🚀
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
 - [ScalablyTyped/Distribution](https://github.com/ScalablyTyped/Distribution) - The Javascript ecosystem for Scala.js!
 - [SecretFoundation/docs](https://github.com/SecretFoundation/docs) - Secret Network Documentation
