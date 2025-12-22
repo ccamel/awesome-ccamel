@@ -747,7 +747,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Alternative to Cron and Airflow without complexity. Offline or air-gapped environment ready.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Workflow engine alternative to Cron or Airflow without operational overhead.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
 - [dataux/dataux](https://github.com/dataux/dataux) - Federated mysql compatible proxy to elasticsearch, mongo, cassandra, big-table, google datastore
@@ -1985,6 +1985,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hariroshan/parcel-transformer-elm-assets](https://github.com/hariroshan/parcel-transformer-elm-assets) - 
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
+- [hazae41/create-secure-webapp](https://github.com/hazae41/create-secure-webapp) - Start a secure webapp with React and Tailwind
 - [hhru/react-d3-chart-graphs](https://github.com/hhru/react-d3-chart-graphs) - 
 - [hoodrunio/cosmos-governance](https://github.com/hoodrunio/cosmos-governance) - Governance proposals notification/alert bot for Cosmos-based chains
 - [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
@@ -2437,6 +2438,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [agent0lab/agent0-py](https://github.com/agent0lab/agent0-py) - Agent0 is the SDK for agentic economies: open discovery and trust for agents
 - [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Cognito integration.
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [aida-ugent/fairret](https://github.com/aida-ugent/fairret) - A fairness library in PyTorch.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [alexdolbun/python-highload-mcp](https://github.com/alexdolbun/python-highload-mcp) - MCP Server for legacy and new python high load engineering
@@ -2845,6 +2847,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [c272/cobalt](https://github.com/c272/cobalt) - An optimising COBOL compiler, built on modern code generation in Rust.
+- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -3680,7 +3683,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/cadenas](https://github.com/hazae41/cadenas) - Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [hazae41/chemin](https://github.com/hazae41/chemin) - Create infinite virtual subpaths for your React webapp
 - [hazae41/create-bobine-module](https://github.com/hazae41/create-bobine-module) - Make a Bobine module written in AssemblyScript
-- [hazae41/create-secure-webapp](https://github.com/hazae41/create-secure-webapp) - Start a secure webapp with React and Tailwind
 - [hazae41/decibel](https://github.com/hazae41/decibel) - Queriable in-memory database for TypeScript
 - [hazae41/dstorage](https://github.com/hazae41/dstorage) - Origin-agnostic storage for your dapp
 - [hazae41/glace](https://github.com/hazae41/glace) - Build a webapp with security in mind
