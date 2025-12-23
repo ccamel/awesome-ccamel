@@ -747,7 +747,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Workflow engine alternative to Cron or Airflow without operational overhead.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight workflow engine with builtin Web UI. No code, self-contained, and portable.  execute them anywhere with a single binary, compose complex pipelines from reusable sub-workflows, and distribute tasks across workers. Just work without requiring databases, message brokers, or code changes.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
 - [dataux/dataux](https://github.com/dataux/dataux) - Federated mysql compatible proxy to elasticsearch, mongo, cassandra, big-table, google datastore
@@ -1851,6 +1851,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Schweigi/assembler-simulator](https://github.com/Schweigi/assembler-simulator) - Simple 8-bit Assembler Simulator with Angular.js
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [Ubleam/eslint-config-ubleam](https://github.com/Ubleam/eslint-config-ubleam) - 📜 ESLint shareable config used @Ubleam
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and minify) GLSL/WGSL shader files :electric_plug:
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
@@ -1876,7 +1877,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [axept/open-parse](https://github.com/axept/open-parse) - Get RESTful API to your data store, schemas, users and security management and bring up your own BaaS in a few minutes
 - [axone-protocol/Axone-OpenShare-dApp](https://github.com/axone-protocol/Axone-OpenShare-dApp) - 
-- [axone-protocol/contracts](https://github.com/axone-protocol/contracts) - 📜 Smart contracts for the Axone protocol (powered by CosmWasm)
 - [badgen/badgen](https://github.com/badgen/badgen) - Fast handcraft svg badge generator.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [baruchvlz/resq](https://github.com/baruchvlz/resq) - React Element Selector Query (RESQ) - Query React components and children by component name or HTML selector
@@ -2825,6 +2825,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 - [autonomys/subspace](https://github.com/autonomys/subspace) - Subspace Protocol reference implementation
+- [axone-protocol/contracts](https://github.com/axone-protocol/contracts) - 📜 Smart contracts for the Axone protocol (powered by CosmWasm)
 - [azerpas/bourso-api](https://github.com/azerpas/bourso-api) - Boursorama / BoursoBank unofficial API and CLI
 - [babylonlabs-io/cosmos-bsn-contracts](https://github.com/babylonlabs-io/cosmos-bsn-contracts) - CosmWasm smart contracts for Babylon integration
 - [balpan-rs/balpan](https://github.com/balpan-rs/balpan) - Simple CLI Tool that supports your onboarding for a journey on source code.
@@ -3091,7 +3092,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
-- [rxRust/rxRust](https://github.com/rxRust/rxRust) - Rust implementation of Reactive Extensions. 
+- [rxRust/rxRust](https://github.com/rxRust/rxRust) - Zero-cost & Type-safe Reactive Extensions for Rust. Supports both high-performance single-threaded (Local) and thread-safe (Shared) contexts. WASM & Tokio ready.
 - [s0raLin/sinter](https://github.com/s0raLin/sinter) - A Cargo-like build tool for Scala projects
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
@@ -3908,6 +3909,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [swup/swup](https://github.com/swup/swup) - Versatile and extensible page transition library for server-rendered websites 🎉
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [talzach/mcp-angular-cli](https://github.com/talzach/mcp-angular-cli) - Model Context Protocol servers for Angular CLI
+- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
