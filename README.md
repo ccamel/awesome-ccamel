@@ -2901,6 +2901,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fanzeyi/cargo-play](https://github.com/fanzeyi/cargo-play) - A local Rust playground
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
+- [fermatrox/neorusticus](https://github.com/fermatrox/neorusticus) - A Prolog implementation in Rust with enhanced error handling
 - [ffizer/ffizer](https://github.com/ffizer/ffizer) - ffizer is a files and folders initializer / generator. Create any kind (or part) of project from template.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
@@ -3019,7 +3020,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [omallassi/adrust](https://github.com/omallassi/adrust) - ADRust: a tool in Rust to manage (Architecture) Decision Records
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [oraichain/cw-bitcoin](https://github.com/oraichain/cw-bitcoin) - Bitcoin trustless bridge implemented in CosmWasm contract facilitating taproot bitcoin script
 - [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
@@ -3036,7 +3036,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oxigraph/rio](https://github.com/oxigraph/rio) - RDF parsers library
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Simple Rust profiler with memory and async data-flow insights - quickly find and debug performance bottlenecks.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Simple async Rust profiler with memory and data-flow insights - quickly find and debug performance bottlenecks.
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a privacy-preserving decentralized exchange for all of crypto
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
@@ -3579,6 +3579,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [coinbase/agentkit](https://github.com/coinbase/agentkit) - Every AI Agent deserves a wallet.
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [condorheroblog/html-export-pdf-cli](https://github.com/condorheroblog/html-export-pdf-cli) - Render HTML to PDF(with outline) using Puppeteer.
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [contextprotocol/sdk](https://github.com/contextprotocol/sdk) - The Context SDK provides a powerful and flexible way to interact with Context, enabling developers to manage domains and documents programmatically.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
@@ -3813,6 +3814,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
 - [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [opensouls/opensouls](https://github.com/opensouls/opensouls) - The framework for AI souls
 - [opsmanager1/Axone](https://github.com/opsmanager1/Axone) - 
