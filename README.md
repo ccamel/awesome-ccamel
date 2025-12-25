@@ -82,6 +82,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [WebAssembly](#webassembly)
 - [YAML](#yaml)
 - [Zig](#zig)
+- [templ](#templ)
 - [Misc](#misc)
 
 ---
@@ -117,6 +118,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [angiebachetarzi/TP_ensimag-malloc](https://github.com/angiebachetarzi/TP_ensimag-malloc) - 
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 - [babelouest/glewlwyd](https://github.com/babelouest/glewlwyd) - Experimental Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins
+- [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
 - [cosmos/ledger-cosmos](https://github.com/cosmos/ledger-cosmos) - 
@@ -541,7 +543,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [RealZimboGuy/gopherflow](https://github.com/RealZimboGuy/gopherflow) - gopherflow is a Small, pragmatic workflow engine for Go with a built-in web console. Define workflows in Go, persist their execution, and observe/operate them via the web UI.
 - [Rhymond/go-money](https://github.com/Rhymond/go-money) - Go implementation of Fowler's Money pattern
-- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL backup tool
+- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
 - [Shyp/generate-tls-cert](https://github.com/Shyp/generate-tls-cert) - Generating self signed certificates
 - [SimonSchneider/traefik-jwt-decode](https://github.com/SimonSchneider/traefik-jwt-decode) - Traefik forward auth implementation for JWT tokens
 - [Stride-Labs/stride](https://github.com/Stride-Labs/stride) - Stride: Multichain Liquid Staking
@@ -2360,6 +2362,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## PowerShell
 
+- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
 ## Processing
@@ -3422,6 +3425,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## TypeScript
 
+- [0xSero/open-orchestra](https://github.com/0xSero/open-orchestra) - 
 - [2-alchemists/krossboard-ui](https://github.com/2-alchemists/krossboard-ui) - User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [3mcd/javelin](https://github.com/3mcd/javelin) - ECS and multiplayer game development toolkit
@@ -4005,6 +4009,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
+## templ
+
+- [templui/templui](https://github.com/templui/templui) - A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Customize everything. Own your code.
+
 ## Misc
 
 - [0x-sen/mev-bot-fraud](https://github.com/0x-sen/mev-bot-fraud) - Be careful for the fake mev-bot codes , watch your wallet
@@ -4040,7 +4048,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [LuisThiamNye/ButteryTaskbar2](https://github.com/LuisThiamNye/ButteryTaskbar2) - Hide the taskbar completely when the Start Menu is not open. 
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [MicrosoftDocs/azure-docs-cli](https://github.com/MicrosoftDocs/azure-docs-cli) - Repository for Azure CLI command documentation published on learn.microsoft.com
-- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
