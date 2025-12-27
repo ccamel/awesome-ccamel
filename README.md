@@ -465,7 +465,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Go
 
-- [2-alchemists/krossboard](https://github.com/2-alchemists/krossboard) - Krossboard is a Kubernetes Operator designed to provide comprehensive usage tracking, analytics, and accounting across diverse Kubernetes environments. It supports cross-site and cross-distribution management (e.g., vanilla Kubernetes, OpenShift, EKS, AKS, GKE, and other distributions)
+- [2-alchemists/krossboard](https://github.com/2-alchemists/krossboard) -  Kubernetes usage analytics for CPU, Memory, and GPU — track costs and optimize cluster resources
 - [2-alchemists/krossboard-data-processor](https://github.com/2-alchemists/krossboard-data-processor) - Data Collector & Processing for Krossboard - A Leading Multi-Cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
 - [99designs/go-keychain](https://github.com/99designs/go-keychain) - 
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
@@ -1248,6 +1248,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint) - Moved to https://codeberg.org/polyfloyd/go-errorlint
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes
 - [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) - Portainer MCP server
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
 - [project-flogo/contrib](https://github.com/project-flogo/contrib) - Core Flogo activities, triggers and functions that are useful across the various event-driven action types.
@@ -1540,7 +1541,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [agj/elm-knobs](https://github.com/agj/elm-knobs) - A simple control panel to tweak values interactively. 🎛️
 - [agnt-gg/slop](https://github.com/agnt-gg/slop) - The place for SLOP
 - [aldi/awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates) - 🚀 Free real-world templates built with Bulma
-- [antonmedv/textarea](https://github.com/antonmedv/textarea) - A notes webapp
+- [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [atomone-hub/atom.one](https://github.com/atomone-hub/atom.one) - Home of the atom.one website
 - [avinash201199/profile-readme-templates](https://github.com/avinash201199/profile-readme-templates) - collection of Profile readme templates
 - [axone-protocol/w3id.org](https://github.com/axone-protocol/w3id.org) - Website source code for w3id.org.
@@ -2071,7 +2072,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [projectwallace/css-code-quality](https://github.com/projectwallace/css-code-quality) - Calculate the Code Quality score of your CSS based on a range of different quality guards.
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [pyvandenbussche/lov](https://github.com/pyvandenbussche/lov) - Linked Open Vocabularies (LOV) - FrontEnd
-- [rchakode/kube-opex-analytics](https://github.com/rchakode/kube-opex-analytics) - 🎨 Kubernetes Usage Analytics Engine & Dashboards for Cost Allocation and Capacity Planning - Hourly Trends, Daily and Monthly Accounting. Actively tested against AKS, EKS, GCP, OKE, and OpenShift. 
+- [rchakode/kube-opex-analytics](https://github.com/rchakode/kube-opex-analytics) -  Kubernetes usage analytics for CPU, Memory, and GPU — track costs and optimize cluster resources
 - [rdfjs/N3.js](https://github.com/rdfjs/N3.js) - Lightning fast, spec-compatible, streaming RDF for JavaScript
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-theming/create-mui-theme](https://github.com/react-theming/create-mui-theme) - online tool for creating material-ui themes
@@ -3427,7 +3428,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## TypeScript
 
-- [0xSero/open-orchestra](https://github.com/0xSero/open-orchestra) - 
+- [0xSero/orchestra](https://github.com/0xSero/orchestra) - 
 - [2-alchemists/krossboard-ui](https://github.com/2-alchemists/krossboard-ui) - User Interface for Krossboard - A Leading Mult-cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [3mcd/javelin](https://github.com/3mcd/javelin) - ECS and multiplayer game development toolkit
