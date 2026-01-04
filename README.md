@@ -748,7 +748,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight workflow engine with builtin Web UI. No code, self-contained, and portable.  execute them anywhere with a single binary, compose complex pipelines from reusable sub-workflows, and distribute tasks across workers. Just work without requiring databases, message brokers, or code changes.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight workflow engine with builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, and distribute tasks across workers. Just work without requiring databases, message brokers, or code changes.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -2385,6 +2385,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Anniepoo/prolog-examples](https://github.com/Anniepoo/prolog-examples) - Some simple examples for new Prolog programmers
 - [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish) - SWI-Prolog for SHaring: a SWI-Prolog web IDE
 - [aarroyoc/doclog](https://github.com/aarroyoc/doclog) - DocLog builds documentation from source code in Prolog
+- [ciao-lang/ciao](https://github.com/ciao-lang/ciao) - Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 
 ## PureScript
@@ -4068,6 +4069,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [PabloMK7/citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
 - [Protofy-xyz/Vento](https://github.com/Protofy-xyz/Vento) - Build & connect smart devices using AI. Vento is your playground for building with AI, code and hardware — no limits, just creation.🚀🚀
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
+- [Rick45/quick-arr-Stack](https://github.com/Rick45/quick-arr-Stack) - Quick start on ARR stack with home VPN
 - [ScalablyTyped/Distribution](https://github.com/ScalablyTyped/Distribution) - The Javascript ecosystem for Scala.js!
 - [SecretFoundation/docs](https://github.com/SecretFoundation/docs) - Secret Network Documentation
 - [SmartStake/relayers](https://github.com/SmartStake/relayers) - A repository of all interchain relayers (IBC). Data stored in this repository is used to build https://relayers.smartstake.io
