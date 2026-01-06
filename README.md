@@ -747,7 +747,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
+- [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) - A versatile, lightweight workflow engine with builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, and distribute tasks across workers. Just works without complex infrastructure.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
@@ -826,6 +826,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [extism/go-sdk](https://github.com/extism/go-sdk) - Extism Go SDK - easily run WebAssembly modules in your Go applications
 - [ezzarghili/recaptcha-go](https://github.com/ezzarghili/recaptcha-go) - Validate Google reCAPTCHA v2 & v3 form submission package in golang
 - [faiface/generics](https://github.com/faiface/generics) - A proof-of-concept implementation of my generics proposal for Go
+- [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) - Fault tolerance and resilience patterns for Go
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [fcambus/rrda](https://github.com/fcambus/rrda) - REST API allowing to perform DNS queries over HTTP
@@ -1579,6 +1580,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ruby-rdf/json-ld](https://github.com/ruby-rdf/json-ld) - Ruby JSON-LD reader/writer for RDF.rb
 - [scala/make-release-notes](https://github.com/scala/make-release-notes) - The project that generates Scala release notes.
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy
+- [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
 - [starbelly/erlang-companies](https://github.com/starbelly/erlang-companies) - A list of companies currently using Erlang in production.
 - [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - The Power of Prolog: Introduction to modern Prolog
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
@@ -2700,7 +2702,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [benjamin-thomas/hot_elm](https://github.com/benjamin-thomas/hot_elm) - Rails integration with Elm + Hotwire + Stimulus demo
 - [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
-- [demarches-simplifiees/demarches-simplifiees.fr](https://github.com/demarches-simplifiees/demarches-simplifiees.fr) - Dématérialiser et simplifier les démarches administratives 
+- [demarche-numerique/demarches-simplifiees.fr](https://github.com/demarche-numerique/demarches-simplifiees.fr) - Dématérialiser et simplifier les démarches administratives 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
@@ -2961,7 +2963,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Tendermint KMS: Key Management System for Tendermint Validators
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
 - [jasonwitty/socktop](https://github.com/jasonwitty/socktop) - socktop is a remote system monitor with a rich TUI interface, inspired by `top` and `btop`, that communicates with a lightweight remote agent over WebSockets.
-- [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff, Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
+- [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [jprochazk/garde](https://github.com/jprochazk/garde) - A powerful validation library for Rust
 - [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) and LALR(1) parser generator for Rust
 - [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite
@@ -4080,7 +4082,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Thyb0rg/Cosmos-Validators-League](https://github.com/Thyb0rg/Cosmos-Validators-League) - 
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [TurpinT/TurpinT](https://github.com/TurpinT/TurpinT) - 
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [Voronenko/awesome-plantuml](https://github.com/Voronenko/awesome-plantuml) - 
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [aaronmbos/monocode](https://github.com/aaronmbos/monocode) - A font for code.
