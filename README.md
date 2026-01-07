@@ -748,7 +748,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A versatile, lightweight workflow engine with builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, and distribute tasks across workers. Just works without complex infrastructure.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight Airflow alternative for small teams. Builtin Web UI. Define workflow in a simple declarative YAML format.  Execute them anywhere, compose complex pipelines from reusable sub-workflows, and distribute tasks across workers. Just works without complex infrastructure.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -885,6 +885,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [go-validator/validator](https://github.com/go-validator/validator) - Package validator implements struct field validations
+- [go-viper/mapstructure](https://github.com/go-viper/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [go-wasm-adapter/go-wasm](https://github.com/go-wasm-adapter/go-wasm) - Run WASM built from Go in Go
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [gobeam/mongo-go-pagination](https://github.com/gobeam/mongo-go-pagination) - Golang Mongodb Pagination for official mongodb/mongo-go-driver package which supports both normal queries and Aggregation pipelines with all information like Total records, Page, Per Page, Previous, Next, Total Page and query results.
@@ -937,6 +938,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gqlgo/gqlgenc](https://github.com/gqlgo/gqlgenc) - This is Go library for building GraphQL client with gqlgen
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+- [grafana/regexp](https://github.com/grafana/regexp) - Faster version of the Go regexp package
 - [grailbio/reflow](https://github.com/grailbio/reflow) - A language and runtime for distributed, incremental data processing in the cloud
 - [graph-gophers/dataloader](https://github.com/graph-gophers/dataloader) - Implementation of Facebook's DataLoader in Golang
 - [graph-gophers/graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use
@@ -1152,6 +1154,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
 - [multiversx/mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
 - [multiversx/mx-chain-vm-go](https://github.com/multiversx/mx-chain-vm-go) - The Virtual Machine for executing WASM Smart Contracts on the MultiversX blockchain. Based on Wasmer, but in principle also supports any other executing engine.
+- [munnerz/goautoneg](https://github.com/munnerz/goautoneg) - Mirror of bitbucket.org/ww/goautoneg
 - [muquit/mailsend-go](https://github.com/muquit/mailsend-go) - mailsend-go is a multi-platform  command line tool to send mail via SMTP protocol
 - [muyo/sno](https://github.com/muyo/sno) - Compact, sortable and fast unique IDs with embedded metadata.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
@@ -1262,6 +1265,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries.
+- [prometheus/otlptranslator](https://github.com/prometheus/otlptranslator) - Library to translate OTLP metric and attribute names to Prometheus metric and label names.
 - [prometheus/procfs](https://github.com/prometheus/procfs) - procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [promhippie/github_exporter](https://github.com/promhippie/github_exporter) - Prometheus exporter for GitHub
@@ -2702,7 +2706,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [benjamin-thomas/hot_elm](https://github.com/benjamin-thomas/hot_elm) - Rails integration with Elm + Hotwire + Stimulus demo
 - [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
-- [demarche-numerique/demarches-simplifiees.fr](https://github.com/demarche-numerique/demarches-simplifiees.fr) - Dématérialiser et simplifier les démarches administratives 
+- [demarche-numerique/demarche.numerique.gouv.fr](https://github.com/demarche-numerique/demarche.numerique.gouv.fr) - Dématérialiser et simplifier les démarches administratives 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
@@ -3000,6 +3004,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
+- [microsoft/Spartan](https://github.com/microsoft/Spartan) - Spartan: High-speed zkSNARKs without trusted setup
 - [mikeleppane/visualvault](https://github.com/mikeleppane/visualvault) - Terminal-based media file organizer with smart date-based organization, duplicate detection, and a beautiful TUI. Organize your photo/video collection efficiently from the command line. Written in Rust using Ratatui 
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [mlange-42/git-graph](https://github.com/mlange-42/git-graph) - Command line tool to show clear git graphs arranged for your branching model
