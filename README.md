@@ -457,6 +457,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Gleam
 
 - [bwireman/go-over](https://github.com/bwireman/go-over) - A tool to audit Erlang & Elixir dependencies, to make sure your ✨ gleam projects really sparkle!
+- [gertvv/gl_wasm](https://github.com/gertvv/gl_wasm) - Create binary WebAssembly modules in Gleam
 - [giacomocavalieri/birdie](https://github.com/giacomocavalieri/birdie) - 🐦‍⬛ Snapshot testing in Gleam
 - [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - 💯 A collection of Gleam libraries, projects, and resources
 - [gleam-lang/erlang](https://github.com/gleam-lang/erlang) - 🐙 Types and functions for programs running on Erlang!
@@ -2906,6 +2907,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [databendlabs/databend](https://github.com/databendlabs/databend) - One Warehouse for  Analytics, Search, AI. Snowflake + Elasticsearch + Vector DB — rebuilt from scratch. Unified architecture on your S3.
 - [debris/tiny-keccak](https://github.com/debris/tiny-keccak) - An implementation of Keccak derived functions specified in FIPS-202, SP800-185 and KangarooTwelve
 - [defstream/kickable-rs](https://github.com/defstream/kickable-rs) - Can you kick it?
+- [dimforge/kiss3d](https://github.com/dimforge/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
@@ -3093,6 +3095,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [riker-rs/riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
 - [rikulauttia/gRPC-Redis-Postgres-Engine](https://github.com/rikulauttia/gRPC-Redis-Postgres-Engine) - High-Performance Rust Backend using Rust, gRPC, Redis, and PostgreSQL. This project focuses on creating a scalable backend system capable of handling millions of requests per second, ideal for applications like messaging services or social network feeds.
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [rosedblabs/rust-practice](https://github.com/rosedblabs/rust-practice) - some tiny learning projects in Rust
 - [rumos-io/gears](https://github.com/rumos-io/gears) - A Rust implementation of the Cosmos SDK
@@ -3128,7 +3131,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) - 𝕊 The Secret Network
 - [scrtlabs/secret-toolkit](https://github.com/scrtlabs/secret-toolkit) - A collection of Rust packages that contain common tools used in development of Secret Contracts
 - [scrtlabs/secret-vault](https://github.com/scrtlabs/secret-vault) - A contract that allows you to create private keys on-chain and sign data with secp256k1 signatures
-- [sebcrozet/kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [securesecrets/shade](https://github.com/securesecrets/shade) - Shade Protocol is an array of connected privacy-preserving dApps built on Secret Network
 - [sei-protocol/sei-cosmwasm](https://github.com/sei-protocol/sei-cosmwasm) - Sei utilities for usage in cosmwasm smart contracts
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
@@ -3586,6 +3588,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [branchup/docusaurus-plugin-simple-analytics](https://github.com/branchup/docusaurus-plugin-simple-analytics) - Simple Analytics plugin for Docusaurus. Now moved as official package by Simple Analytics here: https://github.com/simpleanalytics/docusaurus-plugin
 - [breakfast-studio/lunchboxjs](https://github.com/breakfast-studio/lunchboxjs) - Declarative ThreeJS via web components
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
+- [brumeproject/wallet](https://github.com/brumeproject/wallet) - The wallet with maximum privacy and security
 - [build-canaries/nevergreen](https://github.com/build-canaries/nevergreen) - :baby_chick: A build monitor with attitude
 - [bxcodec/github-readme-medium-recent-article](https://github.com/bxcodec/github-readme-medium-recent-article) - Add Your Recently Published Medium Articles to Your GitHub Readme
 - [capacitor-community/electron](https://github.com/capacitor-community/electron) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Electron platform! 🖥️
@@ -3826,7 +3829,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [notional-labs/dig](https://github.com/notional-labs/dig) - Dig: Governance
 - [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Dataverse Portal for the OKP4 network. 
 - [okp4/follow-contributor-action](https://github.com/okp4/follow-contributor-action) - Github action to follow a contributor.
@@ -4112,6 +4115,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appieasahbie/okp4-kelpr](https://github.com/appieasahbie/okp4-kelpr) - 
 - [arthelokyo/awesome-qwik](https://github.com/arthelokyo/awesome-qwik) - 💠 A curated list of awesome Qwik repos, examples, starters, tutorials, components, modules, videos, and anything else useful.
+- [atlas-registry/atlas](https://github.com/atlas-registry/atlas) - Liste vivante d’outils IA (LLM, agents, RAG, no-code) & prompts en français.
 - [atomone-hub/genesis](https://github.com/atomone-hub/genesis) - genesis for AtomOne
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [axone-protocol/.github](https://github.com/axone-protocol/.github) - 🏢 Axone GitHub Organization-wide files 
@@ -4173,7 +4177,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [fenio/k3s-synology](https://github.com/fenio/k3s-synology) - k3s (lightweight kubernetes) on Synology DS216+
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-- [folpe/atlas](https://github.com/folpe/atlas) - Liste vivante d’outils IA (LLM, agents, RAG, no-code) & prompts en français.
 - [gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries](https://github.com/gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries) - Extensive List of CSS Frameworks and UI/Components Libraries.
 - [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
