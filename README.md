@@ -3637,7 +3637,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
@@ -4252,6 +4252,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [near/borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing
 - [newca12/awesome-rust-formalized-reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning) - An exhaustive list of all Rust resources regarding automated or semi-automated formalization efforts in any area, constructive mathematics, formal algorithms, and program verification.
 - [nikolay-martynov/eip-for-plantuml](https://github.com/nikolay-martynov/eip-for-plantuml) - Library of EIP sprites for PlantUML
+- [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
 - [notional-labs/kitteh](https://github.com/notional-labs/kitteh) - tendermint in rust
 - [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) - A curated list of awesome Web Components tools, articles and resources.
 - [ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
@@ -4299,6 +4300,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [samayun/devbooks](https://github.com/samayun/devbooks) - Open Source Resources
 - [scrtlabs/Grants](https://github.com/scrtlabs/Grants) - Repository for grant proposal submissions
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [security-alliance/seal-911](https://github.com/security-alliance/seal-911) - SEAL 911 is a project designed to give users, developers, and security researchers an accessible way to connect with a small group of highly trusted security professionals in case of emergency.
 - [sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengine) - A curated list of awesome Ebitengine frameworks, libraries and software 
 - [sefakilic/awesome-emacs](https://github.com/sefakilic/awesome-emacs) - a curated list of Emacs resources
 - [semantalytics/awesome-kafka](https://github.com/semantalytics/awesome-kafka) - A curated list of awesome things related to Apache Kafka
