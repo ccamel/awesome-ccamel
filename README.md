@@ -2267,6 +2267,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Lua
 
 - [Kong/kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus) - Prometheus plugin for Kong - this plugin has been moved into https://github.com/Kong/kong, please open issues and PRs in that repo 
+- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 - [penso/kickstart.nvim](https://github.com/penso/kickstart.nvim) - My neovim configuration based from kickstart.nvim
 - [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
 - [pravin-raha/kong-plugin-cookies-to-headers](https://github.com/pravin-raha/kong-plugin-cookies-to-headers) - A Kong plugin that will add Authorization header from cookie
@@ -3334,6 +3335,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [RubieV/plugin-fuck](https://github.com/RubieV/plugin-fuck) - Execute last command as root in fish
 - [ScaCap/action-ktlint](https://github.com/ScaCap/action-ktlint) - Run Ktlint with reviewdog
 - [StreakyCobra/gws](https://github.com/StreakyCobra/gws) - Colorful KISS helper for git workspaces
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [akash-network/cosmos-omnibus](https://github.com/akash-network/cosmos-omnibus) - 
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
@@ -3710,7 +3712,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-- [gracefullight/docusaurus-plugins](https://github.com/gracefullight/docusaurus-plugins) - Enhance your Docusaurus website with this collection of script plugins. 📚🦖
+- [gracefullight/docusaurus-plugins](https://github.com/gracefullight/docusaurus-plugins) - A comprehensive collection of Docusaurus plugins for analytics, chat, ads, error tracking, and more. Enhance your documentation website with integrations for Baidu, Cloudflare, Naver, Vercel, Yandex, Microsoft Clarity, Channelio, Chatra, Intercom, Gitter, Google AdSense, Meta Pixel, Sentry, and Tailwind CSS.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [graphile/migrate](https://github.com/graphile/migrate) - Opinionated SQL-powered productive roll-forward migration tool for PostgreSQL.
 - [graphql-compose/graphql-compose-elasticsearch](https://github.com/graphql-compose/graphql-compose-elasticsearch) - Hide Elastic Search REST API behind GraphQL.
@@ -3739,6 +3741,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/piscine](https://github.com/hazae41/piscine) - Create async pools with automatic retry
 - [hazae41/result-and-option](https://github.com/hazae41/result-and-option) - Rust-like Result for TypeScript
 - [hazae41/stdbob](https://github.com/hazae41/stdbob) - Standard libraries for Bobine WebAssembly VM
+- [hazae41/wasm](https://github.com/hazae41/wasm) - WebAssembly Binary Format (.wasm) decoder-modifier-encoder for TypeScript
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [heroui-inc/next-app-template](https://github.com/heroui-inc/next-app-template) - A Next.js 15 with app directory template  pre-configured with HeroUI (v2) and Tailwind CSS (v4).
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
@@ -4107,7 +4110,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Thyb0rg/Cosmos-Validators-League](https://github.com/Thyb0rg/Cosmos-Validators-League) - 
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [TurpinT/TurpinT](https://github.com/TurpinT/TurpinT) - 
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [Voronenko/awesome-plantuml](https://github.com/Voronenko/awesome-plantuml) - 
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [aaronmbos/monocode](https://github.com/aaronmbos/monocode) - A font for code.
