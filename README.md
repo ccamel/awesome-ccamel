@@ -1126,6 +1126,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [memnix/memnix-rest](https://github.com/memnix/memnix-rest) - Memnix Rest API
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io
+- [meysamhadeli/shop-golang-microservices](https://github.com/meysamhadeli/shop-golang-microservices) - Practical microservices based on different software architecture and technologies like Golang, CQRS, Vertical Slice Architecture, Docker, RabbitMQ, OpenTelemetry and Postgresql.
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform Azure DevOps provider
@@ -2058,7 +2059,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) - LaTeX block support for EditorJS
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - Template for PixiJS using Typescript and Webpack https://stackblitz.com/github/miltoncandelero/pixi-hotwire 
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -2993,6 +2994,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [larry0x/cw-plus-plus](https://github.com/larry0x/cw-plus-plus) - A collection of CosmWasm utilities and helper functions that I use 
 - [larry0x/cw-template](https://github.com/larry0x/cw-template) - Template for multi-contract CosmWasm projects
+- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 - [left-curve/left-curve](https://github.com/left-curve/left-curve) - Dango exchange
 - [lemunozm/message-io](https://github.com/lemunozm/message-io) - Fast and easy-to-use event-driven network library.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -3390,6 +3392,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rewseRE/cosmos-validator-monitoring](https://github.com/rewseRE/cosmos-validator-monitoring) - Simple shell script for monitoring Cosmos-SDK based networks validators.
 - [romanv1812/OKP4](https://github.com/romanv1812/OKP4) - 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [sandstream/ralph-inferno](https://github.com/sandstream/ralph-inferno) - AI-driven autonomous development workflow - Ralph builds while you sleep
 - [scottyhardy/docker-wine](https://github.com/scottyhardy/docker-wine) - Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS
 - [singram/mongo-docker-compose](https://github.com/singram/mongo-docker-compose) - Fully sharded mongo environment using docker-compose
 - [snowplow/iglu](https://github.com/snowplow/iglu) - Iglu is a machine-readable, open-source schema repository for JSON Schema from the team at Snowplow
@@ -3471,7 +3474,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AbstractSDK/templates](https://github.com/AbstractSDK/templates) - Templates for building Abstract modules.
 - [AdrienLemaire/okp4_web_interface](https://github.com/AdrienLemaire/okp4_web_interface) - 
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Arindam200/logo-ai](https://github.com/Arindam200/logo-ai) - AI Powered Logo Generator | Powered by Nebius AI
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [AudiusProject/hedgehog](https://github.com/AudiusProject/hedgehog) - 🦔 Build DApps like Apps -- A Metamask alternative that empowers you to build good UX
@@ -3568,6 +3570,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alleslabs/celatone-frontend](https://github.com/alleslabs/celatone-frontend) - An explorer for a CosmWasm-powered Cosmos ecosystem.
 - [alpic-ai/mcp-eval](https://github.com/alpic-ai/mcp-eval) - Evaluation tool for MCP servers
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [antho31/okp4-ui-boilerplate](https://github.com/antho31/okp4-ui-boilerplate) - 🖥️ Vite starter for the OKP4 protocol
@@ -4114,7 +4117,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [aaronmbos/monocode](https://github.com/aaronmbos/monocode) - A font for code.
 - [abagames/various-actions-in-a-one-button-game](https://github.com/abagames/various-actions-in-a-one-button-game) - 
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time 
 - [adairrr/awesome-archway](https://github.com/adairrr/awesome-archway) - A curated list of awesome Archway Network resources.
 - [ajvb/awesome-tor](https://github.com/ajvb/awesome-tor) - A list of awesome Tor related projects, articles, papers, etc
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
@@ -4318,6 +4320,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [s-tikhomirov/smart-contract-languages](https://github.com/s-tikhomirov/smart-contract-languages) - A curated collection of resources on smart contract programming languages
 - [samayun/devbooks](https://github.com/samayun/devbooks) - Open Source Resources
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time 
 - [scrtlabs/Grants](https://github.com/scrtlabs/Grants) - Repository for grant proposal submissions
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [security-alliance/seal-911](https://github.com/security-alliance/seal-911) - SEAL 911 is a project designed to give users, developers, and security researchers an accessible way to connect with a small group of highly trusted security professionals in case of emergency.
