@@ -1848,6 +1848,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ChristophP/elm-esm](https://github.com/ChristophP/elm-esm) - Turn Elm compiler output into modern ES Modules
 - [CosmWasm/docs-deprecated-2023](https://github.com/CosmWasm/docs-deprecated-2023) - Deprecated (in 2023) CosmWasm documentation
 - [DREwX-code/Ultimate-Text-Selection-Translator](https://github.com/DREwX-code/Ultimate-Text-Selection-Translator) - Translate selected text instantly using Ctrl+L. Supports all languages and automatically detects the selected language, translating it into your browser's default language. Simple, fast, and efficient.
+- [DREwX-code/greasyfork-premium](https://github.com/DREwX-code/greasyfork-premium) - Premium enhancement of the GreasyFork interface: light/dark themes, optimized UI, and features designed for more efficient daily use.
 - [DREwX-code/neuraveil](https://github.com/DREwX-code/neuraveil) - Lightweight floating AI chat panel for any webpage, powered by Pollinations.ai (text & image).
 - [David-Kunz/derive-type](https://github.com/David-Kunz/derive-type) - Derive types dynamically by running tests to capture value combinations
 - [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action) - A GitHub Action to run the markdownlint-cli2 tool for linting Markdown/CommonMark files with the markdownlint library
@@ -3493,7 +3494,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/mesh-security-ui](https://github.com/CosmWasm/mesh-security-ui) - Basic UI to try out mesh security
 - [CosmWasm/testnets](https://github.com/CosmWasm/testnets) - Information on all public CosmWasm testnets
 - [DA0-DA0/dao-dao-ui](https://github.com/DA0-DA0/dao-dao-ui) - InterChain DAO tooling UI.
-- [DariuszDepta/cosmwasmsaurus](https://github.com/DariuszDepta/cosmwasmsaurus) - CosmWasm documentation site developed using Docusaurus
 - [DisownedWheat/BabylonJS-Game-Logic-Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic with BabylonJS
 - [DocusaurusCommunity/website](https://github.com/DocusaurusCommunity/website) - Docusaurus.community - Collecting knowledge, tips and tricks for Docusaurus.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
