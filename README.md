@@ -26,6 +26,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [F#](#f)
 - [Gleam](#gleam)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Handlebars](#handlebars)
@@ -581,6 +582,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [alpeb/go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s. 
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [andromedaprotocol/andromedad](https://github.com/andromedaprotocol/andromedad) - 
 - [anthdm/hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang
@@ -1524,6 +1526,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ziggy42/epsilon](https://github.com/ziggy42/epsilon) - A WASM virtual machine written in Go with 0 dependencies
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 
+## Go Template
+
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
+
 ## Groovy
 
 - [BreizhBeans/InTheMood4Life](https://github.com/BreizhBeans/InTheMood4Life) - Geek against mood disorders
@@ -2165,6 +2171,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀
 - [vardius/message-bus](https://github.com/vardius/message-bus) - Go simple async message bus
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [victorandree/apollo-federation-relay](https://github.com/victorandree/apollo-federation-relay) - A demo of Apollo Federation and global Node resolution
@@ -2511,6 +2518,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [chris104957/maildown](https://github.com/chris104957/maildown) - A super simple CLI for sending emails
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella: 
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase 
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
@@ -2903,7 +2911,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [cloudpeers/tlfs](https://github.com/cloudpeers/tlfs) - The Local-First SDK
 - [cnyvz96/knowledge-network](https://github.com/cnyvz96/knowledge-network) - Prolog solution for complex calculations.
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [codeninja819/cw721-nft-staking](https://github.com/codeninja819/cw721-nft-staking) - CW721 NFT Staking smart contract in CosmWasm
 - [cometbft/tendermint-rs](https://github.com/cometbft/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [commonwarexyz/monorepo](https://github.com/commonwarexyz/monorepo) - Commonware Library Primitives and Examples
@@ -2954,6 +2961,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gendx/lzma-rs](https://github.com/gendx/lzma-rs) - An LZMA decoder written in pure Rust
 - [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [git-bahn/git-graph](https://github.com/git-bahn/git-graph) - Command line tool to show clear git graphs arranged for your branching model
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
@@ -3027,7 +3035,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [microsoft/Spartan](https://github.com/microsoft/Spartan) - Spartan: High-speed zkSNARKs without trusted setup
 - [mikeleppane/visualvault](https://github.com/mikeleppane/visualvault) - Terminal-based media file organizer with smart date-based organization, duplicate detection, and a beautiful TUI. Organize your photo/video collection efficiently from the command line. Written in Rust using Ratatui 
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
-- [mlange-42/git-graph](https://github.com/mlange-42/git-graph) - Command line tool to show clear git graphs arranged for your branching model
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [mortendahl/rust-paillier](https://github.com/mortendahl/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
 - [move-language/move](https://github.com/move-language/move) - 
@@ -3427,7 +3434,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Smarty
 
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) - 
 - [monaparty/helm-ipfs-cluster](https://github.com/monaparty/helm-ipfs-cluster) - A Helm chart for IPFS clusters.
 - [nextcloud/helm](https://github.com/nextcloud/helm) - A community maintained helm chart for deploying Nextcloud on Kubernetes.
@@ -3839,6 +3845,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [mtwn105/GitHubWrapped](https://github.com/mtwn105/GitHubWrapped) - GitHub Wrapped - Your Year in Code
 - [multiversx/mx-template-dapp](https://github.com/multiversx/mx-template-dapp) - 
+- [musketeers-br/dc-artisan](https://github.com/musketeers-br/dc-artisan) - Prompt & RAG Pipeline for VSCode
 - [my-badges/my-badges](https://github.com/my-badges/my-badges) - Google's Moma Badges for GitHub
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [newcat/baklavajs](https://github.com/newcat/baklavajs) - Graph / node editor in the browser using VueJS
