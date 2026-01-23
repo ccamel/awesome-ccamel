@@ -713,6 +713,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [colega/zeropool](https://github.com/colega/zeropool) - Zero-allocation type-safe pool for Go
 - [cometbft/cometbft](https://github.com/cometbft/cometbft) - CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.
+- [concourse/semver-resource](https://github.com/concourse/semver-resource) - Automated semantic version bumping
 - [confio/tgrade](https://github.com/confio/tgrade) - The Tgrade Blockchain Binary, based on the Cosmos SDK and wasmd
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates. 
@@ -2103,6 +2104,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system.
 - [please-openit/token-leak-extension](https://github.com/please-openit/token-leak-extension) - Chrome extension to analyse oauth2 authentication process
+- [pmowrer/semantic-release-monorepo](https://github.com/pmowrer/semantic-release-monorepo) - Apply semantic-release's automatic publishing to a monorepo.
 - [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -2502,7 +2504,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [atchopba/scraping-jobs](https://github.com/atchopba/scraping-jobs) - Scraping-jobs helps scrape jobs from major job boards (apec.fr, indeed.fr, monster.fr...) to provide a simple and unified job search engine.
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-- [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
+- [awslabs/mcp](https://github.com/awslabs/mcp) - Official AWS MCP Servers
 - [aziz/SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [benjefferies/branch-protection-bot](https://github.com/benjefferies/branch-protection-bot) - A bot tool to disable and re-enable "Include administrators" option in branch protection
@@ -2659,6 +2661,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - 🛠 Python project template generator with batteries included
 - [python-poetry/poetry-core](https://github.com/python-poetry/poetry-core) - Poetry PEP 517 Build Backend & Core Utilities
+- [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automating Releases via SemVer and Commit Message Conventions
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [ravikiranvm/aws-finops-dashboard](https://github.com/ravikiranvm/aws-finops-dashboard) - A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries.
@@ -2678,6 +2681,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [seanluong/cookiecutter-python-cli](https://github.com/seanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
@@ -2922,6 +2926,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [concoct-rs/concoct](https://github.com/concoct-rs/concoct) - A reactive runtime for embedded systems in Rust
 - [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Example IBC enabled contracts along with full stack integration tests
 - [confio/poe-contracts](https://github.com/confio/poe-contracts) - Tgrade PoE smart contracts
+- [consistent-milk12/masstree](https://github.com/consistent-milk12/masstree) - An implementation of the C++ Masstree data structure in Rust.
 - [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template for setting up new Rust 2024 Edition projects with cargo-make/rustfmt/rust-clippy.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
@@ -3725,6 +3730,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gitroomhq/trending-list](https://github.com/gitroomhq/trending-list) - Know when you are trending on GitHub
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
+- [googleapis/gcloud-mcp](https://github.com/googleapis/gcloud-mcp) - gcloud MCP server
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [gracefullight/docusaurus-plugins](https://github.com/gracefullight/docusaurus-plugins) - A comprehensive collection of Docusaurus plugins for analytics, chat, ads, error tracking, and more. Enhance your documentation website with integrations for Baidu, Cloudflare, Naver, Vercel, Yandex, Microsoft Clarity, Channelio, Chatra, Intercom, Gitter, Google AdSense, Meta Pixel, Sentry, and Tailwind CSS.
@@ -3952,6 +3958,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [skip-mev/skip-go-registry](https://github.com/skip-mev/skip-go-registry) - 
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+- [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [solana-labs/example-helloworld](https://github.com/solana-labs/example-helloworld) - Hello world on Solana
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
