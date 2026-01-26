@@ -861,7 +861,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gamegos/jsend](https://github.com/gamegos/jsend) - Go JSend library to wrap json responses
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&gt; Use now the actively maintained git-cliff
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -2909,6 +2909,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [casey/intermodal](https://github.com/casey/intermodal) - A command-line utility for BitTorrent torrent file creation, verification, and more
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [celestia-island/hikari](https://github.com/celestia-island/hikari) - The Frontend of Everything
+- [celestiaorg/lumina](https://github.com/celestiaorg/lumina) - Wasm friendly Celestia light node implementation in Rust
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [chanmix51/soft65c02](https://github.com/chanmix51/soft65c02) - A 65C02 simulator
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -2949,7 +2950,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [duncanlutz/ruxt.rs](https://github.com/duncanlutz/ruxt.rs) - An Actix-based Rust framework for building HTMX sites.
 - [eigerco/beerus](https://github.com/eigerco/beerus) - A stateless trustless Starknet light client in Rust 🦀
-- [eigerco/lumina](https://github.com/eigerco/lumina) - Wasm friendly Celestia light node implementation in Rust
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [ericseppanen/cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - An easy to configure wrapper for Rust's clippy
@@ -3024,6 +3024,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [liamzebedee/tendermint-rs](https://github.com/liamzebedee/tendermint-rs) - A minimal reimplementation of Tendermint in Rust
 - [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
 - [lita-xyz/rust-examples](https://github.com/lita-xyz/rust-examples) - 
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
 - [lue-bird/elm-language-server-rs](https://github.com/lue-bird/elm-language-server-rs) - language server for elm, in rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
 - [lunatic-solutions/lunatic-rs](https://github.com/lunatic-solutions/lunatic-rs) - This library contains higher level Rust wrappers for low level Lunatic syscalls.
@@ -3818,7 +3819,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lavanet/lava-sdk-providers](https://github.com/lavanet/lava-sdk-providers) - Lava SDK providers
 - [leboncoin/spark-web](https://github.com/leboncoin/spark-web) - ✨ Simple, Modular & Accessible UI Components for your React Applications
 - [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [loiclaudet/block-explorer](https://github.com/loiclaudet/block-explorer) - Ethereum blocks, transactions and accounts explorer
@@ -4025,6 +4026,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [yysun/apprun](https://github.com/yysun/apprun) - AppRun is a JavaScript library for developing high-performance and reliable web applications using the elm inspired architecture, events and components.
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server.
 - [zenopie/totp-auth-contract](https://github.com/zenopie/totp-auth-contract) - 
+- [zeta-chain/protocol-contracts-evm](https://github.com/zeta-chain/protocol-contracts-evm) - Protocol contracts implementing the core logic of the protocol, deployed on ZetaChain and on connected chains
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard. 
 
@@ -4097,6 +4099,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/book](https://github.com/CosmWasm/book) - CosmWasm book
 - [CosmosContracts/docs](https://github.com/CosmosContracts/docs) - Documentation - Juno 
 - [Cour-de-cassation/moteurNER](https://github.com/Cour-de-cassation/moteurNER) - communication sur le moteur de pseudonymisation de la Cour de Cassation
+- [CristinaSolana/solana-developer-resources](https://github.com/CristinaSolana/solana-developer-resources) - Solana Developer Resources
 - [Cumulo-pro/Axone](https://github.com/Cumulo-pro/Axone) - 
 - [DGKSK8LIFE/go-copilot](https://github.com/DGKSK8LIFE/go-copilot) - Github Copilot examples with Go
 - [Dimokus88/OkP4](https://github.com/Dimokus88/OkP4) - Node OkP4 on Akash Network | Нода OkP4 на Akash Network
