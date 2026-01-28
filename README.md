@@ -237,7 +237,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stripe-samples/checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
 - [thepushkaraj/TechCreators](https://github.com/thepushkaraj/TechCreators) - A website to list tech twitter creators, across the world.
 - [thesabbir/simple-line-icons](https://github.com/thesabbir/simple-line-icons) - Simple and Minimal Line Icons
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 
 ## CUE
 
@@ -762,7 +762,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [decred/dcrwallet](https://github.com/decred/dcrwallet) - A secure Decred wallet daemon written in Go (golang).
 - [dedalqq/omg.jsonparser](https://github.com/dedalqq/omg.jsonparser) - The simple JSON parser with validation by condition
-- [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - Fast and flexible scripting for Go developers and DevOps.
+- [deepnoodle-ai/risor](https://github.com/deepnoodle-ai/risor) - A fast and flexible expression language
 - [deiu/rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF (includes parser/serializer for Turtle and JSON-LD)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [descope/go-sdk](https://github.com/descope/go-sdk) - Go library used to integrate with Descope
@@ -889,7 +889,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
 - [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [go-validator/validator](https://github.com/go-validator/validator) - Package validator implements struct field validations
 - [go-viper/mapstructure](https://github.com/go-viper/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [go-wasm-adapter/go-wasm](https://github.com/go-wasm-adapter/go-wasm) - Run WASM built from Go in Go
@@ -2178,7 +2178,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀
 - [vardius/message-bus](https://github.com/vardius/message-bus) - Go simple async message bus
-- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [victorandree/apollo-federation-relay](https://github.com/victorandree/apollo-federation-relay) - A demo of Apollo Federation and global Node resolution
@@ -2286,7 +2286,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Lua
 
 - [Kong/kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus) - Prometheus plugin for Kong - this plugin has been moved into https://github.com/Kong/kong, please open issues and PRs in that repo 
-- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
 - [penso/kickstart.nvim](https://github.com/penso/kickstart.nvim) - My neovim configuration based from kickstart.nvim
 - [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
 - [pravin-raha/kong-plugin-cookies-to-headers](https://github.com/pravin-raha/kong-plugin-cookies-to-headers) - A Kong plugin that will add Authorization header from cookie
@@ -2557,7 +2557,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [eshaan7/Flask-Shell2HTTP](https://github.com/eshaan7/Flask-Shell2HTTP) - Execute shell commands via HTTP server (via flask's endpoints). 
 - [etalab-ia/franceservices-backend](https://github.com/etalab-ia/franceservices-backend) - Backend ressources for Albert. Albert is a conversational agent that uses official French data sources to answer administrative agents questions.
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [fathyb/analytics-python-10krps](https://github.com/fathyb/analytics-python-10krps) - 
 - [fetchai/cosmpy](https://github.com/fetchai/cosmpy) - A Python client library for interacting with blockchains based on the Cosmos-SDK
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -3133,7 +3133,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [riker-rs/riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
 - [rikulauttia/gRPC-Redis-Postgres-Engine](https://github.com/rikulauttia/gRPC-Redis-Postgres-Engine) - High-Performance Rust Backend using Rust, gRPC, Redis, and PostgreSQL. This project focuses on creating a scalable backend system capable of handling millions of requests per second, ideal for applications like messaging services or social network feeds.
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
-- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [rosedblabs/rust-practice](https://github.com/rosedblabs/rust-practice) - some tiny learning projects in Rust
 - [rumos-io/gears](https://github.com/rumos-io/gears) - A Rust implementation of the Cosmos SDK
@@ -4080,6 +4079,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [lukewilliamboswell/roc-wasm4](https://github.com/lukewilliamboswell/roc-wasm4) - Build wasm4 games using Roc
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 ## templ
