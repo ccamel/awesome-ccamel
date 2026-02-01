@@ -782,7 +782,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry 
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - A Compiler to Connect AI to Your Databases
 - [dpapathanasiou/go-recaptcha](https://github.com/dpapathanasiou/go-recaptcha) - A package for handling reCaptcha (http://www.google.com/recaptcha) form submissions in Go (http://golang.org/).
 - [dravenk/webthing-go](https://github.com/dravenk/webthing-go) - Go implementation of a Web Thing server
 - [drgrib/maps](https://github.com/drgrib/maps) - Deprecated with note on how to implement this package's functionality using Go 1.18. Previously: Type-safe implementations of common map functions and tools to generate those functions.
@@ -1209,7 +1209,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
 - [oliamb/cutter](https://github.com/oliamb/cutter) - Crop images in Golang
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [olric-data/olric](https://github.com/olric-data/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
 - [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [onomyprotocol/onomy](https://github.com/onomyprotocol/onomy) - Onomy Network Provider Chain Software
@@ -2682,7 +2682,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [seanluong/cookiecutter-python-cli](https://github.com/seanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 500+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
@@ -3253,7 +3253,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/okp4-web](https://github.com/okp4/okp4-web) - 🌐 OKP4 web site
 - [okp4/team-wiki](https://github.com/okp4/team-wiki) - 📚 OKP4 Wiki
 - [oschrenk/scrumoji](https://github.com/oschrenk/scrumoji) - An emoji guide for your scrum ceremonies
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [zetareticoli/cssui](https://github.com/zetareticoli/cssui) - A collection of interactive UI components in pure CSS
 
@@ -3814,6 +3813,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kitze/mobx-router](https://github.com/kitze/mobx-router) - A simple router for MobX + React apps
 - [koala819/StarterPack](https://github.com/koala819/StarterPack) - A comprehensive web development kit for swift site creation, featuring responsive design, contact form, NextUI components, and Google Analytics integration.
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
+- [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
@@ -3939,6 +3939,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [robisim74/qwik-speak](https://github.com/robisim74/qwik-speak) - Translate your Qwik apps into any language
 - [rubensworks/GraphQL-LD.js](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
 - [ryardley/ts-bus](https://github.com/ryardley/ts-bus) - A lightweight JavaScript/TypeScript event bus to help manage your application architecture.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [safe-global/safe-wallet-monorepo](https://github.com/safe-global/safe-wallet-monorepo) - Safe{Wallet} – smart account wallet
@@ -4359,6 +4360,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [slashdotdash/awesome-elixir-cqrs](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) resources.
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [snipsco/awesome-snips](https://github.com/snipsco/awesome-snips) - A curated list of awesome Snips projects
 - [sporto/awesome-elm](https://github.com/sporto/awesome-elm) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
 - [stake-capital/research](https://github.com/stake-capital/research) - All research stuff related to Stake Capital 
