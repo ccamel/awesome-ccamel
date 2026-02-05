@@ -166,6 +166,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
 - [pine-vm/pine](https://github.com/pine-vm/pine) - Cross-platform runtime environment for the Elm programming language.
 - [plantuml-stdlib/EIP-PlantUML](https://github.com/plantuml-stdlib/EIP-PlantUML) - EIP-PlantUML adds Enterprise Integrations Patterns elements to PlantUML to provide easy support of designing EIP architectures for both, up-front design as well as development-time automated documentation generation.
+- [richlander/dotnet-inspect](https://github.com/richlander/dotnet-inspect) - Tool to inspect .NET assets, like docker inspect.
 - [sirAndros/KeePassWinHello](https://github.com/sirAndros/KeePassWinHello) - Quick unlock KeePass 2 database using biometrics with Windows Hello
 
 ## C++
@@ -467,7 +468,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Go
 
-- [2-alchemists/krossboard](https://github.com/2-alchemists/krossboard) -  Kubernetes usage analytics for CPU, Memory, and GPU — track costs and optimize cluster resources
+- [2-alchemists/krossboard](https://github.com/2-alchemists/krossboard) - Multi-cluster Kubernetes usage analytics for CPU, Memory, and GPU — track costs and optimize cluster resources
 - [2-alchemists/krossboard-data-processor](https://github.com/2-alchemists/krossboard-data-processor) - Data Collector & Processing for Krossboard - A Leading Multi-Cluster, Cross-Cloud & Cross-Distribution Kubernetes Usage Accounting & Analytics. Actively tested against Amazon EKS, Microsoft AKS, Google GKE, Red Hat OpenShift, & vanilla distros.
 - [99designs/go-keychain](https://github.com/99designs/go-keychain) - 
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
@@ -772,7 +773,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
-- [dicedb/dice](https://github.com/dicedb/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [discord/zorkian-kafka](https://github.com/discord/zorkian-kafka) - Go driver for Kafka
 - [divan/depscheck](https://github.com/divan/depscheck) - Dependency checker for Golang (Go) packages. Prints stats and suggests to remove small LeftPad-like imports if any.
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
@@ -3164,6 +3165,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
+- [rvben/rumdl](https://github.com/rvben/rumdl) - Markdown Linter and Formatter written in Rust
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [rxRust/rxRust](https://github.com/rxRust/rxRust) - Zero-cost & Type-safe Reactive Extensions for Rust. Supports both high-performance single-threaded (Local) and thread-safe (Shared) contexts. WASM & Tokio ready.
 - [s0raLin/sinter](https://github.com/s0raLin/sinter) - A Cargo-like build tool for Scala projects
@@ -3368,7 +3370,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ScaCap/action-ktlint](https://github.com/ScaCap/action-ktlint) - Run Ktlint with reviewdog
 - [StreakyCobra/gws](https://github.com/StreakyCobra/gws) - Colorful KISS helper for git workspaces
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
-- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [akash-network/cosmos-omnibus](https://github.com/akash-network/cosmos-omnibus) - 
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
 - [appieasahbie/okp4](https://github.com/appieasahbie/okp4) - 
@@ -3841,6 +3843,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 - [madeintracker/okp4_web_interface](https://github.com/madeintracker/okp4_web_interface) - Invoke the power of Dagda
 - [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage
+- [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
@@ -3955,7 +3958,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ryardley/ts-bus](https://github.com/ryardley/ts-bus) - A lightweight JavaScript/TypeScript event bus to help manage your application architecture.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [safe-global/safe-wallet-monorepo](https://github.com/safe-global/safe-wallet-monorepo) - Safe{Wallet} – smart account wallet
-- [sagekit/magnitude](https://github.com/sagekit/magnitude) - Open-source, vision-first browser agent
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
 - [scrtlabs/dash.scrt.network](https://github.com/scrtlabs/dash.scrt.network) - Secret Dashboard is an entry point for new users into Secret Network.
@@ -4106,6 +4108,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [0x-sen/mev-bot-fraud](https://github.com/0x-sen/mev-bot-fraud) - Be careful for the fake mev-bot codes , watch your wallet
 - [AAkira/Kotlin-Multiplatform-Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) - Kotlin Multiplatform Libraries. Welcome PR if you find or create new Kotlin Multiplatform Library.
+- [ARINC-IA/CSMIM](https://github.com/ARINC-IA/CSMIM) - 
 - [AbstractSDK/awesome-abstract](https://github.com/AbstractSDK/awesome-abstract) - 😎 Curated list of tools, contracts, and projects built with, for, or by Abstract
 - [AnatolianTeam/OKP4-Nemeton-Program](https://github.com/AnatolianTeam/OKP4-Nemeton-Program) - Everything is about OKP4 Nemeton Program
 - [BccNodes/BccNodes](https://github.com/BccNodes/BccNodes) - 
