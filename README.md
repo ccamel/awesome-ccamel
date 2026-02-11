@@ -2704,6 +2704,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
 - [ssloy/tinycompiler](https://github.com/ssloy/tinycompiler) - Writing a compiler in a week-end
 - [stefano/wasm-forth](https://github.com/stefano/wasm-forth) - A Forth implementation compiling to WebAssembly.
@@ -2712,7 +2713,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [tartiflette/tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project.
 - [tehmaze/diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters and fancy colors
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [vhanla/deepseek-r1-unthink](https://github.com/vhanla/deepseek-r1-unthink) - Ollama's API proxy server that captures /api/chat responses and removes &lt;think&gt;&lt;/think&gt; streamed content
 - [victordibia/data2vis](https://github.com/victordibia/data2vis) - Data2Vis: Automatic Generation of Data Visualizations Using Sequence to Sequence Recurrent Neural Networks
@@ -2907,6 +2908,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [babylonlabs-io/cosmos-bsn-contracts](https://github.com/babylonlabs-io/cosmos-bsn-contracts) - CosmWasm smart contracts for Babylon integration
 - [balpan-rs/balpan](https://github.com/balpan-rs/balpan) - Simple CLI Tool that supports your onboarding for a journey on source code.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
+- [better-auth-rs/better-auth-rs](https://github.com/better-auth-rs/better-auth-rs) - 🦀 Rust backend implementation of @better-auth.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -3716,7 +3718,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [etherspot/etherspot-sdk](https://github.com/etherspot/etherspot-sdk) - Etherspot - Account Abstraction SDK
 - [etsd-tech/mcp-pointer](https://github.com/etsd-tech/mcp-pointer) - MCP tool: let you point at DOM elements for your favorite agentic coding tool. Let AI see what you see.
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your architecture (DDD, micro-services, event-driven architectures)
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The architecture catalog for distributed systems. Document events, services, domains & flows with AI-powered discovery.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [f5nodes/wiki](https://github.com/f5nodes/wiki) - Wiki brings together everything blockchain developers and validators need — reliable endpoints, tools and infrastructure, snapshots, guides, tips, and resources — all in one place.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
