@@ -1923,6 +1923,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
 - [ashutosh1919/react-awesome-loaders](https://github.com/ashutosh1919/react-awesome-loaders) - 🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.
 - [assemblee-virtuelle/Semantic-Bus](https://github.com/assemblee-virtuelle/Semantic-Bus) - object flow treatment,  data transformation
+- [asynkron/Asynkron.Palette](https://github.com/asynkron/Asynkron.Palette) - CLI color palette generator with Tailwind-scale shades and OKLCH color space
 - [atmoner/cosmos-faucet](https://github.com/atmoner/cosmos-faucet) - 💧 Cosmos-faucet is a simple alternative to the tendermint/faucet script
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -2701,7 +2702,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [seanluong/cookiecutter-python-cli](https://github.com/seanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
@@ -3387,6 +3388,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
 - [appieasahbie/okp4](https://github.com/appieasahbie/okp4) - 
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories
+- [asynkron/asynkron-skills](https://github.com/asynkron/asynkron-skills) - ASYNKRON developer tools skills — profiler, test runner, code duplication detector, and line counter
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [bearstech/pussh](https://github.com/bearstech/pussh) - Parallel SSH, batch and command line oriented
 - [brson/rust-anthology](https://github.com/brson/rust-anthology) - Learn Rust from the best
@@ -3762,7 +3764,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [graphile/migrate](https://github.com/graphile/migrate) - Opinionated SQL-powered productive roll-forward migration tool for PostgreSQL.
 - [graphql-compose/graphql-compose-elasticsearch](https://github.com/graphql-compose/graphql-compose-elasticsearch) - Hide Elastic Search REST API behind GraphQL.
-- [graphql-hive/console](https://github.com/graphql-hive/console) - Hive is a GraphQL platform: schema registry, analytics and gateway for GraphQL federation and other GraphQL APIs
+- [graphql-hive/console](https://github.com/graphql-hive/console) - Hive Console is part of the Hive GraphQL platform. Schema registry and analytics for GraphQL federation and other GraphQL APIs
 - [graphql-hive/graphql-inspector](https://github.com/graphql-hive/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [graphql-hive/graphql-scalars](https://github.com/graphql-hive/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
