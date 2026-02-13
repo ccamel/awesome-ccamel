@@ -516,7 +516,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [HouzuoGuo/tiedot](https://github.com/HouzuoGuo/tiedot) - A rudimentary implementation of a basic document (NoSQL) database in Go
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
 - [ImVexed/fasturl](https://github.com/ImVexed/fasturl) - A fast URL parser for Go
-- [InjectiveFoundation/injective-core](https://github.com/InjectiveFoundation/injective-core) - 
 - [InjectiveLabs/sdk-go](https://github.com/InjectiveLabs/sdk-go) - Tools to work with the Injective Chain, Injective EVM and EIP712.
 - [Iwark/spreadsheet](https://github.com/Iwark/spreadsheet) - Google Go (golang) library for reading and writing spreadsheet files on Google Docs.
 - [JackalLabs/canine-chain](https://github.com/JackalLabs/canine-chain) - The Jackal Protocol blockchain node binary
@@ -866,6 +865,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - [DEPRECATED] CHANGELOG generator implemented in Go (Golang) -&gt; Use now the actively maintained git-cliff
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [github/gh-skyline](https://github.com/github/gh-skyline) - A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [githubexporter/github-exporter](https://github.com/githubexporter/github-exporter) - :octocat: Prometheus exporter for github metrics
@@ -1214,7 +1214,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
 - [oliamb/cutter](https://github.com/oliamb/cutter) - Crop images in Golang
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [olric-data/olric](https://github.com/olric-data/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
 - [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [onomyprotocol/onomy](https://github.com/onomyprotocol/onomy) - Onomy Network Provider Chain Software
@@ -1888,6 +1888,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [JetBrains/svg-mixer](https://github.com/JetBrains/svg-mixer) - Node.js toolset for generating & transforming SVG images and sprites in modern way
 - [Jotschi/vertx-graphql-example](https://github.com/Jotschi/vertx-graphql-example) - Vert.x Server which exposes a GraphQL API
 - [JusticeEngineering/pin-tweet-to-ipfs](https://github.com/JusticeEngineering/pin-tweet-to-ipfs) - Web extension to Save tweets in a verifiable way to IPFS
+- [LLM-Coding/Semantic-Anchors](https://github.com/LLM-Coding/Semantic-Anchors) - 
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
@@ -2125,7 +2126,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [projectwallace/css-code-quality](https://github.com/projectwallace/css-code-quality) - Calculate the Code Quality score of your CSS based on a range of different quality guards.
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [pyvandenbussche/lov](https://github.com/pyvandenbussche/lov) - Linked Open Vocabularies (LOV) - FrontEnd
-- [rchakode/kube-opex-analytics](https://github.com/rchakode/kube-opex-analytics) - Open source Kubernetes resource usage tracking, accounting, and optimization per namespace — for CPU, Memory, and GPU.
+- [rchakode/kube-opex-analytics](https://github.com/rchakode/kube-opex-analytics) - The System of Record for Kubernetes accounting. Tracks CPU/RAM/GPU usage & costs per namespace, revealing hidden overhead.
 - [rdfjs/N3.js](https://github.com/rdfjs/N3.js) - Lightning fast, spec-compatible, streaming RDF for JavaScript
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-theming/create-mui-theme](https://github.com/react-theming/create-mui-theme) - online tool for creating material-ui themes
@@ -2315,7 +2316,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [celestiaorg/docs](https://github.com/celestiaorg/docs) - Celestia Documentation Site
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.
 - [dydxprotocol/v4-documentation](https://github.com/dydxprotocol/v4-documentation) - 
 - [neutron-org/neutron-docs](https://github.com/neutron-org/neutron-docs) - 
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
@@ -2466,7 +2467,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
 - [Keeper-Security/Commander](https://github.com/Keeper-Security/Commander) - Keeper Commander is a python-based CLI and SDK interface to the Keeper Security platform. Provides administrative controls, reporting, import/export and vault management.
-- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
+- [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [LoicPandul/Dictionnaire-de-Bitcoin](https://github.com/LoicPandul/Dictionnaire-de-Bitcoin) - Tout le vocabulaire technique de Bitcoin
 - [ML-KULeuven/deepproblog](https://github.com/ML-KULeuven/deepproblog) - DeepProbLog is an extension of ProbLog that integrates Probabilistic Logic Programming with deep learning by introducing the neural predicate.
@@ -3754,6 +3755,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [github/ai-assessment-comment-labeler](https://github.com/github/ai-assessment-comment-labeler) - AI-powered issue intake tool. Action for retrieving AI assessments for supplied text body
 - [github/ai-moderator](https://github.com/github/ai-moderator) - An AI-powered GitHub Action that detects and tags spam in your repository
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
+- [github/gh-aw-firewall](https://github.com/github/gh-aw-firewall) - 
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitroomhq/trending-list](https://github.com/gitroomhq/trending-list) - Know when you are trending on GitHub
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -4148,11 +4150,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [FLock-io/FLock](https://github.com/FLock-io/FLock) - 
 - [FabienTregan/DDDTranslation](https://github.com/FabienTregan/DDDTranslation) - 
 - [GetTech-io/awesome-actor](https://github.com/GetTech-io/awesome-actor) - :punch: Awesome lists of actor model resources
+- [InjectiveFoundation/injective-core](https://github.com/InjectiveFoundation/injective-core) - 
 - [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) - IDS-G
 - [International-Data-Spaces-Association/idsa](https://github.com/International-Data-Spaces-Association/idsa) - This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and useful information on IDS Landscape.
 - [JanetMo/governance-activity-of-airdrop-recipients](https://github.com/JanetMo/governance-activity-of-airdrop-recipients) - Master thesis University of Mittweida
 - [Kolot86/Snapshots-StateSync](https://github.com/Kolot86/Snapshots-StateSync) - 
-- [LLM-Coding/Semantic-Anchors](https://github.com/LLM-Coding/Semantic-Anchors) - 
 - [LinaMahrouch/vitepress-template](https://github.com/LinaMahrouch/vitepress-template) - A software documentation Template made with Vitepress
 - [LuisThiamNye/ButteryTaskbar2](https://github.com/LuisThiamNye/ButteryTaskbar2) - Hide the taskbar completely when the Start Menu is not open. 
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
