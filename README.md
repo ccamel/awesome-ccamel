@@ -8,6 +8,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Bikeshed](#bikeshed)
+- [Bru](#bru)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -108,6 +109,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Bikeshed
 
 - [SEMICeu/LinkedDataEventStreams](https://github.com/SEMICeu/LinkedDataEventStreams) - The Linked Data Event Streams specification
+
+## Bru
+
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C
 
@@ -1563,6 +1568,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [Funny-OpenSource-Projects/image-to-xls](https://github.com/Funny-OpenSource-Projects/image-to-xls) - A simple tool to make ascii art from an image using excel colored cells.
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
+- [LLM-Coding/Semantic-Anchors](https://github.com/LLM-Coding/Semantic-Anchors) - 
 - [NLP2RDF/ontologies](https://github.com/NLP2RDF/ontologies) - All ontologies used in NIF 2.0 (NIF-Core + vocabulary modules + helper modules)
 - [SWI-Prolog/swipl-wasm](https://github.com/SWI-Prolog/swipl-wasm) - Run SWI-Prolog in your browser using WebAssemply
 - [SethClydesdale/genki-study-resources](https://github.com/SethClydesdale/genki-study-resources) - A collection of exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese.
@@ -1888,7 +1894,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [JetBrains/svg-mixer](https://github.com/JetBrains/svg-mixer) - Node.js toolset for generating & transforming SVG images and sprites in modern way
 - [Jotschi/vertx-graphql-example](https://github.com/Jotschi/vertx-graphql-example) - Vert.x Server which exposes a GraphQL API
 - [JusticeEngineering/pin-tweet-to-ipfs](https://github.com/JusticeEngineering/pin-tweet-to-ipfs) - Web extension to Save tweets in a verifiable way to IPFS
-- [LLM-Coding/Semantic-Anchors](https://github.com/LLM-Coding/Semantic-Anchors) - 
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
@@ -2126,11 +2131,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [projectwallace/css-code-quality](https://github.com/projectwallace/css-code-quality) - Calculate the Code Quality score of your CSS based on a range of different quality guards.
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [pyvandenbussche/lov](https://github.com/pyvandenbussche/lov) - Linked Open Vocabularies (LOV) - FrontEnd
-- [rchakode/kube-opex-analytics](https://github.com/rchakode/kube-opex-analytics) - The System of Record for Kubernetes accounting. Tracks CPU/RAM/GPU usage & costs per namespace, revealing hidden overhead.
 - [rdfjs/N3.js](https://github.com/rdfjs/N3.js) - Lightning fast, spec-compatible, streaming RDF for JavaScript
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-theming/create-mui-theme](https://github.com/react-theming/create-mui-theme) - online tool for creating material-ui themes
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. 
+- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - The System of Record for Kubernetes accounting. Tracks CPU/RAM/GPU usage & costs per namespace, revealing hidden overhead. (Formerly Kube-Opex-Analytics).
 - [rehypejs/rehype-react](https://github.com/rehypejs/rehype-react) - plugin to transform to preact, react, vue, etc
 - [release-it/bumper](https://github.com/release-it/bumper) - Version read/write plugin for release-it
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
@@ -3958,7 +3963,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-tags/react-tags](https://github.com/react-tags/react-tags) - A fantastically simple tagging component for your projects
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [regen-network/regen-web](https://github.com/regen-network/regen-web) - :seedling: Website and marketplace application
