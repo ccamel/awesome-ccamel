@@ -1037,6 +1037,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jiuyunyue/valsta](https://github.com/jiuyunyue/valsta) - For cosmos blockchain validator to collect validator information
 - [jluccisano/syno-cli](https://github.com/jluccisano/syno-cli) - Command-line interface for Synology DiskStations. Allows batch-unlocking encrypted volumes.
 - [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by defining function signatures.
+- [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go
 - [jordan-wright/email](https://github.com/jordan-wright/email) - Robust and flexible email library for Go
 - [jpillora/installer](https://github.com/jpillora/installer) - One-liner for installing binaries from Github releases
@@ -2036,6 +2037,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [gocli/go-cli](https://github.com/gocli/go-cli) - Create and use boilerplates with ease
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
@@ -2044,6 +2046,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [grucloud/bau](https://github.com/grucloud/bau) - Reactive library and components for building web user interface
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [guigrpa/storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories
 - [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [hariroshan/parcel-transformer-elm-assets](https://github.com/hariroshan/parcel-transformer-elm-assets) - 
@@ -2484,7 +2487,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - Build apps and run Doom on a pharmacy cross!
 - [Mekire/pygame-samples](https://github.com/Mekire/pygame-samples) - Basic pygame samples illustrating various concepts.
-- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Neuro-Symbolic AI with Pythonic AI Language 🌱🐋🌍
+- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Neuro-Symbolic AI with Knowledge Graph 🌱🐋🌍
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
 - [OnToology/oops-report](https://github.com/OnToology/oops-report) - Generate oops report as a beautiful HTML
@@ -2492,7 +2495,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [P-OPSTeam/cosmos-governance-alerter](https://github.com/P-OPSTeam/cosmos-governance-alerter) - Cosmos Governance vote alerter
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
-- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. 
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
@@ -3765,7 +3768,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API 
 - [github/ai-assessment-comment-labeler](https://github.com/github/ai-assessment-comment-labeler) - AI-powered issue intake tool. Action for retrieving AI assessments for supplied text body
 - [github/ai-moderator](https://github.com/github/ai-moderator) - An AI-powered GitHub Action that detects and tags spam in your repository
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [github/gh-aw-firewall](https://github.com/github/gh-aw-firewall) - 
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -3930,7 +3932,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
 - [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
-- [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Clawdbot-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Clawdbot call those  workflows in one step.
+- [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one step.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
@@ -4056,6 +4058,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [uport-project/ethr-did](https://github.com/uport-project/ethr-did) - Create ethr DIDs
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [virtualzone/landroid-bridge](https://github.com/virtualzone/landroid-bridge) - Bridge for connecting the Worx Landroid S Lawn Mower to home automation systems like OpenHAB or FHEM.
@@ -4416,7 +4419,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [subquery/documentation](https://github.com/subquery/documentation) - 
 - [swyxio/devtools-angels](https://github.com/swyxio/devtools-angels) - active angel investors in developer tools!
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT and OpenAI API
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [teambit/reusable-components-styleguide](https://github.com/teambit/reusable-components-styleguide) - Tips and tricks for making components shareable across different projects (framework agnostic)
