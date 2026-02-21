@@ -949,7 +949,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [goraz/onion](https://github.com/goraz/onion) - Layer based configuration for golang
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
 - [goyek/goyek](https://github.com/goyek/goyek) - Task automation Go library
 - [gqlc/gqlc](https://github.com/gqlc/gqlc) - GraphQL IDL Compiler
@@ -1088,7 +1088,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Runs anywhere - desktop, cluster, docker.
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
 - [kylelemons/godebug](https://github.com/kylelemons/godebug) - Debugging helper utilities for Go
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [lacion/iothub](https://github.com/lacion/iothub) - IoT Hub for things
@@ -1265,7 +1265,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [phayes/freeport](https://github.com/phayes/freeport) - Get a free and open tcp port that is ready to use
 - [phcollignon/Go-Template](https://github.com/phcollignon/Go-Template) - Go Template examples and code generator
 - [pierods/pluginator](https://github.com/pierods/pluginator) - pluginator is a plugin manager for scripted go, with plugins on filesystem or consul
-- [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - 
+- [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [piprate/json-gold](https://github.com/piprate/json-gold) - A JSON-LD processor for Go
 - [pjebs/optimus-go](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm
@@ -2488,7 +2488,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - Build apps and run Doom on a pharmacy cross!
 - [Mekire/pygame-samples](https://github.com/Mekire/pygame-samples) - Basic pygame samples illustrating various concepts.
-- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Neuro-Symbolic AI with Knowledge Graph 🌱🐋🌍
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
 - [OnToology/oops-report](https://github.com/OnToology/oops-report) - Generate oops report as a beautiful HTML
@@ -3048,6 +3047,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) and LALR(1) parser generator for Rust
 - [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite
 - [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
+- [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens
 - [kukuhtw/dma_bot_rust](https://github.com/kukuhtw/dma_bot_rust) - fast, async trading engine in Rust for crypto. It streams multi-symbol market data (mock or Binance), runs pluggable strategies (mean-reversion, MA crossover, volatility breakout), applies risk limits, routes orders across venues, and exposes Prometheus metrics, plus JSONL event recording for audits. Built for low-latency testing.
 - [kvakvs/ErlangRT](https://github.com/kvakvs/ErlangRT) - Erlang Replacement Therapy. Another attempt to make Erlang runtime (BEAM emulator) in Rust. Good news: I know what to do. Bad news: I have no clue how to Rust
 - [kyren/gc-arena](https://github.com/kyren/gc-arena) - Incremental garbage collection from safe Rust
@@ -3203,7 +3203,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-- [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [scroll-tech/poseidon-circuit](https://github.com/scroll-tech/poseidon-circuit) - Poseidon hash circuit
 - [scrtlabs/SecretNetwork](https://github.com/scrtlabs/SecretNetwork) - 𝕊 The Secret Network
 - [scrtlabs/secret-toolkit](https://github.com/scrtlabs/secret-toolkit) - A collection of Rust packages that contain common tools used in development of Secret Contracts
@@ -3542,7 +3541,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Bendat/autometa](https://github.com/Bendat/autometa) - 
 - [BlockTrainBuilders/BlockTrain](https://github.com/BlockTrainBuilders/BlockTrain) - 
 - [BowlingX/geschichte](https://github.com/BowlingX/geschichte) - zustand and immer based hook to manage query parameters
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
 - [BuilderIO/gpt-assistant](https://github.com/BuilderIO/gpt-assistant) - An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
@@ -3582,6 +3581,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) -  Flexible, minimal, data-oriented ECS library for Typescript
 - [NodesGuru/casper-world](https://github.com/NodesGuru/casper-world) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [NodesGuru/casper-world-backend](https://github.com/NodesGuru/casper-world-backend) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
+- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Neuro-Symbolic AI with Knowledge Graph | Reasoning thru AI Language 🌱🐋🌍
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [PackmindHub/packmind](https://github.com/PackmindHub/packmind) - Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
@@ -4060,7 +4060,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
-- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+- [vercel/openchat](https://github.com/vercel/openchat) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [virtualzone/landroid-bridge](https://github.com/virtualzone/landroid-bridge) - Bridge for connecting the Worx Landroid S Lawn Mower to home automation systems like OpenHAB or FHEM.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
