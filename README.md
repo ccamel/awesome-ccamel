@@ -8,7 +8,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Bikeshed](#bikeshed)
-- [Bru](#bru)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -109,10 +108,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Bikeshed
 
 - [SEMICeu/LinkedDataEventStreams](https://github.com/SEMICeu/LinkedDataEventStreams) - The Linked Data Event Streams specification
-
-## Bru
-
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C
 
@@ -791,7 +786,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry 
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - A Compiler to Connect AI to Your Databases
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
 - [dpapathanasiou/go-recaptcha](https://github.com/dpapathanasiou/go-recaptcha) - A package for handling reCaptcha (http://www.google.com/recaptcha) form submissions in Go (http://golang.org/).
 - [dravenk/webthing-go](https://github.com/dravenk/webthing-go) - Go implementation of a Web Thing server
 - [drgrib/maps](https://github.com/drgrib/maps) - Deprecated with note on how to implement this package's functionality using Go 1.18. Previously: Type-safe implementations of common map functions and tools to generate those functions.
@@ -2144,7 +2139,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-theming/create-mui-theme](https://github.com/react-theming/create-mui-theme) - online tool for creating material-ui themes
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. 
-- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - The System of Record for Kubernetes accounting. Tracks CPU/RAM/GPU usage & costs per namespace. Reveals hidden overhead. (Formerly Kube-Opex-Analytics).
+- [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - The System of Record for Kubernetes Accounting. Tracks CPU/RAM/GPU usage per namespace. Reveals hidden overhead. Get Insights for cost optimization. (Formerly Kube-Opex-Analytics).
 - [rehypejs/rehype-react](https://github.com/rehypejs/rehype-react) - plugin to transform to preact, react, vue, etc
 - [release-it/bumper](https://github.com/release-it/bumper) - Version read/write plugin for release-it
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
@@ -2975,7 +2970,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
-- [cyberia-to/cw-cybergift](https://github.com/cyberia-to/cw-cybergift) - Contracts for cyberGift execution
 - [dali-benothmen/cronflow](https://github.com/dali-benothmen/cronflow) - High-performance, code-first workflow automation engine. TypeScript-native with Rust core for enterprise-grade speed, efficiency, and developer experience.
 - [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
 - [debris/tiny-keccak](https://github.com/debris/tiny-keccak) - An implementation of Keccak derived functions specified in FIPS-202, SP800-185 and KangarooTwelve
@@ -3973,6 +3967,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-tags/react-tags](https://github.com/react-tags/react-tags) - A fantastically simple tagging component for your projects
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [regen-network/regen-web](https://github.com/regen-network/regen-web) - :seedling: Website and marketplace application
