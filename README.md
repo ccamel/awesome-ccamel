@@ -1405,6 +1405,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [srdtrk/go-codegen](https://github.com/srdtrk/go-codegen) - Generate Golang code for your CosmWasm smart contracts.
 - [srdtrk/linked-packets](https://github.com/srdtrk/linked-packets) - This middleware module allows ibc packets across different channels execute atomically.
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
@@ -2699,6 +2700,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [reecepbcups/airdrop-tools](https://github.com/reecepbcups/airdrop-tools) - A suite of tools to airdrop under a variety of edge cases for the Cosmos Interchain
 - [reecepbcups/cosmos-state-exporter](https://github.com/reecepbcups/cosmos-state-exporter) - A CosmosSDK chain scheduled state exporter
 - [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard) - A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats.
+- [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [run-llama/llamabot](https://github.com/run-llama/llamabot) - 
@@ -2950,6 +2952,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
+- [cloudevents/sdk-rust](https://github.com/cloudevents/sdk-rust) - Rust library to interact with CloudEvents
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [cloudpeers/tlfs](https://github.com/cloudpeers/tlfs) - The Local-First SDK
 - [cnyvz96/knowledge-network](https://github.com/cnyvz96/knowledge-network) - Prolog solution for complex calculations.
