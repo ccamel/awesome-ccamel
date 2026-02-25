@@ -291,6 +291,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Elixir
 
+- [LoamStudios/courgette](https://github.com/LoamStudios/courgette) - A TUI library for Elixir
 - [adoptoposs/adoptoposs](https://github.com/adoptoposs/adoptoposs) - Finding co-maintainers for your open source software project.
 - [andreapavoni/disco](https://github.com/andreapavoni/disco) - Simple, opinionated yet flexible library to build CQRS/ES driven systems 🕺
 - [ateliware/triplex](https://github.com/ateliware/triplex) - Database multitenancy for Elixir applications!
@@ -589,6 +590,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s. 
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+- [andeya/gust](https://github.com/andeya/gust) - A production-ready library that makes error handling, optional values, and iteration as beautiful and safe as in Rust.
 - [andromedaprotocol/andromedad](https://github.com/andromedaprotocol/andromedad) - 
 - [anthdm/hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang
 - [anthdm/slick](https://github.com/anthdm/slick) - 
@@ -927,6 +929,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [golangci/awesome-go-linters](https://github.com/golangci/awesome-go-linters) - A curated list of awesome Go linters. More than 60 linters and tools!
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [gomodules/notify](https://github.com/gomodules/notify) - Send notification via Email, SMS, Chat etc.
+- [gomoni/it](https://github.com/gomoni/it) - iterator library for go using a rangefunc experiment
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
@@ -1597,7 +1600,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
-- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [intellectronica/awesome-skills](https://github.com/intellectronica/awesome-skills) -  A directory of skills for AI agents
 - [james-fry/home-assistant-mdi](https://github.com/james-fry/home-assistant-mdi) - Index of Material Design Icons for Home Assistant
 - [jlin27/docusaurus-plugin-jupyter-notebook](https://github.com/jlin27/docusaurus-plugin-jupyter-notebook) - [WIP] Jupyter notebook plugin for docusaurus
@@ -2032,7 +2034,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gabrielcsapo/docusaurus-plugin-image-zoom](https://github.com/gabrielcsapo/docusaurus-plugin-image-zoom) - Image Zoom Plugin for Docusaurus 2
 - [garygrossgarten/github-action-scp](https://github.com/garygrossgarten/github-action-scp) - ⬆️ Copy a folder to a remote server using SSH
 - [gatewayapps/react-adaptivecards](https://github.com/gatewayapps/react-adaptivecards) - A react wrapper for microsoft/adaptivecards
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
@@ -3183,6 +3185,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [rust-lang/rustwide](https://github.com/rust-lang/rustwide) - Execute your code on the Rust ecosystem.
@@ -3812,6 +3815,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hongaar/semantic-release-yarn](https://github.com/hongaar/semantic-release-yarn) - 🧶 A semantic-release plugin to publish npm packages with Yarn. Comes with built-in support for monorepos.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - This action runs your docker-compose file and clean up before action finished
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [huggingface/huggingface-vscode-chat](https://github.com/huggingface/huggingface-vscode-chat) - A VSCode extension to use Hugging Face Inference Providers in Copilot Chat
 - [hung-ngm/cosmos-sdk-gpt](https://github.com/hung-ngm/cosmos-sdk-gpt) - A chatbot on the Cosmos SDK source code
 - [hyperweb-io/chain-registry](https://github.com/hyperweb-io/chain-registry) - Cosmos chain registry ⚛️
@@ -4148,7 +4152,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BccNodes/okp4-nemeton-testnet](https://github.com/BccNodes/okp4-nemeton-testnet) - 
 - [BlockApex/resources](https://github.com/BlockApex/resources) - List of BlockApex public resources like audit readiness checklists, methodologies, pitch decks, company branding, etc.
 - [CedrickArmel/ml-template](https://github.com/CedrickArmel/ml-template) - 
-- [CosmWasm/advisories](https://github.com/CosmWasm/advisories) - To publicly communicate advisories about serious bugs in CosmWasm, wasmvm and wasmd
+- [CosmWasm/advisories](https://github.com/CosmWasm/advisories) - To publicly communicate advisories about serious bugs in CosmWasm
 - [CosmWasm/awesome-cosmwasm](https://github.com/CosmWasm/awesome-cosmwasm) - :sunglasses: Curated list of tools, contracts, and projects working with CosmWasm
 - [CosmWasm/book](https://github.com/CosmWasm/book) - CosmWasm book
 - [CosmosContracts/docs](https://github.com/CosmosContracts/docs) - Documentation - Juno 
