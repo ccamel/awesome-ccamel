@@ -175,6 +175,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [28msec/gridfs-fuse](https://github.com/28msec/gridfs-fuse) - 
 - [4Lang/4](https://github.com/4Lang/4) - A completely emoji-based programming language
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [KDE/kwallet](https://github.com/KDE/kwallet) - KWallet: Credential Storage
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -1945,6 +1946,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [baruchvlz/resq](https://github.com/baruchvlz/resq) - React Element Selector Query (RESQ) - Query React components and children by component name or HTML selector
 - [battila7/get-version-action](https://github.com/battila7/get-version-action) - A GitHub Action which extracts the version from github.ref
+- [bcoe/c8](https://github.com/bcoe/c8) - output coverage reports using Node.js' built in coverage
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [benc-uk/kubeview](https://github.com/benc-uk/kubeview) - KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships
 - [bgoonz/Markdown-Templates](https://github.com/bgoonz/Markdown-Templates) - 
@@ -2046,7 +2048,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [grucloud/bau](https://github.com/grucloud/bau) - Reactive library and components for building web user interface
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [guigrpa/storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories
 - [handshake-org/hs-airdrop](https://github.com/handshake-org/hs-airdrop) - Decentralized airdrop to open source developers
 - [hariroshan/parcel-transformer-elm-assets](https://github.com/hariroshan/parcel-transformer-elm-assets) - 
@@ -3574,6 +3576,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme) - 📡📝 A GitHub Action that updates a section of a README from an RSS feed.
 - [KYVENetwork/docs](https://github.com/KYVENetwork/docs) - 
 - [KYVENetwork/kyvejs](https://github.com/KYVENetwork/kyvejs) - Tools for building applications on KYVE
+- [Lamuji/SpacePong-ft_transcendance](https://github.com/Lamuji/SpacePong-ft_transcendance) - 
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [Mastermindzh/react-cookie-consent](https://github.com/Mastermindzh/react-cookie-consent) - A small, simple and customizable cookie consent bar for use in React applications.
@@ -4085,6 +4088,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server.
 - [zenopie/totp-auth-contract](https://github.com/zenopie/totp-auth-contract) - 
 - [zeta-chain/protocol-contracts-evm](https://github.com/zeta-chain/protocol-contracts-evm) - Protocol contracts implementing the core logic of the protocol, deployed on ZetaChain and on connected chains
+- [zeta-chain/protocol-contracts-solana](https://github.com/zeta-chain/protocol-contracts-solana) - solana interface contract for zetachain
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
 ## V
