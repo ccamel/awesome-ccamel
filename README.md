@@ -142,6 +142,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [ponceto/dosfx](https://github.com/ponceto/dosfx) - Old school effects written in Turbo-C for DOS [this repository is a mirror]
+- [ponceto/xcpc-emulator](https://github.com/ponceto/xcpc-emulator) - Xcpc - Amstrad CPC emulator for Linux, BSD, Unix [this repository is a mirror]
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [roots-id/rootswallet](https://github.com/roots-id/rootswallet) - An open source identity/credential wallet built for grass roots efforts in multiple countries.
@@ -1798,7 +1799,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jasongoodwin/better-java-monads](https://github.com/jasongoodwin/better-java-monads) - 
 - [javajon/kubernetes-observability](https://github.com/javajon/kubernetes-observability) - Tutorial on Kubernetes monitoring techniques with microservices.
 - [jcustenborder/connect-utils](https://github.com/jcustenborder/connect-utils) - Utility project for working with Kafka Connect.
-- [jdereg/java-util](https://github.com/jdereg/java-util) - Rare, hard-to-write utilities that are thoroughly tested
+- [jdereg/java-util](https://github.com/jdereg/java-util) - Java utilities: DeepEquals, GraphComparator, Converter, LRUCache, CompactMap/Set, CaseInsensitiveMap, UniqueIdGenerator, FastReader/Writer, and more. Zero dependencies, JDK 8-24.
 - [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
 - [jwtk/jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 - [kagkarlsson/db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java
@@ -1922,7 +1923,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Yomguithereal/baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 - [Yuyz0112/glitch-art-maker](https://github.com/Yuyz0112/glitch-art-maker) - 
 - [adobe/jsonschema2md](https://github.com/adobe/jsonschema2md) - Convert Complex JSON Schemas into Markdown Documentation
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [airbnb/react-with-styles](https://github.com/airbnb/react-with-styles) - Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation
@@ -3081,7 +3082,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [manuel-woelker/rust-vfs](https://github.com/manuel-woelker/rust-vfs) - A virtual filesystem for Rust
 - [many-things/cw-hyperlane](https://github.com/many-things/cw-hyperlane) - 
-- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Experimental Maps for Web, Mobile and Desktop
+- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Rust-based WebGPU map renderer for Web, Mobile and Desktop
 - [maplibre/martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
 - [mars-protocol/contracts](https://github.com/mars-protocol/contracts) - Smart contracts for Mars Protocol
 - [mars-protocol/cw-asset](https://github.com/mars-protocol/cw-asset) - A unified representation of various types of Cosmos fungible assets, and helper functions for interacting with them
@@ -3590,7 +3591,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) -  Flexible, minimal, data-oriented ECS library for Typescript
 - [NodesGuru/casper-world](https://github.com/NodesGuru/casper-world) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [NodesGuru/casper-world-backend](https://github.com/NodesGuru/casper-world-backend) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
-- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Neuro-Symbolic AI with Knowledge Graph | Reasoning thru AI Language 🌱🐋🌍
+- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Neuro-Symbolic AI with Knowledge Graph 🌱🐋🌍
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [PackmindHub/packmind](https://github.com/PackmindHub/packmind) - Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
@@ -3955,6 +3956,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger [DEPRECATED SEE README]
 - [paambaati/codeclimate-action](https://github.com/paambaati/codeclimate-action) - GitHub Action to send your code coverage to CodeClimate
+- [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) - Pixel office.
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [patrickmichalina/typescript-monads](https://github.com/patrickmichalina/typescript-monads) - 📚Write safer TypeScript using Maybe, List, Result, and Either monads.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
