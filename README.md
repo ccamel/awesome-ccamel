@@ -2040,7 +2040,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [gocli/go-cli](https://github.com/gocli/go-cli) - Create and use boilerplates with ease
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
@@ -2602,6 +2601,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -2716,6 +2716,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [run-llama/llamabot](https://github.com/run-llama/llamabot) - 
 - [salacoste/antigravity-bmad-config](https://github.com/salacoste/antigravity-bmad-config) - Antigravity config template: BMad Method (BMAD-METHOD) AI agents via slash commands for PRD→Architecture→Stories→Dev→QA gate.
 - [santoru/shcheck](https://github.com/santoru/shcheck) - A basic tool to check security headers of a website
+- [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 - [satomic/copilot-usage-advanced-dashboard](https://github.com/satomic/copilot-usage-advanced-dashboard) - Advanced Grafana dashboard for comprehensive GitHub Copilot usage analytics with persistent data storage and multi-organization support
 - [saubury/kafka-serialization](https://github.com/saubury/kafka-serialization) - Experiments and demonstrations of AVRO, Protobuf serialisation
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
@@ -3282,7 +3283,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vivax3794/cargo_bounds](https://github.com/vivax3794/cargo_bounds) - Checking that your dependency requirements are sound
 - [voidpumpkin/fallout-ui](https://github.com/voidpumpkin/fallout-ui) - 
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
 - [xlmnxp/cli2rest](https://github.com/xlmnxp/cli2rest) - A simple REST API server that converts CLI commands to HTTP endpoints.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [yisar/ijc](https://github.com/yisar/ijc) - Itsy-bitsy JavaScript Compiler
@@ -4415,7 +4416,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [s-tikhomirov/smart-contract-languages](https://github.com/s-tikhomirov/smart-contract-languages) - A curated collection of resources on smart contract programming languages
 - [samayun/devbooks](https://github.com/samayun/devbooks) - Open Source Resources
-- [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 - [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time 
 - [scrtlabs/Grants](https://github.com/scrtlabs/Grants) - Repository for grant proposal submissions
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
