@@ -1066,6 +1066,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms
 - [kilnfi/cosmos-validator-watcher](https://github.com/kilnfi/cosmos-validator-watcher) - Real-time Cosmos-based chains monitoring
 - [kisielk/errcheck](https://github.com/kisielk/errcheck) - errcheck checks that you checked errors.
+- [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [knadh/tinyauth](https://github.com/knadh/tinyauth) - Tiny, opinionated authentication library for Go. Work in progress and not usable right now.
 - [knakk/rdf](https://github.com/knakk/rdf) - RDF library for Go
 - [knative-extensions/eventing-rabbitmq](https://github.com/knative-extensions/eventing-rabbitmq) - RabbitMQ eventing components. Knative Source and Broker.
@@ -3288,7 +3289,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vivax3794/cargo_bounds](https://github.com/vivax3794/cargo_bounds) - Checking that your dependency requirements are sound
 - [voidpumpkin/fallout-ui](https://github.com/voidpumpkin/fallout-ui) - 
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with a modernized webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
 - [xlmnxp/cli2rest](https://github.com/xlmnxp/cli2rest) - A simple REST API server that converts CLI commands to HTTP endpoints.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [yisar/ijc](https://github.com/yisar/ijc) - Itsy-bitsy JavaScript Compiler
