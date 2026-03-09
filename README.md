@@ -519,6 +519,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [HouzuoGuo/tiedot](https://github.com/HouzuoGuo/tiedot) - A rudimentary implementation of a basic document (NoSQL) database in Go
 - [IBM/fp-go](https://github.com/IBM/fp-go) - Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads, plus optics (Lens, Prism, Traversal) for immutable data manipulation. Supports Functor, Applicative, and Monad abstractions with do-notation-style
 - [ImVexed/fasturl](https://github.com/ImVexed/fasturl) - A fast URL parser for Go
+- [InjectiveFoundation/injective-core](https://github.com/InjectiveFoundation/injective-core) - 
 - [InjectiveLabs/sdk-go](https://github.com/InjectiveLabs/sdk-go) - Tools to work with the Injective Chain, Injective EVM and EIP712.
 - [Iwark/spreadsheet](https://github.com/Iwark/spreadsheet) - Google Go (golang) library for reading and writing spreadsheet files on Google Docs.
 - [JackalLabs/canine-chain](https://github.com/JackalLabs/canine-chain) - The Jackal Protocol blockchain node binary
@@ -600,6 +601,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [antsankov/go-live](https://github.com/antsankov/go-live) - 🗂️ go-live is an ultra-light server utility that serves files, HTML or anything else, over HTTP.
 - [aosasona/gots](https://github.com/aosasona/gots) - No matter how you pronounce it, this repository is all about converting Go types to TypeScript types.
 - [apache/camel-k](https://github.com/apache/camel-k) - Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers
+- [apache/casbin](https://github.com/apache/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [application-research/estuary](https://github.com/application-research/estuary) - A custom IPFS/Filecoin node that makes it easy to pin IPFS content and make Filecoin deals.
 - [araddon/qlbridge](https://github.com/araddon/qlbridge) - A golang expression evaluator & Library to build SQL query engine based functionality. 
@@ -675,7 +677,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cadence-workflow/cadence-samples](https://github.com/cadence-workflow/cadence-samples) - 
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
-- [casbin/casbin](https://github.com/casbin/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go
 - [cbarraford/cosmos-multisig](https://github.com/cbarraford/cosmos-multisig) - Multi-signature Wallet for the Cosmos Blockchain
@@ -1150,6 +1151,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [meysamhadeli/shop-golang-microservices](https://github.com/meysamhadeli/shop-golang-microservices) - Practical microservices based on different software architecture and technologies like Golang, CQRS, Vertical Slice Architecture, Docker, RabbitMQ, OpenTelemetry and Postgresql.
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform Azure DevOps provider
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
@@ -2107,11 +2109,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) - LaTeX block support for EditorJS
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - Template for PixiJS using Typescript and Webpack https://stackblitz.com/github/miltoncandelero/pixi-hotwire 
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - :star2:  Create IoT applications. Wire devices together regardless their brand or technology.
 - [nfrasser/linkifyjs](https://github.com/nfrasser/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - **Notice: Uploads Decommissioned - Existing Data is Safe!**     
@@ -2144,7 +2144,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org
-- [projectwallace/css-code-quality](https://github.com/projectwallace/css-code-quality) - Calculate the Code Quality score of your CSS based on a range of different quality guards.
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [pyvandenbussche/lov](https://github.com/pyvandenbussche/lov) - Linked Open Vocabularies (LOV) - FrontEnd
 - [rdfjs/N3.js](https://github.com/rdfjs/N3.js) - Lightning fast, spec-compatible, streaming RDF for JavaScript
@@ -2608,7 +2607,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -3442,6 +3441,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [kamranahmedse/claude-statusline](https://github.com/kamranahmedse/claude-statusline) - Minimal Claude Code statusline setup I personally use
 - [karancode/kustomize-github-action](https://github.com/karancode/kustomize-github-action) - :european_castle: Github action for kustomize
 - [kj89/testnet_manuals](https://github.com/kj89/testnet_manuals) - 
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl
@@ -3922,6 +3922,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [moonbeam-foundation/moonbeam](https://github.com/moonbeam-foundation/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [mtwn105/GitHubWrapped](https://github.com/mtwn105/GitHubWrapped) - GitHub Wrapped - Your Year in Code
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [multiversx/mx-template-dapp](https://github.com/multiversx/mx-template-dapp) - 
 - [musketeers-br/dc-artisan](https://github.com/musketeers-br/dc-artisan) - Prompt & RAG Pipeline for VSCode
 - [my-badges/my-badges](https://github.com/my-badges/my-badges) - Google's Moma Badges for GitHub
@@ -3983,6 +3984,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [poteat/hkt-toolbelt](https://github.com/poteat/hkt-toolbelt) - ✨Functional and composable type utilities
 - [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [projectwallace/css-code-quality](https://github.com/projectwallace/css-code-quality) - Calculate the Code Quality score of your CSS based on a range of different quality guards.
 - [public-awesome/stargaze-tools](https://github.com/public-awesome/stargaze-tools) - Tools for launching NFT projects on Stargaze
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [r-wasm/webr](https://github.com/r-wasm/webr) - The statistical language R compiled to WebAssembly via Emscripten, for use in web browsers and Node.
@@ -4187,7 +4189,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [FLock-io/FLock](https://github.com/FLock-io/FLock) - 
 - [FabienTregan/DDDTranslation](https://github.com/FabienTregan/DDDTranslation) - 
 - [GetTech-io/awesome-actor](https://github.com/GetTech-io/awesome-actor) - :punch: Awesome lists of actor model resources
-- [InjectiveFoundation/injective-core](https://github.com/InjectiveFoundation/injective-core) - 
 - [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) - IDS-G
 - [International-Data-Spaces-Association/idsa](https://github.com/International-Data-Spaces-Association/idsa) - This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and useful information on IDS Landscape.
 - [JanetMo/governance-activity-of-airdrop-recipients](https://github.com/JanetMo/governance-activity-of-airdrop-recipients) - Master thesis University of Mittweida
