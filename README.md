@@ -755,7 +755,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [crucibuild/sdk-agent-go](https://github.com/crucibuild/sdk-agent-go) - Go library wrapping common tools to make Crucibuild agents
 - [cruise-automation/k-rail](https://github.com/cruise-automation/k-rail) - Kubernetes security tool for policy enforcement
 - [crypto-org-chain/chain-main](https://github.com/crypto-org-chain/chain-main) - Cronos POS Chain⛓: Croeseid Testnet and beyond development
-- [ctrlplanedev/ctrlplane](https://github.com/ctrlplanedev/ctrlplane) - :rocket: A deployment orchestration tool that simplifies multi-cloud, multi-region, and multi-service deployments.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [customerio/esdb](https://github.com/customerio/esdb) - Event-stream flat file database - Immutable storage for timestamped event streams
 - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go
@@ -910,6 +909,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [gocraft/work](https://github.com/gocraft/work) - Process background jobs in Go
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [gojp/goreportcard](https://github.com/gojp/goreportcard) - A report card for your Go application
@@ -2497,7 +2497,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - Build apps and run Doom on a pharmacy cross!
 - [Mekire/pygame-samples](https://github.com/Mekire/pygame-samples) - Basic pygame samples illustrating various concepts.
-- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Neuro-Symbolic AI with Knowledge Graph | Logic Language for LLM 🌱🐋🌍
+- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Neuro-Symbolic AI with Knowledge Graph | Logic Language for LLMs 🌱🐋🌍
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
 - [OnToology/oops-report](https://github.com/OnToology/oops-report) - Generate oops report as a beautiful HTML
@@ -2737,6 +2737,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [ssloy/tinycompiler](https://github.com/ssloy/tinycompiler) - Writing a compiler in a week-end
 - [stefano/wasm-forth](https://github.com/stefano/wasm-forth) - A Forth implementation compiling to WebAssembly.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -3294,7 +3295,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vivax3794/cargo_bounds](https://github.com/vivax3794/cargo_bounds) - Checking that your dependency requirements are sound
 - [voidpumpkin/fallout-ui](https://github.com/voidpumpkin/fallout-ui) - 
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Rust-based bundler for JavaScript and TypeScript with refined webpack API 🦀
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [xlmnxp/cli2rest](https://github.com/xlmnxp/cli2rest) - A simple REST API server that converts CLI commands to HTTP endpoints.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [yisar/ijc](https://github.com/yisar/ijc) - Itsy-bitsy JavaScript Compiler
@@ -3723,6 +3724,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/snap](https://github.com/cosmos/snap) - Packages That Add Cosmos Support Into Metamask. The Cosmos is Expanding!
 - [cosmostation/cosmostation-chrome-extension-client](https://github.com/cosmostation/cosmostation-chrome-extension-client) - npm package for Dapp developer
 - [creevey/creevey](https://github.com/creevey/creevey) - Cross-browser screenshot testing tool for Storybook with fancy UI Runner.
+- [ctrlplanedev/ctrlplane](https://github.com/ctrlplanedev/ctrlplane) - :rocket: A deployment orchestration tool that simplifies multi-cloud, multi-region, and multi-service deployments.
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
@@ -3786,6 +3788,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) - MCP (Model Context Protocol) server that enables AI assistants to interact with Storybook design systems. Extract component HTML, analyze styles, and help with design system adoption and refactoring.
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
 - [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer
 - [gcanti/elm-ts](https://github.com/gcanti/elm-ts) - A porting to TypeScript featuring fp-ts, rxjs6 and React
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [gcanti/fp-ts-codegen](https://github.com/gcanti/fp-ts-codegen) - TypeScript code generation from a haskell-like syntax for ADT. Playground:
