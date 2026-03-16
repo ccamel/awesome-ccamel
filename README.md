@@ -536,6 +536,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MANTRA-Chain/mantrachain](https://github.com/MANTRA-Chain/mantrachain) - MANTRA is a purpose-built RWA Layer 1 Blockchain, capable of adherence to real world regulatory requirements.
 - [Macmod/godap](https://github.com/Macmod/godap) - A complete terminal user interface (TUI) for LDAP.
 - [MacroPower/kclipper](https://github.com/MacroPower/kclipper) - KCL + Helm = kclipper
+- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [NathanBaulch/protoc-gen-cobra](https://github.com/NathanBaulch/protoc-gen-cobra) - Cobra command line tool generator for gRPC clients
@@ -1539,6 +1540,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xpladev/xpla](https://github.com/xpladev/xpla) - XPLA Chain core implementation
 - [xrstf/github_exporter](https://github.com/xrstf/github_exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
 - [xuperchain/xuperchain](https://github.com/xuperchain/xuperchain) - A highly flexible blockchain architecture with great transaction performance.
+- [yashx/shak](https://github.com/yashx/shak) - A type-safe Go validation library built on generics and higher-order functions. Uses plain Go constructs — no reflection, no struct tags — so validation rules are just functions that compose naturally with the rest of your code.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [yottahmd/donburi-ecs](https://github.com/yottahmd/donburi-ecs) - Just another ECS library for Go/Ebitengine
 - [yourbasic/bit](https://github.com/yourbasic/bit) - Bitset data structure
@@ -1915,6 +1917,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Mayank1791989/gql-language-server](https://github.com/Mayank1791989/gql-language-server) - LSP implementation for gql service
 - [MtPelerin/bridge-v2](https://github.com/MtPelerin/bridge-v2) - New version of Mt Pelerin DeFi middleware
 - [PankajKumardev/GitGenius](https://github.com/PankajKumardev/GitGenius) - 
+- [Prathamesh-Udoshi/LLM-Checkmate](https://github.com/Prathamesh-Udoshi/LLM-Checkmate) - Instantly determines if your computer can run specific LLMs by analyzing hardware specs against real-time Hugging Face data. Features AI-powered spec parsing, neural performance scoring, and expert inference recommendations (GGUF/AWQ/vLLM).
 - [ReachFive/fake-smtp-server](https://github.com/ReachFive/fake-smtp-server) - Fake SMTP Server for email testing
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [SchumacherFM/blog-cs](https://github.com/SchumacherFM/blog-cs) - My blog at https://cyrillschumacher.com - You may submit pull requests :-)
@@ -2161,6 +2164,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [rfoel/bulma-toast](https://github.com/rfoel/bulma-toast) - Bulma's pure JavaScript extension to display toasts
+- [rmdls2b/wallert](https://github.com/rmdls2b/wallert) - Turn a wallet into a silent alarm
 - [rogierschouten/async-lock](https://github.com/rogierschouten/async-lock) - Lock on asynchronous code for Nodejs
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [rollup/rollup-starter-lib](https://github.com/rollup/rollup-starter-lib) - Bare-bones example of how to create a library using Rollup
@@ -2697,6 +2701,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [patdaburu/cookiecutter-click](https://github.com/patdaburu/cookiecutter-click) - A Python cookiecutter template to help you start a Click project.
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
+- [polyphony-dev/polyphony](https://github.com/polyphony-dev/polyphony) - Polyphony is Python based High-Level Synthesis compiler.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [powerfulseal/powerfulseal](https://github.com/powerfulseal/powerfulseal) - A powerful testing tool for Kubernetes clusters.
 - [proycon/clam](https://github.com/proycon/clam) - Quickly turn command-line applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
@@ -3589,6 +3594,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Finschia/finschia-js](https://github.com/Finschia/finschia-js) - finschia-js is javascript sdk for Finschia
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
+- [GoogleCloudPlatform/opentelemetry-operations-js](https://github.com/GoogleCloudPlatform/opentelemetry-operations-js) - This repository is home to Google Cloud Exporters (Trace and Monitoring) for OpenTelemetry Node.js Project (https://github.com/open-telemetry/opentelemetry-js)
 - [HyperbolicLabs/hyperbolic-mcp](https://github.com/HyperbolicLabs/hyperbolic-mcp) - MCP Server for Claude
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [JLarky/gha-ts](https://github.com/JLarky/gha-ts) - Type-safe GitHub Action workflows
