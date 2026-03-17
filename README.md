@@ -1434,6 +1434,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [synology-community/go-synology](https://github.com/synology-community/go-synology) - OpenApi Definition for DSM
 - [synology-community/terraform-provider-synology](https://github.com/synology-community/terraform-provider-synology) - Terraform provider to manage DSM APIs on Synology NAS
+- [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [taylorchu/work](https://github.com/taylorchu/work) - gocraft/work v2 prototype
@@ -1950,6 +1951,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ashutosh1919/react-awesome-loaders](https://github.com/ashutosh1919/react-awesome-loaders) - 🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.
 - [assemblee-virtuelle/Semantic-Bus](https://github.com/assemblee-virtuelle/Semantic-Bus) - object flow treatment,  data transformation
 - [asynkron/Asynkron.Palette](https://github.com/asynkron/Asynkron.Palette) - CLI color palette generator with Tailwind-scale shades and OKLCH color space
+- [asynkron/asynkron-skills](https://github.com/asynkron/asynkron-skills) - ASYNKRON developer tools skills — profiler, test runner, code duplication detector, and line counter
 - [atmoner/cosmos-faucet](https://github.com/atmoner/cosmos-faucet) - 💧 Cosmos-faucet is a simple alternative to the tendermint/faucet script
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -2270,7 +2272,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [GradleUp/shadow](https://github.com/GradleUp/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
 - [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 - [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - A ktlint gradle plugin
-- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is a JVM framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. 
 - [Kotlin/kotlinx.html](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML
 - [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization 
@@ -2613,6 +2615,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -2680,6 +2683,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [multiformats/multicodec](https://github.com/multiformats/multicodec) - Compact self-describing codecs. Save space by using predefined multicodec tables.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [nonatofabio/local_faiss_mcp](https://github.com/nonatofabio/local_faiss_mcp) - Local FAISS vector store as an MCP server – Agent Memory, drop-in local semantic search for Claude / Copilot / Agents.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -3430,7 +3434,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
 - [appieasahbie/okp4](https://github.com/appieasahbie/okp4) - 
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts straight from Git repositories
-- [asynkron/asynkron-skills](https://github.com/asynkron/asynkron-skills) - ASYNKRON developer tools skills — profiler, test runner, code duplication detector, and line counter
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [bearstech/pussh](https://github.com/bearstech/pussh) - Parallel SSH, batch and command line oriented
 - [brson/rust-anthology](https://github.com/brson/rust-anthology) - Learn Rust from the best
@@ -3611,7 +3614,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/metamask-sdk](https://github.com/MetaMask/metamask-sdk) - The simplest yet most secure way to connect your blockchain-based applications to millions of MetaMask Wallet users.
 - [MichaelCurrin/badge-generator](https://github.com/MichaelCurrin/badge-generator) - Magically generate Markdown badges for your docs 🛡️ 🦡 🧙
-- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
+- [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
 - [MyDidCom/mydid-auth](https://github.com/MyDidCom/mydid-auth) - 
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) -  Flexible, minimal, data-oriented ECS library for Typescript
 - [NodesGuru/casper-world](https://github.com/NodesGuru/casper-world) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
@@ -3794,7 +3797,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) - MCP (Model Context Protocol) server that enables AI assistants to interact with Storybook design systems. Extract component HTML, analyze styles, and help with design system adoption and refactoring.
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
 - [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
 - [gcanti/elm-ts](https://github.com/gcanti/elm-ts) - A porting to TypeScript featuring fp-ts, rxjs6 and React
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [gcanti/fp-ts-codegen](https://github.com/gcanti/fp-ts-codegen) - TypeScript code generation from a haskell-like syntax for ADT. Playground:
@@ -3805,7 +3808,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API 
 - [github/ai-assessment-comment-labeler](https://github.com/github/ai-assessment-comment-labeler) - AI-powered issue intake tool. Action for retrieving AI assessments for supplied text body
 - [github/ai-moderator](https://github.com/github/ai-moderator) - An AI-powered GitHub Action that detects and tags spam in your repository
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [github/gh-aw-firewall](https://github.com/github/gh-aw-firewall) - 
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -4239,6 +4241,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [aaronmbos/monocode](https://github.com/aaronmbos/monocode) - A font for code.
 - [abagames/various-actions-in-a-one-button-game](https://github.com/abagames/various-actions-in-a-one-button-game) - 
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time 
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [adairrr/awesome-archway](https://github.com/adairrr/awesome-archway) - A curated list of awesome Archway Network resources.
 - [ajvb/awesome-tor](https://github.com/ajvb/awesome-tor) - A list of awesome Tor related projects, articles, papers, etc
@@ -4445,7 +4448,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rust-in-blockchain/awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) - Collect libraries and packages about blockchain/cryptography in Rust
 - [s-tikhomirov/smart-contract-languages](https://github.com/s-tikhomirov/smart-contract-languages) - A curated collection of resources on smart contract programming languages
 - [samayun/devbooks](https://github.com/samayun/devbooks) - Open Source Resources
-- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time 
 - [scrtlabs/Grants](https://github.com/scrtlabs/Grants) - Repository for grant proposal submissions
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [security-alliance/seal-911](https://github.com/security-alliance/seal-911) - SEAL 911 is a project designed to give users, developers, and security researchers an accessible way to connect with a small group of highly trusted security professionals in case of emergency.
