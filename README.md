@@ -1921,7 +1921,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [Mayank1791989/gql-language-server](https://github.com/Mayank1791989/gql-language-server) - LSP implementation for gql service
 - [MtPelerin/bridge-v2](https://github.com/MtPelerin/bridge-v2) - New version of Mt Pelerin DeFi middleware
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [PankajKumardev/GitGenius](https://github.com/PankajKumardev/GitGenius) - 
 - [Prathamesh-Udoshi/LLM-Checkmate](https://github.com/Prathamesh-Udoshi/LLM-Checkmate) - Instantly determines if your computer can run specific LLMs by analyzing hardware specs against real-time Hugging Face data. Features AI-powered spec parsing, neural performance scoring, and expert inference recommendations (GGUF/AWQ/vLLM).
 - [ReachFive/fake-smtp-server](https://github.com/ReachFive/fake-smtp-server) - Fake SMTP Server for email testing
@@ -2091,7 +2091,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [jasbanza/convert-bech32-address](https://github.com/jasbanza/convert-bech32-address) - Bech32 address converter library for node.js & JavaScript for browsers
 - [jason-dour/action-setup-gomplate](https://github.com/jason-dour/action-setup-gomplate) - Set up your GitHub Actions workflow with a specific version of Gomplate
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [jim380/Botelicious](https://github.com/jim380/Botelicious) - Botelicious. Make sure you spell it with only one "o" 
@@ -2746,7 +2746,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [seanluong/cookiecutter-python-cli](https://github.com/seanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,273+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,304+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
@@ -3111,7 +3111,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [maplibre/martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
 - [mars-protocol/contracts](https://github.com/mars-protocol/contracts) - Smart contracts for Mars Protocol
 - [mars-protocol/cw-asset](https://github.com/mars-protocol/cw-asset) - A unified representation of various types of Cosmos fungible assets, and helper functions for interacting with them
-- [mcandre/unmake](https://github.com/mcandre/unmake) - a makefile linter
+- [mcandre/unmake](https://github.com/mcandre/unmake) - POSIX makefile linter
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
