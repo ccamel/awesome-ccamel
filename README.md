@@ -1063,7 +1063,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kataras/sheets](https://github.com/kataras/sheets) - :bar_chart: (Unofficial) A Lightweight Google Spreadsheets Client written in Go
 - [kcmvp/gob](https://github.com/kcmvp/gob) - Golang project boot
 - [kelindar/binary](https://github.com/kelindar/binary) - Generic and fast binary serializer for Go
-- [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+- [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 - [kevinpollet/serve](https://github.com/kevinpollet/serve) - Simple and secure Go HTTP server to serve static sites or files from the command-line.
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
@@ -1869,6 +1869,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sparna-git/skos-play](https://github.com/sparna-git/skos-play) - SKOS-Play allows to print SKOS files in HTML or PDF. It also embeds xls2rdf to generate RDF from Excel.
 - [spockframework/spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
+- [sylvainhalle/textidote](https://github.com/sylvainhalle/textidote) - Spelling, grammar and style checking on LaTeX documents
 - [tailrocks/graphql-java-datetime](https://github.com/tailrocks/graphql-java-datetime) - GraphQL ISO Date is a set of RFC 3339 compliant date/time scalar types to be used with graphql-java.
 - [tballison/tika-addons](https://github.com/tballison/tika-addons) - Addons not part of the official Tika release
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
@@ -2413,11 +2414,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [exercism/ocaml](https://github.com/exercism/ocaml) - Exercism exercises in OCaml.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
+- [leostera/riot](https://github.com/leostera/riot) - An actor-model multi-core scheduler for OCaml 5 🐫
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [ocaml-wasm/wasm_of_ocaml](https://github.com/ocaml-wasm/wasm_of_ocaml) - 
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [realworldocaml/book](https://github.com/realworldocaml/book) - V2 of Real World OCaml
-- [riot-ml/riot](https://github.com/riot-ml/riot) - An actor-model multi-core scheduler for OCaml 5 🐫
 
 ## Odin
 
@@ -2763,7 +2764,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [vhanla/deepseek-r1-unthink](https://github.com/vhanla/deepseek-r1-unthink) - Ollama's API proxy server that captures /api/chat responses and removes &lt;think&gt;&lt;/think&gt; streamed content
 - [victordibia/data2vis](https://github.com/victordibia/data2vis) - Data2Vis: Automatic Generation of Data Visualizations Using Sequence to Sequence Recurrent Neural Networks
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 - [vmware-archive/functions](https://github.com/vmware-archive/functions) - Functions Repository for Kubeless
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
@@ -3547,6 +3548,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## TeX
 
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP) - The Dao of Functional Programming
+- [ChiefGokhlayeh/textidote-action](https://github.com/ChiefGokhlayeh/textidote-action) - GitHub Action to lint, spell- and grammar-check LaTeX documents using TeXtidote.
 - [Vladar4/retrotype](https://github.com/Vladar4/retrotype) - Retrotype aims to replicate the look of old typewriter-made documents while keeping as many benefits of LaTeX as possible.
 - [cosmos/cosmos](https://github.com/cosmos/cosmos) - Internet of Blockchains ⚛  
 - [cosmos/ibc](https://github.com/cosmos/ibc) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
@@ -3853,7 +3855,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/stdbob](https://github.com/hazae41/stdbob) - Standard libraries for Bobine WebAssembly VM
 - [hazae41/wasm](https://github.com/hazae41/wasm) - WebAssembly Binary Format (.wasm) decoder-modifier-encoder for TypeScript
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [heroui-inc/next-app-template](https://github.com/heroui-inc/next-app-template) - A Next.js 15 with app directory template  pre-configured with HeroUI (v2) and Tailwind CSS (v4).
+- [heroui-inc/next-app-template](https://github.com/heroui-inc/next-app-template) - A Next.js 15 with app directory template pre-configured with HeroUI (v3) and Tailwind CSS (v4).
 - [hiwelo/new-dependencies-action](https://github.com/hiwelo/new-dependencies-action) - GitHub Action adding a comment with information about new NPM dependencies detected in a pull request
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [hongaar/semantic-release-yarn](https://github.com/hongaar/semantic-release-yarn) - 🧶 A semantic-release plugin to publish npm packages with Yarn. Comes with built-in support for monorepos.
