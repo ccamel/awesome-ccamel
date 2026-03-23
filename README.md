@@ -768,7 +768,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
-- [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
+- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
 - [datachainlab/cosmos-ethereum-ibc-lcp](https://github.com/datachainlab/cosmos-ethereum-ibc-lcp) - A bridge demo between Cosmos and Ethereum using IBC and LCP
 - [dataux/dataux](https://github.com/dataux/dataux) - Federated mysql compatible proxy to elasticsearch, mongo, cassandra, big-table, google datastore
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
@@ -1195,7 +1195,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nao1215/spectest](https://github.com/nao1215/spectest) - A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests. 
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [nautilus/gateway](https://github.com/nautilus/gateway) - A federated api gateway for graphql services. https://gateway.nautilus.dev/
-- [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero
+- [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wasm2go
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [network-lumen/blockchain](https://github.com/network-lumen/blockchain) - Lumen blockchain core — custom Cosmos-SDK chain with tax logic, gasless tx, and PQC-ready validation.
 - [neutron-org/neutron](https://github.com/neutron-org/neutron) - The integrated blockchain purpose-built for finance
@@ -1618,6 +1618,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jlin27/docusaurus-plugin-jupyter-notebook](https://github.com/jlin27/docusaurus-plugin-jupyter-notebook) - [WIP] Jupyter notebook plugin for docusaurus
 - [json-ld/json-ld.org](https://github.com/json-ld/json-ld.org) - JSON for Linked Data's documentation and playground site
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
+- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo: 
 - [micah5/PSone.css](https://github.com/micah5/PSone.css) - 🎮 PS1 style CSS Framework, inspired by NES.css
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -2621,7 +2622,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -2838,6 +2838,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AbstractSDK/abstract](https://github.com/AbstractSDK/abstract) - The ultimate CosmWasm framework for modular Interchain applications.
 - [AbstractSDK/cw-orchestrator](https://github.com/AbstractSDK/cw-orchestrator) -  All-in-one Rust-based CosmWasm testing, scripting, and deployment tool.
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [AtlasDA0/app-contracts](https://github.com/AtlasDA0/app-contracts) - Cosmwasm implementation of non-custodial NFT loans,  on-chain raffles & P2P trading
 - [AtomaAI/atoma-node](https://github.com/AtomaAI/atoma-node) - Core infrastructure for confidential computing AI inference
@@ -3022,6 +3023,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [duncanlutz/ruxt.rs](https://github.com/duncanlutz/ruxt.rs) - An Actix-based Rust framework for building HTMX sites.
 - [eigerco/beerus](https://github.com/eigerco/beerus) - A stateless trustless Starknet light client in Rust 🦀
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [ericseppanen/cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - An easy to configure wrapper for Rust's clippy
@@ -3068,6 +3070,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [in-toto/attestation](https://github.com/in-toto/attestation) - in-toto Attestation Framework
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [informalsystems/basecoin-rs](https://github.com/informalsystems/basecoin-rs) - An example ABCI application making use of tendermint-rs and ibc-rs
+- [informalsystems/hermes](https://github.com/informalsystems/hermes) - IBC Relayer in Rust
 - [informalsystems/hermes-sdk](https://github.com/informalsystems/hermes-sdk) - 
 - [informalsystems/ibc-rs](https://github.com/informalsystems/ibc-rs) - Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
 - [informalsystems/sovereign-ibc](https://github.com/informalsystems/sovereign-ibc) - Implementation of IBC modules by `ibc-rs` that can run with Sovereign SDK rollups
@@ -3774,7 +3777,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eeue56/elm-static-html-lib](https://github.com/eeue56/elm-static-html-lib) - 
 - [efstajas/versioned-parser](https://github.com/efstajas/versioned-parser) - 🤓 A TypeScript-first utility for managing multiple versions of parse functions.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
 - [enricopolanski/functional-programming](https://github.com/enricopolanski/functional-programming) - Introduction to Functional Programming using TypeScript and fp-ts.
@@ -3815,9 +3817,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API 
 - [github/ai-assessment-comment-labeler](https://github.com/github/ai-assessment-comment-labeler) - AI-powered issue intake tool. Action for retrieving AI assessments for supplied text body
 - [github/ai-moderator](https://github.com/github/ai-moderator) - An AI-powered GitHub Action that detects and tags spam in your repository
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-- [github/gh-aw-firewall](https://github.com/github/gh-aw-firewall) - 
+- [github/gh-aw-firewall](https://github.com/github/gh-aw-firewall) - GitHub Agentic Workflows Firewall
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitroomhq/trending-list](https://github.com/gitroomhq/trending-list) - Know when you are trending on GitHub
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -4390,6 +4393,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+- [matt-auckland/retro-css](https://github.com/matt-auckland/retro-css) - A list of retro-inspired CSS frameworks and design systems
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.
 - [mcleodchris/awesome-copilot](https://github.com/mcleodchris/awesome-copilot) - A list of awesome GitHub Copilot resources
