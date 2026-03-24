@@ -1611,6 +1611,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eclipse-tractusx/sldt-semantic-models](https://github.com/eclipse-tractusx/sldt-semantic-models) - sldt-semantic-models
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [intellectronica/awesome-skills](https://github.com/intellectronica/awesome-skills) -  A directory of skills for AI agents
@@ -3817,7 +3818,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API 
 - [github/ai-assessment-comment-labeler](https://github.com/github/ai-assessment-comment-labeler) - AI-powered issue intake tool. Action for retrieving AI assessments for supplied text body
 - [github/ai-moderator](https://github.com/github/ai-moderator) - An AI-powered GitHub Action that detects and tags spam in your repository
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [github/gh-aw-firewall](https://github.com/github/gh-aw-firewall) - GitHub Agentic Workflows Firewall
