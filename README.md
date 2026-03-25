@@ -969,6 +969,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [graphql-go/relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐
 - [gregdhill/prometheus-cachet](https://github.com/gregdhill/prometheus-cachet) - Prometheus Alertmanager to Cachet
+- [grindlemire/go-tui](https://github.com/grindlemire/go-tui) - A declarative terminal UI framework for Go.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [guregu/hammertime](https://github.com/guregu/hammertime) - alternative WASI for wasmtime-go
@@ -1611,7 +1612,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eclipse-tractusx/sldt-semantic-models](https://github.com/eclipse-tractusx/sldt-semantic-models) - sldt-semantic-models
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [intellectronica/awesome-skills](https://github.com/intellectronica/awesome-skills) -  A directory of skills for AI agents
@@ -2623,6 +2623,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -3018,7 +3019,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [defstream/kickable-rs](https://github.com/defstream/kickable-rs) - Can you kick it?
 - [dimforge/kiss3d](https://github.com/dimforge/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-- [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
@@ -3313,6 +3313,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vic/fx-rs](https://github.com/vic/fx-rs) - Rust Algebraic Effects System - modeled after https://github.com/vic/fx.go
 - [vivax3794/cargo_bounds](https://github.com/vivax3794/cargo_bounds) - Checking that your dependency requirements are sound
 - [voidpumpkin/fallout-ui](https://github.com/voidpumpkin/fallout-ui) - 
+- [wasm-bindgen/wasm-pack](https://github.com/wasm-bindgen/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [xlmnxp/cli2rest](https://github.com/xlmnxp/cli2rest) - A simple REST API server that converts CLI commands to HTTP endpoints.
