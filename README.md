@@ -802,6 +802,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [dustinxie/ecc](https://github.com/dustinxie/ecc) - Golang native implementation of the secp256k1 elliptic curve
+- [dydxprotocol/v4-chain](https://github.com/dydxprotocol/v4-chain) - dydx v4 protocol
 - [dymensionxyz/dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 - [dymensionxyz/dymension-rdk](https://github.com/dymensionxyz/dymension-rdk) - Framework for building highly scalable RollApps
 - [dymensionxyz/dymint](https://github.com/dymensionxyz/dymint) - Sequencing Engine for Dymension RollApps
@@ -1826,6 +1827,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [liferay/liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [linked-solutions/fuseki-oidc](https://github.com/linked-solutions/fuseki-oidc) - 
 - [lolo101/MsgViewer](https://github.com/lolo101/MsgViewer) - MsgViewer is email-viewer utility for .msg e-mail messages, implemented in pure Java. MsgViewer works on Windows/Linux/Mac Platforms. Also provides a java api to read mail messges (msg files) programmatically.
+- [lukas-krecan/ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks
 - [lusoalex/vertx-jolt](https://github.com/lusoalex/vertx-jolt) - vertx jolt facade
 - [mcollovati/vertx-vaadin](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin UI on Vert.x
 - [michaelmosmann/embedmongo.flapdoodle.de](https://github.com/michaelmosmann/embedmongo.flapdoodle.de) - 
@@ -2223,6 +2225,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [terra-money/classic-core](https://github.com/terra-money/classic-core) - GO implementation of the Terra Protocol 
 - [tomayac/local-reverse-geocoder](https://github.com/tomayac/local-reverse-geocoder) - Local reverse geocoder for Node.js based on GeoNames data
 - [traveldevel/iot-hub-ingestion-rest](https://github.com/traveldevel/iot-hub-ingestion-rest) - Ingestion REST api that writes to a Kafka topic
+- [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
 - [untu/comedy](https://github.com/untu/comedy) - Node.js actor framework.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [vaaaaanquish/Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀
@@ -2394,7 +2397,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Move
 
-- [initia-labs/movevm](https://github.com/initia-labs/movevm) - 
+- [initia-labs/movevm](https://github.com/initia-labs/movevm) - Go bindings for Aptos MoveVM, compiled as a shared library via cgo
 
 ## Mustache
 
@@ -2838,6 +2841,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [0gfoundation/0g-storage-node](https://github.com/0gfoundation/0g-storage-node) - 
 - [0xAlcibiades/miniref](https://github.com/0xAlcibiades/miniref) - An example of a notes app implemented with leptos
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
+- [AJenbo/phpantom_lsp](https://github.com/AJenbo/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
 - [AbstractSDK/abstract](https://github.com/AbstractSDK/abstract) - The ultimate CosmWasm framework for modular Interchain applications.
 - [AbstractSDK/cw-orchestrator](https://github.com/AbstractSDK/cw-orchestrator) -  All-in-one Rust-based CosmWasm testing, scripting, and deployment tool.
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
@@ -4077,7 +4081,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
-- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [stationmoney/station](https://github.com/stationmoney/station) - 🛰️ Station wallet
 - [stolenng/react-hooks-mobx](https://github.com/stolenng/react-hooks-mobx) - React Hooks + MobX guide
 - [storybookjs/native](https://github.com/storybookjs/native) - 📱 Storybook for Native: iOS, Android, Flutter
@@ -4257,6 +4261,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [adairrr/awesome-archway](https://github.com/adairrr/awesome-archway) - A curated list of awesome Archway Network resources.
 - [ajvb/awesome-tor](https://github.com/ajvb/awesome-tor) - A list of awesome Tor related projects, articles, papers, etc
+- [akash-network/net](https://github.com/akash-network/net) - genesis and configuration files for various akash networks
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [aldi/awesome-bulma](https://github.com/aldi/awesome-bulma) - 🎉 A curated list of awesome things related to Bulma CSS Framework
