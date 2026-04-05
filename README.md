@@ -1628,6 +1628,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo: 
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 - [micah5/PSone.css](https://github.com/micah5/PSone.css) - 🎮 PS1 style CSS Framework, inspired by NES.css
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
@@ -2118,6 +2119,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
 - [kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp) - Interact seamlessly with GitLab repositories to manage merge requests and issues. Fetch details, add comments, and streamline your code review process with ease.
 - [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
+- [kunwl123456/zeroclaw-skills-collection](https://github.com/kunwl123456/zeroclaw-skills-collection) - Recommended skills for ZeroClaw
 - [lambdamusic/Ontodocs](https://github.com/lambdamusic/Ontodocs) - [DISCONTINUED] Generate ontology documentation in HTML and Markdown. Quick and easy. 
 - [lambdamusic/Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models aka ontologies.
 - [lavanet/docs](https://github.com/lavanet/docs) - The open-source repo for docs.lavanet.xyz
@@ -2941,6 +2943,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ad2ien/ideal-wages-calculator](https://github.com/ad2ien/ideal-wages-calculator) - A webassembly project using trunk and yew to point out injustices in range of wages
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [alexandretrotel/mntn](https://github.com/alexandretrotel/mntn) - A command-line tool to manage your dotfiles.
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
@@ -3038,11 +3041,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [duncanlutz/ruxt.rs](https://github.com/duncanlutz/ruxt.rs) - An Actix-based Rust framework for building HTMX sites.
-- [eigerco/beerus](https://github.com/eigerco/beerus) - A stateless trustless Starknet light client in Rust 🦀
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [epicchainlabs/epicchain](https://github.com/epicchainlabs/epicchain) - The core of EpicChain blockchain protocol designed to empower developers, revolutionize industries.
+- [equilibriumco/beerus](https://github.com/equilibriumco/beerus) - A stateless trustless Starknet light client in Rust 🦀
 - [ericseppanen/cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - An easy to configure wrapper for Rust's clippy
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -3119,6 +3121,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [liamzebedee/tendermint-rs](https://github.com/liamzebedee/tendermint-rs) - A minimal reimplementation of Tendermint in Rust
 - [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
 - [lita-xyz/rust-examples](https://github.com/lita-xyz/rust-examples) - 
+- [loongclaw-ai/loongclaw](https://github.com/loongclaw-ai/loongclaw) - Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [lue-bird/elm-language-server-rs](https://github.com/lue-bird/elm-language-server-rs) - language server for elm, in rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
@@ -3142,6 +3145,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mikeleppane/visualvault](https://github.com/mikeleppane/visualvault) - Terminal-based media file organizer with smart date-based organization, duplicate detection, and a beautiful TUI. Organize your photo/video collection efficiently from the command line. Written in Rust using Ratatui 
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
 - [mortendahl/rust-paillier](https://github.com/mortendahl/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
 - [move-language/move](https://github.com/move-language/move) - 
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
@@ -3748,7 +3752,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [chainapsis/keplr-wallet](https://github.com/chainapsis/keplr-wallet) - The most powerful wallet infrastructure for the multi-chain world
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️
-- [chenglou/pretext](https://github.com/chenglou/pretext) - 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [cheqd/validator-status](https://github.com/cheqd/validator-status) - Network-wide validator status alerting API for cheqd mainnet. Designed to work for any Cosmos SDK network
 - [chuanqisun/react-agent-hooks](https://github.com/chuanqisun/react-agent-hooks) - Turn React hooks into LLM tools
 - [citizenweb3/validatorinfo](https://github.com/citizenweb3/validatorinfo) - Web3 Blockchain Explorer. Validator, Mining Pool, Token and Network Real-time Metrics. Interactive Onchain Dashboard
@@ -3802,6 +3806,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eeue56/elm-static-html-lib](https://github.com/eeue56/elm-static-html-lib) - 
 - [efstajas/versioned-parser](https://github.com/efstajas/versioned-parser) - 🤓 A TypeScript-first utility for managing multiple versions of parse functions.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
 - [enricopolanski/functional-programming](https://github.com/enricopolanski/functional-programming) - Introduction to Functional Programming using TypeScript and fp-ts.
