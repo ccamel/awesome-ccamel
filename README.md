@@ -289,7 +289,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/docker-images](https://github.com/okp4/docker-images) - 🐳 Repository for Docker configurations and images we use @okp4.network
 - [okp4/template-python](https://github.com/okp4/template-python) - 🖨 Template for Python Projects @okp4.
 - [openfaas/templates](https://github.com/openfaas/templates) - OpenFaaS Classic templates
-- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [strangelove-ventures/heighliner](https://github.com/strangelove-ventures/heighliner) - Repository of docker images for the node software of Cosmos chains
 
 ## Elixir
@@ -679,7 +678,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cadence-workflow/cadence-samples](https://github.com/cadence-workflow/cadence-samples) - 
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go
 - [cbarraford/cosmos-multisig](https://github.com/cbarraford/cosmos-multisig) - Multi-signature Wallet for the Cosmos Blockchain
 - [ccamel/go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - ☝️ go-graphql subscription over Kafka/Redis/NSQ example 
@@ -763,7 +762,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Your Workflow Operator handles creating and debugging workflows.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Built-in AI-Agents handles creating and debugging workflows.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -1331,6 +1330,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [reiver/go-rfc2396](https://github.com/reiver/go-rfc2396) - Package rfc2396 is an implementation of (parts of) IETF RFC-2396 (Uniform Resource Identifiers (URI): Generic Syntax), for the Go programming language.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [rjNemo/underscore](https://github.com/rjNemo/underscore) - 🌟 Useful functional programming helpers for Go
@@ -2097,6 +2097,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [irisnet/irishub](https://github.com/irisnet/irishub) - A BPoS blockchain that enables cross-chain interoperability through a unified service model -- built with Cosmos-SDK
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
+- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [j-ulrich/release-it-regex-bumper](https://github.com/j-ulrich/release-it-regex-bumper) - Regular expression based version read/write plugin for release-it
 - [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities.
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -3830,7 +3831,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots
 - [foo-software/lighthouse-check-action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running @GoogleChromeLabs Lighthouse audits with all the bells and whistles 🔔 Multiple audits, Slack notifications, and more!
 - [forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos) - 
-- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [fp4ts/fp4ts](https://github.com/fp4ts/fp4ts) - Zero-dependency, purely functional library for effectful programming in Typescript
 - [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) - MCP (Model Context Protocol) server that enables AI assistants to interact with Storybook design systems. Extract component HTML, analyze styles, and help with design system adoption and refactoring.
@@ -3919,7 +3919,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 - [ipfs-shipyard/ipfs-share-files](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files directly from the browser using IPFS.
 - [iroiro/iroiro](https://github.com/iroiro/iroiro) - 
-- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Nextjs Boilerplate and Starter with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js 16 + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest + Testing Library + Playwright + Storybook + Commitlint + VSCode + Sentry + PostCSS + Tailwind CSS ✨
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -4199,6 +4198,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 - [axone-protocol/ping-explorer](https://github.com/axone-protocol/ping-explorer) - 🧑‍🚀 AXONE blockchain explorer (from https://github.com/ping-pub/explorer)
 - [co-demos/datapatch-front](https://github.com/co-demos/datapatch-front) - Frontend for data patch project
+- [forthebadge/for-the-badge](https://github.com/forthebadge/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
 - [ignite/web](https://github.com/ignite/web) - Monorepo for packages used by Ignite CLI, including a template, component library and a set of Vuex modules
 - [kobble-io/vue-auth-example](https://github.com/kobble-io/vue-auth-example) - Example Vue 3 application including Kobble Authentication SDK, Pinia, vue-router and Tailwind.
 - [okp4/ping-pub-explorer](https://github.com/okp4/ping-pub-explorer) - A light explorer for Cosmos-based Blockchains.
