@@ -680,7 +680,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cadence-workflow/cadence-samples](https://github.com/cadence-workflow/cadence-samples) - 
 - [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library.
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go
 - [cbarraford/cosmos-multisig](https://github.com/cbarraford/cosmos-multisig) - Multi-signature Wallet for the Cosmos Blockchain
 - [ccamel/go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - ☝️ go-graphql subscription over Kafka/Redis/NSQ example 
@@ -823,7 +823,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [emperror/emperror](https://github.com/emperror/emperror) - The Emperor takes care of all errors personally
 - [emvi/hide](https://github.com/emvi/hide) - A Go type to prevent internal numeric IDs from being exposed to clients using HashIDs and JSON.
 - [enimatek-nl/tango](https://github.com/enimatek-nl/tango) - WebAssembly Lightweight Javascript Framework in Go (React / AngularJS Inspired)
-- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
+- [entireio/cli](https://github.com/entireio/cli) - Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [epicchainlabs/epicchain-api-go](https://github.com/epicchainlabs/epicchain-api-go) - EpicChain Go API is a Go implementation of the latest EpicChain API versions. It provides developers with a low-level interface to interact directly with the EpicChain blockchain, offering fine-grained control over blockchain operations. For a more high-level SDK, consider using the EpicChain SDK.
 - [epiclabs-io/elastic](https://github.com/epiclabs-io/elastic) - Converts go types no matter what
 - [equinor/flowify-workflows-server](https://github.com/equinor/flowify-workflows-server) - 
@@ -1098,7 +1098,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
 - [kungfusheep/glyph](https://github.com/kungfusheep/glyph) - declarative TUI library for Go
 - [kylelemons/godebug](https://github.com/kylelemons/godebug) - Debugging helper utilities for Go
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
@@ -2227,6 +2226,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [spekt8/spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
 - [ssuman/parcel-plugin-elm](https://github.com/ssuman/parcel-plugin-elm) -  A parcel plugin that enables elm support
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
+- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨
 - [supermodel/supermodel](https://github.com/supermodel/supermodel) - Supermodel browser library and CLI tool for working with JSON Schema data models
 - [superstreamlabs/kafka-analyzer](https://github.com/superstreamlabs/kafka-analyzer) - Interactive CLI for analyzing Kafka health and configuration according to best practices and industry standards.
 - [sveltejs/gl](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
@@ -2536,6 +2536,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Mariatta/github-bot-tutorial](https://github.com/Mariatta/github-bot-tutorial) - GitHub bot tutorial using gidgethub and aiohttp
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - Build apps and run Doom on a pharmacy cross!
 - [Mekire/pygame-samples](https://github.com/Mekire/pygame-samples) - Basic pygame samples illustrating various concepts.
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Logic Language for LLMs 🌱🐋🌍 Build Neuro-Symbolic AI for learning and reasoning
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
@@ -3236,6 +3237,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [r4topunk/cosmwasm-ai-delegated-spend](https://github.com/r4topunk/cosmwasm-ai-delegated-spend) - 
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
+- [raphaelmansuy/edgecrab](https://github.com/raphaelmansuy/edgecrab) - EdgeCrab 🦀 A Super Powerful Personal Assistant inspired by NousHermes and OpenClaw — Rust-native, blazing-fast terminal UI, ReAct tool loop, multi-provider LLM support, ACP protocol, gateway adapters, and built-in security hardening. 
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [readysettech/proptest-stateful](https://github.com/readysettech/proptest-stateful) - Library for building stateful property tests using the proptest crate
@@ -3300,6 +3302,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [skip-mev/skip-go-cosmwasm-contracts](https://github.com/skip-mev/skip-go-cosmwasm-contracts) - CosmWasm Contracts for Skip Go
 - [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build & run portable, lightweight, self-contained virtual machines.
 - [snarkify/sirius](https://github.com/snarkify/sirius) - A Plonkish folding framework for Incrementally Verifiable Computation (IVC).
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [spaceandtimefdn/sxt-proof-of-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql) - Space and Time | Proof of SQL
@@ -3876,6 +3879,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gitroomhq/trending-list](https://github.com/gitroomhq/trending-list) - Know when you are trending on GitHub
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [googleapis/gcloud-mcp](https://github.com/googleapis/gcloud-mcp) - gcloud MCP server
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [gracefullight/docusaurus-plugins](https://github.com/gracefullight/docusaurus-plugins) - A comprehensive collection of Docusaurus plugins for analytics, chat, ads, error tracking, and more. Enhance your documentation website with integrations for Baidu, Cloudflare, Naver, Vercel, Yandex, Microsoft Clarity, Channelio, Chatra, Intercom, Gitter, Google AdSense, Meta Pixel, Sentry, and Tailwind CSS.
@@ -3959,6 +3963,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kitze/mobx-router](https://github.com/kitze/mobx-router) - A simple router for MobX + React apps
 - [koala819/StarterPack](https://github.com/koala819/StarterPack) - A comprehensive web development kit for swift site creation, featuring responsive design, contact form, NextUI components, and Google Analytics integration.
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -4294,7 +4299,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
-- [PabloMK7/citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
 - [Rick45/quick-arr-Stack](https://github.com/Rick45/quick-arr-Stack) - Quick start on ARR stack with home VPN
 - [ScalablyTyped/Distribution](https://github.com/ScalablyTyped/Distribution) - The Javascript ecosystem for Scala.js!
