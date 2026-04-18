@@ -2197,6 +2197,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rogierschouten/async-lock](https://github.com/rogierschouten/async-lock) - Lock on asynchronous code for Nodejs
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [rollup/rollup-starter-lib](https://github.com/rollup/rollup-starter-lib) - Bare-bones example of how to create a library using Rollup
+- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [romquenin/home-assistant-config-fr](https://github.com/romquenin/home-assistant-config-fr) - 🏠Configuration de Home Assistant en français. 👨🏻‍💻 N'hésitez pas à ⭐ mon repo et à copier les bonnes idées ! 🇨🇵 
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [ryankurte/jfsm](https://github.com/ryankurte/jfsm) - JSON Finite State Machine (JFSM) Representation, Validation and Generation
@@ -2766,7 +2767,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [reecepbcups/airdrop-tools](https://github.com/reecepbcups/airdrop-tools) - A suite of tools to airdrop under a variety of edge cases for the Cosmos Interchain
 - [reecepbcups/cosmos-state-exporter](https://github.com/reecepbcups/cosmos-state-exporter) - A CosmosSDK chain scheduled state exporter
 - [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard) - A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats.
-- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
@@ -2962,7 +2962,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ad2ien/ideal-wages-calculator](https://github.com/ad2ien/ideal-wages-calculator) - A webassembly project using trunk and yew to point out injustices in range of wages
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [alexandretrotel/mntn](https://github.com/alexandretrotel/mntn) - A command-line tool to manage your dotfiles.
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
@@ -2987,6 +2986,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) - Astroport DEX core contracts
+- [atrtde/mntn](https://github.com/atrtde/mntn) - A command-line tool to manage your dotfiles.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [atuinsh/eye-declare](https://github.com/atuinsh/eye-declare) - A declarative inline TUI rendering library for Rust, built on Ratatui
 - [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
