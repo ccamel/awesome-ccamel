@@ -2494,7 +2494,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish) - SWI-Prolog for SHaring: a SWI-Prolog web IDE
 - [aarroyoc/doclog](https://github.com/aarroyoc/doclog) - DocLog builds documentation from source code in Prolog
 - [ciao-lang/ciao](https://github.com/ciao-lang/ciao) - Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.
-- [no382001/forth-vm](https://github.com/no382001/forth-vm) - Forth VM and statically-typed s-expression compiler, written in C++ and Scryer Prolog
+- [no382001/slab](https://github.com/no382001/slab) - A stack based VM with a Prolog-compiled s-expression language featuring static types, effect inference (det/semidet/nondet), and a Forth layer on top
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 
 ## PureScript
@@ -2613,6 +2613,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [chris104957/maildown](https://github.com/chris104957/maildown) - A super simple CLI for sending emails
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella: 
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase 
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
@@ -2877,7 +2878,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AlexanderThaller/prometheus_exporter](https://github.com/AlexanderThaller/prometheus_exporter) - Helper libary to export prometheus metrics using tiny_http and rust-prometheus.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
-- [Arcelyth/live-ascii](https://github.com/Arcelyth/live-ascii) - A Live2D Cubism model renderer, support face tracking
+- [Arcelyth/live-ascii](https://github.com/Arcelyth/live-ascii) - A Live2D Cubism model renderer for terminal, support face tracking
 - [AtlasDA0/app-contracts](https://github.com/AtlasDA0/app-contracts) - Cosmwasm implementation of non-custodial NFT loans,  on-chain raffles & P2P trading
 - [AtomaAI/atoma-node](https://github.com/AtomaAI/atoma-node) - Core infrastructure for confidential computing AI inference
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
@@ -3033,7 +3034,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [cloudpeers/tlfs](https://github.com/cloudpeers/tlfs) - The Local-First SDK
 - [cnyvz96/knowledge-network](https://github.com/cnyvz96/knowledge-network) - Prolog solution for complex calculations.
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [codeninja819/cw721-nft-staking](https://github.com/codeninja819/cw721-nft-staking) - CW721 NFT Staking smart contract in CosmWasm
 - [cometbft/tendermint-rs](https://github.com/cometbft/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [commonwarexyz/monorepo](https://github.com/commonwarexyz/monorepo) - Commonware Library Primitives and Examples
