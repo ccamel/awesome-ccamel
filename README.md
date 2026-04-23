@@ -765,7 +765,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A lightweight workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Used as a sovereign AI-agent orchestration infrastructure.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A lightweight workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent workflow operator manages your jobs.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -1942,6 +1942,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [PankajKumardev/GitGenius](https://github.com/PankajKumardev/GitGenius) - 
 - [Prathamesh-Udoshi/LLM-Checkmate](https://github.com/Prathamesh-Udoshi/LLM-Checkmate) - Instantly determines if your computer can run specific LLMs by analyzing hardware specs against real-time Hugging Face data. Features AI-powered spec parsing, neural performance scoring, and expert inference recommendations (GGUF/AWQ/vLLM).
 - [ReachFive/fake-smtp-server](https://github.com/ReachFive/fake-smtp-server) - Fake SMTP Server for email testing
+- [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [SchumacherFM/blog-cs](https://github.com/SchumacherFM/blog-cs) - My blog at https://cyrillschumacher.com - You may submit pull requests :-)
 - [Schweigi/assembler-simulator](https://github.com/Schweigi/assembler-simulator) - Simple 8-bit Assembler Simulator with Angular.js
@@ -2428,6 +2429,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr] 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
+- [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 
 ## Nushell
 
@@ -3688,7 +3690,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [RDIL/docusaurus-plugin-remote-content](https://github.com/RDIL/docusaurus-plugin-remote-content) - A Docusaurus plugin to download content from remote sources when it is needed.
 - [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) - The game-changing wallet for Ethereum and all EVM chains
 - [RaphaelEscrig/no-brain-extension](https://github.com/RaphaelEscrig/no-brain-extension) - Chrome extension used to translate normal langage to "no-brain" langage.
-- [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
 - [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) - 
@@ -3983,6 +3984,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [loiclaudet/block-explorer](https://github.com/loiclaudet/block-explorer) - Ethereum blocks, transactions and accounts explorer
 - [loiclaudet/threejs-journey](https://github.com/loiclaudet/threejs-journey) - 
 - [lostintangent/gistpad-mcp](https://github.com/lostintangent/gistpad-mcp) - 📓 An MCP server for managing your personal knowledge, daily notes, and re-usable prompts via GitHub Gists
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 - [macaly/almostnode](https://github.com/macaly/almostnode) - Node.js in your browser. Just like that.
