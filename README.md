@@ -2729,7 +2729,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
-- [ogx-ai/ogx](https://github.com/ogx-ai/ogx) - Composable building blocks to build LLM Apps
+- [ogx-ai/ogx](https://github.com/ogx-ai/ogx) - Open GenAI Stack
 - [okp4/data-join-tabular](https://github.com/okp4/data-join-tabular) - Tabular data join service
 - [okp4/data-selector](https://github.com/okp4/data-selector) - Select (or filter) data of different types and in multiple dimensions.
 - [okp4/detection-of-personal-data](https://github.com/okp4/detection-of-personal-data) - 📟 CLI tool to detect sensitive personal data
@@ -2768,7 +2768,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [redblock-ai/imgflip-mcp](https://github.com/redblock-ai/imgflip-mcp) - A Meme Creation Protocol server for Claude and other AI assistants.
 - [reecepbcups/airdrop-tools](https://github.com/reecepbcups/airdrop-tools) - A suite of tools to airdrop under a variety of edge cases for the Cosmos Interchain
 - [reecepbcups/cosmos-state-exporter](https://github.com/reecepbcups/cosmos-state-exporter) - A CosmosSDK chain scheduled state exporter
-- [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard) - A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats.
+- [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard) - FastAPI Guard: A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats.
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
@@ -2861,6 +2861,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
+- [midudev/autoskills](https://github.com/midudev/autoskills) - One command. Your entire AI skill stack. Installed.
 - [mina-deploy/mina](https://github.com/mina-deploy/mina) - Blazing fast deployer and server automation tool
 - [mojombo/bert](https://github.com/mojombo/bert) - BERT (Binary ERlang Term) serialization library for Ruby.
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
@@ -3911,6 +3912,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/dstorage](https://github.com/hazae41/dstorage) - Origin-agnostic storage for your dapp
 - [hazae41/glace](https://github.com/hazae41/glace) - Build a webapp with security in mind
 - [hazae41/glacier](https://github.com/hazae41/glacier) - Keep your data fresh
+- [hazae41/latrine](https://github.com/hazae41/latrine) - Secure and private WalletConnect client
 - [hazae41/ledger](https://github.com/hazae41/ledger) - Private and supply-chain hardened Ledger controller for TypeScript
 - [hazae41/next-as-immutable](https://github.com/hazae41/next-as-immutable) - An immutable Next.js webapp starter
 - [hazae41/pendule](https://github.com/hazae41/pendule) - Time-based one-time passcodes (TOTP) for the web
@@ -4004,7 +4006,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
-- [midudev/autoskills](https://github.com/midudev/autoskills) - One command. Your entire AI skill stack. Installed.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [mmarinovic/tailwindsql](https://github.com/mmarinovic/tailwindsql) - TailwindSQL lets you write SQL queries using Tailwind-style class names.
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
