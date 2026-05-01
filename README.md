@@ -2169,7 +2169,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js
-- [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [peterthoeny/rest-cli-io](https://github.com/peterthoeny/rest-cli-io) - REST CLI I/O node.js application to securely execute shell scripts and system commands
@@ -2778,7 +2777,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [run-llama/llamabot](https://github.com/run-llama/llamabot) - 
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 - [salacoste/antigravity-bmad-config](https://github.com/salacoste/antigravity-bmad-config) - Antigravity config template: BMad Method (BMAD-METHOD) AI agents via slash commands for PRD→Architecture→Stories→Dev→QA gate.
 - [santoru/shcheck](https://github.com/santoru/shcheck) - A basic tool to check security headers of a website
 - [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
@@ -4066,6 +4065,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) - Pixel office.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
+- [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [patrickmichalina/typescript-monads](https://github.com/patrickmichalina/typescript-monads) - 📚Write safer TypeScript using Maybe, List, Result, and Either monads.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [penumbra-zone/cuiloa](https://github.com/penumbra-zone/cuiloa) - Third party block explorer built with NextJS for the Penumbra Zone network
@@ -4158,7 +4158,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [subquery/subql-cosmos](https://github.com/subquery/subql-cosmos) - A fork of Subql for cosmos support
 - [subquery/subql-starter](https://github.com/subquery/subql-starter) - The Starter Package is an example that you can use as a starting point for developing your SubQuery project.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source autonomous agent powered by Grok.
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source coding agent for the Grok API
 - [swup/swup](https://github.com/swup/swup) - Versatile and extensible page transition library for server-rendered websites 🎉
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [talzach/mcp-angular-cli](https://github.com/talzach/mcp-angular-cli) - Model Context Protocol servers for Angular CLI
