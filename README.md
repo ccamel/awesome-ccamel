@@ -290,7 +290,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mhart/alpine-node](https://github.com/mhart/alpine-node) - Minimal Node.js Docker Images built on Alpine Linux
 - [okp4/docker-images](https://github.com/okp4/docker-images) - 🐳 Repository for Docker configurations and images we use @okp4.network
 - [okp4/template-python](https://github.com/okp4/template-python) - 🖨 Template for Python Projects @okp4.
-- [openfaas/templates](https://github.com/openfaas/templates) - OpenFaaS Classic templates
 - [strangelove-ventures/heighliner](https://github.com/strangelove-ventures/heighliner) - Repository of docker images for the node software of Cosmos chains
 
 ## Elixir
@@ -1788,7 +1787,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [crate/crate-sample-apps](https://github.com/crate/crate-sample-apps) - A JavaScript guestbook app with a number of different backend implementations, each using a different client library to communicate with CrateDB.
 - [ctongfei/progressbar](https://github.com/ctongfei/progressbar) - Terminal-based progress bar for Java / JVM
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [datastax/dsbulk](https://github.com/datastax/dsbulk) - DataStax Bulk Loader (DSBulk) is an open-source, Apache-licensed, unified tool for loading into and unloading from Apache Cassandra(R), DataStax Astra and DataStax Enterprise (DSE)
 - [davidmoten/subethasmtp](https://github.com/davidmoten/subethasmtp) - SubEtha SMTP is a Java library for receiving SMTP mail
 - [ddd-by-examples/all-things-cqrs](https://github.com/ddd-by-examples/all-things-cqrs) - Comprehensive guide to a couple of possible ways of synchronizing two states with Spring tools. Synchronization is shown by separating command and queries in a simple CQRS application.
@@ -2162,6 +2160,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [octoherd/script-star-or-unstar](https://github.com/octoherd/script-star-or-unstar) - An octoherd script to add or remove star
 - [okp4/eslint-config-okp4](https://github.com/okp4/eslint-config-okp4) - 📜 ESLint shareable config used @okp4
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
+- [openfaas/templates](https://github.com/openfaas/templates) - OpenFaaS Classic templates
 - [orbitdb-archive/orbit-db-eventstore](https://github.com/orbitdb-archive/orbit-db-eventstore) - Append-Only Log database for orbit-db
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [orbitdb/simple-encryption](https://github.com/orbitdb/simple-encryption) - A simple password encryption module that encrypts data using AES-GCM PBKDF2.
@@ -2592,7 +2591,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-- [antoinebou12/uml-mcp](https://github.com/antoinebou12/uml-mcp) - UML-MCP Server is a UML diagram generation tool based on MCP (Model Context Protocol), which can help users generate various types of UML diagrams through natural language description or directly writing PlantUML and Mermaid and Kroki
+- [antoinebou12/uml-mcp](https://github.com/antoinebou12/uml-mcp) - UML-MCP Server is a UML diagram generation tool based on MCP (Model Context Protocol), which can help users generate various types of UML diagrams through natural language description or directly writing PlantUML and Mermaid and Kroki https://uml-mcp.vercel.app/docs
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!
 - [assetnote/batchql](https://github.com/assetnote/batchql) - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations
@@ -2636,6 +2635,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [darthnorse/dockmon](https://github.com/darthnorse/dockmon) - DockMon - Modern Docker container monitoring with auto-restart and alerts
 - [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects. 
@@ -2649,7 +2649,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [electric-capital/open-dev-data](https://github.com/electric-capital/open-dev-data) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
 - [eli-shen08/Sql-Kafka](https://github.com/eli-shen08/Sql-Kafka) - Sql to Kafka to json pipeline
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The interaction control harness for customer-facing AI agents - optimized for building controlled, consistent, and predictable customer interactions with LLMs.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
 - [eshaan7/Flask-Shell2HTTP](https://github.com/eshaan7/Flask-Shell2HTTP) - Execute shell commands via HTTP server (via flask's endpoints). 
@@ -2693,7 +2693,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [lasso-security/mcp-gateway](https://github.com/lasso-security/mcp-gateway) - A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -2804,7 +2804,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tartiflette/tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project.
 - [tehmaze/diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters and fancy colors
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - The memory for your AI Agents in 6 lines of code
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory control plane for AI Agents in 6 lines of code
 - [tosanjay/NeuroLog](https://github.com/tosanjay/NeuroLog) - 
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [vhanla/deepseek-r1-unthink](https://github.com/vhanla/deepseek-r1-unthink) - Ollama's API proxy server that captures /api/chat responses and removes &lt;think&gt;&lt;/think&gt; streamed content
@@ -2971,6 +2971,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [ad2ien/ideal-wages-calculator](https://github.com/ad2ien/ideal-wages-calculator) - A webassembly project using trunk and yew to point out injustices in range of wages
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
@@ -3370,6 +3371,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xlmnxp/cli2rest](https://github.com/xlmnxp/cli2rest) - A simple REST API server that converts CLI commands to HTTP endpoints.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [yisar/ijc](https://github.com/yisar/ijc) - Itsy-bitsy JavaScript Compiler
+- [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [zeqianli/ratatui-stacked-bar](https://github.com/zeqianli/ratatui-stacked-bar) - 
@@ -4422,6 +4424,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries](https://github.com/gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries) - Extensive List of CSS Frameworks and UI/Components Libraries.
 - [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
+- [giba0/awesome-zed](https://github.com/giba0/awesome-zed) - Here we share all the coolest things about https://zed.dev
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
