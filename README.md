@@ -2153,7 +2153,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [normen/homebridge-landroid](https://github.com/normen/homebridge-landroid) - Homebridge plugin to control Worx Landroid robo mowers through the Worx Cloud
 - [notional-labs/multisig-ui](https://github.com/notional-labs/multisig-ui) - UI for multisignature tool
-- [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Framework and Observable notebooks
+- [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Notebooks
 - [octoherd/script-star-or-unstar](https://github.com/octoherd/script-star-or-unstar) - An octoherd script to add or remove star
 - [okp4/eslint-config-okp4](https://github.com/okp4/eslint-config-okp4) - 📜 ESLint shareable config used @okp4
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
@@ -2913,7 +2913,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/mesh-security-hackathon](https://github.com/CosmWasm/mesh-security-hackathon) - Implementation of Sunny's Mesh Security talk (Hackathon / Prototype status)
 - [CosmWasm/optimizer](https://github.com/CosmWasm/optimizer) - Dockerfile and script to produce the smallest possible Wasm for Rust contract
 - [CyberHoward/cosmwasm-re-entrancy-example](https://github.com/CyberHoward/cosmwasm-re-entrancy-example) - An example re-entrancy attack on a flashloan vault.
-- [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) - CosmWasm smart contracts for Interchain DAOs.
+- [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) - Advanced Web Assembly governance tooling.
 - [DA0-DA0/polytone](https://github.com/DA0-DA0/polytone) - An account on every blockchain for every smart contract.
 - [DanielKeep/cargo-script](https://github.com/DanielKeep/cargo-script) - Cargo script subcommand
 - [Derricks-DApps/contracts](https://github.com/Derricks-DApps/contracts) - 📜 Smart contracts for the OKP4 network built on CosmWasm.
