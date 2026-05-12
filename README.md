@@ -2049,6 +2049,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eco-stake/restake-ui](https://github.com/eco-stake/restake-ui) - Auto-compounder app for Cosmos blockchains using Authz
 - [eddy-guo/validator-monitor](https://github.com/eddy-guo/validator-monitor) - Discord bot to monitor Jackal validator uptime status (and other Cosmos blockchains).
 - [editor-js/raw](https://github.com/editor-js/raw) - Raw HTML tool for Editor.js
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [elm-explorations/linear-algebra](https://github.com/elm-explorations/linear-algebra) - Fast linear algebra for Elm
 - [elm/virtual-dom](https://github.com/elm/virtual-dom) - The foundation of HTML and SVG in Elm.
 - [elwin013/parcel-plugin-static-files-copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - ParcelJS plugin to copy static files
@@ -3855,7 +3856,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eeue56/elm-static-html-lib](https://github.com/eeue56/elm-static-html-lib) - 
 - [efstajas/versioned-parser](https://github.com/efstajas/versioned-parser) - 🤓 A TypeScript-first utility for managing multiple versions of parse functions.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
 - [enricopolanski/functional-programming](https://github.com/enricopolanski/functional-programming) - Introduction to Functional Programming using TypeScript and fp-ts.
@@ -4071,7 +4071,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one step.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [opensouls/opensouls](https://github.com/opensouls/opensouls) - The framework for AI souls
 - [optimistex/xlsx-template-ex](https://github.com/optimistex/xlsx-template-ex) - The template engine for generate xlsx documents
