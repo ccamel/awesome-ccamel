@@ -2061,7 +2061,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [evanw/polywasm](https://github.com/evanw/polywasm) - A JavaScript polyfill for WebAssembly
 - [evoluteur/meet-the-fans](https://github.com/evoluteur/meet-the-fans) - Query and visualize the network graph of your GitHub repositories, forks, followers, and stargazers (using GraphQL and D3).
 - [exogen/graphql-markdown](https://github.com/exogen/graphql-markdown) - The easiest way to document your GraphQL schema.
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) - This action automatically approves and merges dependabot PRs
@@ -2187,6 +2186,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rdfjs/N3.js](https://github.com/rdfjs/N3.js) - Lightning fast, spec-compatible, streaming RDF for JavaScript
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-theming/create-mui-theme](https://github.com/react-theming/create-mui-theme) - online tool for creating material-ui themes
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. 
 - [realopslabs/kubeledger](https://github.com/realopslabs/kubeledger) - The System of Record for Kubernetes Accounting. Tracks CPU/RAM/GPU usage per namespace. Reveals hidden overhead. Get Insights for cost optimization. (Formerly Kube-Opex-Analytics).
 - [rehypejs/rehype-react](https://github.com/rehypejs/rehype-react) - plugin to transform to preact, react, vue, etc
@@ -2360,7 +2360,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Lua
 
 - [Kong/kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus) - Prometheus plugin for Kong - this plugin has been moved into https://github.com/Kong/kong, please open issues and PRs in that repo 
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode AI to stay in your flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Bridge Neovim and OpenCode AI to stay in your flow.
 - [penso/kickstart.nvim](https://github.com/penso/kickstart.nvim) - My neovim configuration based from kickstart.nvim
 - [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
 - [pravin-raha/kong-plugin-cookies-to-headers](https://github.com/pravin-raha/kong-plugin-cookies-to-headers) - A Kong plugin that will add Authorization header from cookie
@@ -2807,7 +2807,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - Multi-agent knowledge engine (ag-refresh / ag-ask) that turns any codebase into a queryable AI assistant.Workspace template + MCP server for Claude Code, Codex CLI, Cursor & Windsurf. 
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
-- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
+- [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex.Searchable via Claude Code skills.
 - [tartiflette/tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project.
 - [tehmaze/diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters and fancy colors
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
@@ -3231,6 +3231,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [osmosis-labs/cw-minimal-template](https://github.com/osmosis-labs/cw-minimal-template) - A minimal CosmWasm template
 - [osmosis-labs/orderbook](https://github.com/osmosis-labs/orderbook) - Cosmwasm Orderbook Repo for Osmosis
 - [osmosis-labs/osmosis-rust](https://github.com/osmosis-labs/osmosis-rust) - Rust libraries for osmosis
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [oxigraph/rio](https://github.com/oxigraph/rio) - RDF parsers library
@@ -4158,7 +4159,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [spruceid/siwe](https://github.com/spruceid/siwe) - Sign-In with Ethereum library
 - [sqg-dev/sqg](https://github.com/sqg-dev/sqg) - Generate typesafe code from SQL queries, DuckDB, SQlite, Postgres. ⭐️ Star to support our work!
 - [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
@@ -4280,7 +4280,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gurgeous/tennis](https://github.com/gurgeous/tennis) - stylish CSV tables in your terminal
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [lukewilliamboswell/roc-wasm4](https://github.com/lukewilliamboswell/roc-wasm4) - Build wasm4 games using Roc
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
