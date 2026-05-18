@@ -4000,7 +4000,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [loiclaudet/block-explorer](https://github.com/loiclaudet/block-explorer) - Ethereum blocks, transactions and accounts explorer
 - [loiclaudet/threejs-journey](https://github.com/loiclaudet/threejs-journey) - 
@@ -4056,7 +4056,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [notional-labs/dig](https://github.com/notional-labs/dig) - Dig: Governance
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [okp4/dataset-deposit-web](https://github.com/okp4/dataset-deposit-web) - 📁 Dataset deposit web app for the ØKP4 protocol.
 - [okp4/dataverse-portal](https://github.com/okp4/dataverse-portal) - 🔭 Dataverse Portal for the OKP4 network. 
 - [okp4/follow-contributor-action](https://github.com/okp4/follow-contributor-action) - Github action to follow a contributor.
