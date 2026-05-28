@@ -599,6 +599,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [andeya/gust](https://github.com/andeya/gust) - A production-ready library that makes error handling, optional values, and iteration as beautiful and safe as in Rust.
 - [andromedaprotocol/andromedad](https://github.com/andromedaprotocol/andromedad) - 
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
+- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [anthdm/hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang
 - [anthdm/slick](https://github.com/anthdm/slick) - 
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -766,7 +767,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Turn your cron scripts and ops automation into observable workflows. Use any AI agent harness to manage your workflows via MCP.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - The local-first control plane for existing ops automation and AI workflows. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs via MCP.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -1809,6 +1810,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [gavlyukovskiy/spring-boot-data-source-decorator](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator) - Spring Boot integration with p6spy, datasource-proxy, flexy-pool and spring-cloud-sleuth
 - [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [gluonhq/substrate](https://github.com/gluonhq/substrate) - Create native Java(FX) apps for desktop, mobile and embedded
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
 - [graphql-java-kickstart/graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - Servlet endpoint for GraphQL Java
@@ -2536,7 +2538,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
 - [ItMeDiaTech/rag-cli](https://github.com/ItMeDiaTech/rag-cli) - Local Retrieval-Augmented Generation (RAG) plugin for Claude Code that combines Chroma db vector embeddings with intelligent info retrieval with Multi-Agent Framework (MAF) orchestration for context-aware development assistance. Uses Open Source / Free frameworks. Implements bridge to Claude Code CLI so no token use. And it's easy to setup.
 - [JBGamond/aet-calculator](https://github.com/JBGamond/aet-calculator) - Thanks chatgpt
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.
 - [Keeper-Security/Commander](https://github.com/Keeper-Security/Commander) - Keeper Commander is a python-based CLI and SDK interface to the Keeper Security platform. Provides administrative controls, reporting, import/export and vault management.
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
@@ -2813,7 +2815,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stefano/wasm-forth](https://github.com/stefano/wasm-forth) - A Forth implementation compiling to WebAssembly.
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - Skill, agent, MCP, and harness recommendations for Claude Code/custom LLMs: 102,696-node LLM-wiki graph, 91,432 skills, 10,787 MCPs, 13 harnesses, and capped execution recommendations.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - Multi-agent knowledge engine (ag-refresh / ag-ask) that turns any codebase into a queryable AI assistant.Workspace template + MCP server for Claude Code, Codex CLI, Cursor & Windsurf. 
+- [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - Give Claude Code, Cursor, Codex CLI a ChatGPT for your codebase. Multi-agent knowledge engine, grounded Q&A with file paths and line numbers. Works in any AI IDE.
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex. Searchable via Claude Code skills.
 - [tartiflette/tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project.
@@ -3114,7 +3116,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [git-bahn/git-graph](https://github.com/git-bahn/git-graph) - Command line tool to show clear git graphs arranged for your branching model
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [gnosisguild/enclave](https://github.com/gnosisguild/enclave) - An open-source protocol and distributed network for confidential coordination.
@@ -3162,7 +3163,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [larry0x/cw-plus-plus](https://github.com/larry0x/cw-plus-plus) - A collection of CosmWasm utilities and helper functions that I use 
 - [larry0x/cw-template](https://github.com/larry0x/cw-template) - Template for multi-contract CosmWasm projects
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 - [left-curve/left-curve](https://github.com/left-curve/left-curve) - Decentralize perpetual futures exchange
 - [lemunozm/message-io](https://github.com/lemunozm/message-io) - Fast and easy-to-use event-driven network library.
@@ -3364,6 +3364,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [topheman/webassembly-component-model-experiments](https://github.com/topheman/webassembly-component-model-experiments) - WebAssembly Component Model based REPL with sandboxed multi-language plugin system - unified codebase runs in CLI (Rust) and web (TypeScript)
+- [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [trueagi-io/hyperon-experimental](https://github.com/trueagi-io/hyperon-experimental) - MeTTa programming language implementation
@@ -4080,7 +4081,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
 - [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
-- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
 - [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one step.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
