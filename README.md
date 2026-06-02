@@ -2024,7 +2024,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmostation/cosmosjs](https://github.com/cosmostation/cosmosjs) - :star: CosmosJS - Cosmos JavaScript Library
 - [credential-handler/vc-examples](https://github.com/credential-handler/vc-examples) - Verifiable Credentials for the CHAPI Playground
 - [cryppadotta/dotta-license](https://github.com/cryppadotta/dotta-license) - ERC721-based Software Licensing Framework
-- [cryptocrew-validators/relayer-feegrant-wg](https://github.com/cryptocrew-validators/relayer-feegrant-wg) - 
 - [cycjimmy/semantic-release-action](https://github.com/cycjimmy/semantic-release-action) - GitHub Action for Semantic Release
 - [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 - [danilowoz/react-atomic-design](https://github.com/danilowoz/react-atomic-design) - 🔬 How the Atomic Design methodology can create a great design system from scratch and make better developers.
@@ -2055,6 +2054,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [elm/virtual-dom](https://github.com/elm/virtual-dom) - The foundation of HTML and SVG in Elm.
 - [elwin013/parcel-plugin-static-files-copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - ParcelJS plugin to copy static files
 - [elwin013/parcel-reporter-static-files-copy](https://github.com/elwin013/parcel-reporter-static-files-copy) - ParcelJS v2 plugin to copy static files
+- [emanuelef/daily-stars-explorer](https://github.com/emanuelef/daily-stars-explorer) - Gain deeper insights into your favourite open-source GitHub repositories. Explore star trends showing daily stats.
 - [ept/avrodoc](https://github.com/ept/avrodoc) - Documentation tool for Avro schemas
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [etalab/guides.etalab.gouv.fr](https://github.com/etalab/guides.etalab.gouv.fr) - Les guides d'Etalab : bonnes pratiques relatives aux données, algorithmes et codes sources
@@ -2226,6 +2226,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sindresorhus/capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - Capture screenshots of websites from the command-line
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action!
 - [smakosh/gatsby-portfolio-dev](https://github.com/smakosh/gatsby-portfolio-dev) - A portfolio for developers
+- [solva-solutions/relayer-feegrant-wg](https://github.com/solva-solutions/relayer-feegrant-wg) - 
 - [spekt8/spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
 - [ssuman/parcel-plugin-elm](https://github.com/ssuman/parcel-plugin-elm) -  A parcel plugin that enables elm support
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
@@ -2767,7 +2768,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 - [polyphony-dev/polyphony](https://github.com/polyphony-dev/polyphony) - Polyphony is Python based High-Level Synthesis compiler.
-- [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) - Portainer MCP server
+- [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) - Official Portainer MCP server
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [powerfulseal/powerfulseal](https://github.com/powerfulseal/powerfulseal) - A powerful testing tool for Kubernetes clusters.
 - [proycon/clam](https://github.com/proycon/clam) - Quickly turn command-line applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
@@ -2806,7 +2807,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [seanluong/cookiecutter-python-cli](https://github.com/seanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,494+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
@@ -2822,7 +2823,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tartiflette/tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project.
 - [tehmaze/diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters and fancy colors
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory control plane for AI Agents in 6 lines of code
+- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory platform for AI Agents in 6 lines of code
 - [tosanjay/NeuroLog](https://github.com/tosanjay/NeuroLog) - 
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [vhanla/deepseek-r1-unthink](https://github.com/vhanla/deepseek-r1-unthink) - Ollama's API proxy server that captures /api/chat responses and removes &lt;think&gt;&lt;/think&gt; streamed content
@@ -2981,7 +2983,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TylerBloom/webatui](https://github.com/TylerBloom/webatui) - An integration between the Yew and Ratatui crates for making TUI-themed WASM webapps
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [WhatsApp/erlang-language-platform](https://github.com/WhatsApp/erlang-language-platform) - Erlang Language Platform. LSP server and CLI.
-- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares & Ransomwares, focused on Rust 🦀
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [ZenGo-X/gotham-city](https://github.com/ZenGo-X/gotham-city) - Gotham city is a fully functional project to demonstrate real-life example of minimalist Bitcoin decentralized HD wallet using 2 party ECDSA
 - [Zondax/ledger-rs](https://github.com/Zondax/ledger-rs) - Rust crate to connect to Ledger devices
@@ -3756,7 +3757,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). 100% test coverage, types, examples, & more. Unopinionated and heavily updated fork of react-signature-pad
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
-- [aidenlippert/persona-chain](https://github.com/aidenlippert/persona-chain) - 
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
