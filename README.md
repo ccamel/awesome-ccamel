@@ -592,7 +592,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter) - DEPRECATED: Use https://github.com/golangci/golangci-lint
 - [alessio/shellescape](https://github.com/alessio/shellescape) - Escape arbitrary strings for use as command line arguments
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 - [alpeb/go-finance](https://github.com/alpeb/go-finance) - Go library containing a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s. 
@@ -2683,6 +2683,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection 
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [gptme/gptme-rag](https://github.com/gptme/gptme-rag) - Local RAG as a simple CLI, for standalone use or as a gptme tool
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [grafana/github-traffic](https://github.com/grafana/github-traffic) - Github Traffic Insights as Prometheus metrics.
@@ -2845,6 +2846,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount) - Beancount tips and tricks
 - [yougov/mongo-connector](https://github.com/yougov/mongo-connector) - MongoDB data stream pipeline tools by YouGov (adopted from MongoDB)
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
+- [zeroclaw-labs/zeroclaw-plugins](https://github.com/zeroclaw-labs/zeroclaw-plugins) - Official plugin registry for ZeroClaw — zeroclaw plugin search/install
 
 ## QML
 
@@ -3416,7 +3418,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties. 
-- [axone-protocol/docs](https://github.com/axone-protocol/docs) - 📜 Axone documentation portal (built with Docusaurus).
+- [axone-protocol/docs](https://github.com/axone-protocol/docs) - 📜 Axone Technical Documentation (built with Docusaurus).
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [okp4/okp4-web](https://github.com/okp4/okp4-web) - 🌐 OKP4 web site
 - [okp4/team-wiki](https://github.com/okp4/team-wiki) - 📚 OKP4 Wiki
@@ -3716,6 +3718,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [KYVENetwork/kyvejs](https://github.com/KYVENetwork/kyvejs) - Tools for building applications on KYVE
 - [Lamuji/SpacePong-ft_transcendance](https://github.com/Lamuji/SpacePong-ft_transcendance) - 
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
+- [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform
 - [Mastermindzh/react-cookie-consent](https://github.com/Mastermindzh/react-cookie-consent) - A small, simple and customizable cookie consent bar for use in React applications.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
