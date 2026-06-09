@@ -153,7 +153,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [timescale/pg_prometheus](https://github.com/timescale/pg_prometheus) - PostgreSQL extension for Prometheus data
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [trealla-prolog/trealla](https://github.com/trealla-prolog/trealla) - A compact, efficient Prolog interpreter written in plain old C.
-- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The programming language for agents
 - [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 
@@ -219,6 +218,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [xaos-project/XaoS](https://github.com/xaos-project/XaoS) - Real-time interactive fractal zoomer
 - [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
@@ -287,6 +287,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~80KB) to run any static website
 - [mhart/alpine-node](https://github.com/mhart/alpine-node) - Minimal Node.js Docker Images built on Alpine Linux
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 - [okp4/docker-images](https://github.com/okp4/docker-images) - 🐳 Repository for Docker configurations and images we use @okp4.network
 - [okp4/template-python](https://github.com/okp4/template-python) - 🖨 Template for Python Projects @okp4.
 - [strangelove-ventures/heighliner](https://github.com/strangelove-ventures/heighliner) - Repository of docker images for the node software of Cosmos chains
@@ -420,7 +421,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Emacs Lisp
 
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [doomemacs/themes](https://github.com/doomemacs/themes) - A megapack of themes for GNU Emacs.
 
 ## Erlang
@@ -1276,7 +1277,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [paganotoni/tailo](https://github.com/paganotoni/tailo) - Tailo is a wrapper that takes care of downloading the TailwindCLI and run it.
 - [palomachain/paloma](https://github.com/palomachain/paloma) - The fast blockchain messenger protocol
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF tooling for Go and the command line.
 - [pelletier/go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML file format
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - The most accurate natural language detection library for Go, suitable for short text and mixed-language text
 - [persistenceOne/persistenceCore](https://github.com/persistenceOne/persistenceCore) - Project implementing an application for the Persistence Core chain that all the other chains in the ecosystem connect to as a raised and open moderator for interoperability, shared security, and as a gateway to other ecosystems and chains.
@@ -2747,7 +2748,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mikethebeer/graphql-crate](https://github.com/mikethebeer/graphql-crate) - Graphql Demo using Crate
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 - [mind-protocol/terminal-velocity](https://github.com/mind-protocol/terminal-velocity) - A novel created autonomously by a team of 10 AI agents
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [mormahr/pdf-service](https://github.com/mormahr/pdf-service) - A dockerized HTTP service, that generates PDF files from HTML using Weasyprint.
@@ -2961,6 +2961,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [InjectiveLabs/cw-injective](https://github.com/InjectiveLabs/cw-injective) - 
 - [InjectiveLabs/test-tube](https://github.com/InjectiveLabs/test-tube) - Enables testing CosmWasm contracts against Injective chain without mocks!
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - a GPU powered yet browserless tool to view markdown files in the blink of an eye
+- [JBGamond/git-moat](https://github.com/JBGamond/git-moat) - A security-aware git clone wrapper that detects and neutralises supply-chain attack vectors before you open a repository.
 - [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) - A library for functional programming in Rust
 - [JayanAXHF/filessh](https://github.com/JayanAXHF/filessh) - A fast and convenient TUI file browser for remote servers
 - [Jesterhearts/ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) - A wgpu based rendering backend for ratatui.
@@ -2973,6 +2974,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MarkusZoppelt/portfolio_rs](https://github.com/MarkusZoppelt/portfolio_rs) - A command line tool for managing financial investment portfolios.
 - [MegaRockLabs/cw-extra](https://github.com/MegaRockLabs/cw-extra) - Experimental CosmWasm based contracts, packages and protocols
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) -  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
@@ -3134,7 +3136,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
-- [gnosisguild/enclave](https://github.com/gnosisguild/enclave) - An open-source protocol and distributed network for confidential coordination.
+- [gnosisguild/interfold](https://github.com/gnosisguild/interfold) - An open-source protocol and distributed network for confidential coordination.
 - [gnprice/toml-cli](https://github.com/gnprice/toml-cli) - 
 - [gold-silver-copper/soft_ratatui](https://github.com/gold-silver-copper/soft_ratatui) - Software renderer for ratatui
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -4025,7 +4027,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [koala819/StarterPack](https://github.com/koala819/StarterPack) - A comprehensive web development kit for swift site creation, featuring responsive design, contact form, NextUI components, and Google Analytics integration.
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source ai monitoring platform.
