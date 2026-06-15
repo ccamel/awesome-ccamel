@@ -154,6 +154,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [timescale/pg_prometheus](https://github.com/timescale/pg_prometheus) - PostgreSQL extension for Prometheus data
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [trealla-prolog/trealla](https://github.com/trealla-prolog/trealla) - A compact, efficient Prolog interpreter written in plain old C.
+- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 
@@ -219,7 +220,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [xaos-project/XaoS](https://github.com/xaos-project/XaoS) - Real-time interactive fractal zoomer
 - [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
@@ -662,7 +662,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bianjieai/irita](https://github.com/bianjieai/irita) - IRITA Consortium Blockchain
 - [birdayz/kaf](https://github.com/birdayz/kaf) - Modern CLI for Apache Kafka, written in Go.
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
+- [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [bitsbeats/prometheus-acls](https://github.com/bitsbeats/prometheus-acls) - prometheus oauth acl reverse proxy
 - [bitsongofficial/go-bitsong](https://github.com/bitsongofficial/go-bitsong) - :rocket: Official BitSong Blockchain Implementation in Go
 - [blocto/solana-go-sdk](https://github.com/blocto/solana-go-sdk) - Solana Golang SDK
@@ -2595,6 +2595,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ViktorAxelsen/MemSkill](https://github.com/ViktorAxelsen/MemSkill) - MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
 - [Wenzel/oswatcher](https://github.com/Wenzel/oswatcher) - A framework to track the evolution of Operating Systems over time
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
+- [ZizheRuan/awesome-nanobanana2](https://github.com/ZizheRuan/awesome-nanobanana2) - A curated collection of 🍌Nano Banana 2 prompts and image examples. Nano Banana 2 提示词合集.
 - [actions-automation/pull-request-responsibility](https://github.com/actions-automation/pull-request-responsibility) - Keep pull requests moving -- from opening to merge.
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [agent0lab/agent0-py](https://github.com/agent0lab/agent0-py) - Agent0 is the SDK for agentic economies: open discovery and trust for agents
@@ -2669,6 +2670,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [derrian-distro/LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts) - A UI made in Pyside6 to make training LoRA/LoCon and other LoRA type models in sd-scripts easy
 - [diego-vicente/som-tsp](https://github.com/diego-vicente/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
@@ -2772,6 +2774,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [okp4/data-join-tabular](https://github.com/okp4/data-join-tabular) - Tabular data join service
 - [okp4/data-selector](https://github.com/okp4/data-selector) - Select (or filter) data of different types and in multiple dimensions.
 - [okp4/detection-of-personal-data](https://github.com/okp4/detection-of-personal-data) - 📟 CLI tool to detect sensitive personal data
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [openai/grok](https://github.com/openai/grok) - 
 - [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
@@ -3021,6 +3024,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
+- [amimart/colette](https://github.com/amimart/colette) - Colette - Typed collections, indexes and scans over KV stores
+- [amimart/magnarr](https://github.com/amimart/magnarr) - Magnarr - Magnet-based torrent download orchestrator
 - [andresilva/rust-okasaki](https://github.com/andresilva/rust-okasaki) - Purely Functional Data Structures in Rust
 - [andromedaprotocol/andromeda-core](https://github.com/andromedaprotocol/andromeda-core) - Operating System and ADO Smart Contracts
 - [antouhou/rs-merkle](https://github.com/antouhou/rs-merkle) - The most advanced Merkle tree library for Rust
@@ -3717,6 +3722,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DomParfitt/graphviz-react](https://github.com/DomParfitt/graphviz-react) - React component for displaying Graphviz graphs
 - [EFanZh/Graphviz-Preview](https://github.com/EFanZh/Graphviz-Preview) - Extension for Visual Studio Code to preview Graphviz (DOT) files.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 - [ErikssonJoakim/hexagonal-user-application](https://github.com/ErikssonJoakim/hexagonal-user-application) - 
 - [Fairblock/fairyring](https://github.com/Fairblock/fairyring) - 
 - [Finschia/finschia-js](https://github.com/Finschia/finschia-js) - finschia-js is javascript sdk for Finschia
@@ -4469,7 +4475,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dharmeshkakadia/awesome-kafka](https://github.com/dharmeshkakadia/awesome-kafka) - Everything about Apache Kafka
 - [docknetwork/vc-schemas](https://github.com/docknetwork/vc-schemas) - A collection of Verifaible Credential schemas/templates/examples
 - [drobakowski/awesome-erlang](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things.
-- [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [durnosmih/build-your-own-x-in-rust](https://github.com/durnosmih/build-your-own-x-in-rust) - 
 - [dymensionxyz/chain-registry](https://github.com/dymensionxyz/chain-registry) - 
 - [eco-stake/validator-registry](https://github.com/eco-stake/validator-registry) - Cosmos Validator Registry
