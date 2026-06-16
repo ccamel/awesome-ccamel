@@ -288,7 +288,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~80KB) to run any static website
 - [mhart/alpine-node](https://github.com/mhart/alpine-node) - Minimal Node.js Docker Images built on Alpine Linux
-- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 - [okp4/docker-images](https://github.com/okp4/docker-images) - 🐳 Repository for Docker configurations and images we use @okp4.network
 - [okp4/template-python](https://github.com/okp4/template-python) - 🖨 Template for Python Projects @okp4.
 - [strangelove-ventures/heighliner](https://github.com/strangelove-ventures/heighliner) - Repository of docker images for the node software of Cosmos chains
@@ -2411,6 +2410,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 - [ninenines/erlang.mk](https://github.com/ninenines/erlang.mk) - A build tool for Erlang that just works.
 - [prometheus/client_model](https://github.com/prometheus/client_model) - Data model artifacts for Prometheus.
 - [stevemcquaid/python-flask-docker-hello-world](https://github.com/stevemcquaid/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
@@ -2545,6 +2545,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of "DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation"
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [HAL-XP/mcp-pronotes](https://github.com/HAL-XP/mcp-pronotes) - MCP server for Pronotes (French school platform) — grades, timetables, homework, absences
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
@@ -2596,6 +2597,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Wenzel/oswatcher](https://github.com/Wenzel/oswatcher) - A framework to track the evolution of Operating Systems over time
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [ZizheRuan/awesome-nanobanana2](https://github.com/ZizheRuan/awesome-nanobanana2) - A curated collection of 🍌Nano Banana 2 prompts and image examples. Nano Banana 2 提示词合集.
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [actions-automation/pull-request-responsibility](https://github.com/actions-automation/pull-request-responsibility) - Keep pull requests moving -- from opening to merge.
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [agent0lab/agent0-py](https://github.com/agent0lab/agent0-py) - Agent0 is the SDK for agentic economies: open discovery and trust for agents
@@ -2646,6 +2648,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [chris104957/maildown](https://github.com/chris104957/maildown) - A super simple CLI for sending emails
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella: 
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase 
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
@@ -3093,7 +3096,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [cloudpeers/tlfs](https://github.com/cloudpeers/tlfs) - The Local-First SDK
 - [cnyvz96/knowledge-network](https://github.com/cnyvz96/knowledge-network) - Prolog solution for complex calculations.
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [codeninja819/cw721-nft-staking](https://github.com/codeninja819/cw721-nft-staking) - CW721 NFT Staking smart contract in CosmWasm
 - [cometbft/tendermint-rs](https://github.com/cometbft/tendermint-rs) - Client libraries for Tendermint/CometBFT in Rust!
 - [commonwarexyz/monorepo](https://github.com/commonwarexyz/monorepo) - Commonware Library Primitives and Examples
@@ -3780,7 +3782,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [Zehelein/pg-transactional-outbox](https://github.com/Zehelein/pg-transactional-outbox) - A library to implement the transactional outbox pattern for PostgreSQL, a message broker or event stream, and TypeScript.
 - [Zondax/ledger-cosmos-js](https://github.com/Zondax/ledger-cosmos-js) - 
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [abirismyname/create-discussion](https://github.com/abirismyname/create-discussion) - Create a new GitHub Discussion with GitHub Actions
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [actions/attest](https://github.com/actions/attest) - Action for generating attestations for workflow artifacts
@@ -3866,7 +3867,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [condorheroblog/html-export-pdf-cli](https://github.com/condorheroblog/html-export-pdf-cli) - Render HTML to PDF(with outline) using Puppeteer.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [contextprotocol/sdk](https://github.com/contextprotocol/sdk) - The Context SDK provides a powerful and flexible way to interact with Context, enabling developers to manage domains and documents programmatically.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [cosmos/cosmjs](https://github.com/cosmos/cosmjs) - The Swiss Army knife to power JavaScript based client solutions ranging from Web apps/explorers over browser extensions to server-side clients like faucets/scrapers.
@@ -4561,6 +4562,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [michenriksen/drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) - Draw.io libraries for threat modeling diagrams
 - [microo8/golymer](https://github.com/microo8/golymer) - Web components with golang (gopherjs) moved to gitlab.com/microo8/golymer
 - [microsoft/Pride-flag](https://github.com/microsoft/Pride-flag) - Pride flag featuring 74 individual LGBTQIA+ flags
+- [microsoft/agentic-agile-template](https://github.com/microsoft/agentic-agile-template) - Agentic-Agile Development bridges Agile process values with the capabilities of AI coding agents. It is a methodology for building software through human-agent partnerships.
 - [microsoft/foundry-toolkit](https://github.com/microsoft/foundry-toolkit) - 
 - [monksy/awesome-kafka](https://github.com/monksy/awesome-kafka) - A collection of kafka-resources
 - [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
