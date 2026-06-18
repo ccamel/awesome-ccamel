@@ -1052,6 +1052,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jen20/go-event-sourcing-sample](https://github.com/jen20/go-event-sourcing-sample) - A small sample of Event Sourcing in Go
 - [jeremyhuiskamp/golang-docker-scratch](https://github.com/jeremyhuiskamp/golang-docker-scratch) - Recipe for go binary in scratch docker container with up-to-date tls certs and timezone data
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [jexia/semaphore](https://github.com/jexia/semaphore) - Take control of your data, connect with anything, and expose it anywhere through protocols such as HTTP, GraphQL, and gRPC.
 - [jf-tech/omniparser](https://github.com/jf-tech/omniparser) - omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
@@ -1202,7 +1203,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [multiversx/mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
 - [multiversx/mx-chain-vm-go](https://github.com/multiversx/mx-chain-vm-go) - The Virtual Machine for executing WASM Smart Contracts on the MultiversX blockchain. Based on Wasmer, but in principle also supports any other executing engine.
 - [munnerz/goautoneg](https://github.com/munnerz/goautoneg) - Mirror of bitbucket.org/ww/goautoneg
-- [muquit/mailsend-go](https://github.com/muquit/mailsend-go) - mailsend-go is a multi-platform  command line tool to send mail via SMTP protocol
+- [muquit/mailsend-go](https://github.com/muquit/mailsend-go) - mailsend-go is a cross-platform  command line tool to send mail via SMTP protocol
 - [muyo/sno](https://github.com/muyo/sno) - Compact, sortable and fast unique IDs with embedded metadata.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [mwitkow/go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations.
@@ -2372,7 +2373,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Lua
 
+- [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) - Run OpenAI Codex inside a persistent Neovim floating terminal.
 - [Kong/kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus) - Prometheus plugin for Kong - this plugin has been moved into https://github.com/Kong/kong, please open issues and PRs in that repo 
+- [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) - Agentic Chat Interface directly in Neovim with ACP providers from Claude-Code, Gemini, Codex, OpenCode, and Cursor-agent
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Bridge Neovim and OpenCode AI to stay in your flow.
 - [penso/kickstart.nvim](https://github.com/penso/kickstart.nvim) - My neovim configuration based from kickstart.nvim
 - [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
@@ -2442,6 +2445,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Nix
 
+- [CptPotato/helix-themes](https://github.com/CptPotato/helix-themes) - A few themes for the helix editor
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [cloud-gouv/bureautix-example](https://github.com/cloud-gouv/bureautix-example) - 
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr] 
@@ -3119,6 +3123,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [debris/tiny-keccak](https://github.com/debris/tiny-keccak) - An implementation of Keccak derived functions specified in FIPS-202, SP800-185 and KangarooTwelve
 - [defstream/kickable-rs](https://github.com/defstream/kickable-rs) - Can you kick it?
 - [denful/fx-rs](https://github.com/denful/fx-rs) - Rust Algebraic Effects System - modeled after https://github.com/vic/fx.go
+- [devxplay/herdr.nvim](https://github.com/devxplay/herdr.nvim) - Neovim integration for Herdr pane navigation
 - [dimforge/kiss3d](https://github.com/dimforge/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
@@ -3255,6 +3260,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nymtech/sphinx](https://github.com/nymtech/sphinx) - A Sphinx implementation in Rust
 - [nysa-network/cw-tf-merkle-airdrop](https://github.com/nysa-network/cw-tf-merkle-airdrop) - CosmWasm contract for Token Factory Merkle Airdrop
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [okp4/cosmos-rust](https://github.com/okp4/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
 - [okp4/cosmos-tools](https://github.com/okp4/cosmos-tools) - 💰 Tool to generate cliff vesting configuration for cosmos chains
 - [okp4/discord-bot](https://github.com/okp4/discord-bot) - 🤖 Discord bot used @okp4 to bridge the Dataverse!
@@ -4572,6 +4578,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [microsoft/foundry-toolkit](https://github.com/microsoft/foundry-toolkit) - 
 - [monksy/awesome-kafka](https://github.com/monksy/awesome-kafka) - A collection of kafka-resources
 - [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
+- [mrtooher/fable-mode](https://github.com/mrtooher/fable-mode) - A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [mundimark/awesome-markdown-alternatives](https://github.com/mundimark/awesome-markdown-alternatives) - A collection of awesome light-weight markup markdown alternatives 
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -4669,6 +4676,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy) - Web3Privacy Now is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
+- [yigitkonur/awesome-herdr](https://github.com/yigitkonur/awesome-herdr) - A curated guide to the Herdr ecosystem: tools, workflows, configs, clients, skills, and integrations.
 - [ykdojo/open-source-hiring](https://github.com/ykdojo/open-source-hiring) - A GitHub repo (and later a website) that lists job postings that are open at open source companies!
 - [zbentley/amqp-locks](https://github.com/zbentley/amqp-locks) - Distributed mutexes and semaphores in RabbitMQ
 - [zhangyelong/cosmos-dashboard](https://github.com/zhangyelong/cosmos-dashboard) - A Grafana dashboard compatible with all the cosmos-sdk and tendermint based blockchains.
