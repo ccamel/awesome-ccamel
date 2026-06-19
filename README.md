@@ -2226,6 +2226,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [semantic-release/git](https://github.com/semantic-release/git) - :twisted_rightwards_arrows: semantic-release plugin to commit release assets to the project's git repository
 - [semantic-release/github](https://github.com/semantic-release/github) - :octocat:  semantic-release plugin to publish a GitHub release and comment on released Pull Requests/Issues
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [serenakeyitan/tdoc](https://github.com/serenakeyitan/tdoc) - Prompt-native interactive HTML docs — bdocs. Generate, comment on, and publish docs from inside codex &Claude Code.
 - [serverless/serverless-kubeless](https://github.com/serverless/serverless-kubeless) - This plugin enables support for Kubeless within the Serverless Framework.
 - [settlemint-archive/graphiql-online](https://github.com/settlemint-archive/graphiql-online) - Online GraphiQL instance with a configurable endpoint!
 - [sheerun/graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL Server schema visualizer
@@ -4292,6 +4293,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xiguaxigua/docusaurus-plugin-drawio](https://github.com/xiguaxigua/docusaurus-plugin-drawio) - drawio render for docusaurus
 - [xpladev/xpla](https://github.com/xpladev/xpla) - XPLA Chain core implementation
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+- [yannbolliger/notion-exporter](https://github.com/yannbolliger/notion-exporter) - CLI and library for exporting .md and .csv files from any Notion page.
 - [yutailang0119/action-ktlint](https://github.com/yutailang0119/action-ktlint) - GitHub Action for ktlint
 - [yysun/apprun](https://github.com/yysun/apprun) - AppRun is a JavaScript library for developing high-performance and reliable web applications using the elm inspired architecture, events and components.
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server.
