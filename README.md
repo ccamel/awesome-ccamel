@@ -1608,6 +1608,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Cumulo-pro/OKP4](https://github.com/Cumulo-pro/OKP4) - 
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [Funny-OpenSource-Projects/image-to-xls](https://github.com/Funny-OpenSource-Projects/image-to-xls) - A simple tool to make ascii art from an image using excel colored cells.
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
 - [LLM-Coding/Semantic-Anchors](https://github.com/LLM-Coding/Semantic-Anchors) - 
 - [NLP2RDF/ontologies](https://github.com/NLP2RDF/ontologies) - All ontologies used in NIF 2.0 (NIF-Core + vocabulary modules + helper modules)
@@ -2374,7 +2375,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Lua
 
-- [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) - Persistent OpenAI Codex workflows for Neovim. OpenAI Codex integration for Neovim with persistent sessions and token monitoring.
+- [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) - Persistent OpenAI Codex workflows for Neovim. OpenAI Codex integration for Neovim with persistent sessions, workspaces and token monitoring.
 - [Kong/kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus) - Prometheus plugin for Kong - this plugin has been moved into https://github.com/Kong/kong, please open issues and PRs in that repo 
 - [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) - Agentic Chat Interface directly in Neovim with ACP providers from Claude-Code, Gemini, Codex, OpenCode, and Cursor-agent
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Bridge Neovim and OpenCode AI to stay in your flow.
@@ -2550,7 +2551,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of "DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation"
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
-- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [HAL-XP/mcp-pronotes](https://github.com/HAL-XP/mcp-pronotes) - MCP server for Pronotes (French school platform) — grades, timetables, homework, absences
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
@@ -3673,7 +3673,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freedmand/textra](https://github.com/freedmand/textra) - A command-line application to convert images, PDFs, and audio files to text using Apple's APIs
 - [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
 - [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) - Synchronized multi-client state for AI agent sessions
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 
@@ -4193,7 +4193,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [robisim74/qwik-speak](https://github.com/robisim74/qwik-speak) - Translate your Qwik apps into any language
 - [rubensworks/GraphQL-LD.js](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL
