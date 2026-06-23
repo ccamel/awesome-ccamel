@@ -2847,7 +2847,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [ssloy/tinycompiler](https://github.com/ssloy/tinycompiler) - Writing a compiler in a week-end
 - [stefano/wasm-forth](https://github.com/stefano/wasm-forth) - A Forth implementation compiling to WebAssembly.
-- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Skill, agent, MCP, and harness recommendations for Claude Code/custom LLMs: 102,928-node LLM-wiki graph, 91,464 skills, 467 agents, 10,790 MCPs, 207 harnesses, and capped execution recommendations.
+- [stevesolun/ctx](https://github.com/stevesolun/ctx) - Not a catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses per dev window, cutting token and compute waste: 79,958-node LLM-wiki graph, 68,494 skills, 467 agents, 10,790 MCPs, 207 harnesses.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - Give Claude Code, Cursor, Codex CLI a ChatGPT for your codebase. Multi-agent knowledge engine, grounded Q&A with file paths and line numbers. Works in any AI IDE.
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
@@ -3321,6 +3321,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ricott1/sshattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH
 - [riker-rs/riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
 - [rikulauttia/gRPC-Redis-Postgres-Engine](https://github.com/rikulauttia/gRPC-Redis-Postgres-Engine) - High-Performance Rust Backend using Rust, gRPC, Redis, and PostgreSQL. This project focuses on creating a scalable backend system capable of handling millions of requests per second, ideal for applications like messaging services or social network feeds.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [rosedblabs/rust-practice](https://github.com/rosedblabs/rust-practice) - some tiny learning projects in Rust
@@ -3673,7 +3674,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [freedmand/textra](https://github.com/freedmand/textra) - A command-line application to convert images, PDFs, and audio files to text using Apple's APIs
 - [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) - Synchronized multi-client state for AI agent sessions
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 
@@ -4192,7 +4193,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [robisim74/qwik-speak](https://github.com/robisim74/qwik-speak) - Translate your Qwik apps into any language
 - [rubensworks/GraphQL-LD.js](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL
