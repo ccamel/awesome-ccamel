@@ -1893,6 +1893,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [senx/warp10-platform](https://github.com/senx/warp10-platform) - The Most Advanced Time Series Platform
 - [shzlw/poli](https://github.com/shzlw/poli) - An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 - [smartloli/EFAK](https://github.com/smartloli/EFAK) - A AI-Driven, Distributed and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.
+- [societe-generale/arch-unit-maven-plugin](https://github.com/societe-generale/arch-unit-maven-plugin) - A maven wrapper around ArchUnit, to easily share and enforce architecture rules across projects
 - [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
 - [sparna-git/skos-play](https://github.com/sparna-git/skos-play) - SKOS-Play allows to print SKOS files in HTML or PDF. It also embeds xls2rdf to generate RDF from Excel.
 - [spockframework/spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
@@ -1920,7 +1921,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Agoric/dapp-oracle](https://github.com/Agoric/dapp-oracle) - A generic blockchain oracle implementation
 - [AlbertHernandez/branch-name-action](https://github.com/AlbertHernandez/branch-name-action) - Check if the branch name is following a convention name
 - [AmbireTech/wallet](https://github.com/AmbireTech/wallet) - Ambire Wallet: making self-custody easy and secure for the EVM ecosystem
-- [Anil-matcha/Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) - Open-source AI design agent — alternative to Lovart AI, Runway Agent, Luma Labs Agent, Krea Agent, Pika Agent, Galileo AI, Magic Patterns. Autonomous multi-step creative for posters, social, brand kits, ad creatives, and video. Free, MIT-licensed, self-hosted.
 - [AshKyd/ui95](https://github.com/AshKyd/ui95) - 🖥 WIP: A preact implementation of Windows 95/98/ME style components and apps. See it in action on my personal site at https://ash.ms
 - [BitCannaCommunity/cosmos-faucet](https://github.com/BitCannaCommunity/cosmos-faucet) - Cosmos-faucet is a simple alternative to the tendermint/faucet GoLang script. This is an idea adapted for  Bitcanna and can be used for any project using cosmos.
 - [ChristophP/elm-esm](https://github.com/ChristophP/elm-esm) - Turn Elm compiler output into modern ES Modules
@@ -2379,7 +2379,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) - Persistent OpenAI Codex workflows for Neovim. OpenAI Codex integration for Neovim with persistent sessions, workspaces and token monitoring.
 - [Kong/kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus) - Prometheus plugin for Kong - this plugin has been moved into https://github.com/Kong/kong, please open issues and PRs in that repo 
 - [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) - Agentic Chat Interface directly in Neovim with ACP providers from Claude-Code, Gemini, Codex, OpenCode, and Cursor-agent
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Bridge Neovim and OpenCode AI to stay in your flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode to stay in your familiar flow.
 - [penso/kickstart.nvim](https://github.com/penso/kickstart.nvim) - My neovim configuration based from kickstart.nvim
 - [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
 - [pravin-raha/kong-plugin-cookies-to-headers](https://github.com/pravin-raha/kong-plugin-cookies-to-headers) - A Kong plugin that will add Authorization header from cookie
@@ -2540,6 +2540,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
 - [ActivityWatch/contributor-stats](https://github.com/ActivityWatch/contributor-stats) - Generating contributor stats for the ActivityWatch project
 - [AmirhosseinHonardoust/Onchain-Security-Suite](https://github.com/AmirhosseinHonardoust/Onchain-Security-Suite) - A complete Web3 security toolkit combining AI-powered token auditing, ML-based deployer reputation scoring, and live Etherscan V2 data. Includes static analysis for rugpull detection, RandomForest reputation modeling, contract-fetching automation, and Solidity on-chain registries for transparent, reproducible security insights.
+- [Anil-matcha/open-claude-tag](https://github.com/Anil-matcha/open-claude-tag) - Self-hostable channel-native AI teammate for Slack. Open source alternative to Claude Tag. LLM-agnostic.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [BlueFox2718/Solveur-Mini-Cactpot-FFXIV](https://github.com/BlueFox2718/Solveur-Mini-Cactpot-FFXIV) - 
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
@@ -2957,7 +2958,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm) - WebAssembly Smart Contracts for the Cosmos SDK
 - [CosmWasm/cw-minus](https://github.com/CosmWasm/cw-minus) - Utilities for CosmWasm smart contracts development
 - [CosmWasm/cw-multi-test](https://github.com/CosmWasm/cw-multi-test) - Testing tools for multi-contract interactions
-- [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
+- [CosmWasm/cw-plus](https://github.com/CosmWasm/cw-plus) - Real-life smart contracts under open-source licenses
 - [CosmWasm/cw-storage-plus](https://github.com/CosmWasm/cw-storage-plus) - Storage abstractions for CosmWasm smart contracts
 - [CosmWasm/cw-template](https://github.com/CosmWasm/cw-template) - Quickstart template to get started writing your own cosmwasm contracts
 - [CosmWasm/cw-tokens](https://github.com/CosmWasm/cw-tokens) - Examples of cw20 usage, extracted from cw-plus, maintained by the community
@@ -3322,7 +3323,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ricott1/sshattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH
 - [riker-rs/riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
 - [rikulauttia/gRPC-Redis-Postgres-Engine](https://github.com/rikulauttia/gRPC-Redis-Postgres-Engine) - High-Performance Rust Backend using Rust, gRPC, Redis, and PostgreSQL. This project focuses on creating a scalable backend system capable of handling millions of requests per second, ideal for applications like messaging services or social network feeds.
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [rosedblabs/rust-practice](https://github.com/rosedblabs/rust-practice) - some tiny learning projects in Rust
