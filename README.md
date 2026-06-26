@@ -1789,6 +1789,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cmader/qSKOS](https://github.com/cmader/qSKOS) - Vocabulary quality assessment tools
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
 - [cool-rdf/cool-rdf](https://github.com/cool-rdf/cool-rdf) - Command line tool and Java API for ontology engineering
+- [copper-engine/copper-engine](https://github.com/copper-engine/copper-engine) - COPPER - a high performance Java workflow engine
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [crate/crate-sample-apps](https://github.com/crate/crate-sample-apps) - A JavaScript guestbook app with a number of different backend implementations, each using a different client library to communicate with CrateDB.
 - [ctongfei/progressbar](https://github.com/ctongfei/progressbar) - Terminal-based progress bar for Java / JVM
@@ -2416,7 +2417,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
-- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
+- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
 - [ninenines/erlang.mk](https://github.com/ninenines/erlang.mk) - A build tool for Erlang that just works.
 - [prometheus/client_model](https://github.com/prometheus/client_model) - Data model artifacts for Prometheus.
 - [stevemcquaid/python-flask-docker-hello-world](https://github.com/stevemcquaid/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
@@ -2864,6 +2865,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vhanla/deepseek-r1-unthink](https://github.com/vhanla/deepseek-r1-unthink) - Ollama's API proxy server that captures /api/chat responses and removes &lt;think&gt;&lt;/think&gt; streamed content
 - [victordibia/data2vis](https://github.com/victordibia/data2vis) - Data2Vis: Automatic Generation of Data Visualizations Using Sequence to Sequence Recurrent Neural Networks
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 - [vmware-archive/functions](https://github.com/vmware-archive/functions) - Functions Repository for Kubeless
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
