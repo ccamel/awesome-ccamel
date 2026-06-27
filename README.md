@@ -1209,6 +1209,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [mwitkow/go-proto-validators](https://github.com/mwitkow/go-proto-validators) - Generate message validators from .proto annotations.
 - [mxschmitt/golang-url-shortener](https://github.com/mxschmitt/golang-url-shortener) - URL Shortener written in Golang using Bolt DB or Redis. Provides features such as Deletion, Expiration, OAuth and is of course Dockerizable.
+- [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [nanobox-io/golang-scribble](https://github.com/nanobox-io/golang-scribble) - A tiny Golang JSON database
 - [nao1215/spectest](https://github.com/nao1215/spectest) - A simple and extensible behavioural testing library for Go. You can use api test to simplify REST API, HTTP handler and e2e tests. 
@@ -1297,7 +1298,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [piprate/json-gold](https://github.com/piprate/json-gold) - A JSON-LD processor for Go
 - [pjebs/optimus-go](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
-- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [pointlander/peg](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 - [pokt-network/pocket-core](https://github.com/pokt-network/pocket-core) - Official implementation of the Pocket Network Protocol
 - [pokt-network/smt](https://github.com/pokt-network/smt) - A Go library that implements a Sparse Merkle Trie for a key-value map.
