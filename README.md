@@ -664,6 +664,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [bitsbeats/prometheus-acls](https://github.com/bitsbeats/prometheus-acls) - prometheus oauth acl reverse proxy
 - [bitsongofficial/go-bitsong](https://github.com/bitsongofficial/go-bitsong) - :rocket: Official BitSong Blockchain Implementation in Go
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. 
 - [blocto/solana-go-sdk](https://github.com/blocto/solana-go-sdk) - Solana Golang SDK
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
@@ -1485,7 +1486,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [thani-sh/go-graphiql](https://github.com/thani-sh/go-graphiql) - Go http handler to serve the graphiql in-browser IDE
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [thoas/go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 - [tiancaiamao/shen-go](https://github.com/tiancaiamao/shen-go) - A Go implementation of the Shen programming language
 - [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
@@ -1494,7 +1495,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [timshannon/badgerhold](https://github.com/timshannon/badgerhold) - BadgerHold is an embeddable NoSQL store for querying Go types built on Badger
 - [timshannon/bolthold](https://github.com/timshannon/bolthold) - BoltHold is an embeddable NoSQL store for Go types built on BoltDB
 - [timtadh/data-structures](https://github.com/timtadh/data-structures) - Go datastructures.
-- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
+- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [tomarrell/wrapcheck](https://github.com/tomarrell/wrapcheck) - A Go linter to check that errors from external packages are wrapped
@@ -1635,7 +1636,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eclipse-tractusx/sldt-semantic-models](https://github.com/eclipse-tractusx/sldt-semantic-models) - sldt-semantic-models
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
-- [github/copilot-cli-for-beginners](https://github.com/github/copilot-cli-for-beginners) - Learn how to get started using the GitHub Copilot CLI!
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [ianhan/BitmapFonts](https://github.com/ianhan/BitmapFonts) - My collection of bitmap fonts pulled from various demoscene archives over the years
@@ -1663,6 +1663,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy
 - [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
 - [starbelly/erlang-companies](https://github.com/starbelly/erlang-companies) - A list of companies currently using Erlang in production.
+- [tmdgusya/engineering-discipline](https://github.com/tmdgusya/engineering-discipline) - SKILL for engineering-discipline
 - [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - The Power of Prolog: Introduction to modern Prolog
 - [tupadr3/plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
@@ -1744,6 +1745,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Jsondb/jsondb-core](https://github.com/Jsondb/jsondb-core) - JsonDB a pure java database that stores its data as Json Files
 - [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd) - Tiny, easily embeddable HTTP server in Java.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
+- [NixOS/nix-idea](https://github.com/NixOS/nix-idea) - Nix plugin for the IntelliJ IDEA IDE
 - [OPSILab/Idra](https://github.com/OPSILab/Idra) - Idra - Open Data Federation Platform 
 - [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
@@ -2845,6 +2847,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
+- [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
@@ -2862,7 +2865,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [tosanjay/NeuroLog](https://github.com/tosanjay/NeuroLog) - 
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [vhanla/deepseek-r1-unthink](https://github.com/vhanla/deepseek-r1-unthink) - Ollama's API proxy server that captures /api/chat responses and removes &lt;think&gt;&lt;/think&gt; streamed content
 - [victordibia/data2vis](https://github.com/victordibia/data2vis) - Data2Vis: Automatic Generation of Data Visualizations Using Sequence to Sequence Recurrent Neural Networks
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
@@ -3230,6 +3233,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Rust-based WebGPU map renderer for Web, Mobile and Desktop
 - [maplibre/martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
 - [mcandre/unmake](https://github.com/mcandre/unmake) - POSIX makefile linter
+- [mco-org/squad](https://github.com/mco-org/squad) - Multi-AI agent terminal collaboration tool
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [memnix/memnix-discord](https://github.com/memnix/memnix-discord) - A discord bot to interact with memnix
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
@@ -3822,6 +3826,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alpic-ai/mcp-eval](https://github.com/alpic-ai/mcp-eval) - Evaluation tool for MCP servers
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [antho31/okp4-ui-boilerplate](https://github.com/antho31/okp4-ui-boilerplate) - 🖥️ Vite starter for the OKP4 protocol
@@ -3854,6 +3859,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bitsongofficial/bitsong-faucet](https://github.com/bitsongofficial/bitsong-faucet) - 
 - [blofin/blofin-ui](https://github.com/blofin/blofin-ui) - UI library for crypto exchange.
 - [bokub/ha-linky](https://github.com/bokub/ha-linky) - 📊 Home Assistant app for Linky smart meters
+- [bokub/linky](https://github.com/bokub/linky) - 🔌 CLI tool to retrieve Linky smart meters data
 - [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
 - [bradtech/lora2db](https://github.com/bradtech/lora2db) - Typescript package to manage Lorawan message queues and push data to timeserie databases
 - [branchup/docusaurus-plugin-simple-analytics](https://github.com/branchup/docusaurus-plugin-simple-analytics) - Simple Analytics plugin for Docusaurus. Now moved as official package by Simple Analytics here: https://github.com/simpleanalytics/docusaurus-plugin
@@ -4203,7 +4209,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [robisim74/qwik-speak](https://github.com/robisim74/qwik-speak) - Translate your Qwik apps into any language
 - [rubensworks/GraphQL-LD.js](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 - [ryardley/ts-bus](https://github.com/ryardley/ts-bus) - A lightweight JavaScript/TypeScript event bus to help manage your application architecture.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [safe-global/safe-wallet-monorepo](https://github.com/safe-global/safe-wallet-monorepo) - Safe{Wallet} – smart account wallet
@@ -4520,6 +4526,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries](https://github.com/gabrielizalo/Awesome-CSS-Frameworks-and-UI-Libraries) - Extensive List of CSS Frameworks and UI/Components Libraries.
 - [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) - A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
 - [giba0/awesome-zed](https://github.com/giba0/awesome-zed) - Here we share all the coolest things about https://zed.dev
+- [github/copilot-cli-for-beginners](https://github.com/github/copilot-cli-for-beginners) - Learn how to get started using the GitHub Copilot CLI!
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
