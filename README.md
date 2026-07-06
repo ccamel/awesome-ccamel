@@ -1150,7 +1150,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [magiconair/properties](https://github.com/magiconair/properties) - Java properties scanner for Go
 - [mailgun/gubernator](https://github.com/mailgun/gubernator) - High Performance Rate Limiting MicroService and Library
-- [majiayu000/caude-skill-manager](https://github.com/majiayu000/caude-skill-manager) - CLI tool to discover, install, and manage Claude Code skills from a curated community registry
+- [majiayu000/claude-skill-manager](https://github.com/majiayu000/claude-skill-manager) - CLI tool to discover, install, and manage Claude Code skills from a curated community registry
 - [manifest-network/yaci](https://github.com/manifest-network/yaci) - Yet Another Cosmos Indexer
 - [mapofzones/cosmos-watcher](https://github.com/mapofzones/cosmos-watcher) - 
 - [marianogappa/flowbro](https://github.com/marianogappa/flowbro) - Real-time flowchart visualisation for Kafka-based distributed systems.
@@ -1816,7 +1816,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fewlaps/quitnow-email-suggester](https://github.com/fewlaps/quitnow-email-suggester) - 📧 Correct typos in email addresses like hello@gmail.con
 - [filip26/carbon-did-core](https://github.com/filip26/carbon-did-core) - Core library for Decentralized Identifiers (DIDs) in Java. Provides DID and DID URL primitives, and interfaces for DID Documents and DID Resolvers.
 - [filip26/iridium-cbor-ld](https://github.com/filip26/iridium-cbor-ld) - Semantic, self-describing binary format for Linked Data
-- [filip26/iron-verifiable-credentials](https://github.com/filip26/iron-verifiable-credentials) - A Verifiable Credentials Processor & API
+- [filip26/iron-verifiable-credentials](https://github.com/filip26/iron-verifiable-credentials) - Standards-compliant, modular W3C Verifiable Credentials Data Integrity, and secure cryptographic primitives.
 - [filip26/linked-tree](https://github.com/filip26/linked-tree) - An abstract data model for processing Linked Data. Graphs are powerful; trees are intuitive. Think in graphs, work with trees.
 - [filip26/titanium-json-ld](https://github.com/filip26/titanium-json-ld) - A JSON-LD 1.1  (JSON-based Serialization for Linked Data) Processor & API
 - [flamingock/flamingock-java](https://github.com/flamingock/flamingock-java) - Flamingock brings Change-as-Code (CaC) to your entire stack. It applies versioned, auditable changes to the external systems your application depends on — such as schemas, message brokers, databases, APIs, cloud services, and any other external system your application needs.  
@@ -2540,7 +2540,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Python
 
-- [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
@@ -2854,7 +2853,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
-- [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
+- [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [ssloy/tinycompiler](https://github.com/ssloy/tinycompiler) - Writing a compiler in a week-end
 - [stefano/wasm-forth](https://github.com/stefano/wasm-forth) - A Forth implementation compiling to WebAssembly.
@@ -3289,6 +3288,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [oraichain/cw-bitcoin](https://github.com/oraichain/cw-bitcoin) - Bitcoin trustless bridge implemented in CosmWasm contract facilitating taproot bitcoin script
 - [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
+- [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀 
 - [orhun/tuitar](https://github.com/orhun/tuitar) - A portable guitar training tool & DIY kit 🎛️🎸
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [orpheuslummis/cosmwasm-babysteps](https://github.com/orpheuslummis/cosmwasm-babysteps) - 
@@ -3686,6 +3686,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Swift
 
+- [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [freedmand/textra](https://github.com/freedmand/textra) - A command-line application to convert images, PDFs, and audio files to text using Apple's APIs
 - [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
@@ -3864,6 +3865,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [betula/use-between](https://github.com/betula/use-between) - Sharing state between React components
 - [bgauryy/octocode](https://github.com/bgauryy/octocode) - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
+- [birdneststream/asciibird](https://github.com/birdneststream/asciibird) - ASCII Creation
 - [bitsongofficial/bitsong-faucet](https://github.com/bitsongofficial/bitsong-faucet) - 
 - [blofin/blofin-ui](https://github.com/blofin/blofin-ui) - UI library for crypto exchange.
 - [bokub/ha-linky](https://github.com/bokub/ha-linky) - 📊 Home Assistant app for Linky smart meters
@@ -4080,6 +4082,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [koala819/StarterPack](https://github.com/koala819/StarterPack) - A comprehensive web development kit for swift site creation, featuring responsive design, contact form, NextUI components, and Google Analytics integration.
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
@@ -4606,10 +4609,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [microsoft/agentic-agile-template](https://github.com/microsoft/agentic-agile-template) - Agentic-Agile Development bridges Agile process values with the capabilities of AI coding agents. It is a methodology for building software through human-agent partnerships.
 - [microsoft/foundry-toolkit](https://github.com/microsoft/foundry-toolkit) - 
 - [monksy/awesome-kafka](https://github.com/monksy/awesome-kafka) - A collection of kafka-resources
+- [moul/awesome-ascii-art](https://github.com/moul/awesome-ascii-art) - A curated list of ascii-art resources
 - [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
 - [mrtooher/fable-mode](https://github.com/mrtooher/fable-mode) - A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [mundimark/awesome-markdown-alternatives](https://github.com/mundimark/awesome-markdown-alternatives) - A collection of awesome light-weight markup markdown alternatives 
+- [mundimark/awesome-markdown-alternatives](https://github.com/mundimark/awesome-markdown-alternatives) - A collection of awesome light-weight markup markdown alternatives (incl. wikitext, org mode, typst, & more) -- note - for beyond markdown markups, see the awesome markdown & beyond repo 
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [near/DX](https://github.com/near/DX) - Developer Experience building on NEAR
 - [near/borsh](https://github.com/near/borsh) - Binary Object Representation Serializer for Hashing
