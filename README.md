@@ -1769,7 +1769,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [antoine-aumjaud/api-synology-chatbot](https://github.com/antoine-aumjaud/api-synology-chatbot) - API - Synology chatbot
 - [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
@@ -1977,6 +1977,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [YellowLabTools/YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) - WebPerf and front-end quality testing tool
 - [Yomguithereal/baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 - [Yuyz0112/glitch-art-maker](https://github.com/Yuyz0112/glitch-art-maker) - 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [adobe/jsonschema2md](https://github.com/adobe/jsonschema2md) - Convert Complex JSON Schemas into Markdown Documentation
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [ahmadnassri/action-dependabot-auto-merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range
@@ -2456,6 +2457,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [CptPotato/helix-themes](https://github.com/CptPotato/helix-themes) - A few themes for the helix editor
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+- [axone-protocol/template-oss](https://github.com/axone-protocol/template-oss) - 🖨 Template for opensource projects @axone-protocol
 - [cloud-gouv/bureautix-example](https://github.com/cloud-gouv/bureautix-example) - 
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr] 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
@@ -2623,7 +2625,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [alexdolbun/python-highload-mcp](https://github.com/alexdolbun/python-highload-mcp) - MCP Server for legacy and new python high load engineering
 - [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay. 
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 - [amcat/progressmonitor](https://github.com/amcat/progressmonitor) - Python classes for tracking (sub)task progress (inspired by Eclipse ProgressMonitor, but more pythonic)
 - [amyreese/markdown-pp](https://github.com/amyreese/markdown-pp) - Preprocessor for Markdown files to generate a table of contents and other documentation needs
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -3579,7 +3581,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [StreakyCobra/gws](https://github.com/StreakyCobra/gws) - Colorful KISS helper for git workspaces
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [akash-network/cosmos-omnibus](https://github.com/akash-network/cosmos-omnibus) - 
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) - The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
 - [appendjeff/agentic-workflow](https://github.com/appendjeff/agentic-workflow) - 
@@ -4481,7 +4482,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axone-protocol/awesome](https://github.com/axone-protocol/awesome) - 🕶 List of public resources, documents, and tools for AXONE. 
 - [axone-protocol/brand-kit](https://github.com/axone-protocol/brand-kit) - 🎨 Axone Protocol Brand Kit: Unleash creative branding with all necessary elements in one place! 
 - [axone-protocol/community](https://github.com/axone-protocol/community) -  Starting point for joining and contributing to the building of Axone
-- [axone-protocol/template-oss](https://github.com/axone-protocol/template-oss) - 🖨 Template for opensource projects @axone-protocol
 - [badouralix/coding-best-practices](https://github.com/badouralix/coding-best-practices) - Collection of tips and tricks to make computers beep boop beep beep boop
 - [bdeneux/bdeneux](https://github.com/bdeneux/bdeneux) - 
 - [beyondstorage/community](https://github.com/beyondstorage/community) - Community Center for BeyondStorage.
