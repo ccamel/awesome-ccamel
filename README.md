@@ -1462,6 +1462,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stretchr/objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [subosito/gotenv](https://github.com/subosito/gotenv) - Load environment variables from `.env` or `io.Reader` in Go.
+- [sunriselayer/sunrise](https://github.com/sunriselayer/sunrise) - 
 - [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [synology-community/go-synology](https://github.com/synology-community/go-synology) - OpenApi Definition for DSM
@@ -1529,7 +1530,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ugol/gamel](https://github.com/ugol/gamel) - Camel experiments in go
 - [uhsr/DigitalWallet](https://github.com/uhsr/DigitalWallet) - Intuitively adaptive DigitalWallet orchestrates real-time settlements, tokenizing assets within a tamper-proof, omnichannel nexus.
 - [ulule/loukoum](https://github.com/ulule/loukoum) - A simple SQL Query Builder
-- [umee-network/umee](https://github.com/umee-network/umee) - A Golang implementation of the Umee network, a decentralized universal capital facility in the Cosmos ecosystem.
 - [unidoc/unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [unidoc/unipdf-examples](https://github.com/unidoc/unipdf-examples) - Examples for creating and processing PDF files with UniPDF https://github.com/unidoc/unipdf
@@ -2386,7 +2386,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Lua
 
-- [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) - Persistent OpenAI Codex workflows for Neovim. OpenAI Codex integration for Neovim with persistent sessions, workspaces and token monitoring.
+- [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) - Persistent AI workflows for Neovim. OpenAI Codex and xAI Grok integration for Neovim with persistent sessions, workspaces and token monitoring.
 - [Kong/kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus) - Prometheus plugin for Kong - this plugin has been moved into https://github.com/Kong/kong, please open issues and PRs in that repo 
 - [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) - Agentic Chat Interface directly in Neovim with ACP providers from Claude-Code, Gemini, Codex, OpenCode, and Cursor-agent
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode for familiar flow.
