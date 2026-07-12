@@ -130,10 +130,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [google/rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
+- [itskonrad/donut](https://github.com/itskonrad/donut) - 
 - [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
-- [konrad-gajdus/donut](https://github.com/konrad-gajdus/donut) - 
 - [krabobmkd/amigamame](https://github.com/krabobmkd/amigamame) - Port of Mame106 (2006) to Amiga classic 68060, using bebbo gcc6.5 crosscompiler and cmake.
 - [nanomsg/nanomsg](https://github.com/nanomsg/nanomsg) - nanomsg library
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
@@ -807,7 +807,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry 
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
+- [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
 - [dpapathanasiou/go-recaptcha](https://github.com/dpapathanasiou/go-recaptcha) - A package for handling reCaptcha (http://www.google.com/recaptcha) form submissions in Go (http://golang.org/).
 - [dravenk/webthing-go](https://github.com/dravenk/webthing-go) - Go implementation of a Web Thing server
 - [drgrib/maps](https://github.com/drgrib/maps) - Deprecated with note on how to implement this package's functionality using Go 1.18. Previously: Type-safe implementations of common map functions and tools to generate those functions.
@@ -3859,6 +3859,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axone-protocol/hub](https://github.com/axone-protocol/hub) - 🔭 The Axone Hub.
 - [axone-protocol/hub-backend](https://github.com/axone-protocol/hub-backend) - 
 - [axone-protocol/keplr-chain-registry](https://github.com/axone-protocol/keplr-chain-registry) - Protocol for Integrating Non-Native Chains to Keplr
+- [axone-protocol/surface](https://github.com/axone-protocol/surface) - ◌ Governed situations, made readable.
 - [axone-protocol/website](https://github.com/axone-protocol/website) - 🌐 Axone web site 
 - [axsaucedo/kaos](https://github.com/axsaucedo/kaos) - 🚀 K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
@@ -3867,7 +3868,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [berendsliedrecht/did-ts](https://github.com/berendsliedrecht/did-ts) - 
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [betula/use-between](https://github.com/betula/use-between) - Sharing state between React components
-- [bgauryy/octocode](https://github.com/bgauryy/octocode) - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
+- [bgauryy/octocode](https://github.com/bgauryy/octocode) - Code research platform for AI agents: local + GitHub search, LSP semantics, AST patterns, and compact context. one toolset as MCP or CLI
 - [birdneststream/asciibird](https://github.com/birdneststream/asciibird) - ASCII Creation
 - [bitsongofficial/bitsong-faucet](https://github.com/bitsongofficial/bitsong-faucet) - 
 - [blofin/blofin-ui](https://github.com/blofin/blofin-ui) - UI library for crypto exchange.
