@@ -241,6 +241,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
 - [kevin-powell/How-to-build-a-responsive-website-from-scratch](https://github.com/kevin-powell/How-to-build-a-responsive-website-from-scratch) - The site I built for this tutorial series on YouTube: https://www.youtube.com/playlist?list=PL4-IK0AVhVjOH5r4GAtlk1-tLUlEdiqXG
 - [marccampbell/hugo-linkcheck-action](https://github.com/marccampbell/hugo-linkcheck-action) - 
+- [micah5/PSone.css](https://github.com/micah5/PSone.css) - 🎮 PS1 style CSS Framework, inspired by NES.css
 - [nathansmith/unsemantic](https://github.com/nathansmith/unsemantic) - Fluid grid for mobile, tablet, and desktop.
 - [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui) - Cyberpunk-inspired web UI made easy. Get augmented.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -817,6 +818,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [dustinxie/ecc](https://github.com/dustinxie/ecc) - Golang native implementation of the secp256k1 elliptic curve
+- [dutchcoders/gister](https://github.com/dutchcoders/gister) - Manage your gists from the command-line.
 - [dydxprotocol/v4-chain](https://github.com/dydxprotocol/v4-chain) - dydx v4 protocol
 - [dymensionxyz/dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 - [dymensionxyz/dymension-rdk](https://github.com/dymensionxyz/dymension-rdk) - Framework for building highly scalable RollApps
@@ -1257,7 +1259,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [olebedev/go-duktape](https://github.com/olebedev/go-duktape) - [abandoned] Duktape JavaScript engine bindings for Go
 - [oliamb/cutter](https://github.com/oliamb/cutter) - Crop images in Golang
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [olric-data/olric](https://github.com/olric-data/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
 - [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 - [onomyprotocol/onomy](https://github.com/onomyprotocol/onomy) - Onomy Network Provider Chain Software
@@ -1654,7 +1656,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo: 
 - [majiayu000/claude-skill-registry](https://github.com/majiayu000/claude-skill-registry) - The most comprehensive Claude Code skills registry | Web Search: https://majiayu000.github.io/claude-skill-registry-core/
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
-- [micah5/PSone.css](https://github.com/micah5/PSone.css) - 🎮 PS1 style CSS Framework, inspired by NES.css
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
 - [node101-io/klein](https://github.com/node101-io/klein) - Klein
@@ -2854,7 +2855,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [seanluong/cookiecutter-python-cli](https://github.com/seanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
@@ -3046,6 +3047,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [akunzai/gistui](https://github.com/akunzai/gistui) - A terminal UI for managing GitHub Gists
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
@@ -3604,6 +3606,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
 - [edgelevel/gitops-k8s](https://github.com/edgelevel/gitops-k8s) - Declarative pull-based GitOps repository representing the state of a Kubernetes cluster
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
+- [fredericvilcot/clean-claude](https://github.com/fredericvilcot/clean-claude) - Stop prompting. Start crafting. — Transforms Claude Code into 6 reactive AI agents (PO, Architect, Frontend, Backend, QA, DevOps) that collaborate to deliver clean, tested, architected React + TypeScript frontends. Hexagonal architecture, Result types, BDD tests, CI/CD — all crafted.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 - [gythialy/golang-cross](https://github.com/gythialy/golang-cross) - golang cross compiler with CGO
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
