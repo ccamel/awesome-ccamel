@@ -574,7 +574,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [Tochemey/ego](https://github.com/Tochemey/ego) - [Go]Minimal event sourcing/CQRS library using protocol buffers for commands, events and states.
-- [Tochemey/goakt](https://github.com/Tochemey/goakt) - [Go] Distributed Actor/Grain framework for Golang with goodies
+- [Tochemey/goakt](https://github.com/Tochemey/goakt) - [Go]Distributed Actor/Grain framework for Golang with goodies
 - [TorchAIKC/nifi-stateless-operator](https://github.com/TorchAIKC/nifi-stateless-operator) - An Operator for scheduling and executing NiFi Flows as Jobs on Kubernetes
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
@@ -967,7 +967,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [goplus/c2go](https://github.com/goplus/c2go) - Convert C to Go
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem. Our vision is to enable everyone to become a builder of the world.
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [goravel/goravel](https://github.com/goravel/goravel) - The full-featured Golang Development Framework skeleton
@@ -1571,6 +1570,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
 - [wrouesnel/badgeserv](https://github.com/wrouesnel/badgeserv) - No-Nonsense badge generator service. Ideal for on-premises hosting!
+- [xgo-dev/c2go](https://github.com/xgo-dev/c2go) - Convert C to Go
 - [xitonix/trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka
 - [xo/dburl](https://github.com/xo/dburl) - Package dburl provides a standard, URL style mechanism for parsing and opening SQL database connection strings
 - [xorcare/golden](https://github.com/xorcare/golden) - Package golden testing with golden files in Go. A golden file is the expected output of test, stored as a separate file rather than as a string literal inside the test code.
@@ -2239,7 +2239,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog
 - [semantic-release/git](https://github.com/semantic-release/git) - :twisted_rightwards_arrows: semantic-release plugin to commit release assets to the project's git repository
 - [semantic-release/github](https://github.com/semantic-release/github) - :octocat:  semantic-release plugin to publish a GitHub release and comment on released Pull Requests/Issues
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [serenakeyitan/tdoc](https://github.com/serenakeyitan/tdoc) - Prompt-native interactive HTML docs — bdocs. Generate, comment on, and publish docs from inside codex &Claude Code.
 - [serverless/serverless-kubeless](https://github.com/serverless/serverless-kubeless) - This plugin enables support for Kubeless within the Serverless Framework.
 - [settlemint-archive/graphiql-online](https://github.com/settlemint-archive/graphiql-online) - Online GraphiQL instance with a configurable endpoint!
@@ -2642,11 +2642,13 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [antoinebou12/uml-mcp](https://github.com/antoinebou12/uml-mcp) - UML-MCP Server is a UML diagram generation tool based on MCP (Model Context Protocol), which can help users generate various types of UML diagrams through natural language description or directly writing PlantUML and Mermaid and Kroki https://uml-mcp.vercel.app/docs
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!
 - [assetnote/batchql](https://github.com/assetnote/batchql) - GraphQL security auditing script with a focus on performing batch GraphQL queries and mutations
 - [atchopba/scraping-jobs](https://github.com/atchopba/scraping-jobs) - Scraping-jobs helps scrape jobs from major job boards (apec.fr, indeed.fr, monster.fr...) to provide a simple and unified job search engine.
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
+- [axsaucedo/kaos](https://github.com/axsaucedo/kaos) - 🚀 K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems
 - [aziz/SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3
 - [bain3/pronotepy](https://github.com/bain3/pronotepy) - A python API wrapper for pronote
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
@@ -3849,7 +3851,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [antho31/okp4-ui-boilerplate](https://github.com/antho31/okp4-ui-boilerplate) - 🖥️ Vite starter for the OKP4 protocol
 - [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [apicollective/graphql-rest-proxy](https://github.com/apicollective/graphql-rest-proxy) - 
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Apollo CLI for client tooling (Mostly replaced by Rover)
 - [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
@@ -3868,7 +3869,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axone-protocol/keplr-chain-registry](https://github.com/axone-protocol/keplr-chain-registry) - Protocol for Integrating Non-Native Chains to Keplr
 - [axone-protocol/surface](https://github.com/axone-protocol/surface) - ◌ Governed situations, made readable.
 - [axone-protocol/website](https://github.com/axone-protocol/website) - 🌐 Axone web site 
-- [axsaucedo/kaos](https://github.com/axsaucedo/kaos) - 🚀 K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [bcherny/undux](https://github.com/bcherny/undux) - ⚡️ Dead simple state for React. Now with Hooks support.
