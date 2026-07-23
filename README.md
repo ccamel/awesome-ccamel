@@ -1311,7 +1311,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pokt-network/smt](https://github.com/pokt-network/smt) - A Go library that implements a Sparse Merkle Trie for a key-value map.
 - [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint) - Moved to https://codeberg.org/polyfloyd/go-errorlint
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
 - [project-flogo/contrib](https://github.com/project-flogo/contrib) - Core Flogo activities, triggers and functions that are useful across the various event-driven action types.
@@ -3053,6 +3053,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [akunzai/gistui](https://github.com/akunzai/gistui) - A terminal UI for managing GitHub Gists
+- [alexandretrotel/mntn](https://github.com/alexandretrotel/mntn) - A command-line tool to manage your dotfiles.
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
@@ -3079,7 +3080,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) - Astroport DEX core contracts
-- [atrtde/mntn](https://github.com/atrtde/mntn) - A command-line tool to manage your dotfiles.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [atuinsh/eye-declare](https://github.com/atuinsh/eye-declare) - A declarative inline TUI rendering library for Rust, built on Ratatui
 - [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) - ⚙️ Aurora Engine implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
@@ -3351,7 +3351,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ricott1/sshattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH
 - [riker-rs/riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
 - [rikulauttia/gRPC-Redis-Postgres-Engine](https://github.com/rikulauttia/gRPC-Redis-Postgres-Engine) - High-Performance Rust Backend using Rust, gRPC, Redis, and PostgreSQL. This project focuses on creating a scalable backend system capable of handling millions of requests per second, ideal for applications like messaging services or social network feeds.
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [rksm/hot-lib-reloader-rs](https://github.com/rksm/hot-lib-reloader-rs) - Reload Rust code without app restarts. For faster feedback cycles.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [rosedblabs/rust-practice](https://github.com/rosedblabs/rust-practice) - some tiny learning projects in Rust
