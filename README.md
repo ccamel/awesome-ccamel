@@ -810,6 +810,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry 
+- [donomii/sceneCamera](https://github.com/donomii/sceneCamera) - 3D camera library for Go with museum, FPS, RTS, and stereo rendering modes.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
 - [dpapathanasiou/go-recaptcha](https://github.com/dpapathanasiou/go-recaptcha) - A package for handling reCaptcha (http://www.google.com/recaptcha) form submissions in Go (http://golang.org/).
 - [dravenk/webthing-go](https://github.com/dravenk/webthing-go) - Go implementation of a Web Thing server
@@ -1173,6 +1174,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mattn/goveralls](https://github.com/mattn/goveralls) - 
 - [matttproud/golang_protobuf_extensions](https://github.com/matttproud/golang_protobuf_extensions) - Support for streaming Protocol Buffer messages for the Go language (golang).
 - [maxatome/go-testdeep](https://github.com/maxatome/go-testdeep) - Extremely flexible golang deep comparison, extends the go testing package, tests HTTP APIs and provides tests suite
+- [mcpshim/mcpshim](https://github.com/mcpshim/mcpshim) - Turn remote MCP servers into local command workflows.
 - [medibloc/panacea-core](https://github.com/medibloc/panacea-core) - MediBloc Blockchain Core
 - [medibloc/panacea-doracle](https://github.com/medibloc/panacea-doracle) - 
 - [meinside/telegram-bot-go](https://github.com/meinside/telegram-bot-go) - Telegram Bot API wrapper for Golang
@@ -1508,7 +1510,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [tomarrell/wrapcheck](https://github.com/tomarrell/wrapcheck) - A Go linter to check that errors from external packages are wrapped
 - [toschdev/blockie](https://github.com/toschdev/blockie) - Ignite App - Analyses your blocks for you
-- [tractordev/wanix](https://github.com/tractordev/wanix) - A sandbox toolkit for the web, inspired by Plan 9
+- [tractordev/wanix](https://github.com/tractordev/wanix) - A compute toolkit for the web with the depth of Plan 9 from Bell Labs
 - [traefik/mesh](https://github.com/traefik/mesh) - Traefik Mesh - Simpler Service Mesh
 - [traefik/plugindemo](https://github.com/traefik/plugindemo) - This repository includes an example plugin, for you to use as a reference for developing your own plugins
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1678,7 +1680,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vasturiano/3d-force-graph-vr](https://github.com/vasturiano/3d-force-graph-vr) - 3D force-directed graph component in VR
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [w3c/cid](https://github.com/w3c/cid) - Controlled Identifier Documents
-- [w3c/did-resolution](https://github.com/w3c/did-resolution) - RELEASED DRAFT: Decentralized Identifier Resolution (DID Resolution) 0.2 Specification
+- [w3c/did-resolution](https://github.com/w3c/did-resolution) - Editor's Draft: Decentralized Identifier Resolution (DID Resolution) 1.0 Specification
 - [w3c/dxwg](https://github.com/w3c/dxwg) - Data Catalog Vocabulary (DCAT)
 - [w3c/json-ld-api](https://github.com/w3c/json-ld-api) - JSON-LD 1.1 Processing Algorithms and API Specification
 - [w3c/json-ld-syntax](https://github.com/w3c/json-ld-syntax) - JSON-LD 1.1 Specification
@@ -2390,7 +2392,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) - Persistent AI workflows for Neovim. OpenAI Codex and xAI Grok integration for Neovim with persistent sessions, workspaces and token monitoring.
 - [Kong/kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus) - Prometheus plugin for Kong - this plugin has been moved into https://github.com/Kong/kong, please open issues and PRs in that repo 
 - [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) - Agentic Chat Interface directly in Neovim with ACP providers from Claude-Code, Gemini, Codex, OpenCode, and Cursor-agent
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode for familiar flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Neovim 🤝 OpenCode in the flow that you already know.
 - [penso/kickstart.nvim](https://github.com/penso/kickstart.nvim) - My neovim configuration based from kickstart.nvim
 - [phillipi/pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
 - [pravin-raha/kong-plugin-cookies-to-headers](https://github.com/pravin-raha/kong-plugin-cookies-to-headers) - A Kong plugin that will add Authorization header from cookie
@@ -3238,6 +3240,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [liamzebedee/tendermint-rs](https://github.com/liamzebedee/tendermint-rs) - A minimal reimplementation of Tendermint in Rust
 - [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
 - [lita-xyz/rust-examples](https://github.com/lita-xyz/rust-examples) - 
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [lue-bird/elm-language-server-rs](https://github.com/lue-bird/elm-language-server-rs) - language server for elm, in rust
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic) - Lunatic is an Erlang-inspired runtime for WebAssembly
@@ -3821,7 +3824,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TanStack/store](https://github.com/TanStack/store) - 🤖 Framework agnostic, type-safe store w/ reactive framework adapters
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
-- [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - HTML5 web component for editing/viewing RDF data that conform to SHACL shapes
+- [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - An HTML5 web component to edit, view and query RDF data that conform to SHACL
 - [VisionsOfficial/Human-Centric-Rulebook](https://github.com/VisionsOfficial/Human-Centric-Rulebook) - Service Registry project description (TBD)
 - [VolkovLabs/business-text](https://github.com/VolkovLabs/business-text) - The Business Text panel plugin allows you to construct a text visualization template from the values of a dataset returned by a data source query.
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -4362,6 +4365,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gregsexton/Atom](https://github.com/gregsexton/Atom) - Vim color scheme designed to be very readable in both light and dark environments.
 - [jdsimcoe/abstract.vim](https://github.com/jdsimcoe/abstract.vim) - A Vim color scheme based on https://www.abstractapp.com/
 - [liuchengxu/space-vim-dark](https://github.com/liuchengxu/space-vim-dark) - :purple_heart: A dark colorscheme for space-vim, see space-vim-theme for light background support!
+- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [nickbutler/vim-tig](https://github.com/nickbutler/vim-tig) - Do a tig in your vim
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
