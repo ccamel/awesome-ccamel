@@ -188,6 +188,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -1778,7 +1779,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [antoine-aumjaud/api-synology-chatbot](https://github.com/antoine-aumjaud/api-synology-chatbot) - API - Synology chatbot
 - [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
@@ -2573,7 +2573,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
 - [ItMeDiaTech/rag-cli](https://github.com/ItMeDiaTech/rag-cli) - Local Retrieval-Augmented Generation (RAG) plugin for Claude Code that combines Chroma db vector embeddings with intelligent info retrieval with Multi-Agent Framework (MAF) orchestration for context-aware development assistance. Uses Open Source / Free frameworks. Implements bridge to Claude Code CLI so no token use. And it's easy to setup.
 - [JBGamond/aet-calculator](https://github.com/JBGamond/aet-calculator) - Thanks chatgpt
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 156 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 - [Keeper-Security/Commander](https://github.com/Keeper-Security/Commander) - Keeper Commander is a python-based CLI and SDK interface to the Keeper Security platform. Provides administrative controls, reporting, import/export and vault management.
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
@@ -2857,7 +2857,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [satomic/copilot-usage-advanced-dashboard](https://github.com/satomic/copilot-usage-advanced-dashboard) - Advanced Grafana dashboard for comprehensive GitHub Copilot usage analytics with persistent data storage and multi-organization support
 - [saubury/kafka-serialization](https://github.com/saubury/kafka-serialization) - Experiments and demonstrations of AVRO, Protobuf serialisation
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) - The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Claude Code plugin + skills.sh.
+- [scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) - The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.
 - [scrtlabs/secret-sdk-python](https://github.com/scrtlabs/secret-sdk-python) - Python library to interact with Secret Network on Cosmos
 - [seanluong/cookiecutter-python-cli](https://github.com/seanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
@@ -3283,6 +3283,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [nginx/ngx-rust](https://github.com/nginx/ngx-rust) - Rust binding for NGINX
 - [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
+- [niklastreml/gitlab-tui](https://github.com/niklastreml/gitlab-tui) - A terminal based UI for interacting with your gitlab issues and merge requests 
 - [nomic-io/nomic](https://github.com/nomic-io/nomic) - Decentralized Custody Engine for Bitcoin
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust. 
 - [nrc/derive-new](https://github.com/nrc/derive-new) - derive simple constructor functions for Rust structs
@@ -3715,6 +3716,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) - Synchronized multi-client state for AI agent sessions
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+- [starling-build/starling](https://github.com/starling-build/starling) - Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps
 
 ## TeX
 
@@ -4111,6 +4113,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lavanet/lava-sdk-providers](https://github.com/lavanet/lava-sdk-providers) - Lava SDK providers
 - [leboncoin/spark-web](https://github.com/leboncoin/spark-web) - ✨ Simple, Modular & Accessible UI Components for your React Applications
 - [leodavinci1/kanbots](https://github.com/leodavinci1/kanbots) - Local collaboration interface for working on a kanban board where each task is either a Claude Code or Codex agent.
+- [letstri/druk](https://github.com/letstri/druk) - 
 - [linuz90/gists.sh](https://github.com/linuz90/gists.sh) - 
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) -  🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
