@@ -1045,7 +1045,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [initia-labs/miniwasm](https://github.com/initia-labs/miniwasm) - Interwoven Rollup with WasmVM
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [ipfs/go-metrics-prometheus](https://github.com/ipfs/go-metrics-prometheus) - Prometheus bindings for go-metrics-interface
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [iqlusioninc/liquidity-staking-module](https://github.com/iqlusioninc/liquidity-staking-module) - 
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [istreamdata/orientgo](https://github.com/istreamdata/orientgo) - Go (golang) client for OrientDB
@@ -1621,7 +1621,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DREwX-code/greasyfork-stats](https://github.com/DREwX-code/greasyfork-stats) - Dynamic GreasyFork statistics cards for your online profiles.
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [Funny-OpenSource-Projects/image-to-xls](https://github.com/Funny-OpenSource-Projects/image-to-xls) - A simple tool to make ascii art from an image using excel colored cells.
-- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
 - [LLM-Coding/Semantic-Anchors](https://github.com/LLM-Coding/Semantic-Anchors) - 
 - [NLP2RDF/ontologies](https://github.com/NLP2RDF/ontologies) - All ontologies used in NIF 2.0 (NIF-Core + vocabulary modules + helper modules)
@@ -1835,6 +1834,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [gluonhq/substrate](https://github.com/gluonhq/substrate) - Create native Java(FX) apps for desktop, mobile and embedded
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
+- [google/mug](https://github.com/google/mug) - A small Java 8 library (string manipulation, BiStream, Structured Concurrency, SQL Templates)
 - [graphql-java-kickstart/graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - Servlet endpoint for GraphQL Java
 - [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [graphql-java/graphql-java-subscription-example](https://github.com/graphql-java/graphql-java-subscription-example) - An example of graphql-java and subscriptions
@@ -2205,7 +2205,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [pyvandenbussche/lov](https://github.com/pyvandenbussche/lov) - Linked Open Vocabularies (LOV) - FrontEnd
@@ -2583,7 +2582,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MathisHammel/CroixPharmacie](https://github.com/MathisHammel/CroixPharmacie) - Build apps and run Doom on a pharmacy cross!
 - [MaxMiksa/Auto-Company](https://github.com/MaxMiksa/Auto-Company) - An auto-company works for 24/7 on your own PC - Windows/Linux/macOS.
 - [Mekire/pygame-samples](https://github.com/Mekire/pygame-samples) - Basic pygame samples illustrating various concepts.
-- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
@@ -2634,7 +2633,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -2860,7 +2858,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [seanluong/cookiecutter-python-cli](https://github.com/seanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
@@ -3037,6 +3035,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [Synternet/pubsub-rust](https://github.com/Synternet/pubsub-rust) - 
+- [TX230/winproc-tui](https://github.com/TX230/winproc-tui) - Process monitoring TUI with live metrics, time-series graphs, A/B comparison, and recording. Built with Rust/Ratatui; currently for Windows 11.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
@@ -3056,7 +3055,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [akunzai/gistui](https://github.com/akunzai/gistui) - A terminal UI for managing GitHub Gists
-- [alexandretrotel/mntn](https://github.com/alexandretrotel/mntn) - A command-line tool to manage your dotfiles.
+- [alexandretrotel/dotfiles-manager](https://github.com/alexandretrotel/dotfiles-manager) - Keep your dotfiles organized, safe, and consistent across machines using profiles.
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
@@ -3141,9 +3140,9 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cooperwalbrun/rust-template](https://github.com/cooperwalbrun/rust-template) - A project template for setting up new Rust 2024 Edition projects with cargo-make/rustfmt/rust-clippy.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [cosmos/cosmos-rust](https://github.com/cosmos/cosmos-rust) - The home of all shared Rust resources for the Cosmos ecosystem.
+- [cosmos/ibc-contracts](https://github.com/cosmos/ibc-contracts) - This is a solidity implementation of IBC v2.
 - [cosmos/ibc-proto-rs](https://github.com/cosmos/ibc-proto-rs) - Rust Protobuf definitions and gRPC clients for interacting with Cosmos SDK, IBC and Interchain Security
 - [cosmos/ics23](https://github.com/cosmos/ics23) - Building generic merkle proof format for IBC
-- [cosmos/solidity-ibc-eureka](https://github.com/cosmos/solidity-ibc-eureka) - This is a solidity implementation of IBC v2.
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release) - Cargo subcommand `release`: everything about releasing a rust crate.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
@@ -3474,6 +3473,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [xlmnxp/cli2rest](https://github.com/xlmnxp/cli2rest) - A simple REST API server that converts CLI commands to HTTP endpoints.
+- [yetidevworks/drydock](https://github.com/yetidevworks/drydock) - What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [yisar/ijc](https://github.com/yisar/ijc) - Itsy-bitsy JavaScript Compiler
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
@@ -3543,7 +3543,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [indix/schemer](https://github.com/indix/schemer) - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
 - [japgolly/scalajs-react](https://github.com/japgolly/scalajs-react) - Facebook's React on Scala.JS
 - [julienrf/scalm](https://github.com/julienrf/scalm) - Elm-inspired Scala library for writing web user interfaces
-- [kahliburke/html-binding-example](https://github.com/kahliburke/html-binding-example) - Demonstrates various usage scenarios for @html binding macro.
 - [kailuowang/henkan](https://github.com/kailuowang/henkan) - A small library for converting between case classes.
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [nightscape/spark-excel](https://github.com/nightscape/spark-excel) - A Spark plugin for reading and writing Excel files
@@ -3788,6 +3787,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [FlorianBruniaux/ctxharness](https://github.com/FlorianBruniaux/ctxharness) - Catch stale versions, broken paths, and missing scripts in your AI instruction files (CLAUDE.md, rules)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [GoogleCloudPlatform/opentelemetry-operations-js](https://github.com/GoogleCloudPlatform/opentelemetry-operations-js) - This repository is home to Google Cloud Exporters (Trace and Monitoring) for OpenTelemetry Node.js Project (https://github.com/open-telemetry/opentelemetry-js)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [HyperbolicLabs/hyperbolic-mcp](https://github.com/HyperbolicLabs/hyperbolic-mcp) - MCP Server for Claude
@@ -3867,6 +3867,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [antho31/okp4-ui-boilerplate](https://github.com/antho31/okp4-ui-boilerplate) - 🖥️ Vite starter for the OKP4 protocol
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
 - [apicollective/graphql-rest-proxy](https://github.com/apicollective/graphql-rest-proxy) - 
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Apollo CLI for client tooling (Mostly replaced by Rover)
@@ -4230,6 +4231,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pondorasti/emojis](https://github.com/pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 - [poteat/hkt-toolbelt](https://github.com/poteat/hkt-toolbelt) - ✨Functional and composable type utilities
 - [prettier/tslint-config-prettier](https://github.com/prettier/tslint-config-prettier) - Use TSLint with Prettier without any conflict
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [projectwallace/css-code-quality](https://github.com/projectwallace/css-code-quality) - Calculate the Code Quality score of your CSS based on a range of different quality guards.
 - [public-awesome/stargaze-tools](https://github.com/public-awesome/stargaze-tools) - Tools for launching NFT projects on Stargaze
@@ -4422,7 +4424,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## templ
 
-- [templui/templui](https://github.com/templui/templui) - shadcn/ui for templ. A set of beautifully-designed, accessible components and a code distribution platform. Works with Go and templ. Open Source. Open Code.
+- [axadrn/shadcn-templ](https://github.com/axadrn/shadcn-templ) - A set of beautifully-designed, accessible components and a code distribution platform. Works with Go and templ. Open Source. Open Code.
 
 ## Misc
 
