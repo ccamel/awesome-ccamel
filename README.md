@@ -781,7 +781,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One binary, no database. Airflow alternative.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One binary, no database. Airflow alternative.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -2753,6 +2753,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [keyestudio/KS0559-KS0559F-Keyestudio-4WD-BT-Multi-purpose-Car-V2.0-Arduino](https://github.com/keyestudio/KS0559-KS0559F-Keyestudio-4WD-BT-Multi-purpose-Car-V2.0-Arduino) - 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [kohya-ss/sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
@@ -2915,8 +2916,8 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Ruby
 
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 - [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52) - Welcome to my profile README. Participate in my community Connect4 game!
 - [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms) - REFUGE restrooms indexes and maps safe restroom locations for trans, intersex, and gender nonconforming individuals. 
 - [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
@@ -3016,7 +3017,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MegaRockLabs/cw-extra](https://github.com/MegaRockLabs/cw-extra) - Experimental CosmWasm based contracts, packages and protocols
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) -  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
-- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Logic Language for LLMs 🌱🐋🌍 Build Neuro-Symbolic AI for Learning and Reasoning
+- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Logic Language for LLMs 🌱🐋 Build World Models 🌍
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
@@ -3096,6 +3097,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bgreenwell/xleak](https://github.com/bgreenwell/xleak) - A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [bitswired/rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
+- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick!
 - [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
@@ -3893,7 +3895,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [berendsliedrecht/did-ts](https://github.com/berendsliedrecht/did-ts) - 
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [betula/use-between](https://github.com/betula/use-between) - Sharing state between React components
-- [bgauryy/octocode](https://github.com/bgauryy/octocode) - Code research platform for AI agents: local + GitHub search, LSP semantics, AST patterns, and compact context. one toolset as MCP or CLI
+- [bgauryy/octocode](https://github.com/bgauryy/octocode) - Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI  
 - [birdneststream/asciibird](https://github.com/birdneststream/asciibird) - ASCII Creation
 - [bitsongofficial/bitsong-faucet](https://github.com/bitsongofficial/bitsong-faucet) - 
 - [blofin/blofin-ui](https://github.com/blofin/blofin-ui) - UI library for crypto exchange.
