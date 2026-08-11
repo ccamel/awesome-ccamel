@@ -537,6 +537,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [KYVENetwork/chain](https://github.com/KYVENetwork/chain) - The core blockchain powering KYVE’s decentralized data validation and staking.
 - [Kava-Labs/kava](https://github.com/Kava-Labs/kava) - DeFi for Crypto.
 - [KiFoundation/ki-tools](https://github.com/KiFoundation/ki-tools) - Tools for the Kichain
@@ -753,6 +754,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cosmos/gaia](https://github.com/cosmos/gaia) - Cosmos Hub
 - [cosmos/gex](https://github.com/cosmos/gex) - In-terminal explorer for Cosmos SDK blockchains.
 - [cosmos/gogoproto](https://github.com/cosmos/gogoproto) - Protocol Buffers for Go with Gadgets for Cosmos
+- [cosmos/ibc](https://github.com/cosmos/ibc) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 - [cosmos/ibc-apps](https://github.com/cosmos/ibc-apps) - IBC applications and middleware for Cosmos SDK chains.
 - [cosmos/ibc-go](https://github.com/cosmos/ibc-go) - Inter-Blockchain Communication Protocol (IBC) implementation in Golang.
 - [cosmos/interchain-accounts-demo](https://github.com/cosmos/interchain-accounts-demo) - ICA 
@@ -781,7 +783,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One binary, no database. Airflow alternative.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One binary, no database. Alternative to Airflow / Job Scheduler.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -1313,7 +1315,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pokt-network/smt](https://github.com/pokt-network/smt) - A Go library that implements a Sparse Merkle Trie for a key-value map.
 - [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint) - Moved to https://codeberg.org/polyfloyd/go-errorlint
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. 
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
 - [project-flogo/contrib](https://github.com/project-flogo/contrib) - Core Flogo activities, triggers and functions that are useful across the various event-driven action types.
@@ -1961,7 +1963,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [IvanGoncharov/react-apollo-lodash-demo](https://github.com/IvanGoncharov/react-apollo-lodash-demo) - Example usage of react-apollo with graphql-lodash
 - [JetBrains/svg-mixer](https://github.com/JetBrains/svg-mixer) - Node.js toolset for generating & transforming SVG images and sprites in modern way
 - [Jotschi/vertx-graphql-example](https://github.com/Jotschi/vertx-graphql-example) - Vert.x Server which exposes a GraphQL API
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [JusticeEngineering/pin-tweet-to-ipfs](https://github.com/JusticeEngineering/pin-tweet-to-ipfs) - Web extension to Save tweets in a verifiable way to IPFS
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
@@ -2535,7 +2536,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish) - SWI-Prolog for SHaring: a SWI-Prolog web IDE
 - [aarroyoc/doclog](https://github.com/aarroyoc/doclog) - DocLog builds documentation from source code in Prolog
 - [ciao-lang/ciao](https://github.com/ciao-lang/ciao) - Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.
-- [no382001/slab](https://github.com/no382001/slab) - A stack based VM with a Prolog-compiled s-expression language featuring static types, effect inference (det/semidet/nondet), and a Forth layer on top
+- [no382001/slab](https://github.com/no382001/slab) - A stack-based VM with sets — a Prolog-compiled, s-expression-flavored language with static types, effect inference and basic optimizations.
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 
 ## PureScript
@@ -2863,6 +2864,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -3733,7 +3735,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ChiefGokhlayeh/textidote-action](https://github.com/ChiefGokhlayeh/textidote-action) - GitHub Action to lint, spell- and grammar-check LaTeX documents using TeXtidote.
 - [Vladar4/retrotype](https://github.com/Vladar4/retrotype) - Retrotype aims to replicate the look of old typewriter-made documents while keeping as many benefits of LaTeX as possible.
 - [cosmos/cosmos](https://github.com/cosmos/cosmos) - Internet of Blockchains ⚛  
-- [cosmos/ibc](https://github.com/cosmos/ibc) - Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 - [llsoftsec/llsoftsecbook](https://github.com/llsoftsec/llsoftsecbook) - Low-Level Software Security for Compiler Developers
@@ -4284,7 +4285,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [siborg-ads/dsponsor-app](https://github.com/siborg-ads/dsponsor-app) - DSponsor frontend - Administration & Marketplace for tokenized ad spaces
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [silverwind/uppie](https://github.com/silverwind/uppie) - Cross-browser directory and multi-file upload library
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [skiff-org/skiff-ui](https://github.com/skiff-org/skiff-ui) - React components for the Skiff UI Design System
 - [skip-mev/skip-go-registry](https://github.com/skip-mev/skip-go-registry) - 
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
