@@ -2793,7 +2793,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [multiformats/multicodec](https://github.com/multiformats/multicodec) - Compact self-describing codecs. Save space by using predefined multicodec tables.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [nonatofabio/local_faiss_mcp](https://github.com/nonatofabio/local_faiss_mcp) - Local FAISS vector store as an MCP server – Agent Memory, drop-in local semantic search for Claude / Copilot / Agents.
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -3243,6 +3243,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [larry0x/cw-plus-plus](https://github.com/larry0x/cw-plus-plus) - A collection of CosmWasm utilities and helper functions that I use 
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 - [left-curve/left-curve](https://github.com/left-curve/left-curve) - Decentralize perpetual futures exchange
+- [lelabdev/rag-ferrite](https://github.com/lelabdev/rag-ferrite) - Personal RAG engine — simple, fast, Rust. One binary (15 MB), one DB, native collections. MCP-native.
 - [lemunozm/message-io](https://github.com/lemunozm/message-io) - Fast and easy-to-use event-driven network library.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
@@ -4420,13 +4421,13 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Zig
 
-- [clojurewasm/zwasm](https://github.com/clojurewasm/zwasm) - A fast, spec-compliant WebAssembly runtime written in Zig
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [if-not-nil/revo](https://github.com/if-not-nil/revo) - a dynamic language for the joy of programming
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [lukewilliamboswell/roc-wasm4](https://github.com/lukewilliamboswell/roc-wasm4) - Build wasm4 games using Roc
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
+- [zwasm/zwasm](https://github.com/zwasm/zwasm) - A fast, spec-compliant WebAssembly runtime written in Zig
 
 ## templ
 
