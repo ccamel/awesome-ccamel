@@ -783,7 +783,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dadleyy/marlow](https://github.com/dadleyy/marlow) - golang generator for type-safe sql api constructs
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One binary, no database. Alternative to Airflow / Job Scheduler.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One binary, no database. Alternative to Airflow / Cron / Job Scheduler.
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
@@ -2442,7 +2442,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-- [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 - [okp4/slips](https://github.com/okp4/slips) - SatoshiLabs Improvement Proposals
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
@@ -2727,6 +2726,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gptme/gptme-rag](https://github.com/gptme/gptme-rag) - Local RAG as a simple CLI, for standalone use or as a gptme tool
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [grafana/github-traffic](https://github.com/grafana/github-traffic) - Github Traffic Insights as Prometheus metrics.
+- [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 - [h9-tect/pdf-to-podcast](https://github.com/h9-tect/pdf-to-podcast) - 
 - [hao-ai-lab/Consistency_LLM](https://github.com/hao-ai-lab/Consistency_LLM) - [ICML 2024] CLLMs: Consistency Large Language Models
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -2843,7 +2843,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [redblock-ai/imgflip-mcp](https://github.com/redblock-ai/imgflip-mcp) - A Meme Creation Protocol server for Claude and other AI assistants.
 - [reecepbcups/airdrop-tools](https://github.com/reecepbcups/airdrop-tools) - A suite of tools to airdrop under a variety of edge cases for the Cosmos Interchain
 - [reecepbcups/cosmos-state-exporter](https://github.com/reecepbcups/cosmos-state-exporter) - A CosmosSDK chain scheduled state exporter
-- [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard) - FastAPI Guard: A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats.
+- [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard) - A security library for FastAPI that provides middleware to control IPs, log requests, detect penetration attempts, honeypot setup, behavioural analysis, emergency mode lockdown, block Cloud Provider IPs, country blocking, and much more... It integrates seamlessly with FastAPI to offer robust protection against various security threats.
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
