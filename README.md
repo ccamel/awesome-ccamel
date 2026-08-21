@@ -1652,7 +1652,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
-- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [ianhan/BitmapFonts](https://github.com/ianhan/BitmapFonts) - My collection of bitmap fonts pulled from various demoscene archives over the years
 - [intellectronica/awesome-skills](https://github.com/intellectronica/awesome-skills) -  A directory of skills for AI agents
 - [james-fry/home-assistant-mdi](https://github.com/james-fry/home-assistant-mdi) - Index of Material Design Icons for Home Assistant
@@ -2615,7 +2614,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [ViktorAxelsen/MemSkill](https://github.com/ViktorAxelsen/MemSkill) - MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
-- [Wenzel/oswatcher](https://github.com/Wenzel/oswatcher) - A framework to track the evolution of Operating Systems over time
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [ZizheRuan/awesome-nanobanana2](https://github.com/ZizheRuan/awesome-nanobanana2) - A curated collection of 🍌Nano Banana 2 prompts and image examples. Nano Banana 2 提示词合集.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -3043,7 +3041,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [Synternet/pubsub-rust](https://github.com/Synternet/pubsub-rust) - 
-- [TX230/winproc-tui](https://github.com/TX230/winproc-tui) - Process monitoring TUI with live metrics, time-series graphs, A/B comparison, and recording. Built with Rust/Ratatui; currently for Windows 11.
+- [TX230/winproc-tui](https://github.com/TX230/winproc-tui) - Windows 11 process-monitoring TUI with live system and .NET runtime metrics, time-series graphs, A/B comparison, and recording. Built with Rust/Ratatui.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
@@ -3829,6 +3827,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [PackmindHub/packmind](https://github.com/PackmindHub/packmind) - Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [QuantGeekDev/lmaolang](https://github.com/QuantGeekDev/lmaolang) - 👏🏼A👏🏼brand👏🏼new👏🏼way👏🏼to👏🏼write👏🏼HTML👏🏼
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [RDIL/docusaurus-plugin-remote-content](https://github.com/RDIL/docusaurus-plugin-remote-content) - A Docusaurus plugin to download content from remote sources when it is needed.
@@ -4084,6 +4083,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hongaar/semantic-release-yarn](https://github.com/hongaar/semantic-release-yarn) - 🧶 A semantic-release plugin to publish npm packages with Yarn. Comes with built-in support for monorepos.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - This action runs your docker-compose file and clean up before action finished
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [huggingface/huggingface-vscode-chat](https://github.com/huggingface/huggingface-vscode-chat) - A VSCode extension to use Hugging Face Inference Providers in Copilot Chat
 - [hung-ngm/cosmos-sdk-gpt](https://github.com/hung-ngm/cosmos-sdk-gpt) - A chatbot on the Cosmos SDK source code
 - [hyperweb-io/chain-registry](https://github.com/hyperweb-io/chain-registry) - Cosmos chain registry ⚛️
@@ -4485,6 +4485,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MiniMax-AI/MiniMax-M3](https://github.com/MiniMax-AI/MiniMax-M3) - 
 - [MoonshotAI/Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5) - Open Visual Agentic Intelligence
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
+- [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher) - Start here: what OSWatcher is, how the pieces fit together, and which repository to open next
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
 - [Rick45/quick-arr-Stack](https://github.com/Rick45/quick-arr-Stack) - Quick start on ARR stack with home VPN
