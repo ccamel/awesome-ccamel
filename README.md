@@ -746,6 +746,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.
 - [concourse/semver-resource](https://github.com/concourse/semver-resource) - Automated semantic version bumping
 - [confio/tgrade](https://github.com/confio/tgrade) - The Tgrade Blockchain Binary, based on the Cosmos SDK and wasmd
+- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates. 
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
@@ -1641,7 +1642,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bfirsh/docker-redoc](https://github.com/bfirsh/docker-redoc) - A Docker image which serves ReDoc documentation
 - [binaryeq/daleq](https://github.com/binaryeq/daleq) - datalog-based binary equivalence
 - [canonical/vanilla-framework](https://github.com/canonical/vanilla-framework) - From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.
-- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [cosmos/cosmos-sdk-docs](https://github.com/cosmos/cosmos-sdk-docs) - 
 - [cosmos/testnets](https://github.com/cosmos/testnets) - Cosmos Testnets
 - [ctco/spring-boot-graphql-template](https://github.com/ctco/spring-boot-graphql-template) - Spring Boot and GraphQL template project
@@ -2425,7 +2425,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [armyids/OKP4-Testnet](https://github.com/armyids/OKP4-Testnet) - 🌐 Genesis and node configuration elements for joining OKP4 networks.
 - [axone-protocol/jackal-auth-proxy](https://github.com/axone-protocol/jackal-auth-proxy) - 🛡️ Jackal auth proxy to the Axone protocol
 - [axone-protocol/networks](https://github.com/axone-protocol/networks) - 🌐 Genesis and node configuration elements for joining Axone networks.
-- [axone-protocol/ontology](https://github.com/axone-protocol/ontology) - 📙 The Axone Ontology
 - [axone-protocol/template-go](https://github.com/axone-protocol/template-go) - 🖨 Template for Golang projects @axone-protocol.
 - [cilium/hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [githubnext/agentics](https://github.com/githubnext/agentics) - A sample pack of GitHub Agentic Workflows!
@@ -2646,6 +2645,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [atchopba/scraping-jobs](https://github.com/atchopba/scraping-jobs) - Scraping-jobs helps scrape jobs from major job boards (apec.fr, indeed.fr, monster.fr...) to provide a simple and unified job search engine.
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
+- [axone-protocol/ontology](https://github.com/axone-protocol/ontology) - 📙 The Axone Ontology
 - [axsaucedo/kaos](https://github.com/axsaucedo/kaos) - 🚀 K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [aziz/SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3
@@ -3041,7 +3041,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [Synternet/pubsub-rust](https://github.com/Synternet/pubsub-rust) - 
-- [TX230/winproc-tui](https://github.com/TX230/winproc-tui) - Windows 11 process-monitoring TUI with live system and .NET runtime metrics, time-series graphs, A/B comparison, and recording. Built with Rust/Ratatui.
+- [TX230/winproc-tui](https://github.com/TX230/winproc-tui) - A keyboard-first process monitoring tool for Windows 11 with live system-wide and per-process resource metrics including .NET runtime metrics, time-series analysis, and recording—built with Rust and Ratatui.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Terkwood/BUGOUT](https://github.com/Terkwood/BUGOUT) - AI-driven, Multiplayer Go/Weiqi/Baduk for the web 🐛🤖🦀♟
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
@@ -3181,6 +3181,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [fermatrox/neorusticus](https://github.com/fermatrox/neorusticus) - A Prolog implementation in Rust with enhanced error handling
 - [ffizer/ffizer](https://github.com/ffizer/ffizer) - ffizer is a files and folders initializer / generator. Create any kind (or part) of project from template.
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [floneum/kalosm](https://github.com/floneum/kalosm) - Instant, controllable, local pre-trained AI models in Rust
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
@@ -3731,6 +3732,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac) - Sysinternals ZoomIt for MacOS
+- [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) - Synchronized multi-client state for AI agent sessions
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [starling-build/starling](https://github.com/starling-build/starling) - Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps
 
@@ -4160,7 +4162,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [metorial/metorial](https://github.com/metorial/metorial) - Connect any AI model to 1200+ integrations (MCP, CLI, API)
 - [mfinelli/setup-imagemagick](https://github.com/mfinelli/setup-imagemagick) - github action to install imagemagick
-- [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) - Synchronized multi-client state for AI agent sessions
 - [microsoft/agentrc](https://github.com/microsoft/agentrc) - Get your repo ready for AI.
 - [microsoft/copilot-metrics-dashboard](https://github.com/microsoft/copilot-metrics-dashboard) - The GitHub Copilot Metrics Dashboard is a solution accelerator designed to visualize metrics from GitHub Copilot using the GitHub Copilot Metrics API and GitHub Copilot User Management API.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
