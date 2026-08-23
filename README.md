@@ -3764,7 +3764,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AbstractSDK/cw-gov-card](https://github.com/AbstractSDK/cw-gov-card) - 
 - [AbstractSDK/templates](https://github.com/AbstractSDK/templates) - Templates for building Abstract modules.
 - [AdrienLemaire/okp4_web_interface](https://github.com/AdrienLemaire/okp4_web_interface) - 
-- [Agent-Pattern-Labs/textura](https://github.com/Agent-Pattern-Labs/textura) - Pretext x Yoga = Textura. DOM-free layout engine for the web
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
 - [Arindam200/logo-ai](https://github.com/Arindam200/logo-ai) - AI Powered Logo Generator | Powered by Nebius AI
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
@@ -3922,7 +3921,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [build-canaries/nevergreen](https://github.com/build-canaries/nevergreen) - :baby_chick: A build monitor with attitude
 - [bxcodec/github-readme-medium-recent-article](https://github.com/bxcodec/github-readme-medium-recent-article) - Add Your Recently Published Medium Articles to Your GitHub Readme
 - [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) - Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [capacitor-community/electron](https://github.com/capacitor-community/electron) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Electron platform! 🖥️
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜 
 - [ccamel/bobinerie](https://github.com/ccamel/bobinerie) - 🧵 La Bobinerie - Haberdashery of Bobine modules: from useful, serious pieces to educational gems and esoteric oddities. Grab, deploy, fork at will.
@@ -3956,7 +3955,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ctrlplanedev/ctrlplane](https://github.com/ctrlplanedev/ctrlplane) - :rocket: A deployment orchestration tool that simplifies multi-cloud, multi-region, and multi-service deployments.
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
-- [dali-benothmen/woml](https://github.com/dali-benothmen/woml) - Workflow Orchestration Markup Language. Build automation as readable markup, that can automate anything.
+- [dali-benothmen/woml](https://github.com/dali-benothmen/woml) - Code-first workflow automation language written as readable markup. Build automation, that can automate anything.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter.
@@ -4727,7 +4726,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [semantalytics/awesome-kafka](https://github.com/semantalytics/awesome-kafka) - A curated list of awesome things related to Apache Kafka
 - [semantalytics/awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) - A curated list of various semantic web and linked data resources.
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [slashdotdash/awesome-elixir-cqrs](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) resources.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [snipsco/awesome-snips](https://github.com/snipsco/awesome-snips) - A curated list of awesome Snips projects
