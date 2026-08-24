@@ -2163,6 +2163,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lensesio/kafka-topics-ui](https://github.com/lensesio/kafka-topics-ui) - Web Tool for Kafka Topics  | 
 - [leonardomso/awesome-fsm](https://github.com/leonardomso/awesome-fsm) - 🤖 A curated list of awesome resources related to finite state machines and statecharts.
 - [leoncik/Parafaute](https://github.com/leoncik/Parafaute) - Extension web Parafaute : corrige les fautes en temps réel, supprime l’écriture inclusive et remplace les anglicismes. ☂️
+- [letsseal/letsseal](https://github.com/letsseal/letsseal) - The open standard for proving any file is real, unaltered and sealed
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ltearno/pom-explorer](https://github.com/ltearno/pom-explorer) - A tool to aid managing lots of maven projects
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
@@ -2461,6 +2462,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Nix
 
+- [ALH477/Oligarchy](https://github.com/ALH477/Oligarchy) - Oligarchy is a reproducible NixOS computing platform developed as a daily-driver operating system by its author ALH477, evolving from a personal experiment while learning Nix into an integrated environment for real-time audio, development, gaming, virtualization, local AI, and experimental distributed systems.
 - [CptPotato/helix-themes](https://github.com/CptPotato/helix-themes) - A few themes for the helix editor
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [axone-protocol/template-oss](https://github.com/axone-protocol/template-oss) - 🖨 Template for opensource projects @axone-protocol
@@ -2637,7 +2639,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-- [antoinebou12/uml-mcp](https://github.com/antoinebou12/uml-mcp) - UML-MCP Server is a UML diagram generation tool based on MCP (Model Context Protocol), which can help users generate various types of UML diagrams through natural language description or directly writing PlantUML and Mermaid and Kroki https://uml-mcp.vercel.app/docs
+- [antoinebou12/uml-mcp](https://github.com/antoinebou12/uml-mcp) - UML-MCP Server is a UML diagram generation tool based on MCP (Model Context Protocol), which can help users generate various types of UML diagrams through natural language description or directly writing PlantUML and Mermaid and Kroki https://uml-mcp.vercel.app/mcp
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!
@@ -2881,7 +2883,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tartiflette/tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project.
 - [tehmaze/diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters and fancy colors
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [tosanjay/NeuroLog](https://github.com/tosanjay/NeuroLog) - 
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
@@ -3229,7 +3231,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [iqlusioninc/abscissa](https://github.com/iqlusioninc/abscissa) - Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions
 - [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Tendermint KMS: Key Management System for Tendermint Validators
 - [ivanceras/sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications
-- [jasonwitty/socktop](https://github.com/jasonwitty/socktop) - socktop is a remote system monitor with a rich TUI interface, inspired by `top` and `btop`, that communicates with a lightweight remote agent over WebSockets.
+- [jasonwitty/socktop](https://github.com/jasonwitty/socktop) - A TUI-first remote system monitor.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [joaquinbejar/OrderBook-rs](https://github.com/joaquinbejar/OrderBook-rs) - A high-performance, thread-safe limit order book implementation written in Rust. This project provides a comprehensive order matching engine designed for low-latency trading systems, with a focus on concurrent access patterns and lock-free data structures.
 - [jolicode/rphp](https://github.com/jolicode/rphp) - 
@@ -3732,7 +3734,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac) - Sysinternals ZoomIt for MacOS
-- [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) - Synchronized multi-client state for AI agent sessions
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [starling-build/starling](https://github.com/starling-build/starling) - Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps
 
@@ -3955,7 +3956,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ctrlplanedev/ctrlplane](https://github.com/ctrlplanedev/ctrlplane) - :rocket: A deployment orchestration tool that simplifies multi-cloud, multi-region, and multi-service deployments.
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
-- [dali-benothmen/woml](https://github.com/dali-benothmen/woml) - Code-first workflow automation language written as readable markup. Build automation, that can automate anything.
+- [dali-benothmen/woml](https://github.com/dali-benothmen/woml) - Workflow applications as readable documents. Build automations, that can automate anything.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter.
@@ -4161,6 +4162,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [metorial/metorial](https://github.com/metorial/metorial) - Connect any AI model to 1200+ integrations (MCP, CLI, API)
 - [mfinelli/setup-imagemagick](https://github.com/mfinelli/setup-imagemagick) - github action to install imagemagick
+- [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) - Synchronized multi-client state for AI agent sessions
 - [microsoft/agentrc](https://github.com/microsoft/agentrc) - Get your repo ready for AI.
 - [microsoft/copilot-metrics-dashboard](https://github.com/microsoft/copilot-metrics-dashboard) - The GitHub Copilot Metrics Dashboard is a solution accelerator designed to visualize metrics from GitHub Copilot using the GitHub Copilot Metrics API and GitHub Copilot User Management API.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
@@ -4699,6 +4701,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [passy/awesome-purescript](https://github.com/passy/awesome-purescript) - A curation of awesome PureScript libraries, resources and shiny things.
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
+- [peterod99/consultant-skills](https://github.com/peterod99/consultant-skills) - 20 methodology playbooks for B2B consultants. Niche selection, value-based pricing, discovery calls, LinkedIn outbound, account expansion, and more. Installable as Claude Code skills or readable as a standalone playbook.
 - [pfalcon/awesome-smarthome](https://github.com/pfalcon/awesome-smarthome) - Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)
 - [philippemerle/Awesome-Kubernetes-Architecture-Diagrams](https://github.com/philippemerle/Awesome-Kubernetes-Architecture-Diagrams) - Awesome Kubernetes Architecture Diagrams
 - [piotr-roslaniec/awesome-metamask-snaps](https://github.com/piotr-roslaniec/awesome-metamask-snaps) - A curated list of awesome MetaMask Snaps related resources
