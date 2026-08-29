@@ -156,6 +156,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [timescale/pg_prometheus](https://github.com/timescale/pg_prometheus) - PostgreSQL extension for Prometheus data
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [trealla-prolog/trealla](https://github.com/trealla-prolog/trealla) - A compact, efficient Prolog interpreter written in plain old C.
+- [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
@@ -1705,8 +1706,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [w3c/wot](https://github.com/w3c/wot) - Web of Things
 - [w3c/wot-architecture](https://github.com/w3c/wot-architecture) - Web of Things (WoT) Architecture
 - [w3c/wot-thing-description](https://github.com/w3c/wot-thing-description) - Web of Things (WoT) Thing Description
+- [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [wjdp/htmltest](https://github.com/wjdp/htmltest) - :white_check_mark: Test generated HTML for problems
 - [yegor256/elegantobjects.github.io](https://github.com/yegor256/elegantobjects.github.io) - Fan club for Elegant Objects programmers
+- [ynulihao/AgentSkillOS](https://github.com/ynulihao/AgentSkillOS) - Build your agent from 200,000+ skills via skill RETRIEVAL & ORCHESTRATION
 
 ## Handlebars
 
@@ -1717,6 +1720,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [avh4/elm-format](https://github.com/avh4/elm-format) - elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide
+- [digitallyinduced/haskell-agent](https://github.com/digitallyinduced/haskell-agent) - an agent harness is just a monoid in the category of endofunctors
 - [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [elm/package.elm-lang.org](https://github.com/elm/package.elm-lang.org) - website for browsing packages and exploring documentation
@@ -2172,6 +2176,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
+- [mcpware/cross-code-organizer](https://github.com/mcpware/cross-code-organizer) - Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) - LaTeX block support for EditorJS
 - [meodai/heerich](https://github.com/meodai/heerich) - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.
@@ -2281,6 +2286,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [terra-money/classic-core](https://github.com/terra-money/classic-core) - GO implementation of the Terra Protocol 
 - [tomayac/local-reverse-geocoder](https://github.com/tomayac/local-reverse-geocoder) - Local reverse geocoder for Node.js based on GeoNames data
 - [traveldevel/iot-hub-ingestion-rest](https://github.com/traveldevel/iot-hub-ingestion-rest) - Ingestion REST api that writes to a Kafka topic
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
 - [untu/comedy](https://github.com/untu/comedy) - Node.js actor framework.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -2833,7 +2839,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - 🛠 Python project template generator with batteries included
@@ -4250,7 +4256,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pixijs-userland/pixi-viewport](https://github.com/pixijs-userland/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
 - [pixijs/pixi-react](https://github.com/pixijs/pixi-react) - Write PIXI apps using React declarative style
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate) - Annotate terminal text in Herdr and copy annotations as agent context.
+- [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate) - Annotate terminal text, review documents and agent replies in Herdr, and send the feedback straight back to the agent.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [poapxyz/poap](https://github.com/poapxyz/poap) - ⛔️ DEPRECATED - Proof Of Attendance Protocol
@@ -4308,6 +4314,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [silverwind/uppie](https://github.com/silverwind/uppie) - Cross-browser directory and multi-file upload library
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [skiff-org/skiff-ui](https://github.com/skiff-org/skiff-ui) - React components for the Skiff UI Design System
+- [skillsgate/skillsgate](https://github.com/skillsgate/skillsgate) - 
 - [skip-mev/skip-go-registry](https://github.com/skip-mev/skip-go-registry) - 
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [slymnoyann/hey-1](https://github.com/slymnoyann/hey-1) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -4450,6 +4457,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [lukewilliamboswell/roc-wasm4](https://github.com/lukewilliamboswell/roc-wasm4) - Build wasm4 games using Roc
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
+- [vercel-labs/fx](https://github.com/vercel-labs/fx) - Unix like coding agent
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [zwasm/zwasm](https://github.com/zwasm/zwasm) - A fast, spec-compliant WebAssembly runtime written in Zig
 
