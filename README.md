@@ -470,6 +470,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## F#
 
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [fsbolero/Bolero](https://github.com/fsbolero/Bolero) - Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities, and more.
 - [trustbit/Contexture](https://github.com/trustbit/Contexture) - Wizard for the Bounded-Context-Canvas
 
@@ -793,7 +794,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
 - [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
-- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [datachainlab/cosmos-ethereum-ibc-lcp](https://github.com/datachainlab/cosmos-ethereum-ibc-lcp) - A bridge demo between Cosmos and Ethereum using IBC and LCP
 - [datachainlab/ethereum-ibc-relay-chain](https://github.com/datachainlab/ethereum-ibc-relay-chain) - 
 - [dataux/dataux](https://github.com/dataux/dataux) - Federated mysql compatible proxy to elasticsearch, mongo, cassandra, big-table, google datastore
@@ -1491,6 +1491,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [teambenny/goetl](https://github.com/teambenny/goetl) - 
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [tellor-io/layer](https://github.com/tellor-io/layer) - tellor chain - a cosmos sdk chain for reporting and validating arbitrary data
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [tendermint/faucet](https://github.com/tendermint/faucet) - A faucet for cosmos-sdk apps that uses the app binary only
 - [tendermint/fundraising](https://github.com/tendermint/fundraising) - 
 - [tendermint/spn](https://github.com/tendermint/spn) - A blockchain to launch blockchains.
@@ -2269,7 +2270,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [spekt8/spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
 - [ssuman/parcel-plugin-elm](https://github.com/ssuman/parcel-plugin-elm) -  A parcel plugin that enables elm support
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
-- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨
+- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨                    ⭐️ Star to support our work!
 - [supermodel/supermodel](https://github.com/supermodel/supermodel) - Supermodel browser library and CLI tool for working with JSON Schema data models
 - [superstreamlabs/kafka-analyzer](https://github.com/superstreamlabs/kafka-analyzer) - Interactive CLI for analyzing Kafka health and configuration according to best practices and industry standards.
 - [sveltejs/gl](https://github.com/sveltejs/gl) - A (very experimental) project to bring WebGL to Svelte
@@ -2477,7 +2478,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [axone-protocol/template-oss](https://github.com/axone-protocol/template-oss) - 🖨 Template for opensource projects @axone-protocol
 - [ccamel/ccamel](https://github.com/ccamel/ccamel) - My :octocat: profile 
-- [ccamel/chez-ccamel](https://github.com/ccamel/chez-ccamel) - 🏡 My personal Nix environments managed by https://github.com/nix-community/home-manager
+- [ccamel/chez-ccamel](https://github.com/ccamel/chez-ccamel) - 🏡 My personal Nix environments (dev / devops / agentic) managed by https://github.com/nix-community/home-manager
 - [cloud-gouv/bureautix-example](https://github.com/cloud-gouv/bureautix-example) - 
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr] 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
@@ -2605,11 +2606,11 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
 - [RDFLib/rdflib](https://github.com/RDFLib/rdflib) - RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [SecurityRonin/docx-mcp](https://github.com/SecurityRonin/docx-mcp) - MCP server for reading and editing Word (.docx) documents with track changes, comments, footnotes, and structural validation
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -2620,6 +2621,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [ThePixelCrafted/chatgpt_de_zero](https://github.com/ThePixelCrafted/chatgpt_de_zero) - On recode ensemble ChatGPT de zéro sur ma chaîne YouTube et Twitch !
 - [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
@@ -2855,6 +2857,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [redblock-ai/imgflip-mcp](https://github.com/redblock-ai/imgflip-mcp) - A Meme Creation Protocol server for Claude and other AI assistants.
 - [reecepbcups/airdrop-tools](https://github.com/reecepbcups/airdrop-tools) - A suite of tools to airdrop under a variety of edge cases for the Cosmos Interchain
 - [reecepbcups/cosmos-state-exporter](https://github.com/reecepbcups/cosmos-state-exporter) - A CosmosSDK chain scheduled state exporter
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard) - A security library for FastAPI that provides middleware to control IPs, log requests, detect penetration attempts, honeypot setup, behavioural analysis, emergency mode lockdown, block Cloud Provider IPs, country blocking, and much more... It integrates seamlessly with FastAPI to offer robust protection against various security threats.
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
@@ -3352,6 +3355,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a privacy-preserving decentralized exchange for all of crypto
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
+- [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate) - Annotate terminal text, review documents and agent replies in Herdr, and send the feedback straight back to the agent.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [preiter93/wireman](https://github.com/preiter93/wireman) - A gRPC client for the terminal
@@ -3973,6 +3977,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dali-benothmen/woml](https://github.com/dali-benothmen/woml) - Workflow applications as readable documents. Build automations, that can automate anything.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
+- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter.
 - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
@@ -4257,7 +4262,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pixijs-userland/pixi-viewport](https://github.com/pixijs-userland/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
 - [pixijs/pixi-react](https://github.com/pixijs/pixi-react) - Write PIXI apps using React declarative style
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate) - Annotate terminal text, review documents and agent replies in Herdr, and send the feedback straight back to the agent.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [poapxyz/poap](https://github.com/poapxyz/poap) - ⛔️ DEPRECATED - Proof Of Attendance Protocol
