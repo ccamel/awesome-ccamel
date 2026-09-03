@@ -291,6 +291,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Dockerfile
 
 - [Quantisan/docker-clojure](https://github.com/Quantisan/docker-clojure) - Official Docker image for Clojure
+- [amygdala-labs/heighliner](https://github.com/amygdala-labs/heighliner) - Repository of docker images for the node software of Cosmos chains
 - [axone-protocol/heighliner](https://github.com/axone-protocol/heighliner) - Repository of docker images for the node software of Cosmos chains
 - [groovy/docker-groovy](https://github.com/groovy/docker-groovy) - Docker images with Groovy
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -298,7 +299,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mhart/alpine-node](https://github.com/mhart/alpine-node) - Minimal Node.js Docker Images built on Alpine Linux
 - [okp4/docker-images](https://github.com/okp4/docker-images) - 🐳 Repository for Docker configurations and images we use @okp4.network
 - [okp4/template-python](https://github.com/okp4/template-python) - 🖨 Template for Python Projects @okp4.
-- [strangelove-ventures/heighliner](https://github.com/strangelove-ventures/heighliner) - Repository of docker images for the node software of Cosmos chains
 
 ## Elixir
 
@@ -613,6 +613,12 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [alphadose/haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s. 
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+- [amygdala-labs/cosmos-operator](https://github.com/amygdala-labs/cosmos-operator) - Cosmos Operator is a kubernetes operator for managing cosmos nodes
+- [amygdala-labs/half-life](https://github.com/amygdala-labs/half-life) - Cosmos validator monitoring and alerting utility
+- [amygdala-labs/horcrux](https://github.com/amygdala-labs/horcrux) - Threshold HA CometBFT/Tendermint remote signer
+- [amygdala-labs/interchaintest](https://github.com/amygdala-labs/interchaintest) - e2e testing framework for the interchain
+- [amygdala-labs/lens](https://github.com/amygdala-labs/lens) - ⚛️❤️👁 Brought to you by the LensCrafters
+- [amygdala-labs/poa](https://github.com/amygdala-labs/poa) - Cosmos Proof-of-Authority module for private & permissioned networks
 - [andeya/gust](https://github.com/andeya/gust) - A production-ready library that makes error handling, optional values, and iteration as beautiful and safe as in Rust.
 - [andromedaprotocol/andromedad](https://github.com/andromedaprotocol/andromedad) - 
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
@@ -1466,12 +1472,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
 - [strang1ato/nhi](https://github.com/strang1ato/nhi) - :tv: Automatically capture all potentially useful information about each executed command (as well as its output) and get powerful querying mechanism
-- [strangelove-ventures/cosmos-operator](https://github.com/strangelove-ventures/cosmos-operator) - Cosmos Operator is a kubernetes operator for managing cosmos nodes
-- [strangelove-ventures/half-life](https://github.com/strangelove-ventures/half-life) - Cosmos validator monitoring and alerting utility
-- [strangelove-ventures/horcrux](https://github.com/strangelove-ventures/horcrux) - Threshold HA CometBFT/Tendermint remote signer
-- [strangelove-ventures/interchaintest](https://github.com/strangelove-ventures/interchaintest) - e2e testing framework for the interchain
-- [strangelove-ventures/lens](https://github.com/strangelove-ventures/lens) - ⚛️❤️👁 Brought to you by the LensCrafters
-- [strangelove-ventures/poa](https://github.com/strangelove-ventures/poa) - Cosmos Proof-of-Authority module for private & permissioned networks
 - [stratosnet/stratos-chain](https://github.com/stratosnet/stratos-chain) - Stratos Blockchain
 - [stretchr/objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
@@ -1986,7 +1986,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Schweigi/assembler-simulator](https://github.com/Schweigi/assembler-simulator) - Simple 8-bit Assembler Simulator with Angular.js
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [Ubleam/eslint-config-ubleam](https://github.com/Ubleam/eslint-config-ubleam) - 📜 ESLint shareable config used @Ubleam
-- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
 - [UstymUkhman/vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - :spider_web: Import, inline (and minify) GLSL/WGSL/Slang shader files :electric_plug:
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [VisualDataWeb/WebVOWL](https://github.com/VisualDataWeb/WebVOWL) - Visualizing ontologies on the Web
@@ -2479,7 +2479,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [axone-protocol/template-oss](https://github.com/axone-protocol/template-oss) - 🖨 Template for opensource projects @axone-protocol
 - [ccamel/ccamel](https://github.com/ccamel/ccamel) - My :octocat: profile 
-- [ccamel/chez-ccamel](https://github.com/ccamel/chez-ccamel) - 🏡 My personal Nix environments (dev / devops / agentic) managed by https://github.com/nix-community/home-manager
 - [cloud-gouv/bureautix-example](https://github.com/cloud-gouv/bureautix-example) - 
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr] 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
@@ -2618,7 +2617,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SimplyStaking/panic](https://github.com/SimplyStaking/panic) - PANIC Monitoring and Alerting For Blockchains
 - [SkatAI/cauldron](https://github.com/SkatAI/cauldron) - Langchain based AI agent to validate personnas system prompts
 - [Souhar-dya/mcp-db-server](https://github.com/Souhar-dya/mcp-db-server) - MCP Database Server with natural language SQL queries
-- [SpillwaveSolutions/agent-brain](https://github.com/SpillwaveSolutions/agent-brain) - Private RAG system with semantic context ingestion to improve source of truth of reliable sources
+- [SpillwaveSolutions/agent-brain](https://github.com/SpillwaveSolutions/agent-brain) - Local-first RAG memory for AI agents: hybrid + GraphRAG search, MCP server with OAuth 2.1, plugin for Claude Code / OpenCode / Codex.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -2681,6 +2680,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cadmiumkitty/rdfpandas](https://github.com/cadmiumkitty/rdfpandas) - RdfPandas is a module providing RDF support for Pandas
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [cbirajdar/properties-to-yaml-converter](https://github.com/cbirajdar/properties-to-yaml-converter) - Python utility to convert key=value based properties/ini config files into YAML format
+- [ccamel/chez-ccamel](https://github.com/ccamel/chez-ccamel) - 🏡 My personal Nix environments (dev / devops / agentic) managed by https://github.com/nix-community/home-manager
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [chris104957/maildown](https://github.com/chris104957/maildown) - A super simple CLI for sending emails
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
@@ -2899,7 +2899,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tartiflette/tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project.
 - [tehmaze/diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters and fancy colors
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [tosanjay/NeuroLog](https://github.com/tosanjay/NeuroLog) - 
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
@@ -2987,7 +2986,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [Arcelyth/live-ascii](https://github.com/Arcelyth/live-ascii) - A Live2D Cubism model renderer for terminal, support face tracking
 - [AtlasDA0/app-contracts](https://github.com/AtlasDA0/app-contracts) - Cosmwasm implementation of non-custodial NFT loans,  on-chain raffles & P2P trading
-- [AtomaAI/atoma-node](https://github.com/AtomaAI/atoma-node) - Core infrastructure for confidential computing AI inference
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
@@ -3888,6 +3886,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [adhrinae/ts-react-parcel](https://github.com/adhrinae/ts-react-parcel) - Typescript with React, using parcel bundler
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
@@ -3964,6 +3963,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus.
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
+- [coinbase/agentkit](https://github.com/coinbase/agentkit) - Every AI Agent deserves a wallet.
 - [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents.
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [condorheroblog/html-export-pdf-cli](https://github.com/condorheroblog/html-export-pdf-cli) - Render HTML to PDF(with outline) using Puppeteer.
@@ -4041,7 +4041,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots
 - [foo-software/lighthouse-check-action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running @GoogleChromeLabs Lighthouse audits with all the bells and whistles 🔔 Multiple audits, Slack notifications, and more!
 - [forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos) - 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [fp4ts/fp4ts](https://github.com/fp4ts/fp4ts) - Zero-dependency, purely functional library for effectful programming in Typescript
 - [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) - MCP (Model Context Protocol) server that enables AI assistants to interact with Storybook design systems. Extract component HTML, analyze styles, and help with design system adoption and refactoring.
 - [frontity/frontity](https://github.com/frontity/frontity) - » Frontity - The React Framework for WordPress
@@ -4245,7 +4245,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
 - [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one step.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
@@ -4365,6 +4365,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [tonai/storybook-addon-themes](https://github.com/tonai/storybook-addon-themes) - 
@@ -4485,6 +4486,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AAkira/Kotlin-Multiplatform-Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) - Kotlin Multiplatform Libraries. Welcome PR if you find or create new Kotlin Multiplatform Library.
 - [ARINC-IA/CSMIM](https://github.com/ARINC-IA/CSMIM) - 
 - [AbstractSDK/awesome-abstract](https://github.com/AbstractSDK/awesome-abstract) - 😎 Curated list of tools, contracts, and projects built with, for, or by Abstract
+- [AhmadJeddi/GitHub-Markdown-Cheat-Sheet](https://github.com/AhmadJeddi/GitHub-Markdown-Cheat-Sheet) - A practical cheat sheet for GitHub Markdown, including GFM, GitHub features, HTML, README formatting, and more.
 - [AnatolianTeam/OKP4-Nemeton-Program](https://github.com/AnatolianTeam/OKP4-Nemeton-Program) - Everything is about OKP4 Nemeton Program
 - [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem
 - [BccNodes/BccNodes](https://github.com/BccNodes/BccNodes) - 
@@ -4542,7 +4544,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time 
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [adairrr/awesome-archway](https://github.com/adairrr/awesome-archway) - A curated list of awesome Archway Network resources.
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [ajvb/awesome-tor](https://github.com/ajvb/awesome-tor) - A list of awesome Tor related projects, articles, papers, etc
 - [akash-network/net](https://github.com/akash-network/net) - genesis and configuration files for various akash networks
 - [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project)
@@ -4590,7 +4591,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cmbesnier/portofolio](https://github.com/cmbesnier/portofolio) - 
 - [coderabbitai/awesome-coderabbit](https://github.com/coderabbitai/awesome-coderabbit) - Official awesome-list of CodeRabbit Starters & Resources ⚡️
 - [coderabbitai/skills](https://github.com/coderabbitai/skills) - 
-- [coinbase/agentkit](https://github.com/coinbase/agentkit) - Every AI Agent deserves a wallet.
 - [cosmos/awesome-cosmos](https://github.com/cosmos/awesome-cosmos) - Collection of Cosmos related resources
 - [cosmos/did-cosmos](https://github.com/cosmos/did-cosmos) - 
 - [coteries/cedille-ai](https://github.com/coteries/cedille-ai) - ✒️ Cedille is a large French language model (6B), released under an open-source license
