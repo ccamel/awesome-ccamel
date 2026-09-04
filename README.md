@@ -1520,6 +1520,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tomarrell/wrapcheck](https://github.com/tomarrell/wrapcheck) - A Go linter to check that errors from external packages are wrapped
 - [toschdev/blockie](https://github.com/toschdev/blockie) - Ignite App - Analyses your blocks for you
 - [tractordev/wanix](https://github.com/tractordev/wanix) - A compute toolkit for the web with the depth of Plan 9 from Bell Labs
+- [traefik-plugins/traefik-jwt-plugin](https://github.com/traefik-plugins/traefik-jwt-plugin) - Traefik plugin which checks JWT tokens for required fields. Supports Open Policy Agent (OPA) and signature validation with  JWKS
 - [traefik/mesh](https://github.com/traefik/mesh) - Traefik Mesh - Simpler Service Mesh
 - [traefik/plugindemo](https://github.com/traefik/plugindemo) - This repository includes an example plugin, for you to use as a reference for developing your own plugins
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1574,13 +1575,13 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+- [weave-os/router](https://github.com/weave-os/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
 - [wesovilabs/koazee](https://github.com/wesovilabs/koazee) - A StreamLike, Immutable, Lazy Loading and smart Golang Library to deal with slices.
 - [whyrusleeping/ipfs-key](https://github.com/whyrusleeping/ipfs-key) - A program to generate ipfs private keys
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
 - [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
-- [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.
 - [wrouesnel/badgeserv](https://github.com/wrouesnel/badgeserv) - No-Nonsense badge generator service. Ideal for on-premises hosting!
 - [xgo-dev/c2go](https://github.com/xgo-dev/c2go) - Convert C to Go
 - [xitonix/trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka
@@ -1722,7 +1723,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [avh4/elm-format](https://github.com/avh4/elm-format) - elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide
 - [digitallyinduced/haskell-agent](https://github.com/digitallyinduced/haskell-agent) - an agent harness is just a monoid in the category of endofunctors
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web and mobile framework
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [elm/package.elm-lang.org](https://github.com/elm/package.elm-lang.org) - website for browsing packages and exploring documentation
 - [f-o-a-m/kepler](https://github.com/f-o-a-m/kepler) - A Haskell framework that facilitates writing ABCI applications
@@ -2880,7 +2881,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
@@ -3209,6 +3210,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 - [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally
 - [gendx/lzma-rs](https://github.com/gendx/lzma-rs) - An LZMA decoder written in pure Rust
+- [gents-ai/gents](https://github.com/gents-ai/gents) - verifiable, p2p agents 🤖🦾
 - [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [git-bahn/git-graph](https://github.com/git-bahn/git-graph) - Command line tool to show clear git graphs arranged for your branching model
@@ -3954,12 +3956,14 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cerebral/overmind](https://github.com/cerebral/overmind) - Overmind - Frictionless state management
 - [chainapsis/keplr-chain-registry](https://github.com/chainapsis/keplr-chain-registry) - Protocol for Integrating Non-Native Chains to Keplr
 - [chainapsis/keplr-example](https://github.com/chainapsis/keplr-example) - 
+- [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [cheqd/validator-status](https://github.com/cheqd/validator-status) - Network-wide validator status alerting API for cheqd mainnet. Designed to work for any Cosmos SDK network
 - [chuanqisun/react-agent-hooks](https://github.com/chuanqisun/react-agent-hooks) - Turn React hooks into LLM tools
 - [citizenweb3/validatorinfo](https://github.com/citizenweb3/validatorinfo) - Web3 Blockchain Explorer. Validator, Mining Pool, Token and Network Real-time Metrics. Interactive Onchain Dashboard
+- [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade) - The TypeScript framework for building modular agents around an immutable event log.
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus.
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
@@ -4002,7 +4006,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
-- [docmd-io/docmd](https://github.com/docmd-io/docmd) - Documentation compiler for humans and machines. One Markdown source, one command — website, search, AI context, and knowledge formats together.
+- [docmd-io/docmd](https://github.com/docmd-io/docmd) - Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together.
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
 - [dsherret/ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
@@ -4153,7 +4157,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kitze/mobx-router](https://github.com/kitze/mobx-router) - A simple router for MobX + React apps
 - [koala819/StarterPack](https://github.com/koala819/StarterPack) - A comprehensive web development kit for swift site creation, featuring responsive design, contact form, NextUI components, and Google Analytics integration.
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
-- [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+- [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export.
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
