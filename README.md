@@ -285,6 +285,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Dart
 
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -528,7 +529,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Fs02/wire](https://github.com/Fs02/wire) - Strict Runtime Dependency Injection for Golang
 - [GetStream/vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [Gravity-Bridge/Gravity-Bridge](https://github.com/Gravity-Bridge/Gravity-Bridge) - The official repository of the Gravity Bridge Blockchain
 - [HnH/qry](https://github.com/HnH/qry) - Write your SQL queries in raw files with all benefits of modern IDEs, use them in an easy way inside your application with all the profit of compile time constants
 - [HouzuoGuo/tiedot](https://github.com/HouzuoGuo/tiedot) - A rudimentary implementation of a basic document (NoSQL) database in Go
@@ -2011,6 +2011,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [anvaka/git-also](https://github.com/anvaka/git-also) - For a `file` in your git repository, prints other files that are most often committed together
 - [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [ashutosh1919/react-awesome-loaders](https://github.com/ashutosh1919/react-awesome-loaders) - 🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.
 - [assemblee-virtuelle/Semantic-Bus](https://github.com/assemblee-virtuelle/Semantic-Bus) - object flow treatment,  data transformation
 - [asynkron/Asynkron.Palette](https://github.com/asynkron/Asynkron.Palette) - CLI color palette generator with Tailwind-scale shades and OKLCH color space
@@ -2035,7 +2036,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [biodiv/anycluster](https://github.com/biodiv/anycluster) - Server-side clustering of map markers for (Geo)Django
 - [bjankord/stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - ⚙ A stylelint config inspired by https://sass-guidelin.es/
 - [blackcater/blackcater](https://github.com/blackcater/blackcater) - Using Node.js to generate my Github profile readme automatically.
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
@@ -2669,6 +2669,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [benjefferies/branch-protection-bot](https://github.com/benjefferies/branch-protection-bot) - A bot tool to disable and re-enable "Include administrators" option in branch protection
 - [benmoran56/esper](https://github.com/benmoran56/esper) - An ECS (Entity Component System) for Python
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss) - 
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
@@ -3357,7 +3358,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [patonw/leaves](https://github.com/patonw/leaves) - A text-mode disk usage visualization utility
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Quickly find bottlenecks in Rust - one profiler for CPU, memory, SQL, HTTP, I/O and async code.
+- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a privacy-preserving decentralized exchange for all of crypto
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
@@ -4567,7 +4568,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [apollographql/apollo-feature-requests](https://github.com/apollographql/apollo-feature-requests) - 🧑‍🚀 Apollo Client Feature Requests | (no 🐛 please).
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appieasahbie/okp4-kelpr](https://github.com/appieasahbie/okp4-kelpr) - 
-- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [arthelokyo/awesome-qwik](https://github.com/arthelokyo/awesome-qwik) - 💠 A curated list of awesome Qwik repos, examples, starters, tutorials, components, modules, videos, and anything else useful.
 - [atomone-hub/genesis](https://github.com/atomone-hub/genesis) - genesis for AtomOne
 - [awesome-moltbot/awesome-moltbot](https://github.com/awesome-moltbot/awesome-moltbot) - 
