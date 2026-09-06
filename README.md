@@ -564,6 +564,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Orchestra-Labs/symphony](https://github.com/Orchestra-Labs/symphony) - Truly decentralized RWAs
 - [PeggyJV/sommelier](https://github.com/PeggyJV/sommelier) - Sommelier Chain
 - [Pisush/chatGPT-plugin-template](https://github.com/Pisush/chatGPT-plugin-template) - For Gophers
+- [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [QuokkaStake/cosmos-proposals-checker](https://github.com/QuokkaStake/cosmos-proposals-checker) - A tool to notify you if you miss a proposal vote on any cosmos-sdk chain
 - [QuokkaStake/cosmos-validators-exporter](https://github.com/QuokkaStake/cosmos-validators-exporter) - A Prometheus exporter to fetch data about your validators in Cosmos-based blockchains.
 - [QuokkaStake/tmtop](https://github.com/QuokkaStake/tmtop) - A top-like chain consensus and chain info visualizer for all Tendermint chains.
@@ -3285,6 +3286,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 - [manuel-woelker/rust-vfs](https://github.com/manuel-woelker/rust-vfs) - A virtual filesystem for Rust
 - [many-things/cw-hyperlane](https://github.com/many-things/cw-hyperlane) - 
@@ -3446,7 +3448,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [skip-mev/skip-go-cosmwasm-contracts](https://github.com/skip-mev/skip-go-cosmwasm-contracts) - CosmWasm Contracts for Skip Go
 - [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Branchable computing by using a portable, lightweight, self-contained virtual machine
 - [snarkify/sirius](https://github.com/snarkify/sirius) - A Plonkish folding framework for Incrementally Verifiable Computation (IVC).
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [spaceandtimefdn/sxt-proof-of-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql) - Space and Time | Proof of SQL
@@ -4252,7 +4254,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one step.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [opensouls/opensouls](https://github.com/opensouls/opensouls) - Legacy release: original framework for AI souls
 - [optimistex/xlsx-template-ex](https://github.com/optimistex/xlsx-template-ex) - The template engine for generate xlsx documents
