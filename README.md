@@ -190,7 +190,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -1330,6 +1329,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [polyfloyd/go-errorlint](https://github.com/polyfloyd/go-errorlint) - Moved to https://codeberg.org/polyfloyd/go-errorlint
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. 
+- [presmihaylov/openchatter](https://github.com/presmihaylov/openchatter) - Slack-style chat for teams of AI agents and the people who run them
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code
 - [project-flogo/contrib](https://github.com/project-flogo/contrib) - Core Flogo activities, triggers and functions that are useful across the various event-driven action types.
@@ -1571,6 +1571,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vrecan/death](https://github.com/vrecan/death) - Managing go application shutdown with signals.
 - [vtashkov/pair](https://github.com/vtashkov/pair) - 
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
+- [vvrnv/argo9s](https://github.com/vvrnv/argo9s) - A K9s-inspired terminal UI for monitoring Argo CD resources in real-time
 - [wabarc/ipfs-pinner](https://github.com/wabarc/ipfs-pinner) - A toolkit helps upload files to IPFS pinning services.
 - [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1648,6 +1649,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bfirsh/docker-redoc](https://github.com/bfirsh/docker-redoc) - A Docker image which serves ReDoc documentation
 - [binaryeq/daleq](https://github.com/binaryeq/daleq) - datalog-based binary equivalence
 - [canonical/vanilla-framework](https://github.com/canonical/vanilla-framework) - From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [cosmos/cosmos-sdk-docs](https://github.com/cosmos/cosmos-sdk-docs) - 
 - [cosmos/testnets](https://github.com/cosmos/testnets) - Cosmos Testnets
 - [ctco/spring-boot-graphql-template](https://github.com/ctco/spring-boot-graphql-template) - Spring Boot and GraphQL template project
@@ -1790,6 +1792,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [antoine-aumjaud/api-synology-chatbot](https://github.com/antoine-aumjaud/api-synology-chatbot) - API - Synology chatbot
 - [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
@@ -2364,6 +2367,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cbeust/konfig](https://github.com/cbeust/konfig) - A statically typed configuration library for Kotlin
 - [codeniko/JsonPathKt](https://github.com/codeniko/JsonPathKt) - A lighter and more efficient implementation of JsonPath in Kotlin
 - [corda/corda](https://github.com/corda/corda) - Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
+- [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [florent37/Multiplatform-LiveData](https://github.com/florent37/Multiplatform-LiveData) - Multiplatorm implementation of LiveDatas / MVVM in kotlin android & native ios
 - [gildor/kotlin-coroutines-okhttp](https://github.com/gildor/kotlin-coroutines-okhttp) - Kotlin Coroutines await() extension for OkHttp Call
 - [gouline/kapsule](https://github.com/gouline/kapsule) - Minimalist Kotlin dependency injection
@@ -2426,7 +2430,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [celestiaorg/docs](https://github.com/celestiaorg/docs) - Celestia Documentation Site
-- [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [dydxprotocol/v4-documentation](https://github.com/dydxprotocol/v4-documentation) - 
 - [neutron-org/neutron-docs](https://github.com/neutron-org/neutron-docs) - 
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
@@ -2742,7 +2745,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection 
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [gptme/gptme-rag](https://github.com/gptme/gptme-rag) - Local RAG as a simple CLI, for standalone use or as a gptme tool
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -2883,7 +2885,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
@@ -3142,7 +3144,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project
 - [casey/intermodal](https://github.com/casey/intermodal) - command-line utility for BitTorrent torrent file creation, verification, and more
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [celestia-island/hikari](https://github.com/celestia-island/hikari) - A Rust UI framework built on WASI.
 - [celestiaorg/lumina](https://github.com/celestiaorg/lumina) - Wasm friendly Celestia light node implementation in Rust
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
 - [chanmix51/soft65c02](https://github.com/chanmix51/soft65c02) - A 65C02 simulator
@@ -3221,6 +3222,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gnprice/toml-cli](https://github.com/gnprice/toml-cli) - 
 - [gold-silver-copper/soft_ratatui](https://github.com/gold-silver-copper/soft_ratatui) - Software renderer for ratatui
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection 
 - [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [govctl-org/govctl](https://github.com/govctl-org/govctl) - A governance harness for AI coding.
 - [grantshandy/fdg](https://github.com/grantshandy/fdg) - A Force Directed Graph Drawing Library
@@ -3631,6 +3633,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [L0vd/OKP4](https://github.com/L0vd/OKP4) - 
 - [Megavolv/okp4d-auto-rewards](https://github.com/Megavolv/okp4d-auto-rewards) - OKP4 script for reinvest rewards automatically
 - [NickLiffen/actions-boilerplate](https://github.com/NickLiffen/actions-boilerplate) - Sample Typescript Actions Template
+- [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher) - Start here: what OSWatcher is, how the pieces fit together, and which repository to open next
 - [PotatoLabs/git-redate](https://github.com/PotatoLabs/git-redate) - Change the dates of several git commits with a single command
 - [Rbillon59/jmeter-docker-compose-starterkit](https://github.com/Rbillon59/jmeter-docker-compose-starterkit) - 
 - [RubieV/plugin-fuck](https://github.com/RubieV/plugin-fuck) - Execute last command as root in fish
@@ -3671,6 +3674,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [karancode/kustomize-github-action](https://github.com/karancode/kustomize-github-action) - :european_castle: Github action for kustomize
 - [kj89/testnet_manuals](https://github.com/kj89/testnet_manuals) - 
+- [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl
 - [lavanet/lava-config](https://github.com/lavanet/lava-config) - Lava config files repo
 - [lensesio/lenses-docker](https://github.com/lensesio/lenses-docker) - ❤for real-time DataOps - where the application and data fabric blends - Lenses
@@ -3957,6 +3961,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [capacitor-community/electron](https://github.com/capacitor-community/electron) - Deploy your Capacitor apps to Linux, Mac, and Windows desktops, with the Electron platform! 🖥️
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜 
 - [ccamel/bobinerie](https://github.com/ccamel/bobinerie) - 🧵 La Bobinerie - Haberdashery of Bobine modules: from useful, serious pieces to educational gems and esoteric oddities. Grab, deploy, fork at will.
+- [celestia-island/hikari](https://github.com/celestia-island/hikari) - A Rust UI framework built on WASI.
 - [cerebral/overmind](https://github.com/cerebral/overmind) - Overmind - Frictionless state management
 - [chainapsis/keplr-chain-registry](https://github.com/chainapsis/keplr-chain-registry) - Protocol for Integrating Non-Native Chains to Keplr
 - [chainapsis/keplr-example](https://github.com/chainapsis/keplr-example) - 
@@ -4164,6 +4169,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export.
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
@@ -4530,7 +4536,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MiniMax-AI/MiniMax-M3](https://github.com/MiniMax-AI/MiniMax-M3) - 
 - [MoonshotAI/Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5) - Open Visual Agentic Intelligence
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
-- [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher) - Start here: what OSWatcher is, how the pieces fit together, and which repository to open next
 - [OpenAssets/open-assets-protocol](https://github.com/OpenAssets/open-assets-protocol) - Technical specification for the Open Assets protocol, a Bitcoin based colored coins implementation.
 - [ReactivePlatform/awesome-akka](https://github.com/ReactivePlatform/awesome-akka) - A collection of akka based nice frameworks, libraries and software.
 - [Rick45/quick-arr-Stack](https://github.com/Rick45/quick-arr-Stack) - Quick start on ARR stack with home VPN
