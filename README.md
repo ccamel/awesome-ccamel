@@ -190,6 +190,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -322,6 +323,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CharlonTank/rust-graphql-elm-tailwind-boilerplate](https://github.com/CharlonTank/rust-graphql-elm-tailwind-boilerplate) - A full-stack boilerplate with Rust GraphQL backend and Elm frontend with Tailwind CSS
 - [JesterXL/simple-game](https://github.com/JesterXL/simple-game) - 
 - [MacCASOutreach/graphicsvg](https://github.com/MacCASOutreach/graphicsvg) - Graphics library authored by Chris Schankula and Dr. Christopher Anand
+- [acadia-engineering/elm-simple-server](https://github.com/acadia-engineering/elm-simple-server) - Write a simple server in Elm.
 - [amblafont/graph-editor-web](https://github.com/amblafont/graph-editor-web) - An online graph editor written in Elm
 - [andre-dietrich/elm-conditional](https://github.com/andre-dietrich/elm-conditional) - Conditional application of functions to simplify piping.
 - [arowM/elm-atomic-design-example](https://github.com/arowM/elm-atomic-design-example) - An example Elm project in the manner of atomic design.
@@ -587,6 +589,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [Xe/olin](https://github.com/Xe/olin) - Webassembly + Event Sourcing
+- [ZenNotes/tui](https://github.com/ZenNotes/tui) - 
 - [Zondax/golem](https://github.com/Zondax/golem) - 
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [a8m/rql](https://github.com/a8m/rql) - Resource Query Language for REST
@@ -1226,6 +1229,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mr-linch/go-tg](https://github.com/mr-linch/go-tg) - 🤖 Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
 - [msyavuz/Lua-Capture](https://github.com/msyavuz/Lua-Capture) - Test lua capture patterns online
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [multiversx/mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
 - [multiversx/mx-chain-vm-go](https://github.com/multiversx/mx-chain-vm-go) - The Virtual Machine for executing WASM Smart Contracts on the MultiversX blockchain. Based on Wasmer, but in principle also supports any other executing engine.
 - [munnerz/goautoneg](https://github.com/munnerz/goautoneg) - Mirror of bitbucket.org/ww/goautoneg
@@ -1303,6 +1307,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [outscale/cloud-provider-osc](https://github.com/outscale/cloud-provider-osc) - Outscale cloud provider for Kubernetes
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
+- [owainlewis/machinist](https://github.com/owainlewis/machinist) - Open source software factory infrastructure for advanced AI coding workflows
 - [oxyno-zeta/golang-graphql-example](https://github.com/oxyno-zeta/golang-graphql-example) - 
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - [packruler/rewrite-body](https://github.com/packruler/rewrite-body) - Traefik Plugin to allow regex replacement of HTTP GET response body
@@ -1631,7 +1636,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [BulmaTemplates/bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - free flexbox templates built with the bulma css framework
 - [ChainAgnostic/CAIPs](https://github.com/ChainAgnostic/CAIPs) - Chain Agnostic Improvement Proposals
 - [Cumulo-pro/OKP4](https://github.com/Cumulo-pro/OKP4) - 
-- [DREwX-code/greasyfork-stats](https://github.com/DREwX-code/greasyfork-stats) - Dynamic GreasyFork statistics cards for your online profiles.
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [Funny-OpenSource-Projects/image-to-xls](https://github.com/Funny-OpenSource-Projects/image-to-xls) - A simple tool to make ascii art from an image using excel colored cells.
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
@@ -1792,7 +1796,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [antoine-aumjaud/api-synology-chatbot](https://github.com/antoine-aumjaud/api-synology-chatbot) - API - Synology chatbot
 - [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
@@ -1958,8 +1961,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [DREwX-code/DINOcheat](https://github.com/DREwX-code/DINOcheat) - A powerful and modern enhancement for the Chrome Dino game, featuring speed control, immortality, air-walk, auto-jump bot, custom score tools, and a redesigned interface for maximum performance.
 - [DREwX-code/Ultimate-Text-Selection-Translator](https://github.com/DREwX-code/Ultimate-Text-Selection-Translator) - Translate selected text instantly using Ctrl+L. Supports all languages and automatically detects the selected language, translating it into your browser's default language. Simple, fast, and efficient.
 - [DREwX-code/greasyfork-premium](https://github.com/DREwX-code/greasyfork-premium) - Premium enhancement of the Greasy Fork interface: light/dark themes, optimized UI, and features designed for more efficient daily use.
+- [DREwX-code/greasyfork-stats](https://github.com/DREwX-code/greasyfork-stats) - Dynamic GreasyFork statistics cards for your online profiles.
 - [DREwX-code/neuraveil](https://github.com/DREwX-code/neuraveil) - Lightweight floating AI chat panel for any webpage, powered by Pollinations.ai (text & image).
 - [DREwX-code/omnichat-exporter](https://github.com/DREwX-code/omnichat-exporter) - Export and download conversations from ChatGPT, Gemini, Claude, Grok, and DeepSeek in TXT, PDF, JSON, or Markdown format.
+- [DWTechs/Antity-pgsql.js](https://github.com/DWTechs/Antity-pgsql.js) - Open source library to add PostgreSQL support to @dwtechs/Antity entities
 - [David-Kunz/derive-type](https://github.com/David-Kunz/derive-type) - Derive types dynamically by running tests to capture value combinations
 - [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action) - A GitHub Action to run the markdownlint-cli2 tool for linting Markdown/CommonMark files with the markdownlint library
 - [DemocracyEarth/self](https://github.com/DemocracyEarth/self) - 🦉 Cryptgraphic peer authentication.
@@ -2291,6 +2296,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [terra-money/classic-core](https://github.com/terra-money/classic-core) - GO implementation of the Terra Protocol 
 - [tomayac/local-reverse-geocoder](https://github.com/tomayac/local-reverse-geocoder) - Local reverse geocoder for Node.js based on GeoNames data
 - [traveldevel/iot-hub-ingestion-rest](https://github.com/traveldevel/iot-hub-ingestion-rest) - Ingestion REST api that writes to a Kafka topic
+- [tshemsedinov/reslop](https://github.com/tshemsedinov/reslop) - Interactive terminal code review git diff with intra-line highlighting
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
 - [untu/comedy](https://github.com/untu/comedy) - Node.js actor framework.
@@ -2681,7 +2687,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [brezzergit/LinkedIn-LLM-Post-Generator](https://github.com/brezzergit/LinkedIn-LLM-Post-Generator) - LinkedIn LLM Post Generator – Generate high-quality, professional LinkedIn posts completely offline using a fine-tuned open-source model (TinyLLaMA-1.1B-Chat). Built with PEFT + LoRA on Apple M3, this project requires no cloud APIs and supports themes like internships, promotions, certifications, and project completions.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [brouberol/marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr: 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
 - [cadmiumkitty/rdfpandas](https://github.com/cadmiumkitty/rdfpandas) - RdfPandas is a module providing RDF support for Pandas
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
@@ -2876,7 +2882,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [salacoste/antigravity-bmad-config](https://github.com/salacoste/antigravity-bmad-config) - Antigravity config template: BMad Method (BMAD-METHOD) AI agents via slash commands for PRD→Architecture→Stories→Dev→QA gate.
 - [santoru/shcheck](https://github.com/santoru/shcheck) - A basic tool to check security headers of a website
 - [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
-- [satomic/copilot-usage-advanced-dashboard](https://github.com/satomic/copilot-usage-advanced-dashboard) - Advanced Grafana dashboard for comprehensive GitHub Copilot usage analytics with persistent data storage and multi-organization support
+- [satomic/copilot-usage-advanced-dashboard](https://github.com/satomic/copilot-usage-advanced-dashboard) - [Deprecated] Superseded by https://github.com/satomic/OctoFinance | Advanced Grafana dashboard for comprehensive GitHub Copilot usage analytics with persistent data storage and multi-organization support
 - [saubury/kafka-serialization](https://github.com/saubury/kafka-serialization) - Experiments and demonstrations of AVRO, Protobuf serialisation
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) - The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.
@@ -3260,6 +3266,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jprochazk/garde](https://github.com/jprochazk/garde) - A powerful validation library for Rust
 - [jsinger67/parol](https://github.com/jsinger67/parol) - LL(k) and LALR(1) parser generator for Rust and C#
 - [kawasin73/prsqlite](https://github.com/kawasin73/prsqlite) - Pure Rust implementation of SQLite
+- [kenianbei/plurimus-doom](https://github.com/kenianbei/plurimus-doom) - 
 - [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator for Rust
 - [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens
 - [kukuhtw/dma_bot_rust](https://github.com/kukuhtw/dma_bot_rust) - fast, async trading engine in Rust for crypto. It streams multi-symbol market data (mock or Binance), runs pluggable strategies (mean-reversion, MA crossover, volatility breakout), applies risk limits, routes orders across venues, and exposes Prometheus metrics, plus JSONL event recording for audits. Built for low-latency testing.
@@ -3300,6 +3307,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [microsoft/Spartan](https://github.com/microsoft/Spartan) - Spartan: High-speed zkSNARKs without trusted setup
+- [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
 - [mikeleppane/visualvault](https://github.com/mikeleppane/visualvault) - Terminal-based media file organizer with smart date-based organization, duplicate detection, and a beautiful TUI. Organize your photo/video collection efficiently from the command line. Written in Rust using Ratatui 
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
@@ -3729,6 +3737,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [xu-cheng/latex-docker](https://github.com/xu-cheng/latex-docker) - :whale: Docker Image of TeXLive
 - [xu-cheng/texlive-action](https://github.com/xu-cheng/texlive-action) - :octocat: GitHub Action to run arbitrary commands in a TeXLive environment
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [yvoronoy/shell-boilerplate](https://github.com/yvoronoy/shell-boilerplate) - Bash Boilerplate
 
 ## Shen
@@ -4504,6 +4513,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AhmadJeddi/GitHub-Markdown-Cheat-Sheet](https://github.com/AhmadJeddi/GitHub-Markdown-Cheat-Sheet) - A practical cheat sheet for GitHub Markdown, including GFM, GitHub features, HTML, README formatting, and more.
 - [AnatolianTeam/OKP4-Nemeton-Program](https://github.com/AnatolianTeam/OKP4-Nemeton-Program) - Everything is about OKP4 Nemeton Program
 - [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem
+- [Avyayalaya/awesome-apm](https://github.com/Avyayalaya/awesome-apm) - Curated index of APM-native packages — install one marketplace, search and install across the APM ecosystem
 - [BccNodes/BccNodes](https://github.com/BccNodes/BccNodes) - 
 - [BccNodes/okp4-nemeton-testnet](https://github.com/BccNodes/okp4-nemeton-testnet) - 
 - [BlockApex/resources](https://github.com/BlockApex/resources) - List of BlockApex public resources like audit readiness checklists, methodologies, pitch decks, company branding, etc.
