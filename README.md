@@ -190,7 +190,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -725,7 +724,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [celestiaorg/nmt](https://github.com/celestiaorg/nmt) - Namespaced Merkle Tree
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
 - [census-instrumentation/opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
-- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
+- [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is an open-core authorization management platform for authorizing every identity and governing every action across applications, gateways, workloads, and AI agents.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64)
 - [chaisql/chai](https://github.com/chaisql/chai) - Modern embedded SQL database
@@ -759,7 +758,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.
 - [concourse/semver-resource](https://github.com/concourse/semver-resource) - Automated semantic version bumping
 - [confio/tgrade](https://github.com/confio/tgrade) - The Tgrade Blockchain Binary, based on the Cosmos SDK and wasmd
-- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates. 
 - [contribsys/faktory](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server
@@ -1646,6 +1644,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ad2ien/ad2ien.github.io](https://github.com/ad2ien/ad2ien.github.io) - Just my résumé
 - [agj/elm-knobs](https://github.com/agj/elm-knobs) - A simple control panel to tweak values interactively. 🎛️
 - [agnt-gg/slop](https://github.com/agnt-gg/slop) - The place for SLOP
+- [allure-framework/allure3](https://github.com/allure-framework/allure3) - Allure Report is a flexible multi-language test report tool to show you a detailed representation of what has been tested and extract maximum from the everyday execution of tests
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [atomone-hub/atom.one](https://github.com/atomone-hub/atom.one) - Home of the atom.one website
 - [avinash201199/profile-readme-templates](https://github.com/avinash201199/profile-readme-templates) - collection of Profile readme templates
@@ -1654,6 +1653,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [binaryeq/daleq](https://github.com/binaryeq/daleq) - datalog-based binary equivalence
 - [canonical/vanilla-framework](https://github.com/canonical/vanilla-framework) - From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [cosmos/cosmos-sdk-docs](https://github.com/cosmos/cosmos-sdk-docs) - 
 - [cosmos/testnets](https://github.com/cosmos/testnets) - Cosmos Testnets
 - [ctco/spring-boot-graphql-template](https://github.com/ctco/spring-boot-graphql-template) - Spring Boot and GraphQL template project
@@ -1688,6 +1688,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [schemaspy/schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy
 - [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
 - [starbelly/erlang-companies](https://github.com/starbelly/erlang-companies) - A list of companies currently using Erlang in production.
+- [syabro/neat-annotations](https://github.com/syabro/neat-annotations) - Hand-drawn CSS annotations for inline content
 - [tmdgusya/engineering-discipline](https://github.com/tmdgusya/engineering-discipline) - SKILL for engineering-discipline
 - [tornado-doc/tdoc](https://github.com/tornado-doc/tdoc) - Prompt-native interactive HTML docs — bdocs. Generate, comment on, and publish docs from inside codex, Claude Code, and any agent
 - [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - The Power of Prolog: Introduction to modern Prolog
@@ -1767,7 +1768,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [Hive2Hive/Hive2Hive](https://github.com/Hive2Hive/Hive2Hive) - Java library for secure, distributed, P2P-based file synchronization and sharing.
 - [I-Script/Japp-Elevator](https://github.com/I-Script/Japp-Elevator) - Java app admin elevator
-- [InseeFr/Keycloak-FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect) - Extension Keycloak facilitant l'utilisation de FranceConnect
+- [InseeFr/Keycloak-FranceConnect](https://github.com/InseeFr/Keycloak-FranceConnect) - Extension Keycloak facilitant l'utilisation de FranceConnect et de Proconnect
 - [International-Data-Spaces-Association/DataspaceConnector](https://github.com/International-Data-Spaces-Association/DataspaceConnector) - This is an IDS Connector reference implementation.
 - [JetBrains/xodus](https://github.com/JetBrains/xodus) - Transactional schema-less embedded database used by JetBrains YouTrack and JetBrains Hub.
 - [JohnReedLOL/kafka-streams](https://github.com/JohnReedLOL/kafka-streams) - 
@@ -1796,6 +1797,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [antoine-aumjaud/api-synology-chatbot](https://github.com/antoine-aumjaud/api-synology-chatbot) - API - Synology chatbot
 - [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [apache/flink-cdc](https://github.com/apache/flink-cdc) - Flink CDC is a streaming data integration tool
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
@@ -3097,6 +3099,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [amimart/magnarr](https://github.com/amimart/magnarr) - Magnarr - Magnet-based torrent download orchestrator
 - [andresilva/rust-okasaki](https://github.com/andresilva/rust-okasaki) - Purely Functional Data Structures in Rust
 - [andromedaprotocol/andromeda-core](https://github.com/andromedaprotocol/andromeda-core) - Operating System and ADO Smart Contracts
+- [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web and terminal UIs
 - [antouhou/rs-merkle](https://github.com/antouhou/rs-merkle) - The most advanced Merkle tree library for Rust
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [apalis-dev/apalis](https://github.com/apalis-dev/apalis) - Type-safe, extensible, and high-performance background processing library for Rust
@@ -3349,7 +3352,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [omallassi/adrust](https://github.com/omallassi/adrust) - ADRust: a tool in Rust to manage (Architecture) Decision Records
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [oraichain/cw-bitcoin](https://github.com/oraichain/cw-bitcoin) - Bitcoin trustless bridge implemented in CosmWasm contract facilitating taproot bitcoin script
 - [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀 
@@ -3918,6 +3920,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - :boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode
 - [alexlafroscia/vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Vite support for Handlebars
 - [alleslabs/celatone-frontend](https://github.com/alleslabs/celatone-frontend) - An explorer for a CosmWasm-powered Cosmos ecosystem.
+- [allure-framework/allure-js](https://github.com/allure-framework/allure-js) - Allure integrations for JavaScript test frameworks
 - [alpic-ai/mcp-eval](https://github.com/alpic-ai/mcp-eval) - Evaluation tool for MCP servers
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
