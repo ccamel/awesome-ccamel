@@ -96,6 +96,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Assembly
 
+- [AOZ-Studio/AMOS-Professional-Official](https://github.com/AOZ-Studio/AMOS-Professional-Official) - The official source code of AMOS Professional on the Amiga
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [kelindar/bitmap](https://github.com/kelindar/bitmap) - Simple dense bitmap index in Go with binary operators
 - [lukechampine/blake3](https://github.com/lukechampine/blake3) - An AVX-512 accelerated implementation of the BLAKE3 cryptographic hash function
@@ -2115,6 +2116,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
 - [fetchai/genesis-fetchhub](https://github.com/fetchai/genesis-fetchhub) - repo for launching Stargate upgrade of Fetch.ai mainnet
 - [fission/fission-ui](https://github.com/fission/fission-ui) - Fission web interface
+- [fransooi/STAS](https://github.com/fransooi/STAS) - STOS Basic in command-line and ASCII-ART - soon part of the AWI Ecosystem
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [frender-rs/frender](https://github.com/frender-rs/frender) - react in rust with fully typed functional components
 - [frintjs/frint](https://github.com/frintjs/frint) - Modular JavaScript framework for building scalable and reactive applications
@@ -2298,7 +2300,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [terra-money/classic-core](https://github.com/terra-money/classic-core) - GO implementation of the Terra Protocol 
 - [tomayac/local-reverse-geocoder](https://github.com/tomayac/local-reverse-geocoder) - Local reverse geocoder for Node.js based on GeoNames data
 - [traveldevel/iot-hub-ingestion-rest](https://github.com/traveldevel/iot-hub-ingestion-rest) - Ingestion REST api that writes to a Kafka topic
-- [tshemsedinov/reslop](https://github.com/tshemsedinov/reslop) - Interactive terminal code review git diff with intra-line highlighting
+- [tshemsedinov/reslop](https://github.com/tshemsedinov/reslop) - 👁️ Review AI generated code and plan changes
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
 - [untu/comedy](https://github.com/untu/comedy) - Node.js actor framework.
@@ -2358,7 +2360,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## Kotlin
 
 - [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin
-- [GradleUp/shadow](https://github.com/GradleUp/shadow) - Gradle plugin for creating fat/uber JARs, transforming files, relocating packages, and optimizing applications with R8/ProGuard. The Gradle counterpart to Maven Shade Plugin.
+- [GradleUp/shadow](https://github.com/GradleUp/shadow) - Gradle plugin for creating fat/uber JARs, transforming files, relocating packages, and optimizing with R8/ProGuard. The Gradle counterpart to Maven Shade Plugin.
 - [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 - [JLLeitschuh/ktlint-gradle](https://github.com/JLLeitschuh/ktlint-gradle) - A ktlint gradle plugin
 - [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
@@ -2912,6 +2914,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tartiflette/tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - tartiflette-aiohttp is a wrapper of aiohttp which includes the Tartiflette GraphQL Engine, do not hesitate to take a look of the Tartiflette project.
 - [tehmaze/diagram](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters and fancy colors
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [tosanjay/NeuroLog](https://github.com/tosanjay/NeuroLog) - 
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
@@ -3867,6 +3870,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MyDidCom/mydid-auth](https://github.com/MyDidCom/mydid-auth) - 
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) -  Flexible, minimal, data-oriented ECS library for Typescript
+- [Nexvyn/runeicons](https://github.com/Nexvyn/runeicons) - Rune Icons is a set of 900+ icons, each drawn in five styles.
 - [NodesGuru/casper-world](https://github.com/NodesGuru/casper-world) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [NodesGuru/casper-world-backend](https://github.com/NodesGuru/casper-world-backend) - This web app monitors Casper network health, including nodes version distribution, VPS centralization, stake distribution (to prevent possible sybil attacks) and stake distribution by country, active/non-active nodes and validators statistics by date, etc.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -4317,7 +4321,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [react-tags/react-tags](https://github.com/react-tags/react-tags) - A fantastically simple tagging component for your projects
-- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
@@ -4344,7 +4348,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [segmentio/analytics-react-native](https://github.com/segmentio/analytics-react-native) - The hassle-free way to add analytics to your React-Native app.
 - [sei-protocol/sei-js](https://github.com/sei-protocol/sei-js) - SeiJS is a monorepo that contains multiple NPM libraries for writing applications that interact with the Sei network.
 - [semantic-release-plus/semantic-release-plus](https://github.com/semantic-release-plus/semantic-release-plus) - semantic-release-plus monorepo to build and publish all semantic-release related repositories
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [shakyShane/actor-js](https://github.com/shakyShane/actor-js) - Exploring the potential benefits of implementing APIs in the style of the Actor Model, even in single-threaded programming environments such as Javascript.
 - [shinpr/mcp-local-rag](https://github.com/shinpr/mcp-local-rag) - Local-first RAG server for developers. Semantic + keyword search for code and technical docs. Works with MCP or CLI. Fully private, zero setup.
 - [shivanshubisht/chatgpt](https://github.com/shivanshubisht/chatgpt) - ChatGPT built with Next.js 13 app directory and Tailwind CSS using OpenAI's API sdk v4 and GPT-4 and SSR streaming for data with edge functions.
@@ -4393,7 +4397,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
-- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [tonai/storybook-addon-themes](https://github.com/tonai/storybook-addon-themes) - 
@@ -4775,6 +4778,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [ralphtheninja/open-funding](https://github.com/ralphtheninja/open-funding) - A guide for researching ways of funding open source projects.
 - [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
+- [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [raven-actions/actionlint](https://github.com/raven-actions/actionlint) - ✅ Run actionlint in your GitHub workflow
 - [rkdud007/awesome-zkvm](https://github.com/rkdud007/awesome-zkvm) - A curated list of zkVM, zero-knowledge virtual machine
 - [rofrol/elm-ui-cookbook](https://github.com/rofrol/elm-ui-cookbook) - 
