@@ -41,6 +41,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
+- [Luau](#luau)
 - [M4](#m4)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -226,6 +227,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [vAmigaWeb/vAmigaWeb](https://github.com/vAmigaWeb/vAmigaWeb) - vAmigaWeb - Amiga Emulator for iPad iPhone Android and the web.
 - [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [xaos-project/XaoS](https://github.com/xaos-project/XaoS) - Real-time interactive fractal zoomer
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
@@ -2349,7 +2351,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [darkhemic/stable-diffusion-cpuonly](https://github.com/darkhemic/stable-diffusion-cpuonly) - a fork that installs runs on pytorch cpu-only
 - [faisalsayed10/no-ghibli](https://github.com/faisalsayed10/no-ghibli) - No Ghibli on Twitter
 - [groundlight/r1_vlm](https://github.com/groundlight/r1_vlm) - Build your own visual reasoning model
-- [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input.
+- [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 
 - [microsoft/github-copilot-for-data-science](https://github.com/microsoft/github-copilot-for-data-science) - Apply useful GitHub Copilot workflows and patterns in Data Science
 - [monarch-initiative/ontogpt](https://github.com/monarch-initiative/ontogpt) - LLM-based ontological extraction tools, including SPIRES
@@ -2428,6 +2430,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rauls-kjarners/omp.nvim](https://github.com/rauls-kjarners/omp.nvim) - A seamless integration bridge between Neovim and the Oh My Pi (OMP) coding agent that allows an active OMP terminal session to perfectly track your cursor, active file, and visual selections inside Neovim. It updates the OMP interface dynamically so the AI always knows exactly what you are looking at.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [yciabaud/kong-plugin-prometheus](https://github.com/yciabaud/kong-plugin-prometheus) - Prometheus metrics exporter for Kong API management
+
+## Luau
+
+- [loiclaudet/mario-battle](https://github.com/loiclaudet/mario-battle) - the two player Mario Bros. battle game from Super Mario Bros. 3, rebuilt in Rive with RML and Luau. physics from the disassembly.
 
 ## M4
 
@@ -2616,7 +2622,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
 - [OnToology/oops-report](https://github.com/OnToology/oops-report) - Generate oops report as a beautiful HTML
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [P-OPSTeam/cosmos-governance-alerter](https://github.com/P-OPSTeam/cosmos-governance-alerter) - Cosmos Governance vote alerter
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
@@ -2656,6 +2661,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aigorahub/elves](https://github.com/aigorahub/elves) - Autonomous multi-batch development skill for Claude Code and Codex. They work while you sleep.
 - [aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw) - 🦞 Just talk to your agent — it learns and EVOLVES 🧬.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
+- [aldegad/sprite-gen](https://github.com/aldegad/sprite-gen) - Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill.
 - [alexdolbun/python-highload-mcp](https://github.com/alexdolbun/python-highload-mcp) - MCP Server for legacy and new python high load engineering
 - [alexgreensh/token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay. 
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
@@ -3224,7 +3230,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 - [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally
 - [gendx/lzma-rs](https://github.com/gendx/lzma-rs) - An LZMA decoder written in pure Rust
-- [gents-ai/gents](https://github.com/gents-ai/gents) - verifiable, p2p agents 🤖🦾
+- [gents-ai/gents](https://github.com/gents-ai/gents) - Verifiable, multiplayer coding agents 🤖🦾
 - [get-eventually/eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [git-bahn/git-graph](https://github.com/git-bahn/git-graph) - Command line tool to show clear git graphs arranged for your branching model
@@ -3648,6 +3654,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Megavolv/okp4d-auto-rewards](https://github.com/Megavolv/okp4d-auto-rewards) - OKP4 script for reinvest rewards automatically
 - [NickLiffen/actions-boilerplate](https://github.com/NickLiffen/actions-boilerplate) - Sample Typescript Actions Template
 - [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher) - Start here: what OSWatcher is, how the pieces fit together, and which repository to open next
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
 - [PotatoLabs/git-redate](https://github.com/PotatoLabs/git-redate) - Change the dates of several git commits with a single command
 - [Rbillon59/jmeter-docker-compose-starterkit](https://github.com/Rbillon59/jmeter-docker-compose-starterkit) - 
 - [RubieV/plugin-fuck](https://github.com/RubieV/plugin-fuck) - Execute last command as root in fish
@@ -4038,6 +4045,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
+- [earendil-works/pi-review](https://github.com/earendil-works/pi-review) - A review extension for Pi
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
