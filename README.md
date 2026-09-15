@@ -115,6 +115,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## C
 
 - [Blockstream/Jade](https://github.com/Blockstream/Jade) - Jade hardware wallet
+- [HaxeFoundation/hashlink](https://github.com/HaxeFoundation/hashlink) - A virtual machine for Haxe
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
 - [SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel) - SWI-Prolog Main development repository
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -447,6 +448,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [basho/erlang_protobuffs](https://github.com/basho/erlang_protobuffs) - An implementation of Google's Protocol Buffers for Erlang, based on ngerakines/erlang_protobuffs.
 - [basho/riak_cs](https://github.com/basho/riak_cs) - Riak CS is simple, available cloud storage built on Riak.
 - [benoitc/erlang-quickjs](https://github.com/benoitc/erlang-quickjs) - QuickJS JavaScript engine for Erlang (powered by quickjs-ng). API-compatible replacement for erlang-duktape.
+- [benoitc/erlang_wasm](https://github.com/benoitc/erlang_wasm) - A WebAssembly runtime implemented in Erlang/OTP
 - [benoitc/hooks](https://github.com/benoitc/hooks) - generic plugin & hook system for Erlang applications
 - [ccamel/erlang-event-sourcing-xp](https://github.com/ccamel/erlang-event-sourcing-xp) - 🧪 Experimenting with Event Sourcing in Erlang
 - [comtihon/mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - MongoDB driver for Erlang
@@ -537,7 +539,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [HouzuoGuo/tiedot](https://github.com/HouzuoGuo/tiedot) - A rudimentary implementation of a basic document (NoSQL) database in Go
 - [IBM/fp-go](https://github.com/IBM/fp-go) - Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads, plus optics (Lens, Prism, Traversal) for immutable data manipulation. Supports Functor, Applicative, and Monad abstractions with do-notation-style
 - [ImVexed/fasturl](https://github.com/ImVexed/fasturl) - A fast URL parser for Go
-- [InjectiveFoundation/injective-core](https://github.com/InjectiveFoundation/injective-core) - 
 - [InjectiveLabs/sdk-go](https://github.com/InjectiveLabs/sdk-go) - Tools to work with the Injective Chain, Injective EVM and EIP712.
 - [Iwark/spreadsheet](https://github.com/Iwark/spreadsheet) - Google Go (golang) library for reading and writing spreadsheet files on Google Docs.
 - [JackalLabs/canine-chain](https://github.com/JackalLabs/canine-chain) - The Jackal Protocol blockchain node binary
@@ -546,7 +547,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go) - A simplified blockchain implementation in Golang
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [KYVENetwork/chain](https://github.com/KYVENetwork/chain) - The core blockchain powering KYVE’s decentralized data validation and staking.
 - [Kava-Labs/kava](https://github.com/Kava-Labs/kava) - DeFi for Crypto.
 - [KiFoundation/ki-tools](https://github.com/KiFoundation/ki-tools) - Tools for the Kichain
@@ -2065,6 +2066,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [chriskinsman/github-action-dashboard](https://github.com/chriskinsman/github-action-dashboard) - A dashboard to keep track of the status of your GitHub Actions
 - [ciao-lang/ciaowasm](https://github.com/ciao-lang/ciaowasm) - Ciao Prolog for Javascript (w/ WebAssembly)
 - [classic-terra/core](https://github.com/classic-terra/core) - GO implementation of the Terra Classic Protocol
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [codeskyblue/gohttpserver](https://github.com/codeskyblue/gohttpserver) - The best HTTP Static File Server, write with golang+vue
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -2971,6 +2973,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [benjamin-thomas/hot_elm](https://github.com/benjamin-thomas/hot_elm) - Rails integration with Elm + Hotwire + Stimulus demo
 - [brettchalupa/graphql-docs](https://github.com/brettchalupa/graphql-docs) - Easily generate beautiful documentation from your GraphQL schema.
 - [brooklynDev/airborne](https://github.com/brooklynDev/airborne) - RSpec driven API testing framework
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [demarche-numerique/demarche.numerique.gouv.fr](https://github.com/demarche-numerique/demarche.numerique.gouv.fr) - Dématérialiser et simplifier les démarches administratives 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
@@ -4551,6 +4554,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [FLock-io/FLock](https://github.com/FLock-io/FLock) - 
 - [FabienTregan/DDDTranslation](https://github.com/FabienTregan/DDDTranslation) - 
 - [GetTech-io/awesome-actor](https://github.com/GetTech-io/awesome-actor) - :punch: Awesome lists of actor model resources
+- [InjectiveFoundation/injective-core](https://github.com/InjectiveFoundation/injective-core) - 
 - [International-Data-Spaces-Association/IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) - IDS-G
 - [International-Data-Spaces-Association/idsa](https://github.com/International-Data-Spaces-Association/idsa) - This is the main repository of International Data Spaces Association on GitHub, where you can find general overview and useful information on IDS Landscape.
 - [JanetMo/governance-activity-of-airdrop-recipients](https://github.com/JanetMo/governance-activity-of-airdrop-recipients) - Master thesis University of Mittweida
@@ -4626,7 +4630,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ccamel/awesome-ccamel](https://github.com/ccamel/awesome-ccamel) - 🔖 A collection of awesome things for me, myself and I.
 - [ccamel/becoming-ccamel](https://github.com/ccamel/becoming-ccamel) - 🧬 my mind transplant for AI assistants - how I think, code, and decide
 - [cekrem/elm-ci-setup](https://github.com/cekrem/elm-ci-setup) - Semi-official ish best practices for caching Elm dependencies in a CI context (WIP, see https://elmlang.slack.com/archives/C0CJ3SBBM/p1765402644933519)
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [cmbesnier/portofolio](https://github.com/cmbesnier/portofolio) - 
 - [coderabbitai/awesome-coderabbit](https://github.com/coderabbitai/awesome-coderabbit) - Official awesome-list of CodeRabbit Starters & Resources ⚡️
 - [coderabbitai/skills](https://github.com/coderabbitai/skills) - 
