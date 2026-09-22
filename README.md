@@ -983,6 +983,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gomodules/notify](https://github.com/gomodules/notify) - Send notification via Email, SMS, Chat etc.
 - [gomoni/it](https://github.com/gomoni/it) - iterator library for go using a rangefunc experiment
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
+- [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) - 
@@ -1857,7 +1858,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [gavlyukovskiy/spring-boot-data-source-decorator](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator) - Spring Boot integration with p6spy, datasource-proxy, flexy-pool and spring-cloud-sleuth
 - [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [gluonhq/substrate](https://github.com/gluonhq/substrate) - Create native Java(FX) apps for desktop, mobile and embedded
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
 - [google/mug](https://github.com/google/mug) - A small Java 8 library (string manipulation, BiStream, Structured Concurrency, SQL Templates)
@@ -2193,7 +2193,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ltearno/pom-explorer](https://github.com/ltearno/pom-explorer) - A tool to aid managing lots of maven projects
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
 - [mcpware/cross-code-organizer](https://github.com/mcpware/cross-code-organizer) - Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
@@ -2911,7 +2910,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shantanugoel/ask-jev-skill](https://github.com/shantanugoel/ask-jev-skill) - Skill for Hermes, and other agents, to ask typesafe's jev
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
@@ -3241,6 +3240,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [flux-rs/flux](https://github.com/flux-rs/flux) - Refinement Types for Rust
 - [forbole/cosmos-rust-wallet](https://github.com/forbole/cosmos-rust-wallet) - A cosmos network key-signer buildable in WASM
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - agentic development environment for claude code, codex, cursor, opencode, grok and more.
 - [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally
 - [gendx/lzma-rs](https://github.com/gendx/lzma-rs) - An LZMA decoder written in pure Rust
 - [gents-ai/gents](https://github.com/gents-ai/gents) - Verifiable, multiplayer coding agents 🤖🦾
@@ -3832,7 +3832,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AbstractSDK/cw-gov-card](https://github.com/AbstractSDK/cw-gov-card) - 
 - [AbstractSDK/templates](https://github.com/AbstractSDK/templates) - Templates for building Abstract modules.
 - [AdrienLemaire/okp4_web_interface](https://github.com/AdrienLemaire/okp4_web_interface) - 
-- [AltanS/collie](https://github.com/AltanS/collie) - PWA to manage 🐑 herdr on the go. Tailnet accessible, push notifications, quick actions and more.
+- [AltanS/collie](https://github.com/AltanS/collie) - Self-hosted mobile terminal for coding agents on herdr (or tmux/zellij). PWA with push alerts + tailnet accessible
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
 - [Arindam200/logo-ai](https://github.com/Arindam200/logo-ai) - AI Powered Logo Generator | Powered by Nebius AI
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
@@ -4114,6 +4114,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [github/ai-assessment-comment-labeler](https://github.com/github/ai-assessment-comment-labeler) - AI-powered issue intake tool. Action for retrieving AI assessments for supplied text body
 - [github/ai-moderator](https://github.com/github/ai-moderator) - An AI-powered GitHub Action that detects and tags spam in your repository
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [github/gh-aw-firewall](https://github.com/github/gh-aw-firewall) - GitHub Agentic Workflows Firewall
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitroomhq/trending-list](https://github.com/gitroomhq/trending-list) - Know when you are trending on GitHub
@@ -4203,7 +4204,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [kentaro-m/auto-assign-action](https://github.com/kentaro-m/auto-assign-action) - An action which adds reviewers to the pull request when the pull request is opened.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
-- [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.
+- [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 - [kitze/mobx-router](https://github.com/kitze/mobx-router) - A simple router for MobX + React apps
 - [koala819/StarterPack](https://github.com/koala819/StarterPack) - A comprehensive web development kit for swift site creation, featuring responsive design, contact form, NextUI components, and Google Analytics integration.
 - [komiya-atsushi/action-enforce-timeout-minutes](https://github.com/komiya-atsushi/action-enforce-timeout-minutes) - Enforces setting timeout-minutes of the workflow jobs to prevent waste of minutes quota.
@@ -4235,6 +4236,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage
 - [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
@@ -4378,7 +4380,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [shivanshubisht/chatgpt](https://github.com/shivanshubisht/chatgpt) - ChatGPT built with Next.js 13 app directory and Tailwind CSS using OpenAI's API sdk v4 and GPT-4 and SSR streaming for data with edge functions.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [siborg-ads/dsponsor-app](https://github.com/siborg-ads/dsponsor-app) - DSponsor frontend - Administration & Marketplace for tokenized ad spaces
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [silverwind/uppie](https://github.com/silverwind/uppie) - Cross-browser directory and multi-file upload library
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [skiff-org/skiff-ui](https://github.com/skiff-org/skiff-ui) - React components for the Skiff UI Design System
