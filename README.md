@@ -1206,7 +1206,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io
 - [meysamhadeli/shop-golang-microservices](https://github.com/meysamhadeli/shop-golang-microservices) - Practical microservices based on different software architecture and technologies like Golang, CQRS, Vertical Slice Architecture, Docker, RabbitMQ, OpenTelemetry and Postgresql.
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
-- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform Azure DevOps provider
@@ -1385,6 +1384,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [revive-lint/revive](https://github.com/revive-lint/revive) - 🔥 Fast, strict, configurable, extensible, and beautiful linter for Go
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [rjNemo/underscore](https://github.com/rjNemo/underscore) - 🌟 Useful functional programming helpers for Go
@@ -1452,6 +1452,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [skip-mev/feemarket](https://github.com/skip-mev/feemarket) - Plug-and-play fee market module for Cosmos SDK chains
 - [skip-mev/pob](https://github.com/skip-mev/pob) - Skip's protocol-owned MEV builder implementation
 - [skx/go.vm](https://github.com/skx/go.vm) - A simple virtual machine - compiler & interpreter - written in golang
+- [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) - 功能那么强大，代码如此简单
 - [smarty/assertions](https://github.com/smarty/assertions) - Fluent assertion-style functions used by goconvey and gunit. Can also be used in any test or application.
@@ -1659,6 +1660,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [axone-protocol/w3id.org](https://github.com/axone-protocol/w3id.org) - Website source code for w3id.org.
 - [bfirsh/docker-redoc](https://github.com/bfirsh/docker-redoc) - A Docker image which serves ReDoc documentation
 - [binaryeq/daleq](https://github.com/binaryeq/daleq) - datalog-based binary equivalence
+- [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
 - [canonical/vanilla-framework](https://github.com/canonical/vanilla-framework) - From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [cosmos/cosmos-sdk-docs](https://github.com/cosmos/cosmos-sdk-docs) - 
@@ -1982,7 +1984,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware) - ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes
 - [FindTheFox/Fractal-React-Native-Three](https://github.com/FindTheFox/Fractal-React-Native-Three) - Fractal render application made in React-Native with expo-three & react-three-fiber
 - [ForthHub/forth](https://github.com/ForthHub/forth) - :four_leaf_clover: Forth engine in JavaScript
-- [GoldinGuy/Ideastorm](https://github.com/GoldinGuy/Ideastorm) - 💡 Ideas for days
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [IBM/couchbackup](https://github.com/IBM/couchbackup) - Cloudant backup and restore library and command-line utility
@@ -2054,7 +2055,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [blackcater/blackcater](https://github.com/blackcater/blackcater) - Using Node.js to generate my Github profile readme automatically.
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
-- [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
 - [britecharts/britecharts-react](https://github.com/britecharts/britecharts-react) - Britecharts-react is a React wrapper for the Britecharts charting library. It allows the use of Britecharts charts within a React application.
 - [bsonntag/react-use-promise](https://github.com/bsonntag/react-use-promise) - React hook for handling promises.
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
@@ -2204,6 +2204,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+- [multiversx/mx-docs](https://github.com/multiversx/mx-docs) - 
 - [netbeast/dashboard](https://github.com/netbeast/dashboard) - :star2:  Create IoT applications. Wire devices together regardless their brand or technology.
 - [nfrasser/linkifyjs](https://github.com/nfrasser/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [nftstorage/nft.storage](https://github.com/nftstorage/nft.storage) - **Notice: Uploads Decommissioned - Existing Data is Safe!**     
@@ -2783,7 +2784,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [iurysza/termscope](https://github.com/iurysza/termscope) - Open files and links already visible on your terminal screen in a split.
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [jalan/pdftotext](https://github.com/jalan/pdftotext) - 
-- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
+- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [jlonge4/local_llama](https://github.com/jlonge4/local_llama) - This repo is to showcase how you can run a model locally and offline, free of OpenAI dependencies.
 - [jluccisano/raspberry-scripts](https://github.com/jluccisano/raspberry-scripts) - Some python scripts to play with Raspberry PI
 - [jluccisano/rpi-sprinkler-control](https://github.com/jluccisano/rpi-sprinkler-control) - 
@@ -2911,7 +2912,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,445+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
-- [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
@@ -3217,6 +3217,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [duncanlutz/ruxt.rs](https://github.com/duncanlutz/ruxt.rs) - An Actix-based Rust framework for building HTMX sites.
 - [eastreams/loong](https://github.com/eastreams/loong) - Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉
+- [eliasstravik/herdr-projects](https://github.com/eliasstravik/herdr-projects) - A coordinator conversation, parallel worker threads, shared memory and an overview of what needs you. A Herdr plugin.
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [epicchainlabs/epicchain](https://github.com/epicchainlabs/epicchain) - The core of EpicChain blockchain protocol designed to empower developers, revolutionize industries.
@@ -3716,7 +3717,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [linagora/linshare](https://github.com/linagora/linshare) - LinShare - Secure File Sharing
 - [lindt/docker_plantuml](https://github.com/lindt/docker_plantuml) - docker container for plantuml
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [multiversx/mx-chain-mainnet-config](https://github.com/multiversx/mx-chain-mainnet-config) - MultiversX blockchain node's mainnet configuration repository
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
@@ -3880,6 +3881,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [KYVENetwork/kyvejs](https://github.com/KYVENetwork/kyvejs) - Tools for building applications on KYVE
 - [Lamuji/SpacePong-ft_transcendance](https://github.com/Lamuji/SpacePong-ft_transcendance) - 
 - [LedgerHQ/ledgerjs](https://github.com/LedgerHQ/ledgerjs) - ⛔️ MOVED to monorepo "ledger-live"
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) - OpenTelemetry observability platform
 - [Mastermindzh/react-cookie-consent](https://github.com/Mastermindzh/react-cookie-consent) - A small, simple and customizable cookie consent bar for use in React applications.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
@@ -4033,7 +4035,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
 - [dali-benothmen/woml](https://github.com/dali-benothmen/woml) - Workflow applications as readable documents. Build automations, that can automate anything.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [datalayer/jupyter-ui](https://github.com/datalayer/jupyter-ui) - ⚛️ React.js components 💯% compatible with 🪐 Jupyter.
@@ -4671,7 +4672,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness
 - [eltociear/awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development) - Awesome list of AI-Driven Development.
 - [emersion/stability-badges](https://github.com/emersion/stability-badges) - SVG badges for Go projects
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources and tools
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [envoy1084/awesome-badges](https://github.com/envoy1084/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [erichard/awesome-gdpr](https://github.com/erichard/awesome-gdpr) - A curated list of GDPR-compliant tools for websites creators
