@@ -2147,7 +2147,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hariroshan/parcel-transformer-elm-assets](https://github.com/hariroshan/parcel-transformer-elm-assets) - 
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
-- [hazae41/create-secure-webapp](https://github.com/hazae41/create-secure-webapp) - Start a secure webapp with React and Tailwind
 - [hhru/react-d3-chart-graphs](https://github.com/hhru/react-d3-chart-graphs) - 
 - [hoodrunio/cosmos-governance](https://github.com/hoodrunio/cosmos-governance) - Governance proposals notification/alert bot for Cosmos-based chains
 - [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
@@ -2493,6 +2492,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Nix
 
+- [ALH477/Oligarchy](https://github.com/ALH477/Oligarchy) - Oligarchy is a reproducible NixOS computing platform developed as a daily-driver operating system by its author ALH477, evolving from a personal experiment while learning Nix into an integrated environment for real-time audio, development, gaming, virtualization, local AI, and experimental distributed systems.
 - [CptPotato/helix-themes](https://github.com/CptPotato/helix-themes) - A few themes for the helix editor
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [axone-protocol/template-oss](https://github.com/axone-protocol/template-oss) - 🖨 Template for opensource projects @axone-protocol
@@ -3009,7 +3009,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [0gfoundation/0g-storage-node](https://github.com/0gfoundation/0g-storage-node) - 
 - [0xAlcibiades/miniref](https://github.com/0xAlcibiades/miniref) - An example of a notes app implemented with leptos
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
-- [ALH477/Oligarchy](https://github.com/ALH477/Oligarchy) - Oligarchy is a reproducible NixOS computing platform developed as a daily-driver operating system by its author ALH477, evolving from a personal experiment while learning Nix into an integrated environment for real-time audio, development, gaming, virtualization, local AI, and experimental distributed systems.
 - [AS-FOSS/mandible](https://github.com/AS-FOSS/mandible) - A Universal TUI Manual Viewer for CLI Tools in Rust
 - [AbstractSDK/abstract](https://github.com/AbstractSDK/abstract) - The ultimate CosmWasm framework for modular Interchain applications.
 - [AbstractSDK/cw-orchestrator](https://github.com/AbstractSDK/cw-orchestrator) -  All-in-one Rust-based CosmWasm testing, scripting, and deployment tool.
@@ -3395,6 +3394,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [patonw/leaves](https://github.com/patonw/leaves) - A text-mode disk usage visualization utility
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
 - [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
+- [penso/herdr-gpui](https://github.com/penso/herdr-gpui) - Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a privacy-preserving decentralized exchange for all of crypto
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
@@ -3940,7 +3940,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). 100% test coverage, types, examples, & more. Unopinionated and heavily updated fork of react-signature-pad
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
@@ -3954,7 +3954,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
-- [antho31/okp4-ui-boilerplate](https://github.com/antho31/okp4-ui-boilerplate) - 🖥️ Vite starter for the OKP4 protocol
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
@@ -4144,6 +4143,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hazae41/cadenas](https://github.com/hazae41/cadenas) - Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [hazae41/chemin](https://github.com/hazae41/chemin) - Create infinite virtual subpaths for your React webapp
 - [hazae41/create-bobine-module](https://github.com/hazae41/create-bobine-module) - Make a Bobine module written in AssemblyScript
+- [hazae41/create-secure-webapp](https://github.com/hazae41/create-secure-webapp) - Start a secure webapp with React and Tailwind
 - [hazae41/decibel](https://github.com/hazae41/decibel) - Queriable in-memory database for TypeScript
 - [hazae41/dstorage](https://github.com/hazae41/dstorage) - Origin-agnostic storage for your dapp
 - [hazae41/eip712](https://github.com/hazae41/eip712) - EIP-712 encoding for the web
@@ -4378,7 +4378,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [shinpr/mcp-local-rag](https://github.com/shinpr/mcp-local-rag) - Local-first RAG server for developers. Semantic + keyword search for code and technical docs. Works with MCP or CLI. Fully private, zero setup.
 - [shivanshubisht/chatgpt](https://github.com/shivanshubisht/chatgpt) - ChatGPT built with Next.js 13 app directory and Tailwind CSS using OpenAI's API sdk v4 and GPT-4 and SSR streaming for data with edge functions.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [siborg-ads/dsponsor-app](https://github.com/siborg-ads/dsponsor-app) - DSponsor frontend - Administration & Marketplace for tokenized ad spaces
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [silverwind/uppie](https://github.com/silverwind/uppie) - Cross-browser directory and multi-file upload library
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
