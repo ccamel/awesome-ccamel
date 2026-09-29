@@ -650,7 +650,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [archway-network/cosmologger](https://github.com/archway-network/cosmologger) - Cosmologger listens to the NewBlock and TX events of a cosmos based network and logs the acquire information in a database for further usage.
 - [argoproj-labs/argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
 - [argoproj-labs/argocd-agent](https://github.com/argoproj-labs/argocd-agent) - Redefining the multi cluster story of Argo CD
-- [argoproj-labs/argocd-operator](https://github.com/argoproj-labs/argocd-operator) - A Kubernetes operator for managing Argo CD clusters.
+- [argoproj-labs/argocd-operator](https://github.com/argoproj-labs/argocd-operator) - 💤 The project is effectively dormant 💤
 - [argoproj-labs/old-argo-dataflow](https://github.com/argoproj-labs/old-argo-dataflow) - Dataflow is a Kubernetes-native platform for executing large parallel data-processing pipelines.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
@@ -1864,7 +1864,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [gavlyukovskiy/spring-boot-data-source-decorator](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator) - Spring Boot integration with p6spy, datasource-proxy, flexy-pool and spring-cloud-sleuth
 - [gessnerfl/fake-smtp-server](https://github.com/gessnerfl/fake-smtp-server) - A simple SMTP Server for Testing purposes. Emails are stored in an in-memory database and rendered in a Web UI
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [gluonhq/substrate](https://github.com/gluonhq/substrate) - Create native Java(FX) apps for desktop, mobile and embedded
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
 - [google/mug](https://github.com/google/mug) - A small Java 8 library (string manipulation, BiStream, Structured Concurrency, SQL Templates)
@@ -1950,7 +1949,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tailrocks/graphql-java-datetime](https://github.com/tailrocks/graphql-java-datetime) - GraphQL ISO Date is a set of RFC 3339 compliant date/time scalar types to be used with graphql-java.
 - [tballison/tika-addons](https://github.com/tballison/tika-addons) - Addons not part of the official Tika release
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
-- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - All-in-one IoT Platform - Device management, data collection, processing and visualization.
 - [thomasdarimont/keycloak-extension-playground](https://github.com/thomasdarimont/keycloak-extension-playground) - Simple project environment for creating custom Keycloak extensions
 - [thomasdarimont/keycloak-user-storage-provider-demo](https://github.com/thomasdarimont/keycloak-user-storage-provider-demo) - Simple custom User Storage Provider extension for Keycloak. Deployed as .ear with dependencies & jboss-cli based setup.
 - [tibor-kocsis/vertx-graphql-utils](https://github.com/tibor-kocsis/vertx-graphql-utils) - Vert.x GraphQL utils
@@ -2002,6 +2001,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [Mayank1791989/gql-language-server](https://github.com/Mayank1791989/gql-language-server) - LSP implementation for gql service
 - [MtPelerin/bridge-v2](https://github.com/MtPelerin/bridge-v2) - New version of Mt Pelerin DeFi middleware
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [PankajKumardev/GitGenius](https://github.com/PankajKumardev/GitGenius) - 
 - [Prathamesh-Udoshi/LLM-Checkmate](https://github.com/Prathamesh-Udoshi/LLM-Checkmate) - Instantly determines if your computer can run specific LLMs by analyzing hardware specs against real-time Hugging Face data. Features AI-powered spec parsing, neural performance scoring, and expert inference recommendations (GGUF/AWQ/vLLM).
 - [ReachFive/fake-smtp-server](https://github.com/ReachFive/fake-smtp-server) - Fake SMTP Server for email testing
@@ -2196,6 +2196,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ltearno/pom-explorer](https://github.com/ltearno/pom-explorer) - A tool to aid managing lots of maven projects
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
 - [mcpware/cross-code-organizer](https://github.com/mcpware/cross-code-organizer) - Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
@@ -2625,7 +2626,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
 - [OnToology/oops-report](https://github.com/OnToology/oops-report) - Generate oops report as a beautiful HTML
 - [P-OPSTeam/cosmos-governance-alerter](https://github.com/P-OPSTeam/cosmos-governance-alerter) - Cosmos Governance vote alerter
@@ -3944,7 +3944,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [aerogear/keycloak-connect-graphql](https://github.com/aerogear/keycloak-connect-graphql) - Add Keyloak Authentication and Authorization to your GraphQL server.
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). 100% test coverage, types, examples, & more. Unopinionated and heavily updated fork of react-signature-pad
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
@@ -4010,6 +4010,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [chainapsis/keplr-example](https://github.com/chainapsis/keplr-example) - 
 - [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [cheqd/validator-status](https://github.com/cheqd/validator-status) - Network-wide validator status alerting API for cheqd mainnet. Designed to work for any Cosmos SDK network
 - [chuanqisun/react-agent-hooks](https://github.com/chuanqisun/react-agent-hooks) - Turn React hooks into LLM tools
@@ -4092,7 +4093,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [feedbackone/elmstronaut](https://github.com/feedbackone/elmstronaut) - Render Elm modules as Astro components
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots
 - [foo-software/lighthouse-check-action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running @GoogleChromeLabs Lighthouse audits with all the bells and whistles 🔔 Multiple audits, Slack notifications, and more!
 - [forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos) - 
@@ -4115,6 +4116,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [github/ai-assessment-comment-labeler](https://github.com/github/ai-assessment-comment-labeler) - AI-powered issue intake tool. Action for retrieving AI assessments for supplied text body
 - [github/ai-moderator](https://github.com/github/ai-moderator) - An AI-powered GitHub Action that detects and tags spam in your repository
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [github/gh-aw-firewall](https://github.com/github/gh-aw-firewall) - GitHub Agentic Workflows Firewall
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitroomhq/trending-list](https://github.com/gitroomhq/trending-list) - Know when you are trending on GitHub
@@ -4237,7 +4239,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage
 - [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
@@ -4327,6 +4328,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pixijs-userland/pixi-viewport](https://github.com/pixijs-userland/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js
 - [pixijs/pixi-react](https://github.com/pixijs/pixi-react) - Write PIXI apps using React declarative style
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [plantaeart/system-prompt-switch](https://github.com/plantaeart/system-prompt-switch) - 
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [poapxyz/poap](https://github.com/poapxyz/poap) - ⛔️ DEPRECATED - Proof Of Attendance Protocol
