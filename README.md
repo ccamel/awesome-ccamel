@@ -202,7 +202,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [category-labs/monad](https://github.com/category-labs/monad) - 
 - [data61/MP-SPDZ](https://github.com/data61/MP-SPDZ) - Versatile framework for multi-party computation
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [duckie/mongo_smasher](https://github.com/duckie/mongo_smasher) - A small tool to generate randomized datasets
 - [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
@@ -1219,7 +1219,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io
 - [meysamhadeli/shop-golang-microservices](https://github.com/meysamhadeli/shop-golang-microservices) - Practical microservices based on different software architecture and technologies like Golang, CQRS, Vertical Slice Architecture, Docker, RabbitMQ, OpenTelemetry and Postgresql.
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Platform (for humans and agents)
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform Azure DevOps provider
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
@@ -1662,7 +1662,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) - Java binary serialization and cloning: fast, efficient, automatic
 - [Funny-OpenSource-Projects/image-to-xls](https://github.com/Funny-OpenSource-Projects/image-to-xls) - A simple tool to make ascii art from an image using excel colored cells.
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
-- [LLM-Coding/Semantic-Anchors](https://github.com/LLM-Coding/Semantic-Anchors) - 
+- [LLM-Coding/Semantic-Anchors](https://github.com/LLM-Coding/Semantic-Anchors) - A curated catalog of 230+ semantic anchors: well-defined terms like arc42, TDD London School or tracer bullet that activate deep, consistent knowledge in LLMs. Use them in prompts, skills and agent instructions instead of spelling out methods yourself.
 - [NLP2RDF/ontologies](https://github.com/NLP2RDF/ontologies) - All ontologies used in NIF 2.0 (NIF-Core + vocabulary modules + helper modules)
 - [SWI-Prolog/swipl-wasm](https://github.com/SWI-Prolog/swipl-wasm) - Run SWI-Prolog in your browser using WebAssemply
 - [SethClydesdale/genki-study-resources](https://github.com/SethClydesdale/genki-study-resources) - A collection of exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese.
@@ -2012,6 +2012,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Jotschi/vertx-graphql-example](https://github.com/Jotschi/vertx-graphql-example) - Vert.x Server which exposes a GraphQL API
 - [JusticeEngineering/pin-tweet-to-ipfs](https://github.com/JusticeEngineering/pin-tweet-to-ipfs) - Web extension to Save tweets in a verifiable way to IPFS
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [LilMGenius/paperthin](https://github.com/LilMGenius/paperthin) - Low-level agentic design patterns. Turning old engineering wisdom into reflexes your agent reaches for on its own—on any agent.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [Mayank1791989/gql-language-server](https://github.com/Mayank1791989/gql-language-server) - LSP implementation for gql service
@@ -2210,7 +2211,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ltearno/pom-explorer](https://github.com/ltearno/pom-explorer) - A tool to aid managing lots of maven projects
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [maxmaxlabs/cloudmos-deploy](https://github.com/maxmaxlabs/cloudmos-deploy) - Desktop app to easily deploy any docker container on the Akash Network.
 - [mcpware/cross-code-organizer](https://github.com/mcpware/cross-code-organizer) - Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
@@ -2851,6 +2851,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [microsoft/WaveCoder](https://github.com/microsoft/WaveCoder) - Advancing LLM with Diverse Coding Capabilities
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
+- [microsoft/nvx](https://github.com/microsoft/nvx) - Cross-Platform Micro-VM Sandbox for Agentic Workloads
 - [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [mikethebeer/graphql-crate](https://github.com/mikethebeer/graphql-crate) - Graphql Demo using Crate
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
@@ -3294,6 +3295,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [hoodrunio/explorer-backend](https://github.com/hoodrunio/explorer-backend) - Backend app for Cosmos ecosystem explorer.
+- [hotpath-rs/hotpath](https://github.com/hotpath-rs/hotpath) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
 - [htin1/toktop](https://github.com/htin1/toktop) - llm usage monitor in terminal
 - [hyli-org/hyli](https://github.com/hyli-org/hyli) - Hyli is a confidential yet verifiable financial settlement infrastructure for European regulated actors. It enables regulated institutions to settle, tokenize, and comply without exposing sensitive data.
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -3422,7 +3424,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [patonw/leaves](https://github.com/patonw/leaves) - A text-mode disk usage visualization utility
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
-- [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [penso/herdr-gpui](https://github.com/penso/herdr-gpui) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a privacy-preserving decentralized exchange for all of crypto
@@ -3895,6 +3896,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ErikssonJoakim/hexagonal-user-application](https://github.com/ErikssonJoakim/hexagonal-user-application) - 
 - [Fairblock/fairyring](https://github.com/Fairblock/fairyring) - 
 - [Finschia/finschia-js](https://github.com/Finschia/finschia-js) - finschia-js is javascript sdk for Finschia
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [FlorianBruniaux/ctxharness](https://github.com/FlorianBruniaux/ctxharness) - Catch stale versions, broken paths, and missing scripts in your AI instruction files (CLAUDE.md, rules)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
@@ -4042,7 +4044,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cheqd/validator-status](https://github.com/cheqd/validator-status) - Network-wide validator status alerting API for cheqd mainnet. Designed to work for any Cosmos SDK network
 - [chuanqisun/react-agent-hooks](https://github.com/chuanqisun/react-agent-hooks) - Turn React hooks into LLM tools
 - [citizenweb3/validatorinfo](https://github.com/citizenweb3/validatorinfo) - Web3 Blockchain Explorer. Validator, Mining Pool, Token and Network Real-time Metrics. Interactive Onchain Dashboard
-- [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade) - The TypeScript framework for building modular agents around an immutable event log.
+- [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade) - The TypeScript framework for building composable actors around an immutable event log.
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus.
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
@@ -4080,6 +4082,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [decentralized-identity/ethr-did-resolver](https://github.com/decentralized-identity/ethr-did-resolver) - DID resolver for Ethereum Addresses with support for key management
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [dependabot/fetch-metadata](https://github.com/dependabot/fetch-metadata) - Extract information about the dependencies being updated by a Dependabot-generated PR.
+- [devswha/herdr-web-ui](https://github.com/devswha/herdr-web-ui) - Browser and phone client for herdr: chat and live terminal for every agent pane, remote PCs over SSH, web push alerts
 - [dhmk083/dhmk-zustand-lens](https://github.com/dhmk083/dhmk-zustand-lens) - 
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
@@ -4269,6 +4272,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [magefile/mage-action](https://github.com/magefile/mage-action) - GitHub Action for Mage
 - [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
@@ -4394,6 +4398,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [robisim74/qwik-speak](https://github.com/robisim74/qwik-speak) - Translate your Qwik apps into any language
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [rubensworks/GraphQL-LD.js](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
 - [ryardley/ts-bus](https://github.com/ryardley/ts-bus) - A lightweight JavaScript/TypeScript event bus to help manage your application architecture.
