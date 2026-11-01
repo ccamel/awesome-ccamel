@@ -1697,7 +1697,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dominictarr/sentimental-versioning](https://github.com/dominictarr/sentimental-versioning) - version numbers with meaning
 - [dwyl/learn-elm](https://github.com/dwyl/learn-elm) - :rainbow: discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
 - [eclipse-tractusx/sldt-semantic-models](https://github.com/eclipse-tractusx/sldt-semantic-models) - sldt-semantic-models
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [facebookincubator/infima](https://github.com/facebookincubator/infima) - A UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
@@ -2022,6 +2021,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware) - ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes
 - [FindTheFox/Fractal-React-Native-Three](https://github.com/FindTheFox/Fractal-React-Native-Three) - Fractal render application made in React-Native with expo-three & react-three-fiber
 - [ForthHub/forth](https://github.com/ForthHub/forth) - :four_leaf_clover: Forth engine in JavaScript
+- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [IBM/couchbackup](https://github.com/IBM/couchbackup) - Cloudant backup and restore library and command-line utility
@@ -2031,7 +2031,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Jotschi/vertx-graphql-example](https://github.com/Jotschi/vertx-graphql-example) - Vert.x Server which exposes a GraphQL API
 - [JusticeEngineering/pin-tweet-to-ipfs](https://github.com/JusticeEngineering/pin-tweet-to-ipfs) - Web extension to Save tweets in a verifiable way to IPFS
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-- [LilMGenius/paperthin](https://github.com/LilMGenius/paperthin) - Low-level agentic design patterns. Turning old engineering wisdom into reflexes your agent reaches for on its own—on any agent.
+- [LilMGenius/paperthin](https://github.com/LilMGenius/paperthin) - Low-level agentic design patterns. Turning old engineering wisdom into reflexes your agent reaches for on its own, on any agent.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [Mayank1791989/gql-language-server](https://github.com/Mayank1791989/gql-language-server) - LSP implementation for gql service
@@ -2492,6 +2492,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [celestiaorg/docs](https://github.com/celestiaorg/docs) - Celestia Documentation Site
 - [dydxprotocol/v4-documentation](https://github.com/dydxprotocol/v4-documentation) - 
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [neutron-org/neutron-docs](https://github.com/neutron-org/neutron-docs) - 
 - [rainbow-me/rainbowkit](https://github.com/rainbow-me/rainbowkit) - The best way to connect a wallet 🌈 🧰
 - [sei-protocol/sei-docs-old](https://github.com/sei-protocol/sei-docs-old) - 
@@ -2917,7 +2918,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [openfaas/workshop](https://github.com/openfaas/workshop) - Learn Serverless for Kubernetes with OpenFaaS
 - [openwallet-foundation/acapy](https://github.com/openwallet-foundation/acapy) - ACA-Py is a foundation for building decentralized identity applications and services running in non-mobile environments.
 - [orseni/codex-remote-hub](https://github.com/orseni/codex-remote-hub) - 
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [patdaburu/cookiecutter-click](https://github.com/patdaburu/cookiecutter-click) - A Python cookiecutter template to help you start a Click project.
@@ -3946,7 +3947,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [GoogleCloudPlatform/opentelemetry-operations-js](https://github.com/GoogleCloudPlatform/opentelemetry-operations-js) - This repository is home to Google Cloud Exporters (Trace and Monitoring) for OpenTelemetry Node.js Project (https://github.com/open-telemetry/opentelemetry-js)
-- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [HyperbolicLabs/hyperbolic-mcp](https://github.com/HyperbolicLabs/hyperbolic-mcp) - MCP Server for Claude
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
