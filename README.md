@@ -1589,6 +1589,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [unrolled/secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 - [upbound/universal-crossplane](https://github.com/upbound/universal-crossplane) - Enterprise-grade @crossplane from @upbound
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
+- [usbarmory/eggshell](https://github.com/usbarmory/eggshell) - Bare metal Go kernel for Linux binaries
 - [utahta/swagger-doc](https://github.com/utahta/swagger-doc) - Easy visualize swagger.json using swagger-ui and redoc
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [vardius/message-bus](https://github.com/vardius/message-bus) - Go simple async message bus
@@ -1675,7 +1676,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Funny-OpenSource-Projects/image-to-xls](https://github.com/Funny-OpenSource-Projects/image-to-xls) - A simple tool to make ascii art from an image using excel colored cells.
 - [HugoLopes45/omp-guide](https://github.com/HugoLopes45/omp-guide) - The missing beginner guide to oh-my-pi (omp): cheat sheets, tips and tricks, sane configs, and the traps. Auto-tracks upstream releases.
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
-- [LLM-Coding/Semantic-Anchors](https://github.com/LLM-Coding/Semantic-Anchors) - A curated catalog of 230+ semantic anchors: well-defined terms like arc42, TDD London School or tracer bullet that activate deep, consistent knowledge in LLMs. Use them in prompts, skills and agent instructions instead of spelling out methods yourself.
 - [NLP2RDF/ontologies](https://github.com/NLP2RDF/ontologies) - All ontologies used in NIF 2.0 (NIF-Core + vocabulary modules + helper modules)
 - [SWI-Prolog/swipl-wasm](https://github.com/SWI-Prolog/swipl-wasm) - Run SWI-Prolog in your browser using WebAssemply
 - [SethClydesdale/genki-study-resources](https://github.com/SethClydesdale/genki-study-resources) - A collection of exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese.
@@ -1712,7 +1712,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo: 
 - [lambdamusic/Ontospy](https://github.com/lambdamusic/Ontospy) - Python library and command-line interface for inspecting and visualizing RDF models aka ontologies.
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 196 production-ready AI agent templates for OpenClaw. SOUL.md configs across 24 categories. Submit yours!
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 197 production-ready AI agent templates for OpenClaw. SOUL.md configs across 24 categories. Submit yours!
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
 - [node101-io/klein](https://github.com/node101-io/klein) - Klein
@@ -2031,6 +2031,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [JetBrains/svg-mixer](https://github.com/JetBrains/svg-mixer) - Node.js toolset for generating & transforming SVG images and sprites in modern way
 - [Jotschi/vertx-graphql-example](https://github.com/Jotschi/vertx-graphql-example) - Vert.x Server which exposes a GraphQL API
 - [JusticeEngineering/pin-tweet-to-ipfs](https://github.com/JusticeEngineering/pin-tweet-to-ipfs) - Web extension to Save tweets in a verifiable way to IPFS
+- [LLM-Coding/Semantic-Anchors](https://github.com/LLM-Coding/Semantic-Anchors) - A curated catalog of 230+ semantic anchors: well-defined terms like arc42, TDD London School or tracer bullet that activate deep, consistent knowledge in LLMs. Use them in prompts, skills and agent instructions instead of spelling out methods yourself.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [LilMGenius/paperthin](https://github.com/LilMGenius/paperthin) - Low-level agentic design patterns. Turning old engineering wisdom into reflexes your agent reaches for on its own, on any agent.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility.
@@ -2143,6 +2144,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eco-stake/restake-ui](https://github.com/eco-stake/restake-ui) - Auto-compounder app for Cosmos blockchains using Authz
 - [eddy-guo/validator-monitor](https://github.com/eddy-guo/validator-monitor) - Discord bot to monitor Jackal validator uptime status (and other Cosmos blockchains).
 - [editor-js/raw](https://github.com/editor-js/raw) - Raw HTML tool for Editor.js
+- [eliasstravik/shepherdr](https://github.com/eliasstravik/shepherdr) - Run many coding agents across machines from a phone, tablet or desktop. A herdr plugin.
 - [elm-explorations/linear-algebra](https://github.com/elm-explorations/linear-algebra) - Fast linear algebra for Elm
 - [elm/virtual-dom](https://github.com/elm/virtual-dom) - The foundation of HTML and SVG in Elm.
 - [elwin013/parcel-plugin-static-files-copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - ParcelJS plugin to copy static files
@@ -2296,6 +2298,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [rogierschouten/async-lock](https://github.com/rogierschouten/async-lock) - Lock on asynchronous code for Nodejs
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [rollup/rollup-starter-lib](https://github.com/rollup/rollup-starter-lib) - Bare-bones example of how to create a library using Rollup
+- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [romquenin/home-assistant-config-fr](https://github.com/romquenin/home-assistant-config-fr) - 🏠Configuration de Home Assistant en français. 👨🏻‍💻 N'hésitez pas à ⭐ mon repo et à copier les bonnes idées ! 🇨🇵 
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [ryankurte/jfsm](https://github.com/ryankurte/jfsm) - JSON Finite State Machine (JFSM) Representation, Validation and Generation
@@ -2953,7 +2956,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [reecepbcups/airdrop-tools](https://github.com/reecepbcups/airdrop-tools) - A suite of tools to airdrop under a variety of edge cases for the Cosmos Interchain
 - [reecepbcups/cosmos-state-exporter](https://github.com/reecepbcups/cosmos-state-exporter) - A CosmosSDK chain scheduled state exporter
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
-- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
@@ -3384,6 +3386,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [liamzebedee/tendermint-rs](https://github.com/liamzebedee/tendermint-rs) - A minimal reimplementation of Tendermint in Rust
 - [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
+- [linux-credentials/oo7](https://github.com/linux-credentials/oo7) - James Bond went on a new mission as a Secret Service provider
 - [lita-xyz/rust-examples](https://github.com/lita-xyz/rust-examples) - 
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [lue-bird/elm-language-server-rs](https://github.com/lue-bird/elm-language-server-rs) - language server for elm, in rust
@@ -3471,7 +3474,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [patonw/leaves](https://github.com/patonw/leaves) - A text-mode disk usage visualization utility
 - [patternfly-yew/patternfly-yew](https://github.com/patternfly-yew/patternfly-yew) - PatternFly components for Yew
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-- [penso/herdr-gpui](https://github.com/penso/herdr-gpui) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a privacy-preserving decentralized exchange for all of crypto
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [pgrundev/pgx](https://github.com/pgrundev/pgx) - PGX — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime🐘
@@ -3555,6 +3557,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [setten-io/ecg](https://github.com/setten-io/ecg) -  Cosmos validators dead man's switch
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [sheprd-labs/sheprd](https://github.com/sheprd-labs/sheprd) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
 - [shuttle-hq/shuttlings](https://github.com/shuttle-hq/shuttlings) - Collection of code challenges for learning backend development in Rust
 - [sideprotocol/mesh-liquidity-wasm](https://github.com/sideprotocol/mesh-liquidity-wasm) - Cosmwasm implementation of ICS-101 
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
@@ -4155,7 +4158,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eeue56/elm-static-html-lib](https://github.com/eeue56/elm-static-html-lib) - 
 - [efstajas/versioned-parser](https://github.com/efstajas/versioned-parser) - 🤓 A TypeScript-first utility for managing multiple versions of parse functions.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
-- [eliasstravik/shepherdr](https://github.com/eliasstravik/shepherdr) - Run many coding agents across machines from a phone, tablet or desktop. A herdr plugin.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
