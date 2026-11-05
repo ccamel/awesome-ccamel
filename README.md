@@ -118,6 +118,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 ## C
 
 - [Blockstream/Jade](https://github.com/Blockstream/Jade) - Jade hardware wallet
+- [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [HaxeFoundation/hashlink](https://github.com/HaxeFoundation/hashlink) - A virtual machine for Haxe
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
 - [SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel) - SWI-Prolog Main development repository
@@ -539,7 +540,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [CosmWasm/wasmd](https://github.com/CosmWasm/wasmd) - Basic Cosmos SDK application with WebAssembly smart contracts
 - [CosmWasm/wasmvm](https://github.com/CosmWasm/wasmvm) - Go bindings to the CosmWasm VM
 - [CosmosContracts/juno](https://github.com/CosmosContracts/juno) - Open Source Platform for Interoperable Smart Contracts
-- [CovenantSQL/CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features
 - [DecentralCardGame/Cardchain](https://github.com/DecentralCardGame/Cardchain) - Cosmos based blockchain for handling card ownership, card creation and voting on cards.
 - [Dicklesworthstone/ntm](https://github.com/Dicklesworthstone/ntm) - Named Tmux Manager: a Go control plane to spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Antigravity, omp, Grok) across tmux panes - graph-aware work triage, safety policy and approvals, Agent Mail coordination, checkpoints/timelines, and robot JSON + REST/SSE/WebSocket/OpenAPI surfaces.
 - [Djarvur/go-err113](https://github.com/Djarvur/go-err113) -   Golang linter to check the errors handling expressions
@@ -1691,6 +1691,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [binaryeq/daleq](https://github.com/binaryeq/daleq) - datalog-based binary equivalence
 - [canonical/vanilla-framework](https://github.com/canonical/vanilla-framework) - From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [ccamel/egoless-agency](https://github.com/ccamel/egoless-agency) - ⊰ egoless programming in the agentic age  — a manifesto ⊱
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [cosmos/cosmos-sdk-docs](https://github.com/cosmos/cosmos-sdk-docs) - 
 - [cosmos/testnets](https://github.com/cosmos/testnets) - Cosmos Testnets
@@ -2679,6 +2680,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MaxMiksa/Autonomous-Company](https://github.com/MaxMiksa/Autonomous-Company) - An autonomous company working 24/7 on your own PC - Windows/Linux/macOS.
 - [Mekire/pygame-samples](https://github.com/Mekire/pygame-samples) - Basic pygame samples illustrating various concepts.
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.
+- [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) - Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [OnToology/OnToology](https://github.com/OnToology/OnToology) - Online tool to automatically generate documentation and evaluation for Ontologies hosted on GitHub
@@ -2972,7 +2974,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [sei-protocol/chain-registry](https://github.com/sei-protocol/chain-registry) - 
 - [shantanugoel/ask-jev-skill](https://github.com/shantanugoel/ask-jev-skill) - Skill for Hermes, and other agents, to ask typesafe's jev
 - [shekhargulati/python-flask-docker-hello-world](https://github.com/shekhargulati/python-flask-docker-hello-world) - Hello world Python Flask application Dockerized
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
@@ -3339,6 +3341,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hashedone/sylvia](https://github.com/hashedone/sylvia) - CosmWasm smart contract framework
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [hoodrunio/explorer-backend](https://github.com/hoodrunio/explorer-backend) - Backend app for Cosmos ecosystem explorer.
 - [hotpath-rs/hotpath](https://github.com/hotpath-rs/hotpath) - Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support.
@@ -3621,7 +3624,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [valida-xyz/valida](https://github.com/valida-xyz/valida) - A STARK-based VM focused on code reuse, performance, and modularity
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 A ratatui framework to build stateful applications with a React/Elm inspired approach 
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The build system for coding agents.
 - [vivax3794/cargo_bounds](https://github.com/vivax3794/cargo_bounds) - Checking that your dependency requirements are sound
 - [voidpumpkin/fallout-ui](https://github.com/voidpumpkin/fallout-ui) - 
 - [wasm-bindgen/wasm-pack](https://github.com/wasm-bindgen/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
@@ -4098,7 +4101,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cheqd/validator-status](https://github.com/cheqd/validator-status) - Network-wide validator status alerting API for cheqd mainnet. Designed to work for any Cosmos SDK network
 - [chuanqisun/react-agent-hooks](https://github.com/chuanqisun/react-agent-hooks) - Turn React hooks into LLM tools
 - [citizenweb3/validatorinfo](https://github.com/citizenweb3/validatorinfo) - Web3 Blockchain Explorer. Validator, Mining Pool, Token and Network Real-time Metrics. Interactive Onchain Dashboard
-- [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade) - The TypeScript framework for building composable actors around an immutable event log.
+- [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade) - The TypeScript framework for building durable, event-driven actors.
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus.
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
@@ -4350,7 +4353,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mobxjs/mobx-react-lite](https://github.com/mobxjs/mobx-react-lite) - Lightweight React bindings for MobX based on React 16.8 and Hooks
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Deterministic testing tools for MCP servers
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [moonbeam-foundation/moonbeam](https://github.com/moonbeam-foundation/moonbeam) - An Ethereum-compatible smart contract parachain on Polkadot
