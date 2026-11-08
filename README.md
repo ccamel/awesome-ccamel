@@ -950,6 +950,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [githubexporter/github-exporter](https://github.com/githubexporter/github-exporter) - :octocat: Prometheus exporter for github metrics
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [gjongenelen/eh-mongodb](https://github.com/gjongenelen/eh-mongodb) - Improved MongoDB driver for Event Horizon
+- [glojurelang/glojure](https://github.com/glojurelang/glojure) - Clojure interpreter hosted on Go, with extensible interop support.
 - [gnolang/gno](https://github.com/gnolang/gno) - Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [go-chat-bot/bot](https://github.com/go-chat-bot/bot) - IRC, Slack, Telegram and RocketChat bot written in go
@@ -3144,7 +3145,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MegaRockLabs/cw-extra](https://github.com/MegaRockLabs/cw-extra) - Experimental CosmWasm based contracts, packages and protocols
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) -  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
-- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Synthesized Logic Language for World Models 🌱🐋🌍
+- [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - World Model 🌱🐋🌍
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
