@@ -1025,7 +1025,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [goyek/goyek](https://github.com/goyek/goyek) - Task automation Go library
 - [gqlc/gqlc](https://github.com/gqlc/gqlc) - GraphQL IDL Compiler
 - [gqlgo/gqlgenc](https://github.com/gqlgo/gqlgenc) - This is Go library for building GraphQL client with gqlgen
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [grafana/regexp](https://github.com/grafana/regexp) - Faster version of the Go regexp package
@@ -2365,6 +2364,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [w3c/vc-data-model-2.0-test-suite](https://github.com/w3c/vc-data-model-2.0-test-suite) - W3C Verifiable Credentials v2.0 test suite
 - [w3c/vc-test-suite-implementations](https://github.com/w3c/vc-test-suite-implementations) - List of W3C Verifiable Credentials Implementations
+- [watt-mind/factory](https://github.com/watt-mind/factory) - The factory that builds software — and itself. A runtime for self-improving agentic loops: the tracker is the control plane, git is the truth, CI is the gate.
 - [wearerequired/lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and auto-fixing lint errors
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [websockets/wscat](https://github.com/websockets/wscat) - WebSocket cat
@@ -3009,6 +3009,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wintoncode/winton-kafka-streams](https://github.com/wintoncode/winton-kafka-streams) - A Python implementation of Apache Kafka Streams
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [wzyboy/awesome-beancount](https://github.com/wzyboy/awesome-beancount) - Beancount tips and tricks
+- [yigitkonur/awesome-herdr](https://github.com/yigitkonur/awesome-herdr) - A curated guide to the Herdr ecosystem: tools, workflows, configs, clients, skills, and integrations.
 - [yougov/mongo-connector](https://github.com/yougov/mongo-connector) - MongoDB data stream pipeline tools by YouGov (adopted from MongoDB)
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 
@@ -4158,6 +4159,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [dydxprotocol/v4-web](https://github.com/dydxprotocol/v4-web) - 
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
+- [e2e-inc/e2e](https://github.com/e2e-inc/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [earendil-works/pi-review](https://github.com/earendil-works/pi-review) - A review extension for Pi
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
@@ -4220,6 +4222,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [googleapis/gcloud-mcp](https://github.com/googleapis/gcloud-mcp) - gcloud MCP server
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [gracefullight/docusaurus-plugins](https://github.com/gracefullight/docusaurus-plugins) - A collection of Docusaurus plugins for analytics, chat, ads, error tracking, copy-as-markdown, and more.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [graphile/migrate](https://github.com/graphile/migrate) - Opinionated SQL-powered productive roll-forward migration tool for PostgreSQL.
 - [graphql-compose/graphql-compose-elasticsearch](https://github.com/graphql-compose/graphql-compose-elasticsearch) - Hide Elastic Search REST API behind GraphQL.
 - [graphql-hive/console](https://github.com/graphql-hive/console) - Hive Console is part of the Hive GraphQL platform. Schema registry and analytics for GraphQL federation and other GraphQL APIs
@@ -4525,7 +4528,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
-- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [thedaviddias/skill-check](https://github.com/thedaviddias/skill-check) - Linter for agent skill files
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
@@ -4966,7 +4968,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy) - Web3Privacy Now is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
-- [yigitkonur/awesome-herdr](https://github.com/yigitkonur/awesome-herdr) - A curated guide to the Herdr ecosystem: tools, workflows, configs, clients, skills, and integrations.
 - [ykdojo/open-source-hiring](https://github.com/ykdojo/open-source-hiring) - A GitHub repo (and later a website) that lists job postings that are open at open source companies!
 - [zbentley/amqp-locks](https://github.com/zbentley/amqp-locks) - Distributed mutexes and semaphores in RabbitMQ
 - [zhangyelong/cosmos-dashboard](https://github.com/zhangyelong/cosmos-dashboard) - A Grafana dashboard compatible with all the cosmos-sdk and tendermint based blockchains.
