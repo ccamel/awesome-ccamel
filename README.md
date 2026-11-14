@@ -1958,6 +1958,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [otto-de/gitactionboard](https://github.com/otto-de/gitactionboard) - GitactionBoard - Ultimate Dashboard for GithubActions.
 - [pac4j/pac4j](https://github.com/pac4j/pac4j) - Security engine for Java (authentication, authorization, multi frameworks): OpenID Connect, SAML2, CAS, OAuth, LDAP, JWT...
 - [petitparser/java-petitparser](https://github.com/petitparser/java-petitparser) - Dynamic parser combinators in Java.
+- [piermark/omarchytv](https://github.com/piermark/omarchytv) - Omarchy-styled tiling launcher ecosystem for Android TV, Google TV, LG webOS, Android Mobile & Linux/macOS/Omarchy PCs
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [puniverse/quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java. 
@@ -2266,7 +2267,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [perma-id/w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
 - [peterthoeny/rest-cli-io](https://github.com/peterthoeny/rest-cli-io) - REST CLI I/O node.js application to securely execute shell scripts and system commands
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
-- [piermark/omarchytv](https://github.com/piermark/omarchytv) - Omarchy-styled tiling launcher ecosystem for Android TV, Google TV, LG webOS, Android Mobile & Linux/macOS/Omarchy PCs
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response.
 - [please-openit/token-leak-extension](https://github.com/please-openit/token-leak-extension) - Chrome extension to analyse oauth2 authentication process
@@ -2644,6 +2644,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
 - [ActivityWatch/contributor-stats](https://github.com/ActivityWatch/contributor-stats) - Generating contributor stats for the ActivityWatch project
 - [AmirhosseinHonardoust/Onchain-Security-Suite](https://github.com/AmirhosseinHonardoust/Onchain-Security-Suite) - A complete Web3 security toolkit combining AI-powered token auditing, ML-based deployer reputation scoring, and live Etherscan V2 data. Includes static analysis for rugpull detection, RandomForest reputation modeling, contract-fetching automation, and Solidity on-chain registries for transparent, reproducible security insights.
+- [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 - [Anil-matcha/awesome-agent-apis](https://github.com/Anil-matcha/awesome-agent-apis) - 660+ muapi-hosted generative-media models plus community-submitted third-party API tools (SEO, enrichment, social, scraping) — one YAML file per entry, browsable by capability.
 - [Anil-matcha/open-genjutsu](https://github.com/Anil-matcha/open-genjutsu) - Local-first AI video recasting with draft review, explicit HD approval, and source-audio restoration.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -2664,6 +2665,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - Create Epic Math and Physics Animations & Study Notes From Text and Images.
 - [ItMeDiaTech/rag-cli](https://github.com/ItMeDiaTech/rag-cli) - Local Retrieval-Augmented Generation (RAG) plugin for Claude Code that combines Chroma db vector embeddings with intelligent info retrieval with Multi-Agent Framework (MAF) orchestration for context-aware development assistance. Uses Open Source / Free frameworks. Implements bridge to Claude Code CLI so no token use. And it's easy to setup.
 - [JBGamond/aet-calculator](https://github.com/JBGamond/aet-calculator) - Thanks chatgpt
+- [JtheGunner/ha-github-pulse](https://github.com/JtheGunner/ha-github-pulse) - Home Assistant integration for GitHub account and repository activity: contributions, languages, CI state and custom queries
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 - [Keeper-Security/Commander](https://github.com/Keeper-Security/Commander) - Keeper Commander is a python-based CLI and SDK interface to the Keeper Security platform. Provides administrative controls, reporting, import/export and vault management.
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
@@ -2982,7 +2984,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ssloy/tinycompiler](https://github.com/ssloy/tinycompiler) - Writing a compiler in a week-end
 - [stefano/wasm-forth](https://github.com/stefano/wasm-forth) - A Forth implementation compiling to WebAssembly.
 - [stevesolun/ctx](https://github.com/stevesolun/ctx) - CTX Fit finds the cheapest AI coding setup that reliably works on your repository, then applies the winner as a reviewable change.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [study8677/repobrain](https://github.com/study8677/repobrain) - 🧠 RepoBrain (formerly Antigravity) — Give your repo a brain. ChatGPT for your codebase: works in Claude Code, Cursor, Codex, Windsurf & more.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
@@ -4267,7 +4269,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [hoverkraft-tech/compose-action](https://github.com/hoverkraft-tech/compose-action) - This action runs your docker-compose file and clean up before action finished
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [huggingface/huggingface-vscode-chat](https://github.com/huggingface/huggingface-vscode-chat) - A VSCode extension to use Hugging Face Inference Providers in Copilot Chat
-- [hung-ngm/cosmos-sdk-gpt](https://github.com/hung-ngm/cosmos-sdk-gpt) - A chatbot on the Cosmos SDK source code
 - [hyperweb-io/chain-registry](https://github.com/hyperweb-io/chain-registry) - Cosmos chain registry ⚛️
 - [hyperweb-io/cosmology-cli](https://github.com/hyperweb-io/cosmology-cli) - CLI and TS library for the Cosmos ⚛️
 - [hyperweb-io/cosmos-kit](https://github.com/hyperweb-io/cosmos-kit) - Universal wallet connector for the Cosmos ⚛️
