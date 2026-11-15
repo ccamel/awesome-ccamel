@@ -205,6 +205,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [category-labs/monad](https://github.com/category-labs/monad) - 
 - [data61/MP-SPDZ](https://github.com/data61/MP-SPDZ) - Versatile framework for multi-party computation
+- [dirkwhoffmann/vAmiga](https://github.com/dirkwhoffmann/vAmiga) - vAmiga is a user-friendly Amiga 500, 1000, 2000 emulator for macOS
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [duckie/mongo_smasher](https://github.com/duckie/mongo_smasher) - A small tool to generate randomized datasets
