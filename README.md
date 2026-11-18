@@ -2137,7 +2137,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data
+- [dy/linefont](https://github.com/dy/linefont) - Typeface for visualizing line chart
 - [eco-stake/cosmos-directory](https://github.com/eco-stake/cosmos-directory) - ⚛️ · 📖
 - [eco-stake/restake](https://github.com/eco-stake/restake) - Auto-compounder script for Cosmos Validators using REStake
 - [eco-stake/restake-ui](https://github.com/eco-stake/restake-ui) - Auto-compounder app for Cosmos blockchains using Authz
@@ -3397,6 +3397,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [lfdt-ibc/ibc-contracts](https://github.com/lfdt-ibc/ibc-contracts) - This is a solidity implementation of IBC v2.
 - [liamzebedee/tendermint-rs](https://github.com/liamzebedee/tendermint-rs) - A minimal reimplementation of Tendermint in Rust
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
 - [linux-credentials/oo7](https://github.com/linux-credentials/oo7) - James Bond went on a new mission as a Secret Service provider
 - [lita-xyz/rust-examples](https://github.com/lita-xyz/rust-examples) - 
@@ -4046,6 +4047,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). 100% test coverage, types, examples, & more. Unopinionated and heavily updated fork of react-signature-pad
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
+- [ai-timon/timon](https://github.com/ai-timon/timon) - 
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -4171,7 +4173,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [earendil-works/pi-review](https://github.com/earendil-works/pi-review) - A review extension for Pi
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2/v3
 - [ecklf/gatsby-typescript-tailwind](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby + TypeScript + Tailwind CSS
-- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+- [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is an open-source platform for building custom IDEs and tools for browser and desktop. It includes Theia AI, the vendor-neutral AI harness platform, and powers the AI-native Theia IDE.
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 - [editor-js/embed](https://github.com/editor-js/embed) - Embed Tool for Editor.js
 - [eeue56/elm-static-html-lib](https://github.com/eeue56/elm-static-html-lib) - 
