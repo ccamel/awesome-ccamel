@@ -104,7 +104,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AOZ-Studio/AMOS-Professional-Official](https://github.com/AOZ-Studio/AMOS-Professional-Official) - The official source code of AMOS Professional on the Amiga
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [kelindar/bitmap](https://github.com/kelindar/bitmap) - Simple dense bitmap index in Go with binary operators
-- [lukechampine/blake3](https://github.com/lukechampine/blake3) - An AVX-512 accelerated implementation of the BLAKE3 cryptographic hash function
+- [lukechampine/blake3](https://github.com/lukechampine/blake3) - A SIMD-accelerated implementation of the BLAKE3 cryptographic hash function
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
 ## Astro
@@ -853,7 +853,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry 
 - [donomii/sceneCamera](https://github.com/donomii/sceneCamera) - 3D camera library for Go with museum, FPS, RTS, and stereo rendering modes.
-- [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one governed AI agent for your whole organization: databases, APIs, files, and code over MCP
+- [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one AI agent for your whole organization: databases, APIs, files, and code over MCP
 - [dpapathanasiou/go-recaptcha](https://github.com/dpapathanasiou/go-recaptcha) - A package for handling reCaptcha (http://www.google.com/recaptcha) form submissions in Go (http://golang.org/).
 - [dravenk/webthing-go](https://github.com/dravenk/webthing-go) - Go implementation of a Web Thing server
 - [drgrib/maps](https://github.com/drgrib/maps) - Deprecated with note on how to implement this package's functionality using Go 1.18. Previously: Type-safe implementations of common map functions and tools to generate those functions.
@@ -1091,7 +1091,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [initia-labs/miniwasm](https://github.com/initia-labs/miniwasm) - Interwoven Rollup with WasmVM
 - [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 - [ipfs/go-metrics-prometheus](https://github.com/ipfs/go-metrics-prometheus) - Prometheus bindings for go-metrics-interface
-- [ipfs/kubo](https://github.com/ipfs/kubo) - [ BEWARE: NO MAINTAINER ] IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [iqlusioninc/liquidity-staking-module](https://github.com/iqlusioninc/liquidity-staking-module) - 
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [istreamdata/orientgo](https://github.com/istreamdata/orientgo) - Go (golang) client for OrientDB
@@ -2022,7 +2022,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware) - ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes
 - [FindTheFox/Fractal-React-Native-Three](https://github.com/FindTheFox/Fractal-React-Native-Three) - Fractal render application made in React-Native with expo-three & react-three-fiber
 - [ForthHub/forth](https://github.com/ForthHub/forth) - :four_leaf_clover: Forth engine in JavaScript
-- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandboxes or anywhere, uses your existing subscriptions
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats) - :fire: Dynamically generated Github Repository Contribution stats on your readmes (github-repository-contribution-stats)
 - [IBM/couchbackup](https://github.com/IBM/couchbackup) - Cloudant backup and restore library and command-line utility
@@ -2778,6 +2777,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [click-contrib/click-spinner](https://github.com/click-contrib/click-spinner) - It's easy to show that your command line app is active
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella: 
+- [coderabbitai/skills](https://github.com/coderabbitai/skills) - 
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase 
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -2837,7 +2837,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gptme/gptme-rag](https://github.com/gptme/gptme-rag) - Local RAG as a simple CLI, for standalone use or as a gptme tool
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [grafana/github-traffic](https://github.com/grafana/github-traffic) - Github Traffic Insights as Prometheus metrics.
-- [guilyx/guilyx](https://github.com/guilyx/guilyx) - chez moi
 - [h9-tect/pdf-to-podcast](https://github.com/h9-tect/pdf-to-podcast) - 
 - [hao-ai-lab/Consistency_LLM](https://github.com/hao-ai-lab/Consistency_LLM) - [ICML 2024] CLLMs: Consistency Large Language Models
 - [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCodek DSH, Kimi and More. https://hol.org/plugins
@@ -3148,7 +3147,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MarkusZoppelt/portfolio_rs](https://github.com/MarkusZoppelt/portfolio_rs) - A command line tool for managing financial investment portfolios.
 - [MegaRockLabs/cw-extra](https://github.com/MegaRockLabs/cw-extra) - Experimental CosmWasm based contracts, packages and protocols
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) -  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Logic Language for World Models 🌱🐋🌍
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
@@ -3185,6 +3183,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [afogel/shepherdr](https://github.com/afogel/shepherdr) - Shepherd delegated coding agents into visible, auditable herdr panes you can watch, resume, and take over — a herdr plugin.
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
+- [ai-openshell/OpenShell](https://github.com/ai-openshell/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [akunzai/gistui](https://github.com/akunzai/gistui) - A terminal UI for managing Gists
 - [aleo-labs-protocol/leo](https://github.com/aleo-labs-protocol/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
@@ -3305,6 +3304,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [epicchainlabs/epicchain](https://github.com/epicchainlabs/epicchain) - The core of EpicChain blockchain protocol designed to empower developers, revolutionize industries.
 - [equilibriumco/beerus](https://github.com/equilibriumco/beerus) - A stateless trustless Starknet light client in Rust 🦀
 - [ericseppanen/cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - An easy to configure wrapper for Rust's clippy
+- [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. 
 - [ethereum/sonobe](https://github.com/ethereum/sonobe) - Experimental folding schemes library
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
@@ -3490,7 +3490,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [penumbra-zone/penumbra](https://github.com/penumbra-zone/penumbra) - Penumbra is a privacy-preserving decentralized exchange for all of crypto
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
-- [pgrundev/pgx](https://github.com/pgrundev/pgx) - PGBox — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime🐘
+- [pgrundev/pgboxdb](https://github.com/pgrundev/pgboxdb) - PGBoxDB — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime 🐘
 - [pinkpixel-dev/quota](https://github.com/pinkpixel-dev/quota) - Desktop app, VSCode extension, CLI, and Herdr plugin  for tracking AI usage across GitHub Copilot, Codex, Claude Code, Antigravity, Kiro, Grok, Cursor and OpenCode Go.
 - [pksunkara/cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - A tool for managing cargo workspaces and their crates, inspired by lerna
 - [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate) - Annotate terminal text, review documents and agent replies in Herdr, and send the feedback straight back to the agent.
@@ -3974,6 +3974,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [GoogleCloudPlatform/opentelemetry-operations-js](https://github.com/GoogleCloudPlatform/opentelemetry-operations-js) - This repository is home to Google Cloud Exporters (Trace and Monitoring) for OpenTelemetry Node.js Project (https://github.com/open-telemetry/opentelemetry-js)
+- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - Coolest app to use agents, local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [HyperbolicLabs/hyperbolic-mcp](https://github.com/HyperbolicLabs/hyperbolic-mcp) - MCP Server for Claude
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
@@ -4047,7 +4048,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [agilgur5/react-signature-canvas](https://github.com/agilgur5/react-signature-canvas) - A React wrapper component around signature_pad (in &lt; 150 LoC). 100% test coverage, types, examples, & more. Unopinionated and heavily updated fork of react-signature-pad
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [ahwgs/vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - vite html config
-- [ai-timon/timon](https://github.com/ai-timon/timon) - 
+- [ai-timon/timon](https://github.com/ai-timon/timon) - Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -4121,7 +4122,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cloud-annotations/docusaurus-openapi](https://github.com/cloud-annotations/docusaurus-openapi) - 🦕 OpenAPI plugin for generating API reference docs in Docusaurus.
 - [cloudflare/kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
-- [coderabbitai/skills](https://github.com/coderabbitai/skills) - 
 - [coinbase/agentkit](https://github.com/coinbase/agentkit) - Every AI Agent deserves a wallet.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents.
@@ -4243,6 +4243,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [graz-sh/graz](https://github.com/graz-sh/graz) - React hooks for Cosmos 🪐
 - [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) - A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 - [guigrpa/docx-templates](https://github.com/guigrpa/docx-templates) - Template-based docx report creation
+- [guilyx/guilyx](https://github.com/guilyx/guilyx) - chez moi
 - [guregu/trealla-js](https://github.com/guregu/trealla-js) - Trealla Prolog for the web
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
 - [hackbg/fadroma](https://github.com/hackbg/fadroma) - Cross-chain dApp framework.
