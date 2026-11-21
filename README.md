@@ -133,7 +133,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [babelouest/glewlwyd](https://github.com/babelouest/glewlwyd) - Experimental Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
-- [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
 - [cosmos/ledger-cosmos](https://github.com/cosmos/ledger-cosmos) - 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
@@ -727,6 +726,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [burnt-labs/xion](https://github.com/burnt-labs/xion) - 
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord
 - [bykof/gostradamus](https://github.com/bykof/gostradamus) - Gostradamus: Better DateTimes for Go 🕰️
+- [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime
 - [bytesingsong/0chain](https://github.com/bytesingsong/0chain) - Züs (formerly 0Chain) is a decentralized blockchain-based storage platform with no vendor lock-in and a 3-layer security - fragmentation, proxy re-encryption, and immutability. It has close to wire speed data performance, free reads, and is ideal for apps as well as backups, AI data, disaster recovery.
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization
 - [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
@@ -853,7 +853,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry 
 - [donomii/sceneCamera](https://github.com/donomii/sceneCamera) - 3D camera library for Go with museum, FPS, RTS, and stereo rendering modes.
-- [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one AI agent for your whole organization: databases, APIs, files, and code over MCP
+- [dosco/deeporg](https://github.com/dosco/deeporg) - DeepORG (formerly GraphJin) — one AI agent for your whole organization: databases, APIs, files, and code over MCP
 - [dpapathanasiou/go-recaptcha](https://github.com/dpapathanasiou/go-recaptcha) - A package for handling reCaptcha (http://www.google.com/recaptcha) form submissions in Go (http://golang.org/).
 - [dravenk/webthing-go](https://github.com/dravenk/webthing-go) - Go implementation of a Web Thing server
 - [drgrib/maps](https://github.com/drgrib/maps) - Deprecated with note on how to implement this package's functionality using Go 1.18. Previously: Type-safe implementations of common map functions and tools to generate those functions.
@@ -1803,6 +1803,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) - Portable AI agent runtime for the JVM. One @Agent class runs on Spring AI, LangChain4j, Anthropic, or 9 more behind one SPI. Token streaming, tool calls, human approvals, and governance over WebSocket, SSE, gRPC, or WebTransport/HTTP3. Speaks MCP, A2A, and AG-UI.
 - [AxonFramework/Axon-trader](https://github.com/AxonFramework/Axon-trader) - A sample to use the axon framework for a trading application
 - [ChrisEnglert/nifi-keycloak](https://github.com/ChrisEnglert/nifi-keycloak) - Keycloak NiFi AuthProvider
+- [Cloeille/picsou-finance](https://github.com/Cloeille/picsou-finance) - Self-hosted personal finance dashboard  Track bank accounts, brokerage, crypto, and net worth — all in one place.
 - [Codearte/props2yaml-idea-plugin](https://github.com/Codearte/props2yaml-idea-plugin) - 
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 - [Domo42/stateless4j](https://github.com/Domo42/stateless4j) - Lightweight Java State Machine
@@ -1883,6 +1884,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eclipse-edc/Connector](https://github.com/eclipse-edc/Connector) - EDC core services including data plane and control plane
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [eventuate-examples/eventuate-examples-java-customers-and-orders](https://github.com/eventuate-examples/eventuate-examples-java-customers-and-orders) - Java version of the Customers and Orders event sourcing example from my presentations
 - [ferstl/depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin) - A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
 - [fewlaps/quitnow-email-suggester](https://github.com/fewlaps/quitnow-email-suggester) - 📧 Correct typos in email addresses like hello@gmail.con
@@ -3183,7 +3185,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [afogel/shepherdr](https://github.com/afogel/shepherdr) - Shepherd delegated coding agents into visible, auditable herdr panes you can watch, resume, and take over — a herdr plugin.
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) -  A protocol for connecting any editor to any agent
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
-- [ai-openshell/OpenShell](https://github.com/ai-openshell/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
+- [ai-openshell/openshell](https://github.com/ai-openshell/openshell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [akunzai/gistui](https://github.com/akunzai/gistui) - A terminal UI for managing Gists
 - [aleo-labs-protocol/leo](https://github.com/aleo-labs-protocol/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
@@ -4179,7 +4181,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eeue56/elm-static-html-lib](https://github.com/eeue56/elm-static-html-lib) - 
 - [efstajas/versioned-parser](https://github.com/efstajas/versioned-parser) - 🤓 A TypeScript-first utility for managing multiple versions of parse functions.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
 - [enricopolanski/functional-programming](https://github.com/enricopolanski/functional-programming) - Introduction to Functional Programming using TypeScript and fp-ts.
@@ -4199,7 +4200,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [feedbackone/elmstronaut](https://github.com/feedbackone/elmstronaut) - Render Elm modules as Astro components
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots
 - [foo-software/lighthouse-check-action](https://github.com/foo-software/lighthouse-check-action) - GitHub Action for running @GoogleChromeLabs Lighthouse audits with all the bells and whistles 🔔 Multiple audits, Slack notifications, and more!
 - [forbole/big-dipper-2.0-cosmos](https://github.com/forbole/big-dipper-2.0-cosmos) - 
