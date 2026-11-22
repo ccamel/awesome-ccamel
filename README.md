@@ -2749,6 +2749,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) - High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)
 - [atchopba/scraping-jobs](https://github.com/atchopba/scraping-jobs) - Scraping-jobs helps scrape jobs from major job boards (apec.fr, indeed.fr, monster.fr...) to provide a simple and unified job search engine.
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+- [awslabs/codekb](https://github.com/awslabs/codekb) - 
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
 - [axone-protocol/ontology](https://github.com/axone-protocol/ontology) - 📙 The Axone Ontology
 - [axsaucedo/kaos](https://github.com/axsaucedo/kaos) - 🚀 K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems
@@ -2773,6 +2774,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [cadmiumkitty/rdfpandas](https://github.com/cadmiumkitty/rdfpandas) - RdfPandas is a module providing RDF support for Pandas
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [cbirajdar/properties-to-yaml-converter](https://github.com/cbirajdar/properties-to-yaml-converter) - Python utility to convert key=value based properties/ini config files into YAML format
+- [ccamel/agent-self-help](https://github.com/ccamel/agent-self-help) - 🧘 personal development skills for artificial minds.
 - [ccamel/chez-ccamel](https://github.com/ccamel/chez-ccamel) - 🏡 My personal Nix environments (dev / devops / agentic) managed by https://github.com/nix-community/home-manager
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [chris104957/maildown](https://github.com/chris104957/maildown) - A super simple CLI for sending emails
@@ -2813,7 +2815,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [electric-capital/open-dev-data](https://github.com/electric-capital/open-dev-data) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
 - [eli-shen08/Sql-Kafka](https://github.com/eli-shen08/Sql-Kafka) - Sql to Kafka to json pipeline
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is an open platform for building customer-facing chat agents with AI. Describe how the agent should behave, and your coding agent implements it for you.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant lets you build and operate reliable CX and support agents from your own AI coding agents.
 - [epsylon/ufonet](https://github.com/epsylon/ufonet) - UFONet - Denial of Service Toolkit
 - [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
