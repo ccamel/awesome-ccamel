@@ -1691,7 +1691,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [bfirsh/docker-redoc](https://github.com/bfirsh/docker-redoc) - A Docker image which serves ReDoc documentation
 - [binaryeq/daleq](https://github.com/binaryeq/daleq) - datalog-based binary equivalence
 - [canonical/vanilla-framework](https://github.com/canonical/vanilla-framework) - From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [ccamel/egoless-agency](https://github.com/ccamel/egoless-agency) - ⊰ egoless programming in the agentic age  — a manifesto ⊱
 - [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 - [cosmos/cosmos-sdk-docs](https://github.com/cosmos/cosmos-sdk-docs) - 
@@ -1860,6 +1860,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [benwatson528/kafka-streams-drools](https://github.com/benwatson528/kafka-streams-drools) - A demo combining Kafka Streams and Drools to create a lightweight real-time rules engine.
 - [berndruecker/flowing-retail](https://github.com/berndruecker/flowing-retail) - Sample application demonstrating an order fulfillment system decomposed into multiple independant components (e.g. microservices). Showing concrete implementation alternatives using e.g. Java, Spring Boot, Apache Kafka, Camunda, Zeebe, ...
 - [brettwooldridge/SansOrm](https://github.com/brettwooldridge/SansOrm) - A "No-ORM" sane SQL ←→ Java object mapping library
+- [brunoborges/jlib-inspector](https://github.com/brunoborges/jlib-inspector) - Runtime Library Intelligence for Production JVMs
 - [camunda/camunda](https://github.com/camunda/camunda) - Agentic Orchestration Platform
 - [camunda/camunda-engine-dmn](https://github.com/camunda/camunda-engine-dmn) - Lightweight Execution Engine for DMN (Decision Model and Notation) written in Java.
 - [cassandre-tech/cassandre-trading-bot](https://github.com/cassandre-tech/cassandre-trading-bot) - Create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
@@ -2144,7 +2145,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eco-stake/restake-ui](https://github.com/eco-stake/restake-ui) - Auto-compounder app for Cosmos blockchains using Authz
 - [eddy-guo/validator-monitor](https://github.com/eddy-guo/validator-monitor) - Discord bot to monitor Jackal validator uptime status (and other Cosmos blockchains).
 - [editor-js/raw](https://github.com/editor-js/raw) - Raw HTML tool for Editor.js
-- [eliasstravik/shepherdr](https://github.com/eliasstravik/shepherdr) - Run many coding agents across machines from a phone, tablet or desktop. A herdr plugin.
 - [elm-explorations/linear-algebra](https://github.com/elm-explorations/linear-algebra) - Fast linear algebra for Elm
 - [elm/virtual-dom](https://github.com/elm/virtual-dom) - The foundation of HTML and SVG in Elm.
 - [elwin013/parcel-plugin-static-files-copy](https://github.com/elwin013/parcel-plugin-static-files-copy) - ParcelJS plugin to copy static files
@@ -2749,7 +2749,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) - High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)
 - [atchopba/scraping-jobs](https://github.com/atchopba/scraping-jobs) - Scraping-jobs helps scrape jobs from major job boards (apec.fr, indeed.fr, monster.fr...) to provide a simple and unified job search engine.
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
-- [awslabs/codekb](https://github.com/awslabs/codekb) - 
+- [awslabs/codekb](https://github.com/awslabs/codekb) - Code understanding across every repository, for people and agents
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS
 - [axone-protocol/ontology](https://github.com/axone-protocol/ontology) - 📙 The Axone Ontology
 - [axsaucedo/kaos](https://github.com/axsaucedo/kaos) - 🚀 K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems
@@ -3938,7 +3938,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [AbstractSDK/cw-gov-card](https://github.com/AbstractSDK/cw-gov-card) - 
 - [AbstractSDK/templates](https://github.com/AbstractSDK/templates) - Templates for building Abstract modules.
 - [AdrienLemaire/okp4_web_interface](https://github.com/AdrienLemaire/okp4_web_interface) - 
-- [AltanS/collie](https://github.com/AltanS/collie) - Herdr mobile app for iPhone and Android. A self-hosted PWA to drive Claude Code, Pi, Codex and OpenCode in Herdr, tmux or zellij from your phone. Push alerts, no app store.
+- [AltanS/collie](https://github.com/AltanS/collie) - Herdr and Rex mobile app for Android and iPhone. ColliePWA shows Claude Code, Codex, OpenCode or pi on your phone: read the chat or the screen, reply by text or voice, get push alerts. Self-hosted PWA, no account, no app store. Herdr is fully supported; Rex, tmux and zellij are experimental.
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.
 - [Arindam200/logo-ai](https://github.com/Arindam200/logo-ai) - AI Powered Logo Generator | Powered by Nebius AI
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
@@ -4183,6 +4183,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [eeue56/elm-static-html-lib](https://github.com/eeue56/elm-static-html-lib) - 
 - [efstajas/versioned-parser](https://github.com/efstajas/versioned-parser) - 🤓 A TypeScript-first utility for managing multiple versions of parse functions.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [eliasstravik/shepherdr](https://github.com/eliasstravik/shepherdr) - Run many coding agents across machines from a phone, tablet or desktop. A herdr plugin.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [engineerd/setup-kind](https://github.com/engineerd/setup-kind) - kind (Kubernetes in Docker) GitHub Action
 - [enricopolanski/functional-programming](https://github.com/enricopolanski/functional-programming) - Introduction to Functional Programming using TypeScript and fp-ts.
