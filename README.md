@@ -1006,6 +1006,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gomodules/notify](https://github.com/gomodules/notify) - Send notification via Email, SMS, Chat etc.
 - [gomoni/it](https://github.com/gomoni/it) - iterator library for go using a rangefunc experiment
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
+- [google-gemini/gemini-api-cli](https://github.com/google-gemini/gemini-api-cli) - An (experimental) CLI for the Gemini API
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
@@ -2707,7 +2708,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Souhar-dya/mcp-db-server](https://github.com/Souhar-dya/mcp-db-server) - MCP Database Server with natural language SQL queries
 - [SpillwaveSolutions/agent-brain](https://github.com/SpillwaveSolutions/agent-brain) - Local-first RAG memory for AI agents: hybrid + GraphRAG search, MCP server with OAuth 2.1, plugin for Claude Code / OpenCode / Codex.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [ThePixelCrafted/chatgpt_de_zero](https://github.com/ThePixelCrafted/chatgpt_de_zero) - On recode ensemble ChatGPT de zéro sur ma chaîne YouTube et Twitch !
@@ -3128,7 +3128,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [EntropicLabs/cw-rewards](https://github.com/EntropicLabs/cw-rewards) - 
 - [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, commit what changed as deduplicated checkpoints, then branch, rewind or merge. Try it with LayerFS × DSH.
 - [EspressoSystems/hyperplonk](https://github.com/EspressoSystems/hyperplonk) - 
-- [FortoGraphy/prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) - The fast, beautiful, open-source download manager for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, crash-safe resume.
+- [FortoGraphy/prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) - Free, open-source IDM alternative for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, torrents, crash-safe resume.
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [GitoxideLabs/cargo-smart-release](https://github.com/GitoxideLabs/cargo-smart-release) - Release complex cargo-workspaces automatically with changelog generation, used by `gitoxide`
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
@@ -3809,7 +3809,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ibiqlik/action-yamllint](https://github.com/ibiqlik/action-yamllint) - GitHub Action - Yaml Lint
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
-- [johannjhang/git-fast-forward-all-branches](https://github.com/johannjhang/git-fast-forward-all-branches) - 
+- [johannjahng/git-fast-forward-all-branches](https://github.com/johannjahng/git-fast-forward-all-branches) - 
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash, fish, and zsh
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [karancode/kustomize-github-action](https://github.com/karancode/kustomize-github-action) - :european_castle: Github action for kustomize
@@ -4030,6 +4030,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [TanStack/store](https://github.com/TanStack/store) - 🤖 Framework agnostic, type-safe store w/ reactive framework adapters
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Towards Agentic Finance Research
 - [TheOrcDev/repostars](https://github.com/TheOrcDev/repostars) - Modern, themeable GitHub star history charts. Open source, free, embeddable.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - HTML5 web component to edit, view and query RDF data that conform to SHACL
@@ -4064,6 +4065,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
@@ -4075,7 +4077,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - 🕸️ GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...
 - [argoproj/argo-ui](https://github.com/argoproj/argo-ui) - Argoproj shared React components
 - [arkeonetwork/arkeo](https://github.com/arkeonetwork/arkeo) - Arkeo - Free Market Blockchain Data Infrastructure
-- [arronKler/pairfob](https://github.com/arronKler/pairfob) - Your Herdr agents on your phone in one QR scan. Browser-first, optional Android beta, no Tailscale or ports, end-to-end encrypted.
+- [arronKler/pairfob](https://github.com/arronKler/pairfob) - Control Claude Code, Codex, Grok & local coding agents from your phone in one QR scan. True PTY + Chat, diff comments, quota monitor, WebRTC P2P E2EE — no VPN or account.
 - [arvinxx/gitmoji-commit-workflow](https://github.com/arvinxx/gitmoji-commit-workflow) - 😉 Gitmoji Commit Workflow
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [aswever/cosmwasm-devtools](https://github.com/aswever/cosmwasm-devtools) - cosmwasm devtools
@@ -4626,7 +4628,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 - [GBKS/crypto-ux-handbook](https://github.com/GBKS/crypto-ux-handbook) - This repository is the place to collaborate on the content of The Crypto UX Handbook.
 - [andrewsbarbaro/for-the-badge](https://github.com/andrewsbarbaro/for-the-badge) - It all started because of an obsession with two words: “build passing”. It all ended with this: badges, for badges’ sake.
-- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [axone-protocol/ping-explorer](https://github.com/axone-protocol/ping-explorer) - 🧑‍🚀 AXONE blockchain explorer (from https://github.com/ping-pub/explorer)
 - [bokub/conso-api](https://github.com/bokub/conso-api) - ⚡ API for Linky smart meters
 - [co-demos/datapatch-front](https://github.com/co-demos/datapatch-front) - Frontend for data patch project
