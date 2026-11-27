@@ -43,6 +43,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
+- [Lean](#lean)
 - [Lua](#lua)
 - [M4](#m4)
 - [MDX](#mdx)
@@ -297,7 +298,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 ## Dart
 
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -553,6 +553,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Fs02/wire](https://github.com/Fs02/wire) - Strict Runtime Dependency Injection for Golang
 - [GetStream/vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, HlS(m3u8), FTP and ed2k. Cross-platform, built with Golang and Flutter.
 - [Gravity-Bridge/Gravity-Bridge](https://github.com/Gravity-Bridge/Gravity-Bridge) - The official repository of the Gravity Bridge Blockchain
 - [HnH/qry](https://github.com/HnH/qry) - Write your SQL queries in raw files with all benefits of modern IDEs, use them in an easy way inside your application with all the profit of compile time constants
 - [HouzuoGuo/tiedot](https://github.com/HouzuoGuo/tiedot) - A rudimentary implementation of a basic document (NoSQL) database in Go
@@ -1261,7 +1262,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mr-linch/go-tg](https://github.com/mr-linch/go-tg) - 🤖 Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
 - [msyavuz/Lua-Capture](https://github.com/msyavuz/Lua-Capture) - Test lua capture patterns online
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 - [multiversx/mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
 - [multiversx/mx-chain-vm-go](https://github.com/multiversx/mx-chain-vm-go) - The Virtual Machine for executing WASM Smart Contracts on the MultiversX blockchain. Based on Wasmer, but in principle also supports any other executing engine.
 - [munnerz/goautoneg](https://github.com/munnerz/goautoneg) - Mirror of bitbucket.org/ww/goautoneg
@@ -1629,7 +1630,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [wrouesnel/badgeserv](https://github.com/wrouesnel/badgeserv) - No-Nonsense badge generator service. Ideal for on-premises hosting!
 - [xgo-dev/c2go](https://github.com/xgo-dev/c2go) - Convert C to Go
 - [xitonix/trubka](https://github.com/xitonix/trubka) - A CLI tool for Kafka
-- [xo/dburl](https://github.com/xo/dburl) - Package dburl provides a standard, URL style mechanism for parsing and opening SQL database connection strings
+- [xo/dburl](https://github.com/xo/dburl) - Go library that turns URL style database connection strings into database/sql DSNs. 50+ schemes, standard library only.
 - [xorcare/golden](https://github.com/xorcare/golden) - Package golden testing with golden files in Go. A golden file is the expected output of test, stored as a separate file rather than as a string literal inside the test code.
 - [xpladev/xpla](https://github.com/xpladev/xpla) - XPLA Chain core implementation
 - [xrstf/github_exporter](https://github.com/xrstf/github_exporter) - Prometheus GitHub exporter with a focus on Pull Request/Issue/Milestone metrics
@@ -2466,6 +2467,10 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
+## Lean
+
+- [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
+
 ## Lua
 
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
@@ -2811,6 +2816,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [edmondchuc/ontogram](https://github.com/edmondchuc/ontogram) - Ontogram - an OWL ontology diagram generator
+- [ekar-is/okf-skills](https://github.com/ekar-is/okf-skills) - The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
 - [electric-capital/open-dev-data](https://github.com/electric-capital/open-dev-data) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
 - [eli-shen08/Sql-Kafka](https://github.com/eli-shen08/Sql-Kafka) - Sql to Kafka to json pipeline
@@ -2975,7 +2981,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [satomic/copilot-usage-advanced-dashboard](https://github.com/satomic/copilot-usage-advanced-dashboard) - [Deprecated] Superseded by https://github.com/satomic/OctoFinance | Advanced Grafana dashboard for comprehensive GitHub Copilot usage analytics with persistent data storage and multi-organization support
 - [saubury/kafka-serialization](https://github.com/saubury/kafka-serialization) - Experiments and demonstrations of AVRO, Protobuf serialisation
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) - The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.
 - [scrtlabs/secret-sdk-python](https://github.com/scrtlabs/secret-sdk-python) - Python library to interact with Secret Network on Cosmos
 - [seanluong/cookiecutter-python-cli](https://github.com/seanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
 - [securo-finance/securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
@@ -3154,7 +3159,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) -  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [NucleoidAI/Nucleoid](https://github.com/NucleoidAI/Nucleoid) - Logic Language for World Models 🌱🐋🌍
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.
+- [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, frameworks, PHPStan annotations. Ready in an instant.
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [Property404/its-a-unix-system](https://github.com/Property404/its-a-unix-system) - Web-based terminal
@@ -3309,7 +3314,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [epicchainlabs/epicchain](https://github.com/epicchainlabs/epicchain) - The core of EpicChain blockchain protocol designed to empower developers, revolutionize industries.
 - [equilibriumco/beerus](https://github.com/equilibriumco/beerus) - A stateless trustless Starknet light client in Rust 🦀
 - [ericseppanen/cargo-cranky](https://github.com/ericseppanen/cargo-cranky) - An easy to configure wrapper for Rust's clippy
-- [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
+- [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.
 - [erweixin/RaTeX](https://github.com/erweixin/RaTeX) - &gt;99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. 
 - [ethereum/sonobe](https://github.com/ethereum/sonobe) - Experimental folding schemes library
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
@@ -3342,7 +3347,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [gold-silver-copper/soft_ratatui](https://github.com/gold-silver-copper/soft_ratatui) - Software renderer for ratatui
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection 
-- [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [govctl-org/govctl](https://github.com/govctl-org/govctl) - A governance harness for AI coding.
 - [grantshandy/fdg](https://github.com/grantshandy/fdg) - A Force Directed Graph Drawing Library
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
@@ -3979,7 +3983,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 - [GoogleCloudPlatform/opentelemetry-operations-js](https://github.com/GoogleCloudPlatform/opentelemetry-operations-js) - This repository is home to Google Cloud Exporters (Trace and Monitoring) for OpenTelemetry Node.js Project (https://github.com/open-telemetry/opentelemetry-js)
-- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - Coolest app to use agents, local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents
+- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) - Coolest app to use agents. A local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [HyperbolicLabs/hyperbolic-mcp](https://github.com/HyperbolicLabs/hyperbolic-mcp) - MCP Server for Claude
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
