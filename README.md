@@ -1938,7 +1938,6 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mcollovati/vertx-vaadin](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin UI on Vert.x
 - [michaelmosmann/embedmongo.flapdoodle.de](https://github.com/michaelmosmann/embedmongo.flapdoodle.de) - 
 - [micronaut-projects/micronaut-data](https://github.com/micronaut-projects/micronaut-data) - Ahead of Time Data Repositories
-- [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [mongobee/mongobee](https://github.com/mongobee/mongobee) - MongoDB data migration tool for Java
 - [mongodb/mongo-kafka](https://github.com/mongodb/mongo-kafka) - MongoDB Kafka Connector
 - [mvel/mvel](https://github.com/mvel/mvel) - MVEL (MVFLEX Expression Language)
@@ -2239,7 +2238,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [mdgaziur/EditorJS-LaTeX](https://github.com/mdgaziur/EditorJS-LaTeX) - LaTeX block support for EditorJS
 - [meodai/heerich](https://github.com/meodai/heerich) - Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich.
 - [meta/stylex](https://github.com/meta/stylex) - StyleX is the styling system for ambitious user interfaces.
-- [microsoft/foundry-dev-tools](https://github.com/microsoft/foundry-dev-tools) - 
+- [microsoft/foundry-dev-tools](https://github.com/microsoft/foundry-dev-tools) - Microsoft Foundry for Visual Studio Code and other surfaces
 - [miltoncandelero/pixi-hotwire](https://github.com/miltoncandelero/pixi-hotwire) - Template for PixiJS using Typescript and Webpack https://stackblitz.com/github/miltoncandelero/pixi-hotwire 
 - [minislively/fooks](https://github.com/minislively/fooks) - 
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
@@ -2638,7 +2637,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish) - SWI-Prolog for SHaring: a SWI-Prolog web IDE
 - [aarroyoc/doclog](https://github.com/aarroyoc/doclog) - DocLog builds documentation from source code in Prolog
 - [ciao-lang/ciao](https://github.com/ciao-lang/ciao) - Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.
-- [no382001/slab](https://github.com/no382001/slab) - A stack-based VM with sets — a Prolog-compiled, s-expression-flavored language with static types, effect inference and basic optimizations.
+- [no382001/slab](https://github.com/no382001/slab) - A stack-based VM with sets,  a Prolog-compiled, s-expression-flavored language with static types, effect inference and basic optimizations.
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff, and query your data with Datalog.
 
 ## PureScript
@@ -3432,6 +3431,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [metrics-rs/metrics](https://github.com/metrics-rs/metrics) - A metrics ecosystem for Rust.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [microsoft/Spartan](https://github.com/microsoft/Spartan) - Spartan: High-speed zkSNARKs without trusted setup
+- [microsoft/copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [microsoft/nvx](https://github.com/microsoft/nvx) - Cross-Platform Micro-VM Sandbox for Agentic Workloads
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally
 - [mikeleppane/visualvault](https://github.com/mikeleppane/visualvault) - Terminal-based media file organizer with smart date-based organization, duplicate detection, and a beautiful TUI. Organize your photo/video collection efficiently from the command line. Written in Rust using Ratatui 
@@ -3842,7 +3842,7 @@ Automatically generated with ❤️ by [Create My Awesome](https://github.com/ma
 - [octomation/go-module](https://github.com/octomation/go-module) - 📐 Template for a typical module written on Go.
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [oh-my-fish/theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [okp4/easysetup](https://github.com/okp4/easysetup) - Contains resources related to OKP4 environment and tutorials
 - [pgexperts/pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
 - [ping-pub/mainnet](https://github.com/ping-pub/mainnet) - The deployment of ping.pub, submit your chain config here
